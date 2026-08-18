@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-inidoccreator-git",
+  "original_url": "https://github.com/WohlSoft/IniDocCreator.git",
+  "description": "[WIP] An utility which helps to generate HTML or Wiki documentation for INI files with SQLite caching",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055034,
+  "updated_at": 1787055034
+}

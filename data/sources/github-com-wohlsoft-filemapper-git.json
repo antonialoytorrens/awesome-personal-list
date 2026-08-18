@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-filemapper-git",
+  "original_url": "https://github.com/WohlSoft/FileMapper.git",
+  "description": "A small C++ class which providing a cross-platform file mapping interface",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055029,
+  "updated_at": 1787055029
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-blogc-blogc-github-webhook-git",
+  "original_url": "https://github.com/blogc/blogc-github-webhook.git",
+  "description": "A GitHub webhook to build blogc websites.",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051834,
+  "updated_at": 1787051834
+}

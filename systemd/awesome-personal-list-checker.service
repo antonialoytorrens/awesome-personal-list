@@ -1,0 +1,11 @@
+[Unit]
+Description=awesome-personal-list Software Heritage checker (one run)
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/awesome-personal-list
+EnvironmentFile=-/etc/awesome-personal-list/awesome-personal-list.conf
+ExecStart=/opt/awesome-personal-list/awesome-personal-list-checker
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/opt/awesome-personal-list/data

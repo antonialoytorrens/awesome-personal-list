@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-osinside-kiwi-functional-tests-git",
+  "original_url": "https://github.com/OSInside/kiwi-functional-tests.git",
+  "description": "KIWI openQA functional tests based on the integration tests in OBS",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052614,
+  "updated_at": 1787052614
+}

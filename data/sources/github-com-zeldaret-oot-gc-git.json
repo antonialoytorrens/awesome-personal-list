@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-zeldaret-oot-gc-git",
+	"original_url":	"https://github.com/zeldaret/oot-gc.git",
+	"description":	"Decompilation of the Gamecube Emulator for Ocarina of Time (JP-CE) ",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055094,
+	"updated_at":	1787063964
+}

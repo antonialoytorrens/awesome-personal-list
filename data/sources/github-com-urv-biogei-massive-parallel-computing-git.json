@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-urv-biogei-massive-parallel-computing-git",
+	"original_url":	"https://github.com/URV-BioGEI/Massive-Parallel-Computing.git",
+	"description":	"Algorithms rewritten in parallel using MPI and OpenMP in C",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054953,
+	"updated_at":	1787063964
+}

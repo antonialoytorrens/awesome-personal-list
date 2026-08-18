@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-deplinenoise-m68kdecode",
+  "original_url": "https://github.com/deplinenoise/m68kdecode",
+  "description": "M68k instruction decoder written in Rust",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052009,
+  "updated_at": 1787052009
+}

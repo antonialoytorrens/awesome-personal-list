@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-z88dk-z88dk-git",
+  "original_url": "https://github.com/z88dk/z88dk.git",
+  "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
+  "language": "Assembly",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055085,
+  "updated_at": 1787055085
+}

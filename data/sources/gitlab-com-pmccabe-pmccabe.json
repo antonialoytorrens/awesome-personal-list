@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-pmccabe-pmccabe",
+	"original_url":	"https://gitlab.com/pmccabe/pmccabe",
+	"description":	"McCabe-style complexity and line counting for C and C++",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051925,
+	"updated_at":	1787063964
+}

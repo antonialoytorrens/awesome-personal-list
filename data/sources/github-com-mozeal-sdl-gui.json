@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mozeal-sdl-gui",
+	"original_url":	"https://github.com/mozeal/SDL_gui",
+	"description":	"GUI library for SDL2",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053281,
+	"updated_at":	1787063962
+}

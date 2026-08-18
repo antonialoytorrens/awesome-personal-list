@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wohlsoft-libjpeg-git",
+	"original_url":	"https://github.com/WohlSoft/libjpeg.git",
+	"description":	"Copy of libJPEG library for needs of Moondust Project",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055038,
+	"updated_at":	1787063964
+}

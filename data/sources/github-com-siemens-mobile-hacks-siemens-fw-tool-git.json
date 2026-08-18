@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-siemens-mobile-hacks-siemens-fw-tool-git",
+  "original_url": "https://github.com/siemens-mobile-hacks/siemens-fw-tool.git",
+  "description": "CLI tool for Siemens FW files.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054150,
+  "updated_at": 1787054150
+}

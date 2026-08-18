@@ -1,0 +1,22 @@
+<div class="page-head">
+<h1 class="page-title">$ORIGINAL_URL$</h1>
+<p class="lede">[[swh.heading]] $SWH_STATUS$</p>
+</div>
+
+<form class="form-card" method="post" action="/sources/$SLUG$">
+<input type="hidden" name="csrf" value="$CSRF$">
+<input type="hidden" name="_method" value="put">
+<label>[[fields.description]]<textarea name="description" rows="2">$DESCRIPTION$</textarea></label>
+<label>[[fields.language]]<input type="text" name="language" value="$LANGUAGE$"></label>
+<label>[[fields.categories]]<div class="cats">$CATEGORY_OPTIONS$</div></label>
+<label>[[fields.notes]]<textarea name="notes" rows="3">$NOTES$</textarea></label>
+<div class="form-actions">
+<button type="submit" class="btn btn-primary">[[actions.save]]</button>
+</div>
+</form>
+
+<form class="form-danger" method="post" action="/sources/$SLUG$" data-confirm="[[source_form.confirm_delete]]">
+<input type="hidden" name="csrf" value="$CSRF$">
+<input type="hidden" name="_method" value="delete">
+<button type="submit" class="btn btn-danger">[[actions.delete]]</button>
+</form>

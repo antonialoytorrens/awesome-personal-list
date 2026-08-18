@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dortania-build-files-git",
+  "original_url": "https://github.com/dortania/build-files.git",
+  "description": "Shared build files to prevent duplication across the guides",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052083,
+  "updated_at": 1787052083
+}

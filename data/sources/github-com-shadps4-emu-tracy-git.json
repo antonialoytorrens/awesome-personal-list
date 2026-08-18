@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-shadps4-emu-tracy-git",
+  "original_url": "https://github.com/shadps4-emu/tracy.git",
+  "description": "A copy of fixed version of https://github.com/wolfpld/tracy client",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054125,
+  "updated_at": 1787054125
+}

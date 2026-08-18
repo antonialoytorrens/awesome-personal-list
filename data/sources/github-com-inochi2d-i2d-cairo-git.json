@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-inochi2d-i2d-cairo-git",
+  "original_url": "https://github.com/Inochi2D/i2d-cairo.git",
+  "description": "BetterC bindings to the Cairo vector rendering library.",
+  "language": "D",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052310,
+  "updated_at": 1787052310
+}

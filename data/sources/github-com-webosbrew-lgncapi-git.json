@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-webosbrew-lgncapi-git",
+	"original_url":	"https://github.com/webosbrew/lgncapi.git",
+	"description":	"NDK 2.0 Legacy APIs (LGNC Open API)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054986,
+	"updated_at":	1787063964
+}

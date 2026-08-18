@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-hirotakaster-baytail-bootia32-efi",
+  "original_url": "https://github.com/hirotakaster/baytail-bootia32.efi",
+  "description": "From https://github.com/hirotakaster/baytail-bootia32.efi/issues/2:\r\n\r\nI don't know about the source for the binary here but I did find a blog with steps to compile grub for 32-bit booting. Check Doing it the hard way section of https://sturmflut.github.io/linux/ubuntu/2015/02/04/installing-ubuntu-on-baytrail-tablets-version-2/\r\n\r\n[2024 edit]: In a Debian 12 slim image:\r\n\r\nsudo apt install git bison libopts25 libselinux1-dev autogen m4 autoconf help2man libopts25-dev flex libfont-freetype-perl automake autotools-dev libfreetype6-dev texinfo\r\nsudo apt install make autopoint pkg-config libtool  \r\n\r\nsudo apt install gawk\r\nsudo apt purge mawk\r\n\r\ngit clone git://git.savannah.gnu.org/grub.git --depth=1\r\n\r\n./bootstrap\r\n./configure --with-platform=efi --target=i386 --program-prefix=\"\"\r\nmake\r\ncd grub-core\r\n\r\nmkdir -p /usr/local/share/locale\r\ngrub-mkstandalone --directory . -O i386-efi -o bootia32.efi\r\n\r\nls -alh bootia32.efi ",
+  "language": "",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043242,
+  "created_at": 1787051714,
+  "updated_at": 1787051714
+}

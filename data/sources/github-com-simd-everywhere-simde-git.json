@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-simd-everywhere-simde-git",
+	"original_url":	"https://github.com/simd-everywhere/simde.git",
+	"description":	"Implementations of SIMD instruction sets for systems which don't natively support them.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054166,
+	"updated_at":	1787063963
+}

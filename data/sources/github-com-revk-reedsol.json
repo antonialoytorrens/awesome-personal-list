@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-revk-reedsol",
+	"original_url":	"https://github.com/revk/Reedsol",
+	"description":	"Simple RS coding used by bar code generation libraries",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054116,
+	"updated_at":	1787063963
+}

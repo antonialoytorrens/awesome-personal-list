@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-gbdev-rgbds-live",
+  "original_url": "https://github.com/gbdev/rgbds-live",
+  "description": "A live Gameboy programming environment in the browser, allowing for realtime assembly programming for the gameboy.",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052234,
+  "updated_at": 1787052234
+}

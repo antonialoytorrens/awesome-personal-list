@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-bleubleu-famistudio",
+	"original_url":	"https://github.com/BleuBleu/FamiStudio",
+	"description":	"FamiStudio NES Music Editor",
+	"language":	"C#",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052541,
+	"updated_at":	1787052541
+}

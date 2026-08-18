@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wonderfultoolchain-wwterm-git",
+	"original_url":	"https://github.com/WonderfulToolchain/WWTerm.git",
+	"description":	"WonderWitch terminal program \"WWTerm\" patched to compile with Wonderful: http://www.kozos.jp/ww/index.html",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055046,
+	"updated_at":	1787063964
+}

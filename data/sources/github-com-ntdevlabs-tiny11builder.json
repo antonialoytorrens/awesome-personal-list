@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ntdevlabs-tiny11builder",
+  "original_url": "https://github.com/ntdevlabs/tiny11builder",
+  "description": "Scripts to build a trimmed-down Windows 11 image.",
+  "language": "PowerShell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055021,
+  "updated_at": 1787055021
+}

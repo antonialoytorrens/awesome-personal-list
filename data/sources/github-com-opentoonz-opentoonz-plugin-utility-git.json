@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-opentoonz-opentoonz-plugin-utility-git",
+  "original_url": "https://github.com/opentoonz/opentoonz_plugin_utility.git",
+  "description": "Utility library for creating OpenToonz FX plugins using OpenCV",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052604,
+  "updated_at": 1787052604
+}

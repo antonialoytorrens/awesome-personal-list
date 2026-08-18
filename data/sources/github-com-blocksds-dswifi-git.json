@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-blocksds-dswifi-git",
+	"original_url":	"https://github.com/blocksds/dswifi.git",
+	"description":	"WiFi library for NDS. Fork of https://github.com/devkitPro/dswifi",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051819,
+	"updated_at":	1787063960
+}

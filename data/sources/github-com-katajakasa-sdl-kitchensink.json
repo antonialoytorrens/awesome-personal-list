@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-katajakasa-sdl-kitchensink",
+  "original_url": "https://github.com/katajakasa/SDL_kitchensink",
+  "description": "A Simple SDL2 / FFmpeg library for audio/video playback written in C99",
+  "language": "Squirrel",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051909,
+  "updated_at": 1787051909
+}

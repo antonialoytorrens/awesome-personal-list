@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cs50-spl",
+	"original_url":	"https://github.com/cs50/spl",
+	"description":	"CS50's fork of Eric Roberts' Stanford Portable Library.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051884,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-tsadok-nethack4",
+	"original_url":	"https://github.com/tsadok/nethack4",
+	"description":	"NetHack 4 is an open, community-maintained version of the classic roguelike game NetHack.  This is my working repo for contributing to it.  (If you are looking for the official NH4 repository, see nethack4.org.)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052544,
+	"updated_at":	1787063964
+}

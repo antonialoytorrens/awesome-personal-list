@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wkentaro-gdown",
+  "original_url": "https://github.com/wkentaro/gdown",
+  "description": "Download a large file from Google Drive  (curl/wget fails because of the security notice).",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043226,
+  "created_at": 1787051701,
+  "updated_at": 1787051701
+}

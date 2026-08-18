@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-blogc-lambda-deps-git",
+  "original_url": "https://github.com/blogc/lambda-deps.git",
+  "description": "Scripts and sources to build static binaries of tools used to build blogc websites (make, busybox, etc).",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051833,
+  "updated_at": 1787051833
+}

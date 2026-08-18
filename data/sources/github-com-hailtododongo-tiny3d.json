@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-hailtododongo-tiny3d",
+	"original_url":	"https://github.com/HailToDodongo/tiny3d",
+	"description":	"N64 3D ucode for libdragon",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052487,
+	"updated_at":	1787052487
+}

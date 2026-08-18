@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pd-rs-crankstart-klondike-git",
+  "original_url": "https://github.com/pd-rs/crankstart-klondike.git",
+  "description": "An example of how to use the Crankstart crate to write games for the Playdate handheld gaming system in Rust",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053939,
+  "updated_at": 1787053939
+}

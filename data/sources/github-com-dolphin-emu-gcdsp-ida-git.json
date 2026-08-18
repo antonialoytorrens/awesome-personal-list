@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dolphin-emu-gcdsp-ida-git",
+  "original_url": "https://github.com/dolphin-emu/gcdsp-ida.git",
+  "description": "An IDA plugin for GC DSP reverse engineering",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052064,
+  "updated_at": 1787052064
+}

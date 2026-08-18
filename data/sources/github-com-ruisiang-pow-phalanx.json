@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ruisiang-pow-phalanx",
+  "original_url": "https://github.com/ruisiang/PoW-Phalanx",
+  "description": "Controller for PoW Shield (a layer7 DDoS filter) providing multi-instance utilities.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053234,
+  "updated_at": 1787053234
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-iniprocessing-git",
+  "original_url": "https://github.com/WohlSoft/IniProcessing.git",
+  "description": "A small INI file reader compatible with API of QSettings",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055030,
+  "updated_at": 1787055030
+}

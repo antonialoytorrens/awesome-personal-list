@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-apress-ray-tracing-gems-ii",
+  "original_url": "https://github.com/Apress/Ray-Tracing-Gems-II",
+  "description": "Source Code for \"Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX\" by Adam Marrs, Peter Shirley, and Ingo Wald",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051838,
+  "updated_at": 1787051838
+}

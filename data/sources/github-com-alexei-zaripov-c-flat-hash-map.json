@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-alexei-zaripov-c-flat-hash-map",
+	"original_url":	"https://github.com/alexei-zaripov/c_flat_hash_map",
+	"description":	"flat_hash_map from from Google's Abseil made in generic and type-safe C",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051861,
+	"updated_at":	1787063960
+}

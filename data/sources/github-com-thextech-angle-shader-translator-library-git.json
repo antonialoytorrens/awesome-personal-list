@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-thextech-angle-shader-translator-library-git",
+  "original_url": "https://github.com/TheXTech/angle-shader-translator-library.git",
+  "description": " A portable GPLv3 C++14 distribution of the ANGLE shader translator library supporting CMake (distribution version)",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054891,
+  "updated_at": 1787054891
+}

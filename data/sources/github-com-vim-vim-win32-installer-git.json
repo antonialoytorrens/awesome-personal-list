@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-vim-vim-win32-installer-git",
+  "original_url": "https://github.com/vim/vim-win32-installer.git",
+  "description": "Vim Win32 Installer",
+  "language": "NSIS",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054967,
+  "updated_at": 1787054967
+}

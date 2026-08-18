@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-highwayfrogs-frogger2-n64-git",
+	"original_url":	"https://github.com/HighwayFrogs/frogger2-n64.git",
+	"description":	"Official source code to the cancelled N64 port of Frogger 2: Swampy's Revenge.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052270,
+	"updated_at":	1787063961
+}

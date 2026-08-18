@@ -1,0 +1,12 @@
+{
+  "slug": "gitea-planet-casio-com-vhex-kernel-core-vxlibc",
+  "original_url": "https://gitea.planet-casio.com/Vhex-Kernel-Core/vxLibc",
+  "description": "FxLibc wrapper for the Vhex project",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051933,
+  "updated_at": 1787051933
+}

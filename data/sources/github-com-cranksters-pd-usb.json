@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-cranksters-pd-usb",
+  "original_url": "https://github.com/cranksters/pd-usb",
+  "description": "JavaScript library for interacting with a Panic Playdate console over USB, wherever WebSerial is supported.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053983,
+  "updated_at": 1787053983
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-mupen64plus-libretro-nx-git",
+	"original_url":	"https://github.com/EmulatorJS/mupen64plus-libretro-nx.git",
+	"description":	"Improved mupen64plus libretro core reimplementation",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052147,
+	"updated_at":	1787063961
+}

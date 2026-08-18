@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ericlewis-playdate-tamagotchi",
+  "original_url": "https://github.com/ericlewis/playdate-tamagotchi",
+  "description": "A Tamagotchi P1 emulator for Playdate",
+  "language": "Cython",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053982,
+  "updated_at": 1787053982
+}

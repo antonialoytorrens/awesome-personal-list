@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-frank-zago-xgalaga-sdl",
+	"original_url":	"https://github.com/frank-zago/xgalaga-sdl",
+	"description":	"A port to SDL 1 and 2 of XGalaga",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053268,
+	"updated_at":	1787063961
+}

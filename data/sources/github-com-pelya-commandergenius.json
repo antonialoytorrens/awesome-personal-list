@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pelya-commandergenius",
+	"original_url":	"https://github.com/pelya/commandergenius",
+	"description":	"Port of SDL library and several games to the Android OS.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053264,
+	"updated_at":	1787063962
+}

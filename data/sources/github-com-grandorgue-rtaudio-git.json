@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-grandorgue-rtaudio-git",
+  "original_url": "https://github.com/GrandOrgue/RtAudio.git",
+  "description": "A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052266,
+  "updated_at": 1787052266
+}

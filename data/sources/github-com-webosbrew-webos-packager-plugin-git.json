@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-webosbrew-webos-packager-plugin-git",
+  "original_url": "https://github.com/webosbrew/webos-packager-plugin.git",
+  "description": "Create IPK file from emitted files. Targeted to webOS devices.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055001,
+  "updated_at": 1787055001
+}

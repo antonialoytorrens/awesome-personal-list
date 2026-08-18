@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-libretro-prboom-git",
+	"original_url":	"https://github.com/EmulatorJS/libretro-prboom.git",
+	"description":	"Port of prboom to libretro - plays Doom, Doom II, Final Doom and other Doom IWAD mods.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052166,
+	"updated_at":	1787063961
+}

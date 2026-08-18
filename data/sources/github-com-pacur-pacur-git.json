@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pacur-pacur-git",
+  "original_url": "https://github.com/pacur/pacur.git",
+  "description": "Automated deb, rpm and pkgbuild build system",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052632,
+  "updated_at": 1787052632
+}

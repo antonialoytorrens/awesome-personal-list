@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-throwtheswitch-cmockexample-git",
+	"original_url":	"https://github.com/ThrowTheSwitch/CMockExample.git",
+	"description":	"An example project of an LED controller which demonstrates the use of mocks.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054909,
+	"updated_at":	1787063964
+}

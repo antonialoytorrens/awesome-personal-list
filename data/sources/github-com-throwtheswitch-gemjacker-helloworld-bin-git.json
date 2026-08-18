@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-throwtheswitch-gemjacker-helloworld-bin-git",
+  "original_url": "https://github.com/ThrowTheSwitch/GemJacker-HelloWorld-Bin.git",
+  "description": "Example of using GemJacker to add a binary to the path at runtime.",
+  "language": "Ruby",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054905,
+  "updated_at": 1787054905
+}

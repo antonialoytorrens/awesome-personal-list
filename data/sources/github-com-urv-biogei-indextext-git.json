@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-urv-biogei-indextext-git",
+  "original_url": "https://github.com/URV-BioGEI/IndexText.git",
+  "description": "Java program to do an index of a text, using different data structures to compare performance",
+  "language": "Java",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054949,
+  "updated_at": 1787054949
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-0x192-universal-android-debloater",
+  "original_url": "https://github.com/0x192/universal-android-debloater",
+  "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051778,
+  "updated_at": 1787051778
+}

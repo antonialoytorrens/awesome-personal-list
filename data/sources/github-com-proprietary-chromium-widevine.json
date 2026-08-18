@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-proprietary-chromium-widevine",
+  "original_url": "https://github.com/proprietary/chromium-widevine",
+  "description": "Chromium Widevine Tester",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043208,
+  "created_at": 1787051685,
+  "updated_at": 1787051685
+}

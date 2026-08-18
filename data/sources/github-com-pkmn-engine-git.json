@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pkmn-engine-git",
+  "original_url": "https://github.com/pkmn/engine.git",
+  "description": "A minimal, complete, PokÃ©mon battle simulation engine optimized for performance",
+  "language": "Zig",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053970,
+  "updated_at": 1787053970
+}

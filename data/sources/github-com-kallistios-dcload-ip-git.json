@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kallistios-dcload-ip-git",
+	"original_url":	"https://github.com/KallistiOS/dcload-ip.git",
+	"description":	"Dreamcast Ethernet Homebrew Loader (mirrored from SourceForge)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052347,
+	"updated_at":	1787063961
+}

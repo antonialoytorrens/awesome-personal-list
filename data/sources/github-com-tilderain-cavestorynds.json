@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-tilderain-cavestorynds",
+	"original_url":	"https://github.com/tilderain/CaveStoryNDS",
+	"description":	"Cave Story for Nintendo DS, w/ multiplayer and mods",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052508,
+	"updated_at":	1787063964
+}

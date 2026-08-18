@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mariopartyrd-mariopartylib-git",
+	"original_url":	"https://github.com/mariopartyrd/mariopartylib.git",
+	"description":	"Common Mario Party engine code used in the Hudson Soft titles.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052444,
+	"updated_at":	1787063962
+}

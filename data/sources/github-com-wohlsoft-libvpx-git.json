@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wohlsoft-libvpx-git",
+	"original_url":	"https://github.com/WohlSoft/libvpx.git",
+	"description":	"A preserved copy of the official libvpx official repository ",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055039,
+	"updated_at":	1787063964
+}

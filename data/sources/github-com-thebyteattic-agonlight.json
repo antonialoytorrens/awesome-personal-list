@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-thebyteattic-agonlight",
+	"original_url":	"https://github.com/TheByteAttic/AgonLight",
+	"description":	"A stand-alone, BASIC-programmable microcontroller and microcomputer in one! The fastest, cheapest, most hackable 8-bit computer ever.",
+	"language":	"CSV",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051763,
+	"updated_at":	1787051763
+}

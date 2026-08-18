@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-librescore-dl-librescore",
+  "original_url": "https://github.com/LibreScore/dl-librescore",
+  "description": "Download sheet music",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043209,
+  "created_at": 1787051686,
+  "updated_at": 1787051686
+}

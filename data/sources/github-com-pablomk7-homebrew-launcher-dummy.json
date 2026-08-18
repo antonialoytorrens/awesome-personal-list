@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pablomk7-homebrew-launcher-dummy",
+	"original_url":	"https://github.com/PabloMK7/homebrew_launcher_dummy",
+	"description":	"Homebrew Launcher Loader - Dummy App",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055013,
+	"updated_at":	1787063962
+}

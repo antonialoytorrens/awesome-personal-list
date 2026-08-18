@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-blogc-pkg-blogc-git",
+	"original_url":	"https://github.com/blogc/pkg-blogc.git",
+	"description":	"Ubuntu packaging for blogc",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051836,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-rigsofrods-ror-updater-git",
+  "original_url": "https://github.com/RigsOfRods/ror-updater.git",
+  "description": "Rigs of Rods Installer/Updater for Windows. Coded in C#.",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054120,
+  "updated_at": 1787054120
+}

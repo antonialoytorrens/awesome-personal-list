@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pingus-gimp-git",
+  "original_url": "https://github.com/Pingus/gimp.git",
+  "description": "Gimp Scripts for producing graphics for Pingus",
+  "language": "Scheme",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053946,
+  "updated_at": 1787053946
+}

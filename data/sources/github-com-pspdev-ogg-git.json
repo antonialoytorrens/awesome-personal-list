@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pspdev-ogg-git",
+	"original_url":	"https://github.com/pspdev/ogg.git",
+	"description":	"libogg with PSP specific patches",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054081,
+	"updated_at":	1787063962
+}

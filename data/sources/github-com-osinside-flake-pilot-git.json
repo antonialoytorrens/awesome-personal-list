@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-osinside-flake-pilot-git",
+  "original_url": "https://github.com/OSInside/flake-pilot.git",
+  "description": "Registration/Control utility for applications launched through a runtime-engine, e.g containers",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052617,
+  "updated_at": 1787052617
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-revk-svg-playing-cards",
+	"original_url":	"https://github.com/revk/SVG-playing-cards",
+	"description":	"C code to make a wide selection of different types of SVG playing cards with lots of options",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054114,
+	"updated_at":	1787063963
+}

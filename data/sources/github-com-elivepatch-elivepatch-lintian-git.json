@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-elivepatch-elivepatch-lintian-git",
+  "original_url": "https://github.com/elivepatch/elivepatch_lintian.git",
+  "description": "a patch analyzer for kpatch",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052141,
+  "updated_at": 1787052141
+}

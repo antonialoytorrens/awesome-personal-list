@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kallistios-kos-ports-git",
+	"original_url":	"https://github.com/KallistiOS/kos-ports.git",
+	"description":	"Ported library collection for KallistiOS",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052346,
+	"updated_at":	1787063961
+}

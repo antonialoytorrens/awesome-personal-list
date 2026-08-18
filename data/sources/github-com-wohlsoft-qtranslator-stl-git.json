@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-qtranslator-stl-git",
+  "original_url": "https://github.com/WohlSoft/QTranslator-STL.git",
+  "description": "STL-compatible Implementation of Qt Translator core which returns translated string from source text or by trID key",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055031,
+  "updated_at": 1787055031
+}

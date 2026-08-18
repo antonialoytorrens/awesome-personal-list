@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-shchmue-lockpick",
+	"original_url":	"https://github.com/shchmue/Lockpick",
+	"description":	"Nintendo Switch encryption key derivation homebrew",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052565,
+	"updated_at":	1787063963
+}

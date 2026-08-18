@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-libresprite-libresprite-git",
+  "original_url": "https://github.com/LibreSprite/LibreSprite.git",
+  "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052392,
+  "updated_at": 1787052392
+}

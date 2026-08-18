@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pret-pokefirered-git",
+	"original_url":	"https://github.com/pret/pokefirered.git",
+	"description":	"Decompilation of PokÃ©mon FireRed/LeafGreen",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054001,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-idoka-awesome-embedded-software",
+  "original_url": "https://github.com/iDoka/awesome-embedded-software",
+  "description": ":stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.",
+  "language": "Markdown",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051863,
+  "updated_at": 1787051863
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kippykip-gbadoom",
+	"original_url":	"https://github.com/Kippykip/GBADoom",
+	"description":	"A slightly modified version of doomhack's PrBoom GBA Port",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052239,
+	"updated_at":	1787063961
+}

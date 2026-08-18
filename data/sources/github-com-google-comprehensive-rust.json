@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-google-comprehensive-rust",
+  "original_url": "https://github.com/google/comprehensive-rust",
+  "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053236,
+  "updated_at": 1787053236
+}

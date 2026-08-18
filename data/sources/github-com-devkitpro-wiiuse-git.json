@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-wiiuse-git",
+	"original_url":	"https://github.com/devkitPro/wiiuse.git",
+	"description":	"WiiUse \"feature complete\" cross-platform Wii Remote access library",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052044,
+	"updated_at":	1787063960
+}

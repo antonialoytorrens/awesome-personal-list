@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pspdev-psp-ghidra-scripts-git",
+  "original_url": "https://github.com/pspdev/psp-ghidra-scripts.git",
+  "description": "Scripts for use with the Ghidra Reverse Engineering Suite",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054084,
+  "updated_at": 1787054084
+}

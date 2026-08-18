@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-manimcommunity-discordmanimator-git",
+  "original_url": "https://github.com/ManimCommunity/DiscordManimator.git",
+  "description": "A Manim Rendering Bot for Discord. Requires a Functioning Manim install.",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052426,
+  "updated_at": 1787052426
+}

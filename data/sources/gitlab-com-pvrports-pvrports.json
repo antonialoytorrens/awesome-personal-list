@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-pvrports-pvrports",
+  "original_url": "https://gitlab.com/pvrports/pvrports",
+  "description": "Unofficial pmaports repository (from PostmarketOS) with [linux_openpvrsgx](https://github.com/openpvrsgx-devgroup/linux_openpvrsgx/tree/letux-pvrsrvkm-5.17-rc2) and non-free SGX540 blobs and binaries, in addition of some tweaks to support UI that require ",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054092,
+  "updated_at": 1787054092
+}

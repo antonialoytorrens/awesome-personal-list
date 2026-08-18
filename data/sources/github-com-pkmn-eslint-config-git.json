@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pkmn-eslint-config-git",
+  "original_url": "https://github.com/pkmn/eslint-config.git",
+  "description": "ESLint configuration from @pkmn based on PokÃ©mon Showdown's style",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053968,
+  "updated_at": 1787053968
+}

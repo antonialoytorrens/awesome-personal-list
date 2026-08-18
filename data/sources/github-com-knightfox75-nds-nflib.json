@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-knightfox75-nds-nflib",
+	"original_url":	"https://github.com/knightfox75/nds_nflib",
+	"description":	"C library for Nintendo DS software development based upon DevkitARM",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052504,
+	"updated_at":	1787063961
+}

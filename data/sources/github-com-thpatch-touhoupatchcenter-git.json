@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-thpatch-touhoupatchcenter-git",
+	"original_url":	"https://github.com/thpatch/TouhouPatchCenter.git",
+	"description":	"Creates a thcrap server from MediaWiki pages.",
+	"language":	"PHP",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054893,
+	"updated_at":	1787063969
+}

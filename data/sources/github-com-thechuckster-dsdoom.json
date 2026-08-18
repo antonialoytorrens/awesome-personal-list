@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-thechuckster-dsdoom",
+	"original_url":	"https://github.com/TheChuckster/dsdoom",
+	"description":	"DSDoom (also spelled DS Doom) is a source port for the Nintendo DS, based on PrBoom 2.4.2. It was made by TheChuckster and WinterMute.",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052522,
+	"updated_at":	1787063964
+}

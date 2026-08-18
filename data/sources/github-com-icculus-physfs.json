@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-icculus-physfs",
+	"original_url":	"https://github.com/icculus/physfs",
+	"description":	"A portable, flexible file i/o abstraction.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051915,
+	"updated_at":	1787063961
+}

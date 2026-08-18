@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-velvet-os-imagebuilder-testkernels-git",
+  "original_url": "https://github.com/velvet-os/imagebuilder-testkernels.git",
+  "description": "this is just to have some home for testkernels in the releases for experimenting with topics, testing fixes etc. - those are not ment as regular velvet-os kernels",
+  "language": "",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054965,
+  "updated_at": 1787054965
+}

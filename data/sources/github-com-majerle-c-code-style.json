@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-majerle-c-code-style",
+	"original_url":	"https://github.com/MaJerle/c-code-style",
+	"description":	"Recommended C code style and coding rules for standard C99 or later",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051862,
+	"updated_at":	1787063962
+}

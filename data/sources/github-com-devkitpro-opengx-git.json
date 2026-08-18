@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-opengx-git",
+	"original_url":	"https://github.com/devkitPro/opengx.git",
+	"description":	"OpenGL-like wrapper for Nintendo Wii/GameCube",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052047,
+	"updated_at":	1787063960
+}

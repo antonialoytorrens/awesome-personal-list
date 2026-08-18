@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-r-type-sdl2-libretro",
+	"original_url":	"https://github.com/r-type/sdl2-libretro",
+	"description":	"This an WIP software libretro implementation",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052396,
+	"updated_at":	1787063963
+}

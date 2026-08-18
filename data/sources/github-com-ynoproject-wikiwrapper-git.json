@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ynoproject-wikiwrapper-git",
+  "original_url": "https://github.com/ynoproject/wikiwrapper.git",
+  "description": "Yume Wiki wrapper API for fetching semantic data",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055068,
+  "updated_at": 1787055068
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-lnh-team-pico-loader-git",
+	"original_url":	"https://github.com/LNH-team/pico-loader.git",
+	"description":	"DS(i) rom loader.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052413,
+	"updated_at":	1787063962
+}

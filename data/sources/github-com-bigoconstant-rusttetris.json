@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-bigoconstant-rusttetris",
+  "original_url": "https://github.com/bigOconstant/RustTetris",
+  "description": "Tetris Made in Rust and SDL2",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053237,
+  "updated_at": 1787053237
+}

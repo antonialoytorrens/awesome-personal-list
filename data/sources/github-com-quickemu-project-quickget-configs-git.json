@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-quickemu-project-quickget-configs-git",
+  "original_url": "https://github.com/quickemu-project/quickget_configs.git",
+  "description": "JSON formatted configuration files for use by quickget. Updated daily",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054096,
+  "updated_at": 1787054096
+}

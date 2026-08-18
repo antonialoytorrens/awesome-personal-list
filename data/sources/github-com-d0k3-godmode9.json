@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-d0k3-godmode9",
+	"original_url":	"https://github.com/d0k3/GodMode9",
+	"description":	"GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051744,
+	"updated_at":	1787063960
+}

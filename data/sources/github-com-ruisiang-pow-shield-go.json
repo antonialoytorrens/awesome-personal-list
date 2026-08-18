@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ruisiang-pow-shield-go",
+  "original_url": "https://github.com/RuiSiang/Pow-Shield-Go",
+  "description": "Alternate implementation of PoW Shield in Go for stress testing purposes and future optimized production version.",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053234,
+  "updated_at": 1787053234
+}

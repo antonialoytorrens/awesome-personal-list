@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-tronusgames-project-1945-by-tronus",
+	"original_url":	"https://github.com/TronusGames/Project-1945-by-Tronus",
+	"description":	"Project 1945 is a top down scroller game made with SDL2, CMake and programmed in C as a project of study for the Italian Videogames Academy for the 3rd year course of Videogames programming.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053273,
+	"updated_at":	1787063964
+}

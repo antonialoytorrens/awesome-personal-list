@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-flecs-hub-explorer-git",
+  "original_url": "https://github.com/flecs-hub/explorer.git",
+  "description": "Web-based UI for monitoring Flecs applications, trying out queries & learning ECS",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052202,
+  "updated_at": 1787052202
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-sysprog21-fibdrv-git",
+  "original_url": "https://github.com/sysprog21/fibdrv.git",
+  "description": "Linux kernel module that calculates Fibonacci numbers",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054821,
+  "updated_at": 1787054821
+}

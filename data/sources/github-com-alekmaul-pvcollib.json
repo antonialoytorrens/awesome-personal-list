@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-alekmaul-pvcollib",
+	"original_url":	"https://github.com/alekmaul/pvcollib",
+	"description":	"PVColLib: A small, open and free development kit for the Colecovision",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051952,
+	"updated_at":	1787063960
+}

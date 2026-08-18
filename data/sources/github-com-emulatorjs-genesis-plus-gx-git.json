@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-genesis-plus-gx-git",
+	"original_url":	"https://github.com/EmulatorJS/Genesis-Plus-GX.git",
+	"description":	"An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052149,
+	"updated_at":	1787063961
+}

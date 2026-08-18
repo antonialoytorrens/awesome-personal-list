@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ruisiang-pow-shield",
+  "original_url": "https://github.com/RuiSiang/PoW-Shield",
+  "description": "Project dedicated to fight Layer 7 DDoS with proof of work, with an additional WAF and controller. Completed with full set of features and containerized for rapid and lightweight deployment.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053233,
+  "updated_at": 1787053233
+}

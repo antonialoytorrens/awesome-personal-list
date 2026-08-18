@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wger-project-android-git",
+  "original_url": "https://github.com/wger-project/android.git",
+  "description": "Android application for wger, really just a light WebView wrapper around it",
+  "language": "Java",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055007,
+  "updated_at": 1787055007
+}

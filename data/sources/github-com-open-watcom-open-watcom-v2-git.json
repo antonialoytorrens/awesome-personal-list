@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-open-watcom-open-watcom-v2-git",
+	"original_url":	"https://github.com/open-watcom/open-watcom-v2.git",
+	"description":	"Open Watcom V2.0 - Source code repository, Wiki, Latest Binary build, Archived builds including all installers for download.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052589,
+	"updated_at":	1787063962
+}

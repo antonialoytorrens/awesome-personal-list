@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-albin-johansson-centurion",
+  "original_url": "https://github.com/albin-johansson/centurion",
+  "description": "A modern C++ wrapper library for SDL2 in order to improve type-safety, memory safety and overall ease-of-use.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053271,
+  "updated_at": 1787053271
+}

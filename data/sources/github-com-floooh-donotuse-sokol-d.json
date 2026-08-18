@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-floooh-donotuse-sokol-d",
+	"original_url":	"https://github.com/floooh/donotuse-sokol-d",
+	"description":	"[unofficial] D bindings for https://github.com/floooh/sokol",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054289,
+	"updated_at":	1787063961
+}

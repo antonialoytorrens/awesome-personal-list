@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-antix-linux-desktop-defaults-jwm",
+  "original_url": "https://gitlab.com/antiX-Linux/desktop-defaults-jwm",
+  "description": "Se default options for antiX jwm",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052344,
+  "updated_at": 1787052344
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ghaerr-elks",
+	"original_url":	"https://github.com/ghaerr/elks",
+	"description":	"Embeddable Linux Kernel Subset - Linux for 8086",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052254,
+	"updated_at":	1787063961
+}

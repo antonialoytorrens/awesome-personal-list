@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-not-nullptr-aerochat",
+  "original_url": "https://github.com/not-nullptr/Aerochat",
+  "description": "Native rewrite of Aerochat, a WLM 09 themed Discord client",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055020,
+  "updated_at": 1787055020
+}

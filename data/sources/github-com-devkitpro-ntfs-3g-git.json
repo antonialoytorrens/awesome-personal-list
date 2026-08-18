@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-ntfs-3g-git",
+	"original_url":	"https://github.com/devkitPro/ntfs-3g.git",
+	"description":	"NTFS-3G Safe Read/Write NTFS Driver",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052043,
+	"updated_at":	1787063960
+}

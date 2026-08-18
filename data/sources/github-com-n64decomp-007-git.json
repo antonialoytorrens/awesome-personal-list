@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-n64decomp-007-git",
+	"original_url":	"https://github.com/n64decomp/007.git",
+	"description":	"A decompilation of Goldeneye 007 brought to you by a bunch of clever folks. (MIRROR of https://gitlab.com/kholdfuzion/goldeneye_src)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052492,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ryujinx-ryujinx-customtasks-git",
+  "original_url": "https://github.com/Ryujinx/Ryujinx.CustomTasks.git",
+  "description": "A collection of custom MSBuild tasks.",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053249,
+  "updated_at": 1787053249
+}

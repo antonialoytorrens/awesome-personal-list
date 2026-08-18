@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-brunodev85-winlator",
+	"original_url":	"https://github.com/brunodev85/winlator",
+	"description":	"Android application for running Windows applications with Wine and Box86/Box64",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	1,
+	"swh_checked_at":	1787043244,
+	"created_at":	1787051715,
+	"updated_at":	1787063960
+}

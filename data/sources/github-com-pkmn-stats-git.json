@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pkmn-stats-git",
+  "original_url": "https://github.com/pkmn/stats.git",
+  "description": "PokÃ©mon Showdown battle log processing and usage stats generation logic",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053969,
+  "updated_at": 1787053969
+}

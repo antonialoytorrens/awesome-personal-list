@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pagefaultgames-rogueserver-git",
+  "original_url": "https://github.com/pagefaultgames/rogueserver.git",
+  "description": "Game server backend and API for PokÃ©Rogue",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053927,
+  "updated_at": 1787053927
+}

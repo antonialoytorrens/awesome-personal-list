@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-vayurik-vnds-online",
+	"original_url":	"https://github.com/VaYurik/vnds-online",
+	"description":	"Javascript-implementation of the VNDS engine ",
+	"language":	"JavaScript",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052520,
+	"updated_at":	1787052520
+}

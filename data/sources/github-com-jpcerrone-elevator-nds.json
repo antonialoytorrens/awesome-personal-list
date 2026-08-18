@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-jpcerrone-elevator-nds",
+	"original_url":	"https://github.com/jpcerrone/elevator-nds",
+	"description":	"Port of my Godot game \"Elevator\" to the Nintendo DS",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052517,
+	"updated_at":	1787063961
+}

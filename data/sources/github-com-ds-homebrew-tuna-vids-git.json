@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ds-homebrew-tuna-vids-git",
+	"original_url":	"https://github.com/DS-Homebrew/tuna-vids.git",
+	"description":	"An Xvid video player for the Nintendo DS",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052118,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pspdev-mikmod-git",
+	"original_url":	"https://github.com/pspdev/mikmod.git",
+	"description":	"Mikmod Sound System with PSP specific patches",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054082,
+	"updated_at":	1787063962
+}

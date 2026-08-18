@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-sehttpd-git",
+	"original_url":	"https://github.com/sysprog21/sehttpd.git",
+	"description":	"A small and efficient web server with 1K lines of C code",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054827,
+	"updated_at":	1787063964
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-thpatch-win32-smartdlg-git",
+  "original_url": "https://github.com/thpatch/win32_smartdlg.git",
+  "description": "Pixel-less, dynamic layout abstraction over Ye Olde Win32 window API.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054897,
+  "updated_at": 1787054897
+}

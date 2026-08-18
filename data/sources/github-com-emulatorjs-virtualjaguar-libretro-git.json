@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-virtualjaguar-libretro-git",
+	"original_url":	"https://github.com/EmulatorJS/virtualjaguar-libretro.git",
+	"description":	"Hard fork of Virtual Jaguar (abandoned project) to Libretro",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052154,
+	"updated_at":	1787063961
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-tamakoedgefield-linguine",
+	"original_url":	"https://github.com/tamakoedgefield/linguine",
+	"description":	"Scripting Language with JIT-compiler and C-translator",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052386,
+	"updated_at":	1787063964
+}

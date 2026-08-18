@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dolphin-emu-fifoplayer-git",
+  "original_url": "https://github.com/dolphin-emu/fifoplayer.git",
+  "description": "GC/Wii homebrew application used for playing back dff files recorded by Dolphin on real hardware.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052063,
+  "updated_at": 1787052063
+}

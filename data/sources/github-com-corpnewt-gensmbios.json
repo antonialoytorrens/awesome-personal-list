@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-corpnewt-gensmbios",
+  "original_url": "https://github.com/corpnewt/GenSMBIOS",
+  "description": "Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052618,
+  "updated_at": 1787052618
+}

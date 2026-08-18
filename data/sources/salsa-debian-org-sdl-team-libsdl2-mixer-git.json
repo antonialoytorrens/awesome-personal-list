@@ -1,0 +1,12 @@
+{
+	"slug":	"salsa-debian-org-sdl-team-libsdl2-mixer-git",
+	"original_url":	"https://salsa.debian.org/sdl-team/libsdl2-mixer.git",
+	"description":	"Debian packaging of libsdl2-mixer",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053919,
+	"updated_at":	1787063965
+}

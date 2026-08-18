@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-rigsofrods-ror-dependencies-git",
+	"original_url":	"https://github.com/RigsOfRods/ror-dependencies.git",
+	"description":	"CMake Meta-Project to build dependencies of Rigs of Rods",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054119,
+	"updated_at":	1787063963
+}

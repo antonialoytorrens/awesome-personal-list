@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-mist-git",
+  "original_url": "https://github.com/makedeb/mist.git",
+  "description": "The official command-line interface for the makedeb Package Repository",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052423,
+  "updated_at": 1787052423
+}

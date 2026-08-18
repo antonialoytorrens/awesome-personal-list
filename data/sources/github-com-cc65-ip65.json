@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cc65-ip65",
+	"original_url":	"https://github.com/cc65/ip65",
+	"description":	"IP65 - a TCP/IP stack for 6502 based computers",
+	"language":	"Assembly",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052538,
+	"updated_at":	1787052538
+}

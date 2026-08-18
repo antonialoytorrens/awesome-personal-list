@@ -1,0 +1,57 @@
+<div class="page-head">
+<h1 class="page-title">[[sources.title]]</h1>
+<p class="lede">$LEDE$</p>
+<form class="search-box" method="get" action="/sources">
+<input type="hidden" name="category" value="$CATEGORY$">
+<select name="language" class="filter-select-auto">
+<option value="">[[sources.all_languages]]</option>
+$LANGUAGE_OPTIONS$
+</select>
+<input type="search" name="q" value="$QUERY$" placeholder="[[sources.search_placeholder]]">
+<button type="submit" class="btn btn-sm">[[actions.search]]</button>
+</form>
+</div>
+<div class="stars-layout">
+<aside class="stars-side">
+<h2 class="side-title">[[sources.categories_heading]]</h2>
+<nav class="side-list">$SIDEBAR$</nav>
+</aside>
+<div class="stars-main">
+<form method="post" action="/sources" class="bulk-form">
+<input type="hidden" name="csrf" value="$CSRF$">
+<input type="hidden" name="category" value="$CATEGORY$">
+<input type="hidden" name="language" value="$LANGUAGE$">
+<input type="hidden" name="q" value="$QUERY$">
+<input type="hidden" name="page" value="$PAGE$">
+<input type="hidden" name="per_page" value="$PER_PAGE$">
+<div class="bulk-toolbar">
+<label class="select-all"><input type="checkbox" class="select-all-check"> [[sources.select_all]]</label>
+<select name="bulk_category">
+<option value="">[[sources.bulk_category_placeholder]]</option>
+$BULK_CATEGORY_OPTIONS$
+</select>
+<button type="submit" name="bulk_action" value="add_category" class="btn btn-sm">[[sources.bulk_add_category]]</button>
+<button type="submit" name="bulk_action" value="delete" class="btn btn-sm btn-danger" data-confirm="[[sources.bulk_confirm_delete]]">[[sources.bulk_delete]]</button>
+</div>
+<div class="stars-list">
+$ROWS$
+</div>
+</form>
+<form method="post" action="/sources" class="bulk-form">
+<input type="hidden" name="csrf" value="$CSRF$">
+<input type="hidden" name="category" value="$CATEGORY$">
+<input type="hidden" name="language" value="$LANGUAGE$">
+<input type="hidden" name="all_matching" value="1">
+<div class="bulk-toolbar">
+<span class="muted">$BULK_ALL_LABEL$</span>
+<select name="bulk_category">
+<option value="">[[sources.bulk_category_placeholder]]</option>
+$BULK_CATEGORY_OPTIONS$
+</select>
+<button type="submit" name="bulk_action" value="add_category" class="btn btn-sm btn-ghost">$BULK_ADD_ALL_LABEL$</button>
+<button type="submit" name="bulk_action" value="delete" class="btn btn-sm btn-danger" data-confirm="$BULK_DELETE_ALL_CONFIRM$">$BULK_DELETE_ALL_LABEL$</button>
+</div>
+</form>
+</div>
+</div>
+$PAGER$

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-tco-test-git",
+	"original_url":	"https://github.com/sysprog21/tco-test.git",
+	"description":	" Test the ability of C compilers performing Tail Call Optimization",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054820,
+	"updated_at":	1787063964
+}

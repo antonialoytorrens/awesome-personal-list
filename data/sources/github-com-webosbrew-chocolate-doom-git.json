@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-webosbrew-chocolate-doom-git",
+	"original_url":	"https://github.com/webosbrew/chocolate-doom.git",
+	"description":	"Can webOS TV run doom? The answer is yes. See webos directory.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054985,
+	"updated_at":	1787063964
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ds-homebrew-picodrivetwl-git",
+	"original_url":	"https://github.com/DS-Homebrew/PicoDriveTWL.git",
+	"description":	"SEGA Genesis/Mega Drive emulator for the Nintendo DS(i)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052103,
+	"updated_at":	1787063960
+}

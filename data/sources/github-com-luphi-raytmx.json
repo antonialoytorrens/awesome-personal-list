@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-luphi-raytmx",
+	"original_url":	"https://github.com/luphi/raytmx",
+	"description":	"Header-only TMX loader for raylib written in portable C99",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051918,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-michaeljwelsh-cdsa",
+	"original_url":	"https://github.com/MichaelJWelsh/cdsa",
+	"description":	"A library of generic intrusive data structures and algorithms in ANSI C",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051855,
+	"updated_at":	1787063962
+}

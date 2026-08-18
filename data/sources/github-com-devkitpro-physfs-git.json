@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-physfs-git",
+	"original_url":	"https://github.com/devkitPro/physfs.git",
+	"description":	"a library to provide abstract access to various archives. https://icculus.org/physfs/",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052041,
+	"updated_at":	1787063960
+}

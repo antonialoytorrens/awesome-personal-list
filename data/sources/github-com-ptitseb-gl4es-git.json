@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ptitseb-gl4es-git",
+	"original_url":	"https://github.com/ptitSeb/gl4es.git",
+	"description":	"GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051923,
+	"updated_at":	1787063963
+}

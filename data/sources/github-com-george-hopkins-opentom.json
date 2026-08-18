@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-george-hopkins-opentom",
+	"original_url":	"https://github.com/george-hopkins/opentom",
+	"description":	"[Unofficial] Tiny Linux distribution for TomTomâ¢ devices",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054919,
+	"updated_at":	1787063961
+}

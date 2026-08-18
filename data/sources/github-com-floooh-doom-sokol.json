@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-floooh-doom-sokol",
+	"original_url":	"https://github.com/floooh/doom-sokol",
+	"description":	"Doom (shareware) ported to the Sokol headers.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054288,
+	"updated_at":	1787063961
+}

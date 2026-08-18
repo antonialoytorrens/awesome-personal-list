@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-karpathy-llm-c",
+  "original_url": "https://github.com/karpathy/llm.c",
+  "description": "LLM training in simple, raw C/CUDA",
+  "language": "Cuda",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051920,
+  "updated_at": 1787051920
+}

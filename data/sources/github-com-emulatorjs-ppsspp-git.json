@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-emulatorjs-ppsspp-git",
+  "original_url": "https://github.com/EmulatorJS/ppsspp.git",
+  "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052155,
+  "updated_at": 1787052155
+}

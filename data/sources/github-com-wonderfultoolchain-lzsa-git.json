@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wonderfultoolchain-lzsa-git",
+	"original_url":	"https://github.com/WonderfulToolchain/lzsa.git",
+	"description":	"Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055046,
+	"updated_at":	1787063964
+}

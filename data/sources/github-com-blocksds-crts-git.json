@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-blocksds-crts-git",
+  "original_url": "https://github.com/blocksds/crts.git",
+  "description": "Linkerscripts and crt0 files for NDS projects. Fork of https://github.com/devkitPro/devkitarm-crtls",
+  "language": "Assembly",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051822,
+  "updated_at": 1787051822
+}

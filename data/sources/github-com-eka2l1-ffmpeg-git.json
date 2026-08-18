@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-eka2l1-ffmpeg-git",
+	"original_url":	"https://github.com/EKA2L1/ffmpeg.git",
+	"description":	"Precompiled and shorten version of FFMPEG library for emulator's uses",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052140,
+	"updated_at":	1787063961
+}

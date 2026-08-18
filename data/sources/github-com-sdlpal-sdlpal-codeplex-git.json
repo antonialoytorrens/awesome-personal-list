@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sdlpal-sdlpal-codeplex-git",
+	"original_url":	"https://github.com/sdlpal/sdlpal_codeplex.git",
+	"description":	"The old CodePlex version, only for backtrace purpose. Do not fork this repository!",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053294,
+	"updated_at":	1787063963
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dolphin-emu-codesearch-ui-git",
+  "original_url": "https://github.com/dolphin-emu/codesearch-ui.git",
+  "description": "Codesearch UI for Dolphin, based on Kythe and Google's codesearch library.",
+  "language": "Clojure",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052065,
+  "updated_at": 1787052065
+}

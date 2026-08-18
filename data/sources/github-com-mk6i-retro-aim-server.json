@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-mk6i-retro-aim-server",
+  "original_url": "https://github.com/mk6i/retro-aim-server",
+  "description": "Open-source instant messaging server that makes classic AIM and ICQ clients work again.",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043245,
+  "created_at": 1787051716,
+  "updated_at": 1787051716
+}

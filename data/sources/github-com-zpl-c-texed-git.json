@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-zpl-c-texed-git",
+	"original_url":	"https://github.com/zpl-c/texed.git",
+	"description":	"Stack-based texture generation tool written in C99! ",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055100,
+	"updated_at":	1787063964
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-gabomdq-sdl-gamecontrollerdb",
+  "original_url": "https://github.com/gabomdq/SDL_GameControllerDB",
+  "description": "A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053266,
+  "updated_at": 1787053266
+}

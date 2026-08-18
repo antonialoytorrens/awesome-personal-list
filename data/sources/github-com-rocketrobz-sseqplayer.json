@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-rocketrobz-sseqplayer",
+	"original_url":	"https://github.com/RocketRobz/SSEQPlayer",
+	"description":	"Homebrew SSEQ player for Nintendo DS(i)",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052503,
+	"updated_at":	1787063963
+}

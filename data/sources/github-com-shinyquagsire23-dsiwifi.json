@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-shinyquagsire23-dsiwifi",
+	"original_url":	"https://github.com/shinyquagsire23/dsiwifi",
+	"description":	"AR6012/AR6013 LwIP drivers for DSi and 3DS",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052276,
+	"updated_at":	1787063963
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-sysprog21-jit-construct-git",
+  "original_url": "https://github.com/sysprog21/jit-construct.git",
+  "description": "JIT compiler from scratch, derived from Nick Desaulniers' great work",
+  "language": "Lua",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054813,
+  "updated_at": 1787054813
+}

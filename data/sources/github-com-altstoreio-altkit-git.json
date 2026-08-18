@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-altstoreio-altkit-git",
+  "original_url": "https://github.com/altstoreio/AltKit.git",
+  "description": "A Swift Package that allows iOS apps to communicate with AltServer.",
+  "language": "Swift",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051773,
+  "updated_at": 1787051773
+}

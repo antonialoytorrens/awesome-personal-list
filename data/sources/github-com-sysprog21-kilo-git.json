@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-kilo-git",
+	"original_url":	"https://github.com/sysprog21/kilo.git",
+	"description":	"A text editor in less than 1000 LoC with syntax highlight and search",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054822,
+	"updated_at":	1787063963
+}

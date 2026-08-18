@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-smbx-64-compatibility-git",
+  "original_url": "https://github.com/WohlSoft/SMBX-64-Compatibility.git",
+  "description": "The configuration package for Moondust Project which is an implementation of SMBX-64 standard to provite the compatibility layer with the Legacy Engine (SMBX Engine v1.3)",
+  "language": "Lua",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055034,
+  "updated_at": 1787055034
+}

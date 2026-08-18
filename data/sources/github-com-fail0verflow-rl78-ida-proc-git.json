@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-fail0verflow-rl78-ida-proc-git",
+  "original_url": "https://github.com/fail0verflow/rl78-ida-proc.git",
+  "description": "Renesas RL78 processor module for IDA",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052177,
+  "updated_at": 1787052177
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-freetubeapp-yt-channel-info-git",
+  "original_url": "https://github.com/FreeTubeApp/yt-channel-info.git",
+  "description": "A Node.js module for grabbing channel information without any official API",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052215,
+  "updated_at": 1787052215
+}

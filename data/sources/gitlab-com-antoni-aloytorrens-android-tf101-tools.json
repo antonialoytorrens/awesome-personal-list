@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-antoni-aloytorrens-android-tf101-tools",
+  "original_url": "https://gitlab.com/antoni.aloytorrens/android-tf101-tools",
+  "description": "Tools to install a modern Linux distribution via rootbind method to the TF101, flashing Android again (replacing U-Boot if installed) and unbricking the tablet.",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053992,
+  "updated_at": 1787053992
+}

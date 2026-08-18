@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-c3rv1-undertalends",
+	"original_url":	"https://github.com/C3RV1/UndertaleNDS",
+	"description":	"Undertale port for Nintendo DS (src only, no copyrighted material).",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052513,
+	"updated_at":	1787052513
+}

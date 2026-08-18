@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-vhelin-wla-dx",
+	"original_url":	"https://github.com/vhelin/wla-dx",
+	"description":	"WLA DX - Yet Another GB-Z80/Z80/Z80N/6502/65C02/65CE02/65816/68000/6800/6801/6809/8008/8080/HUC6280/SPC-700/SuperFX Multi Platform Cross Assembler Package",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054280,
+	"updated_at":	1787063964
+}

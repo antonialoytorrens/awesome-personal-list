@@ -1,0 +1,10 @@
+[Unit]
+Description=Run the awesome-personal-list Software Heritage checker hourly
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=1h
+Persistent=true
+
+[Install]
+WantedBy=timers.target

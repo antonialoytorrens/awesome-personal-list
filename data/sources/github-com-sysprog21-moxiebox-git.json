@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-moxiebox-git",
+	"original_url":	"https://github.com/sysprog21/moxiebox.git",
+	"description":	"A secure, sandboxed execution mechanism that enables deterministic input, processing and output",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054817,
+	"updated_at":	1787063963
+}

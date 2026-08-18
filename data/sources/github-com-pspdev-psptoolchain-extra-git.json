@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pspdev-psptoolchain-extra-git",
+  "original_url": "https://github.com/pspdev/psptoolchain-extra.git",
+  "description": "A set of tools needed before compiling psp-packages",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054087,
+  "updated_at": 1787054087
+}

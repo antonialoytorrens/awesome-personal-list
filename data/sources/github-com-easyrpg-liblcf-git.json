@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-easyrpg-liblcf-git",
+  "original_url": "https://github.com/EasyRPG/liblcf.git",
+  "description": "Library to handle RPG Maker 2000/2003 and EasyRPG projects",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 2,
+  "swh_checked_at": 1787043212,
+  "created_at": 1787051688,
+  "updated_at": 1787051688
+}

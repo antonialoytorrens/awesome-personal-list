@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-antoni-aloytorrens-lxqt-tablet",
+	"original_url":	"https://gitlab.com/antoni.aloytorrens/lxqt-tablet",
+	"description":	"Configuration making LXQt suitable to use on the tablet",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053993,
+	"updated_at":	1787063964
+}

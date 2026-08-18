@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-mpr-makedeb-org-git",
+  "original_url": "https://github.com/makedeb/mpr.makedeb.org.git",
+  "description": "A hosting platform for makedeb packages",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052424,
+  "updated_at": 1787052424
+}

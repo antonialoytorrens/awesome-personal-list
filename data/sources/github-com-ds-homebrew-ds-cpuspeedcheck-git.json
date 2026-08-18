@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ds-homebrew-ds-cpuspeedcheck-git",
+  "original_url": "https://github.com/DS-Homebrew/DS-CPUSpeedCheck.git",
+  "description": "Checks the DS(i)/3DS console for NTR or TWL Clock speed",
+  "language": "Makefile",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052119,
+  "updated_at": 1787052119
+}

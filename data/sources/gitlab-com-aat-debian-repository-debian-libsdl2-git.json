@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-aat-debian-repository-debian-libsdl2-git",
+	"original_url":	"https://gitlab.com/aat-debian-repository/debian/libsdl2.git",
+	"description":	"Debian packaging of libsdl2",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053918,
+	"updated_at":	1787063964
+}

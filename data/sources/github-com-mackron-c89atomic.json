@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mackron-c89atomic",
+	"original_url":	"https://github.com/mackron/c89atomic",
+	"description":	"C89 compatible atomics.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051900,
+	"updated_at":	1787063962
+}

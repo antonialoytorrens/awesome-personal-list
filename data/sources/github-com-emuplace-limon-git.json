@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-emuplace-limon-git",
+  "original_url": "https://github.com/emuPlace/Limon.git",
+  "description": "LimÃ³n is the world's first Nintendo 3DS emulator for iPad and iPhone built on top of Citra making use of the experimental Vulkan renderer by GPUcode through MoltenVK, written in Objective-C and Swift",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052169,
+  "updated_at": 1787052169
+}

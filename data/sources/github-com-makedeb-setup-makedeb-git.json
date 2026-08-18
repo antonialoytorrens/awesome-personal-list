@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-setup-makedeb-git",
+  "original_url": "https://github.com/makedeb/setup-makedeb.git",
+  "description": "GitHub action to set up makedeb APT repositories",
+  "language": "",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052425,
+  "updated_at": 1787052425
+}

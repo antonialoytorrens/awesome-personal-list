@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-maxkratz-github2gitea-mirror-git",
+  "original_url": "https://github.com/maxkratz/github2gitea-mirror.git",
+  "description": "Mirror GitHub single repos/users/orgas/starred repos to a Gitea or Forgejo instance.",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052256,
+  "updated_at": 1787052256
+}

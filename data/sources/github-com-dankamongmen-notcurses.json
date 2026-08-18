@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-dankamongmen-notcurses",
+	"original_url":	"https://github.com/dankamongmen/notcurses",
+	"description":	"blingful character graphics/TUI library. definitely not curses.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051924,
+	"updated_at":	1787063960
+}

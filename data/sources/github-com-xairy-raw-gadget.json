@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-xairy-raw-gadget",
+	"original_url":	"https://github.com/xairy/raw-gadget",
+	"description":	"See https://aadiljaleel.medium.com/emulate-usb-mass-storage-device-in-ubuntu-18-04-dummys-guide-a13d793da830",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051862,
+	"updated_at":	1787063964
+}

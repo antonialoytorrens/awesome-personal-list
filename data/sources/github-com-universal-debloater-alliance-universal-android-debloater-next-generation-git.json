@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-universal-debloater-alliance-universal-android-debloater-next-generation-git",
+  "original_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation.git",
+  "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054928,
+  "updated_at": 1787054928
+}

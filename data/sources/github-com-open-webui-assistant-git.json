@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-open-webui-assistant-git",
+  "original_url": "https://github.com/open-webui/assistant.git",
+  "description": "No longer actively being worked on, Please use https://github.com/open-webui/extension instead",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052592,
+  "updated_at": 1787052592
+}

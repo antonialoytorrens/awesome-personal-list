@@ -1,0 +1,12 @@
+{
+	"slug":	"gitee-com-openharmony-sig-ohos-sdl2",
+	"original_url":	"https://gitee.com/openharmony-sig/ohos_sdl2",
+	"description":	"SDL2 for OpenHarmonyOS",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053286,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pspdev-sdl-ttf-git",
+	"original_url":	"https://github.com/pspdev/SDL_ttf.git",
+	"description":	"SDL2_ttf and SDL_ttf with PSP specific patches",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054078,
+	"updated_at":	1787063963
+}

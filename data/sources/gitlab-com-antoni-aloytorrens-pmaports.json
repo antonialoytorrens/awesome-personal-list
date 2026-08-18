@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-antoni-aloytorrens-pmaports",
+  "original_url": "https://gitlab.com/antoni.aloytorrens/pmaports",
+  "description": "postmarketOS package build recipes (used to be in the pmbootstrap repository)",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053993,
+  "updated_at": 1787053993
+}

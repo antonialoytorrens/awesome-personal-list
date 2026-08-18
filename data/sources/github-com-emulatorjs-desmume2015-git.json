@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-emulatorjs-desmume2015-git",
+  "original_url": "https://github.com/EmulatorJS/desmume2015.git",
+  "description": "Port of Desmume to libretro based on Desmume SVN circa 2015.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052156,
+  "updated_at": 1787052156
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wendelscardua-miroh",
+	"original_url":	"https://github.com/wendelscardua/miroh",
+	"description":	"NES game made for Ludum Dare 54; and its sequel/spin-off, made for NESdev Compo 2023",
+	"language":	"NEXXT-session-file",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052542,
+	"updated_at":	1787052542
+}

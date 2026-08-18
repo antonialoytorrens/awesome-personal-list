@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-blogc-blogc-git-receiver-git",
+	"original_url":	"https://github.com/blogc/blogc-git-receiver.git",
+	"description":	"[DEPRECATED, see blogc] A simple login shell/git hook to deploy blogc websites.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051831,
+	"updated_at":	1787063960
+}

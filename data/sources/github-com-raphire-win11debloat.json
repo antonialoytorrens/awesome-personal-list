@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-raphire-win11debloat",
+  "original_url": "https://github.com/Raphire/Win11Debloat",
+  "description": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+  "language": "PowerShell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055015,
+  "updated_at": 1787055015
+}

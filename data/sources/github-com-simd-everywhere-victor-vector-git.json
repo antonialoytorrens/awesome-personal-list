@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-simd-everywhere-victor-vector-git",
+	"original_url":	"https://github.com/simd-everywhere/victor-vector.git",
+	"description":	"Alternative to the Intel SIMD APIs.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054166,
+	"updated_at":	1787063963
+}

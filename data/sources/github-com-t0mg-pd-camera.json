@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-t0mg-pd-camera",
+  "original_url": "https://github.com/t0mg/pd-camera",
+  "description": "Experimental camera addon for the Playdate handheld console",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053978,
+  "updated_at": 1787053978
+}

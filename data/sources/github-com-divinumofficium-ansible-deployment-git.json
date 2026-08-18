@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-divinumofficium-ansible-deployment-git",
+  "original_url": "https://github.com/DivinumOfficium/ansible-deployment.git",
+  "description": "Ansible files used by the DO team to deploy new servers for production deployment",
+  "language": "VCL",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052061,
+  "updated_at": 1787052061
+}

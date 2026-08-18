@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cc65-cc65",
+	"original_url":	"https://github.com/cc65/cc65",
+	"description":	"cc65 - a freeware C compiler for 6502 based systems",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052539,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-colleagueriley-rgfw",
+	"original_url":	"https://github.com/ColleagueRiley/RGFW",
+	"description":	"A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051922,
+	"updated_at":	1787063960
+}

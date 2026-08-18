@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-connorkuehl-sdl2-tiled-example-git",
+  "original_url": "https://github.com/connorkuehl/sdl2-tiled-example.git",
+  "description": "A small sample showing how to load and render Tiled maps in your SDL2 game project.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054913,
+  "updated_at": 1787054913
+}

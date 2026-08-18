@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-highwayfrogs-frogger-psx-git",
+	"original_url":	"https://github.com/HighwayFrogs/frogger-psx.git",
+	"description":	"A compileable setup of Frogger 1997 for the Sony PlayStation. A perfect byte-match to the retail version",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052271,
+	"updated_at":	1787063961
+}

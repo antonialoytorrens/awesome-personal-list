@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-antoni-aloytorrens-3ds-file-decryptor",
+	"original_url":	"https://gitlab.com/antoni.aloytorrens/3ds-file-decryptor",
+	"description":	"Sources from:\r\n\r\n---\r\n\r\n- https://github.com/3DSGuy/Project_CTR (ctrtool and makerom)\r\n\r\n---\r\n\r\nFor decryptor.py (thanks 54634564):\r\n\r\n- https://github.com/roxas75/rxTools/blob/master/tools/scripts/ncchinfo_gen.py\r\n\r\n- https://github.com/Mtgxyz2/3ds-FUSE",
+	"language":	"",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052276,
+	"updated_at":	1787052276
+}

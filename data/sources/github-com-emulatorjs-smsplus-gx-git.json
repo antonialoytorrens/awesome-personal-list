@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-smsplus-gx-git",
+	"original_url":	"https://github.com/EmulatorJS/smsplus-gx.git",
+	"description":	"Improved port of SMSPlus-GX by gameblabla for libretro",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052165,
+	"updated_at":	1787063961
+}

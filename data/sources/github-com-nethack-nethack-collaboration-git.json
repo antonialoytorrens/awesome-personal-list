@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-nethack-nethack-collaboration-git",
+	"original_url":	"https://github.com/NetHack/NetHack-collaboration.git",
+	"description":	"NetHack secondary Git Repository where contributors can assist with some features",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052543,
+	"updated_at":	1787063962
+}

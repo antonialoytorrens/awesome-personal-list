@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-libretro-handy-git",
+	"original_url":	"https://github.com/EmulatorJS/libretro-handy.git",
+	"description":	"K. Wilkins' Atari Lynx emulator Handy (http://handy.sourceforge.net/) for libretro",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052154,
+	"updated_at":	1787063961
+}

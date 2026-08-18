@@ -1,0 +1,12 @@
+{
+  "slug": "git-launchpad-net-ubuntu-source-update-manager",
+  "original_url": "https://git.launchpad.net/ubuntu/+source/update-manager",
+  "description": "Ubuntu Update Manager",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043213,
+  "created_at": 1787051690,
+  "updated_at": 1787051690
+}

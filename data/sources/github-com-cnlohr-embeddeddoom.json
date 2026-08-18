@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cnlohr-embeddeddoom",
+	"original_url":	"https://github.com/cnlohr/embeddedDOOM",
+	"description":	"\"emdoom\" - a port of DOOM targeted for memory-strapped systems.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052072,
+	"updated_at":	1787063960
+}

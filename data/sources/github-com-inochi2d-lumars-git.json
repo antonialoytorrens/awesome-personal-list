@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-inochi2d-lumars-git",
+  "original_url": "https://github.com/Inochi2D/lumars.git",
+  "description": "A high-level, low-GC wrapper around Lua where high-level and low-level can easily be mixed together.",
+  "language": "D",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052306,
+  "updated_at": 1787052306
+}

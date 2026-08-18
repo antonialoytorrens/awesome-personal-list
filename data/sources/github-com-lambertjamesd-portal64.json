@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-lambertjamesd-portal64",
+	"original_url":	"https://github.com/lambertjamesd/portal64",
+	"description":	"A demake of Portal for the Nintendo 64",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052485,
+	"updated_at":	1787063962
+}

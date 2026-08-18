@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pspdev-psp-ports-git",
+	"original_url":	"https://github.com/pspdev/psp-ports.git",
+	"description":	"A collection of open source software ported to the PSP.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054074,
+	"updated_at":	1787063962
+}

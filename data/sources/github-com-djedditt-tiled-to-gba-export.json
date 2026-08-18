@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-djedditt-tiled-to-gba-export",
+  "original_url": "https://github.com/djedditt/tiled-to-gba-export",
+  "description": "Tiled extension/export plugin for exporting tilemaps to GBA source files",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 1,
+  "swh_checked_at": 1787043212,
+  "created_at": 1787051689,
+  "updated_at": 1787051689
+}

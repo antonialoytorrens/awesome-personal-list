@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ctcaer-hekate",
+	"original_url":	"https://github.com/CTCaer/hekate",
+	"description":	"hekate - A GUI based Nintendo Switch Bootloader",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052566,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-webosbrew-flutter-sdl-git",
+	"original_url":	"https://github.com/webosbrew/flutter_sdl.git",
+	"description":	"SDL-based embedder for Flutter",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054991,
+	"updated_at":	1787063964
+}

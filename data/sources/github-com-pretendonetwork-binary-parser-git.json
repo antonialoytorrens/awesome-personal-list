@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-binary-parser-git",
+  "original_url": "https://github.com/PretendoNetwork/binary-parser.git",
+  "description": "Type-safe binary/struct parser and encoder with an API inspired by https://npmjs.com/binary-parser, bit-level operations, and Zod-like type inference.",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054065,
+  "updated_at": 1787054065
+}

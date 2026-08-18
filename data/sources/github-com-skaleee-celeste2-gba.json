@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-skaleee-celeste2-gba",
+	"original_url":	"https://github.com/Skaleee/Celeste2-GBA",
+	"description":	"A port of Celeste Classic 2 for the Game Boy Advance.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052248,
+	"updated_at":	1787063963
+}

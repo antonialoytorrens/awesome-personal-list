@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-luabind-deboostified-git",
+  "original_url": "https://github.com/WohlSoft/luabind-deboostified.git",
+  "description": "Create Lua bindings for your C++ code easily - Fixes and improvments to decimad's original C++11 version. Used for Moondust (PGE Project) and LunaLua.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055028,
+  "updated_at": 1787055028
+}

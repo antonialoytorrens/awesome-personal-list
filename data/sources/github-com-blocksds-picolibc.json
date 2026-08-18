@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-blocksds-picolibc",
+	"original_url":	"https://github.com/blocksds/picolibc",
+	"description":	"picolibc - a C library designed for embedded 32- and 64- bit systems.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051826,
+	"updated_at":	1787063960
+}

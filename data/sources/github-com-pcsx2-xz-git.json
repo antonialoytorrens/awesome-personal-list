@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pcsx2-xz-git",
+	"original_url":	"https://github.com/PCSX2/xz.git",
+	"description":	"Mirror of XZ Utils git repository",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053933,
+	"updated_at":	1787063962
+}

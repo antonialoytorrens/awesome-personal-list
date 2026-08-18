@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mackron-miniaudio",
+	"original_url":	"https://github.com/mackron/miniaudio",
+	"description":	"Audio playback and capture library written in C, in a single source file.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051889,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-llvm-mos-llvm-mos-sdk",
+	"original_url":	"https://github.com/llvm-mos/llvm-mos-sdk",
+	"description":	"SDK for developing with the llvm-mos compiler",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052410,
+	"updated_at":	1787063962
+}

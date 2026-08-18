@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-vim-vim-git",
+  "original_url": "https://github.com/vim/vim.git",
+  "description": "The official Vim repository",
+  "language": "Vim Script",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054967,
+  "updated_at": 1787054967
+}

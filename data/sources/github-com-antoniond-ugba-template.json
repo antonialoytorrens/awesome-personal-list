@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-antoniond-ugba-template",
+	"original_url":	"https://github.com/AntonioND/ugba-template",
+	"description":	"Template of how to integrate libugba in a project.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052245,
+	"updated_at":	1787063960
+}

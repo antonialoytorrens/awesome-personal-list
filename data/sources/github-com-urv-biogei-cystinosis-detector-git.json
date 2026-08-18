@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-urv-biogei-cystinosis-detector-git",
+  "original_url": "https://github.com/URV-BioGEI/Cystinosis-Detector.git",
+  "description": "Matlab algorithm that detects and quantifies cystinosis cristalls using computer vision techniques",
+  "language": "MATLAB",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054953,
+  "updated_at": 1787054953
+}

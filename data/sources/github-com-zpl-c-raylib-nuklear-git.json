@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-zpl-c-raylib-nuklear-git",
+	"original_url":	"https://github.com/zpl-c/raylib-nuklear.git",
+	"description":	"Nuklear immediate mode GUI for raylib",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055104,
+	"updated_at":	1787063964
+}

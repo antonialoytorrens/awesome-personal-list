@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kolibrios-rclibc-git",
+	"original_url":	"https://github.com/KolibriOS/rclibc.git",
+	"description":	"A minimal implementation of the C standard library.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052356,
+	"updated_at":	1787063961
+}

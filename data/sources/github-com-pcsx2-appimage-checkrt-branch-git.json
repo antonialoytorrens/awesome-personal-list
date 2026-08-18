@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pcsx2-appimage-checkrt-branch-git",
+  "original_url": "https://github.com/PCSX2/appimage-checkrt-branch.git",
+  "description": "Backup branch and local copy for CI, original code at https://github.com/darealshinji/AppImageKit-checkrt/",
+  "language": "",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053937,
+  "updated_at": 1787053937
+}

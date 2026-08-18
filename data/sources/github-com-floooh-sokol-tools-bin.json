@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-floooh-sokol-tools-bin",
+  "original_url": "https://github.com/floooh/sokol-tools-bin",
+  "description": "Binaries and fips integration for https://github.com/floooh/sokol-tools",
+  "language": "Zig",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054287,
+  "updated_at": 1787054287
+}

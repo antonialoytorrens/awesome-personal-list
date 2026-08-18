@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-lpodkalicki-blog",
+	"original_url":	"https://github.com/lpodkalicki/blog",
+	"description":	"A set of various projects based on ESP8266, ESP32, ATtiny13, ATtiny85, ATtiny2313, ATmega8, ATmega328, ATmega32, STM32  and more.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051855,
+	"updated_at":	1787063962
+}

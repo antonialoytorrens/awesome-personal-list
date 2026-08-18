@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dolphin-emu-netplay-index-git",
+  "original_url": "https://github.com/dolphin-emu/netplay-index.git",
+  "description": "A NetPlay Index server for Dolphin",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052067,
+  "updated_at": 1787052067
+}

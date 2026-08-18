@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-grandorgue-dockermsvccpp",
+  "original_url": "https://github.com/GrandOrgue/DockerMsvcCpp",
+  "description": "Dockerized Visual C++ environment with wine",
+  "language": "PowerShell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052262,
+  "updated_at": 1787052262
+}

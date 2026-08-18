@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-bignum-git",
+	"original_url":	"https://github.com/sysprog21/bignum.git",
+	"description":	"An incomplete arbitrary-precision integer arithmetic library",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054826,
+	"updated_at":	1787063963
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-blocksds-libxm7-git",
+	"original_url":	"https://github.com/blocksds/libxm7.git",
+	"description":	"A C library to play XM (and MOD) modules on Nintendo DS using only ARM7 resources",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051823,
+	"updated_at":	1787063960
+}

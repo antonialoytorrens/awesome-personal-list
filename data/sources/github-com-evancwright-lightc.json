@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-evancwright-lightc",
+	"original_url":	"https://github.com/evancwright/LightC",
+	"description":	"C source code for Linux implementation of Lantern VM.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051901,
+	"updated_at":	1787063961
+}

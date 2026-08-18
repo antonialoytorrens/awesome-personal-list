@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-miniphysics-by-38a-git",
+  "original_url": "https://github.com/WohlSoft/MiniPhysics-By-38A.git",
+  "description": "A tiny physical engine made by 5438A38A in VB6 and ported into C++ with Qt and improved by Wohlstand",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055030,
+  "updated_at": 1787055030
+}

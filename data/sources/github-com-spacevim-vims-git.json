@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-spacevim-vims-git",
+  "original_url": "https://github.com/SpaceVim/vims.git",
+  "description": "Docker container for testing SpaceVim",
+  "language": "Dockerfile",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054296,
+  "updated_at": 1787054296
+}

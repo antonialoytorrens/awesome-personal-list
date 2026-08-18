@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-adamsoutar-playboy",
+  "original_url": "https://github.com/adamsoutar/playboy",
+  "description": "Playboy is a Nintendo Gameboy emulator for the Panic Playdate written in Rust! ð¾",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053985,
+  "updated_at": 1787053985
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-vim-winget-pkgs-git",
+  "original_url": "https://github.com/vim/winget-pkgs.git",
+  "description": "The Microsoft community Windows Package Manager manifest repository",
+  "language": "PowerShell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054969,
+  "updated_at": 1787054969
+}

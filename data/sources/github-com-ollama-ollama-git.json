@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ollama-ollama-git",
+  "original_url": "https://github.com/ollama/ollama.git",
+  "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052577,
+  "updated_at": 1787052577
+}

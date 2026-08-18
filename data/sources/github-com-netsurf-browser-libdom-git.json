@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-netsurf-browser-libdom-git",
+	"original_url":	"https://github.com/netsurf-browser/libdom.git",
+	"description":	"Document Object Model library",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052549,
+	"updated_at":	1787063962
+}

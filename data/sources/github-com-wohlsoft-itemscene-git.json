@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-itemscene-git",
+  "original_url": "https://github.com/WohlSoft/ItemScene.git",
+  "description": "Custom implementation of item scene to replace heavy QGraphicsScene in Moondust Editor",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055030,
+  "updated_at": 1787055030
+}

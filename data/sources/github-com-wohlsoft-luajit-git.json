@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wohlsoft-luajit-git",
+	"original_url":	"https://github.com/WohlSoft/LuaJIT.git",
+	"description":	"Fork of LuaJIT repository which adds CMake build and a small change that forces usage of UTF8 (instead of ANSI) in file system paths on Windows",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055028,
+	"updated_at":	1787063964
+}

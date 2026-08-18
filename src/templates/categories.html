@@ -1,0 +1,21 @@
+<div class="page-head">
+<h1 class="page-title">[[categories.title]]</h1>
+<p class="lede">[[categories.lede]]</p>
+</div>
+<div class="stars-layout categories">
+<div class="stars-list">
+$ROWS$
+</div>
+<aside class="panel">
+<h2>[[categories.new_heading]]</h2>
+<form method="post" action="/categories">
+<input type="hidden" name="csrf" value="$CSRF$">
+<label>[[fields.name]]<input type="text" name="name"></label>
+<label>[[fields.description]]<input type="text" name="description"></label>
+<label>[[fields.color]]<input type="color" name="color" value="#8b949e"></label>
+<div class="form-actions">
+<button type="submit" class="btn btn-primary">[[actions.create]]</button>
+</div>
+</form>
+</aside>
+</div>

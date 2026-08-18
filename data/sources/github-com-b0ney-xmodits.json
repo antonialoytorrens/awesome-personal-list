@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-b0ney-xmodits",
+  "original_url": "https://github.com/B0ney/xmodits",
+  "description": "A tool to rip samples from tracker modules. Supports IT, XM, S3M, MOD, UMX and MPTM formats.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054921,
+  "updated_at": 1787054921
+}

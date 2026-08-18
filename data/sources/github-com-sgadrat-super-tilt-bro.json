@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sgadrat-super-tilt-bro",
+	"original_url":	"https://github.com/sgadrat/super-tilt-bro",
+	"description":	"NES homebrew inspired by Super Smash Bros",
+	"language":	"Assembly",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052534,
+	"updated_at":	1787052534
+}

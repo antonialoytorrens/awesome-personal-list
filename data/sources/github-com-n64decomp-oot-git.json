@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-n64decomp-oot-git",
+  "original_url": "https://github.com/n64decomp/oot.git",
+  "description": "A decompilation of Ocarina of Time: Master Quest (debug) brought to you by a bunch of clever folks. This is an old repo. Active development has moved to https://github.com/zeldaret/oot",
+  "language": "Assembly",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052491,
+  "updated_at": 1787052491
+}

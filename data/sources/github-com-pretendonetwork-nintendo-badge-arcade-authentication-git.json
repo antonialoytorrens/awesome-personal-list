@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-nintendo-badge-arcade-authentication-git",
+  "original_url": "https://github.com/PretendoNetwork/nintendo-badge-arcade-authentication.git",
+  "description": "The NEX authentication server for Nintendo Badge Arcade.",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054032,
+  "updated_at": 1787054032
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-ci-docker-images-git",
+  "original_url": "https://github.com/makedeb/ci-docker-images.git",
+  "description": "Docker images to make CI go faster.",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052421,
+  "updated_at": 1787052421
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ngagesdk-sdl-1-2-git",
+	"original_url":	"https://github.com/ngagesdk/SDL-1.2.git",
+	"description":	"Simple DirectMedia Layer (SDL) 1.2 for Symbian S60v1 devices such as the Nokia N-Gage. ",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052550,
+	"updated_at":	1787063962
+}

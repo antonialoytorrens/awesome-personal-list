@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-rce-patches-git",
+  "original_url": "https://github.com/PretendoNetwork/rce_patches.git",
+  "description": "Security and stability fixes for Wii U multiplayer games (Aroma)",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054033,
+  "updated_at": 1787054033
+}

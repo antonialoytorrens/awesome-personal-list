@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-gearboy-git",
+	"original_url":	"https://github.com/EmulatorJS/Gearboy.git",
+	"description":	"Game Boy / Gameboy Color emulator for iOS, macOS, Raspberry Pi, Windows, Linux, BSD and RetroArch.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052147,
+	"updated_at":	1787063961
+}

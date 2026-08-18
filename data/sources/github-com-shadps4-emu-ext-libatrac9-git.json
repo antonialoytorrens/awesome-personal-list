@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-shadps4-emu-ext-libatrac9-git",
+  "original_url": "https://github.com/shadps4-emu/ext-LibAtrac9.git",
+  "description": "A C or C# library for decoding audio in Sony's ATRAC9 format",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054129,
+  "updated_at": 1787054129
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-cranksters-playdate-reverse-engineering",
+  "original_url": "https://github.com/cranksters/playdate-reverse-engineering",
+  "description": "Panic Playdate reverse-engineering notes/tools - covers file formats, server API and USB commands",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053984,
+  "updated_at": 1787053984
+}

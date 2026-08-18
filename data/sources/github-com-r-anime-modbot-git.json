@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-r-anime-modbot-git",
+  "original_url": "https://github.com/r-anime/modbot.git",
+  "description": "General Python scripts for automated monitoring and moderation of /r/anime.",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054101,
+  "updated_at": 1787054101
+}

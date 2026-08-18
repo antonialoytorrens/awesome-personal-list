@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mtheall-ftpd",
+	"original_url":	"https://github.com/mtheall/ftpd",
+	"description":	"FTP Server for 3DS/Switch",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052507,
+	"updated_at":	1787052507
+}

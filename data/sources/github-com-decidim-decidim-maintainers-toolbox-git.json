@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-decidim-decidim-maintainers-toolbox-git",
+  "original_url": "https://github.com/decidim/decidim-maintainers_toolbox.git",
+  "description": "Release related tools for the Decidim project. Tools for releasing, backporting, changelog generating, and working with GitHub.",
+  "language": "Ruby",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052000,
+  "updated_at": 1787052000
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-rangi42-polished-map",
+  "original_url": "https://github.com/Rangi42/polished-map",
+  "description": "A map and tileset editor for pokecrystal, pokered, and projects based on them. Written in C++ with FLTK.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052210,
+  "updated_at": 1787052210
+}

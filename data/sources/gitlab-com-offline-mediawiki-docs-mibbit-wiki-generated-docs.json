@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-offline-mediawiki-docs-mibbit-wiki-generated-docs",
+  "original_url": "https://gitlab.com/offline-mediawiki-docs/mibbit-wiki-generated-docs",
+  "description": "Mibbit Wiki (useful for IRC) for offline use. Script used: https://gitlab.com/antoni.aloytorrens/offline-mediawiki-docs/mibbit-wiki-docs",
+  "language": "HTML",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052572,
+  "updated_at": 1787052572
+}

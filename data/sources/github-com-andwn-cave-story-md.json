@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-andwn-cave-story-md",
+	"original_url":	"https://github.com/andwn/cave-story-md",
+	"description":	"A fan port of Cave Story for the Sega Mega Drive",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052462,
+	"updated_at":	1787063960
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-wuuff-anarch-dos",
+	"original_url":	"https://gitlab.com/wuuff/anarch-dos",
+	"description":	"Unofficial port of Anarch to DOS.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053257,
+	"updated_at":	1787063964
+}

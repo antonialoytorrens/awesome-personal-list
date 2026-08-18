@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-wohlsoft-sdl-mixer-x-git",
+	"original_url":	"https://github.com/WohlSoft/SDL-Mixer-X.git",
+	"description":	"SDL Mixer X (Or \"MixerX\" shortly) - An audio mixer library based on the SDL library, a fork of SDL_mixer",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055035,
+	"updated_at":	1787063964
+}

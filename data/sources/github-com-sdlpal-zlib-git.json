@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sdlpal-zlib-git",
+	"original_url":	"https://github.com/sdlpal/zlib.git",
+	"description":	"This is a partial fork of official zlib repository that contains only necessary files sdlpal needs.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053295,
+	"updated_at":	1787063963
+}

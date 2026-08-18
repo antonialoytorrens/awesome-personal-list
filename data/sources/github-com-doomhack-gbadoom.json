@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-doomhack-gbadoom",
+	"original_url":	"https://github.com/doomhack/GBADoom",
+	"description":	"A port of prBoom to the Nintendo GBA.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052239,
+	"updated_at":	1787063960
+}

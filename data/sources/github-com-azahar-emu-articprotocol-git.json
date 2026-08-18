@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-azahar-emu-articprotocol-git",
+  "original_url": "https://github.com/azahar-emu/ArticProtocol.git",
+  "description": "The server and protocol used by Artic Base Server",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051806,
+  "updated_at": 1787051806
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-subscriber-only-subscriber-only-git",
+  "original_url": "https://github.com/subscriber-only/subscriber-only.git",
+  "description": "Subscriber Only is a Jekyll plugin that, with a Ruby gem and a couple lines of YAML, enables subscription management, payment processing and access controls on your site. It even works with Jekyll Feed, so your RSS feed will keep working as it is.",
+  "language": "Ruby",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054318,
+  "updated_at": 1787054318
+}

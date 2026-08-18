@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ngagesdk-ccleste-git",
+	"original_url":	"https://github.com/ngagesdk/ccleste.git",
+	"description":	"A portable Celeste Classic C source port.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052553,
+	"updated_at":	1787063962
+}

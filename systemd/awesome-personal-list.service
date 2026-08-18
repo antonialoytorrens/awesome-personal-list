@@ -1,0 +1,19 @@
+[Unit]
+Description=awesome-personal-list web app
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/awesome-personal-list
+# The binary loads this itself too (see envfile.c); listed here as well so
+# it shows up in `systemctl show` and journald context.
+EnvironmentFile=-/etc/awesome-personal-list/awesome-personal-list.conf
+ExecStart=/opt/awesome-personal-list/awesome-personal-list
+Restart=on-failure
+StateDirectory=awesome-personal-list
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/opt/awesome-personal-list/data
+
+[Install]
+WantedBy=multi-user.target

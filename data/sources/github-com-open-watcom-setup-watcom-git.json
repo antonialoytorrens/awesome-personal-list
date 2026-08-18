@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-open-watcom-setup-watcom-git",
+  "original_url": "https://github.com/open-watcom/setup-watcom.git",
+  "description": "GitHub Action to setup Open Watcom",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052590,
+  "updated_at": 1787052590
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-betterkeydumper-git",
+  "original_url": "https://github.com/PretendoNetwork/BetterKeyDumper.git",
+  "description": "Dumper of the Wii U's OTP, BOSS keys and IDBE keys",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054057,
+  "updated_at": 1787054057
+}

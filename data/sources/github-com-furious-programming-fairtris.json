@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-furious-programming-fairtris",
+  "original_url": "https://github.com/furious-programming/Fairtris",
+  "description": "Clone of the official classic TetrisÂ® game for the NES console, intended for Windows and Linux systems. It implements the original mechanics and includes many regional versions and several RNGs (all in one executable).",
+  "language": "Pascal",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053929,
+  "updated_at": 1787053929
+}

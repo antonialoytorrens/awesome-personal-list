@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pretendonetwork-postgres-with-extensions-git",
+	"original_url":	"https://github.com/PretendoNetwork/postgres-with-extensions.git",
+	"description":	"A custom PostgreSQL image with extensions built-in",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054064,
+	"updated_at":	1787063962
+}

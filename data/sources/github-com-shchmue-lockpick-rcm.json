@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-shchmue-lockpick-rcm",
+	"original_url":	"https://github.com/shchmue/Lockpick_RCM",
+	"description":	"Nintendo Switch encryption key derivation bare metal RCM payload",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052564,
+	"updated_at":	1787063963
+}

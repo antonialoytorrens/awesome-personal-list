@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-whitebrim-animatedsprite",
+  "original_url": "https://github.com/Whitebrim/AnimatedSprite",
+  "description": "Sprite class extension with imagetable animation and finite state machine support for @Playdate",
+  "language": "Lua",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053987,
+  "updated_at": 1787053987
+}

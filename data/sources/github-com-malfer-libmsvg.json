@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-malfer-libmsvg",
+	"original_url":	"https://github.com/malfer/libmsvg",
+	"description":	"libmsvg is a work in progress for making a minimal and generic library to read and write SVG files.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051868,
+	"updated_at":	1787063962
+}

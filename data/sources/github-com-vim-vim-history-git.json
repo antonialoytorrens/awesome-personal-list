@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-vim-vim-history-git",
+	"original_url":	"https://github.com/vim/vim-history.git",
+	"description":	"Very very old history of Vim (from v1.14 to v6.4)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054968,
+	"updated_at":	1787063964
+}

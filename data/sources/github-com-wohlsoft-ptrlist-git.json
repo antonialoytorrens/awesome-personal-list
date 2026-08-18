@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-wohlsoft-ptrlist-git",
+  "original_url": "https://github.com/WohlSoft/PtrList.git",
+  "description": "A vector-like container class which stores elements as array of pointers to each element",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055032,
+  "updated_at": 1787055032
+}

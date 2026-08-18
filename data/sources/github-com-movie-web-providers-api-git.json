@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-movie-web-providers-api-git",
+  "original_url": "https://github.com/movie-web/providers-api.git",
+  "description": "Our provider package exposed as a HTTP API",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052474,
+  "updated_at": 1787052474
+}

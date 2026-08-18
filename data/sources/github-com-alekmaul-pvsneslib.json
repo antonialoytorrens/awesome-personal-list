@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-alekmaul-pvsneslib",
+	"original_url":	"https://github.com/alekmaul/pvsneslib",
+	"description":	"PVSnesLib : A small, open and free development kit for the Nintendo SNES",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054279,
+	"updated_at":	1787063960
+}

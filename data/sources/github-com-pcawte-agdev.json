@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pcawte-agdev",
+	"original_url":	"https://github.com/pcawte/AgDev",
+	"description":	"Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051761,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-funkincrew-mockatoo-git",
+  "original_url": "https://github.com/FunkinCrew/mockatoo.git",
+  "description": "A cross platform mocking framework for Haxe. Supports JavaScript, Flash, C++, PHP and Neko.",
+  "language": "Haxe",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052224,
+  "updated_at": 1787052224
+}

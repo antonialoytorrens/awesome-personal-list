@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-blocksds-default-arm7-git",
+  "original_url": "https://github.com/blocksds/default_arm7.git",
+  "description": "Default ARM7 binary used by Blocks DS ARM9-only template. Fork of https://github.com/devkitPro/default-arm7",
+  "language": "Makefile",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051821,
+  "updated_at": 1787051821
+}

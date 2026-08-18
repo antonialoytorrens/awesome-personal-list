@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ncot-tech-agon-template",
+	"original_url":	"https://github.com/ncot-tech/agon-template",
+	"description":	"A template for the Agon Light C compiler toolchain",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051762,
+	"updated_at":	1787063962
+}

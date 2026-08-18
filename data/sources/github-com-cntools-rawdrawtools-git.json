@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cntools-rawdrawtools-git",
+	"original_url":	"https://github.com/cntools/rawdrawtools.git",
+	"description":	"The non-user-of-rawdraw-facing side of rawdraw.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051949,
+	"updated_at":	1787063960
+}

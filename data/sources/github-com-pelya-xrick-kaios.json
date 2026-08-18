@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pelya-xrick-kaios",
+	"original_url":	"https://github.com/pelya/xrick-kaios",
+	"description":	"Rick Dangerous, for KaiOS using emscripten and asm.js",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052344,
+	"updated_at":	1787063962
+}

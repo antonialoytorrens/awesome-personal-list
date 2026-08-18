@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-3ds-examples-git",
+	"original_url":	"https://github.com/devkitPro/3ds-examples.git",
+	"description":	"Examples for 3DS using devkitARM, libctru, citro3d and citro2d",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052026,
+	"updated_at":	1787063960
+}

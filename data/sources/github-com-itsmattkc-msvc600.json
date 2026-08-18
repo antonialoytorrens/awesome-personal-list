@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-itsmattkc-msvc600",
+	"original_url":	"https://github.com/itsmattkc/MSVC600",
+	"description":	"Portable download of Microsoft Visual C++ 6.0 command line tools. Just run VC98/bin/VCVARS32.bat in any command prompt.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052460,
+	"updated_at":	1787063961
+}

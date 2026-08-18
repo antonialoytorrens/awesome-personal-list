@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-cemu-patcher-git",
+  "original_url": "https://github.com/PretendoNetwork/cemu-patcher.git",
+  "description": "DLL hook for Cemu to redirect nintendo.net requests to Pretendo",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054014,
+  "updated_at": 1787054014
+}

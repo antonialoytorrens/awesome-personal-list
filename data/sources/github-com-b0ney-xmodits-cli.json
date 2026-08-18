@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-b0ney-xmodits-cli",
+  "original_url": "https://github.com/B0ney/xmodits-cli",
+  "description": "Command line version of xmodits - A tool to rip samples from tracker modules.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054920,
+  "updated_at": 1787054920
+}

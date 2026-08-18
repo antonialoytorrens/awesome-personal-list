@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-misyltoad-frog-utf",
+	"original_url":	"https://github.com/misyltoad/frog_utf",
+	"description":	"Single file C header for UTF-x-to-y conversions + helpers",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051917,
+	"updated_at":	1787063962
+}

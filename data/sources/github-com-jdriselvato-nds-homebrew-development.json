@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-jdriselvato-nds-homebrew-development",
+	"original_url":	"https://github.com/jdriselvato/NDS-Homebrew-Development",
+	"description":	"My research for developing on the Nintendo DS",
+	"language":	"Lua",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052518,
+	"updated_at":	1787052518
+}

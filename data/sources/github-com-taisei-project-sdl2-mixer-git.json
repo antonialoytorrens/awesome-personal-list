@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-taisei-project-sdl2-mixer-git",
+	"original_url":	"https://github.com/taisei-project/SDL2_mixer.git",
+	"description":	"Taisei-specific mirror of https://hg.libsdl.org/SDL_mixer/",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054855,
+	"updated_at":	1787063964
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-picodrive-git",
+	"original_url":	"https://github.com/EmulatorJS/picodrive.git",
+	"description":	"Fast MegaDrive/MegaCD/32X emulator",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052155,
+	"updated_at":	1787063961
+}

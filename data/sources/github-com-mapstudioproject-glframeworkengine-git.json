@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-mapstudioproject-glframeworkengine-git",
+  "original_url": "https://github.com/MapStudioProject/GLFrameworkEngine.git",
+  "description": "OpenGL framework for 3D editors. This includes transform tools, cameras, selection handling, and much more.",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052435,
+  "updated_at": 1787052435
+}

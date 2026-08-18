@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-averne-spacecadetpinball-nx",
+	"original_url":	"https://github.com/averne/SpaceCadetPinball-NX",
+	"description":	"Decompilation of 3D Pinball for Switch â Space Cadet",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052568,
+	"updated_at":	1787052568
+}

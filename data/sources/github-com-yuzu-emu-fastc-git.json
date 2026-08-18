@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-yuzu-emu-fastc-git",
+  "original_url": "https://github.com/yuzu-emu/FasTC.git",
+  "description": "A fast texture compressor for various formats",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787055070,
+  "updated_at": 1787055070
+}

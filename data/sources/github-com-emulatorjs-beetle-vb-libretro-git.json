@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-beetle-vb-libretro-git",
+	"original_url":	"https://github.com/EmulatorJS/beetle-vb-libretro.git",
+	"description":	"Standalone hard fork of Mednafen VB to libretro.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052148,
+	"updated_at":	1787063961
+}

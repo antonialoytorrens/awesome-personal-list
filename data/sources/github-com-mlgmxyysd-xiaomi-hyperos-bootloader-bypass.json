@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mlgmxyysd-xiaomi-hyperos-bootloader-bypass",
+	"original_url":	"https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+	"description":	"A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
+	"language":	"PHP",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051776,
+	"updated_at":	1787063969
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-stewmath-gameyob",
+	"original_url":	"https://github.com/Stewmath/GameYob",
+	"description":	"[Super] Gameboy [Color] emulator for the Nintendo [3]DS",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052509,
+	"updated_at":	1787052509
+}

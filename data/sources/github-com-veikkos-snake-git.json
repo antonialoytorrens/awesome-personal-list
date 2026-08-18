@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-veikkos-snake-git",
+	"original_url":	"https://github.com/veikkos/snake.git",
+	"description":	"Snake game with SDL and GBA ports",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053265,
+	"updated_at":	1787063964
+}

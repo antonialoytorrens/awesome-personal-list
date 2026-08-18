@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-cavv-dev-nds-curl",
+	"original_url":	"https://github.com/cavv-dev/nds-curl",
+	"description":	"curl and wolfssl libraries for Nintendo DS(i)",
+	"language":	"Shell",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052521,
+	"updated_at":	1787052521
+}

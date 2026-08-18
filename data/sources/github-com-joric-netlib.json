@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-joric-netlib",
+	"original_url":	"https://github.com/joric/netlib",
+	"description":	"My very own C/C++ network code library",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	1,
+	"swh_checked_at":	1787043209,
+	"created_at":	1787051686,
+	"updated_at":	1787063961
+}

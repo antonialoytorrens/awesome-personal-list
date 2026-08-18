@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-bevyengine-disqualified-git",
+  "original_url": "https://github.com/bevyengine/disqualified.git",
+  "description": "Lazily shortens a \"fully qualified\" Rust type name to remove all module paths.",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051818,
+  "updated_at": 1787051818
+}

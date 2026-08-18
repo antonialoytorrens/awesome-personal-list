@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-siemens-mobile-hacks-elfloader3-git",
+	"original_url":	"https://github.com/siemens-mobile-hacks/elfloader3.git",
+	"description":	"Actual sources of the Elfloader 3.x",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054141,
+	"updated_at":	1787063963
+}

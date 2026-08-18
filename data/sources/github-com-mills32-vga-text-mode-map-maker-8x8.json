@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mills32-vga-text-mode-map-maker-8x8",
+	"original_url":	"https://github.com/mills32/VGA_Text_Mode_Map_MAKER_8x8",
+	"description":	"A map maker for VGA text mode. Only for 8x8 cell modes.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052095,
+	"updated_at":	1787063962
+}

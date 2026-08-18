@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-simple2d-chipmunk-demo-git",
+	"original_url":	"https://github.com/simple2d/chipmunk_demo.git",
+	"description":	":chipmunk: A physics demo using Chipmunk",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054171,
+	"updated_at":	1787063963
+}

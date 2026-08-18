@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-antoniorand-randys-engine",
+	"original_url":	"https://github.com/antoniorand/Randys_Engine",
+	"description":	"My first Rendering Engine",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051745,
+	"updated_at":	1787051745
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-heyigor-minibae",
+	"original_url":	"https://github.com/heyigor/miniBAE",
+	"description":	"The platform-neutral Beatnik Audio Engine, Mini Edition (miniBAE) is an exceptionally mature, well-rounded, and reliable computer music and sound system specially customized for small-footprint and embedded applications.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052333,
+	"updated_at":	1787063961
+}

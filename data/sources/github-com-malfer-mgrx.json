@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-malfer-mgrx",
+	"original_url":	"https://github.com/malfer/mgrx",
+	"description":	"A 2D graphics library in C for DOS, Linux console, Linux X11, Linux Wayland & W32. It Includes GrGUI, a mini Graphics User Interface specifically designed for MGRX",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051867,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ands-sproutline",
+	"original_url":	"https://github.com/ands/sproutline",
+	"description":	"A small single-file library for sprite outline extraction and simplification for C/C++",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051874,
+	"updated_at":	1787063960
+}

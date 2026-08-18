@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-prebuilt-mpr-old-v2-git",
+  "original_url": "https://github.com/makedeb/prebuilt-mpr-old-v2.git",
+  "description": "APT repository for prebuilt MPR packages",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052422,
+  "updated_at": 1787052422
+}

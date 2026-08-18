@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kolibrios-kolibri-libc-git",
+	"original_url":	"https://github.com/KolibriOS/kolibri-libc.git",
+	"description":	"Trying to create a native (ANSI C) libc for KolibriOS .",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052356,
+	"updated_at":	1787063961
+}

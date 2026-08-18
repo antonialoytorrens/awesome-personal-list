@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-epicpkmn11-wordleds",
+	"original_url":	"https://github.com/Epicpkmn11/WordleDS",
+	"description":	"A clone of Wordle for the Nintendo DS(i)",
+	"language":	"C++",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052515,
+	"updated_at":	1787052515
+}

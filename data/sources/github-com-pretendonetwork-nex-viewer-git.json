@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-nex-viewer-git",
+  "original_url": "https://github.com/PretendoNetwork/nex-viewer.git",
+  "description": "Utility for parsing and (eventually) viewing NEX connections from WireShark network dumps",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054016,
+  "updated_at": 1787054016
+}

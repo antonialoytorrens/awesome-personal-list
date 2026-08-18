@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-ryujinx-ryujinx-mako-git",
+  "original_url": "https://github.com/Ryujinx/Ryujinx-Mako.git",
+  "description": "A custom GitHub App to aid Ryujinx with project management and moderation",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053250,
+  "updated_at": 1787053250
+}

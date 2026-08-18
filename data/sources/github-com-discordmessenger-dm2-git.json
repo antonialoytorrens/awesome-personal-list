@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-discordmessenger-dm2-git",
+  "original_url": "https://github.com/DiscordMessenger/dm2.git",
+  "description": "This is a test fork of Discord Messenger. In here I plan to test a frontend-backend split. This most likely won't be integrated with DM itself.",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052060,
+  "updated_at": 1787052060
+}

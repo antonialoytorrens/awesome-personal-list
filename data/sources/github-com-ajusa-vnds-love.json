@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-ajusa-vnds-love",
+	"original_url":	"https://github.com/ajusa/VNDS-LOVE",
+	"description":	"A visual novel player for Windows, Mac, Linux, and the Nintendo Switch",
+	"language":	"MoonScript",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052514,
+	"updated_at":	1787052514
+}

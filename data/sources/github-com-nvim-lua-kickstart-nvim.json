@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-nvim-lua-kickstart-nvim",
+  "original_url": "https://github.com/nvim-lua/kickstart.nvim",
+  "description": "A launch point for your personal nvim configuration",
+  "language": "Lua",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054971,
+  "updated_at": 1787054971
+}

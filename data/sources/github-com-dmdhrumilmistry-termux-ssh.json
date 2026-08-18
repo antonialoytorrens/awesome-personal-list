@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-dmdhrumilmistry-termux-ssh",
+  "original_url": "https://github.com/dmdhrumilmistry/Termux-SSH",
+  "description": "Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.",
+  "language": "Python",
+  "categories": [],
+  "notes": "",
+  "swh_status": 2,
+  "swh_checked_at": 1787043210,
+  "created_at": 1787051687,
+  "updated_at": 1787051687
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mcclure-bitbucket-backup",
+	"original_url":	"https://github.com/mcclure/bitbucket-backup",
+	"description":	"One checkout from each of my old BitBucket repos.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051723,
+	"updated_at":	1787063962
+}

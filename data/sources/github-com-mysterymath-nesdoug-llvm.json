@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-mysterymath-nesdoug-llvm",
+	"original_url":	"https://github.com/mysterymath/nesdoug-llvm",
+	"description":	"Port of the nesdoug NES tutorials to llvm-mos",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052410,
+	"updated_at":	1787063962
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-makedeb-makedeb-git",
+  "original_url": "https://github.com/makedeb/makedeb.git",
+  "description": "A simplicity-focused packaging tool for Debian archives",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052416,
+  "updated_at": 1787052416
+}

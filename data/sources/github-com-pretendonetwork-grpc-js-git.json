@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-grpc-js-git",
+  "original_url": "https://github.com/PretendoNetwork/grpc-js.git",
+  "description": "Compiled protobuf files for use with NodeJS using nice-grpc",
+  "language": "JavaScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054027,
+  "updated_at": 1787054027
+}

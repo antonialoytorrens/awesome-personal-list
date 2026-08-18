@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-dragonminded-libdragon",
+	"original_url":	"https://github.com/DragonMinded/libdragon",
+	"description":	"Open source library for N64 development.",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052487,
+	"updated_at":	1787063960
+}

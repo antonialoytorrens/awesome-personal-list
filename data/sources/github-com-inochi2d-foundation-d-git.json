@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-inochi2d-foundation-d-git",
+  "original_url": "https://github.com/Inochi2D/foundation-d.git",
+  "description": "Incomplete D bindings for Foundation.framework on macOS",
+  "language": "D",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052296,
+  "updated_at": 1787052296
+}

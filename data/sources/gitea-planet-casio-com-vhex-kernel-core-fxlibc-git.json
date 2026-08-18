@@ -1,0 +1,12 @@
+{
+	"slug":	"gitea-planet-casio-com-vhex-kernel-core-fxlibc-git",
+	"original_url":	"https://gitea.planet-casio.com/Vhex-Kernel-Core/fxlibc.git",
+	"description":	"a C standard library for fx Casio calculators",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051931,
+	"updated_at":	1787063960
+}

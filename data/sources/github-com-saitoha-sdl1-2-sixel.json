@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-saitoha-sdl1-2-sixel",
+	"original_url":	"https://github.com/saitoha/SDL1.2-SIXEL",
+	"description":	"SDL 1.2 with libsixel based video driver",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	1,
+	"swh_checked_at":	1787043231,
+	"created_at":	1787051705,
+	"updated_at":	1787063963
+}

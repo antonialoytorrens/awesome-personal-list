@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-nathanguilhot-vnes-engine",
+	"original_url":	"https://github.com/NathanGuilhot/VNES_Engine",
+	"description":	"a visual novel engine in C for the NES",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052534,
+	"updated_at":	1787063962
+}

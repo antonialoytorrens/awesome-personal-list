@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-urv-biogei-syntacticalanalyzer-git",
+	"original_url":	"https://github.com/URV-BioGEI/SyntacticalAnalyzer.git",
+	"description":	"Finite Automata Syntactical Analyzer: BISON",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054958,
+	"updated_at":	1787063964
+}

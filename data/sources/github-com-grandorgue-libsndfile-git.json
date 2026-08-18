@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-grandorgue-libsndfile-git",
+	"original_url":	"https://github.com/GrandOrgue/libsndfile.git",
+	"description":	"A C library for reading and writing sound files containing sampled audio data.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052266,
+	"updated_at":	1787063961
+}

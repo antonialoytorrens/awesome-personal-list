@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-nomade040-nmd",
+	"original_url":	"https://github.com/Nomade040/nmd",
+	"description":	"set of single-header libraries for C/C++. The code is far from finished but some parts are quite usable.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051853,
+	"updated_at":	1787063962
+}

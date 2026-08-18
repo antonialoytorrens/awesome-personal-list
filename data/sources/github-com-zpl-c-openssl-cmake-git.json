@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-zpl-c-openssl-cmake-git",
+	"original_url":	"https://github.com/zpl-c/openssl-cmake.git",
+	"description":	"Build OpenSSL with CMake on MacOS, Win32, Win64 and cross compile for Android, IOS",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055101,
+	"updated_at":	1787063964
+}

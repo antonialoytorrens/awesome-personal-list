@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-discourse-docker-git",
+  "original_url": "https://github.com/PretendoNetwork/discourse-docker.git",
+  "description": "Pretendo instance of discourse-docker, to make it a little more friendly to deploy as a container",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054066,
+  "updated_at": 1787054066
+}

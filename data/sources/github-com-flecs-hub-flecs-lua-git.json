@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-flecs-hub-flecs-lua-git",
+	"original_url":	"https://github.com/flecs-hub/flecs-lua.git",
+	"description":	"Lua script host for flecs",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052201,
+	"updated_at":	1787063961
+}

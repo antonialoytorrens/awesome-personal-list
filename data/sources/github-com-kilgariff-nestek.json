@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-kilgariff-nestek",
+	"original_url":	"https://github.com/kilgariff/nestek",
+	"description":	"NESTEK - Simple emulator that lets you distribute your NES game on Windows!",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052539,
+	"updated_at":	1787063961
+}

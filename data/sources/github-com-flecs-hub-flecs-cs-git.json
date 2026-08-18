@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-flecs-hub-flecs-cs-git",
+  "original_url": "https://github.com/flecs-hub/flecs-cs.git",
+  "description": "Automatically updated C# bindings for flecs https://github.com/SanderMertens/flecs with native dynamic link libraries.",
+  "language": "C#",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052204,
+  "updated_at": 1787052204
+}

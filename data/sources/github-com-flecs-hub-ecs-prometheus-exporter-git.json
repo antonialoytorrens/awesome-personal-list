@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-flecs-hub-ecs-prometheus-exporter-git",
+	"original_url":	"https://github.com/flecs-hub/ecs_prometheus_exporter.git",
+	"description":	"Demonstrate how to use the Flecs Prometheus exporter",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052198,
+	"updated_at":	1787063961
+}

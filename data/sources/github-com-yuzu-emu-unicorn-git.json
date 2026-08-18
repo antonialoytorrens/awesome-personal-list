@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-yuzu-emu-unicorn-git",
+	"original_url":	"https://github.com/yuzu-emu/unicorn.git",
+	"description":	"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055069,
+	"updated_at":	1787063964
+}

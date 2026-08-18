@@ -1,0 +1,12 @@
+{
+	"slug":	"salsa-debian-org-gnome-team-gegl",
+	"original_url":	"https://salsa.debian.org/gnome-team/gegl",
+	"description":	"Debian packaging for gegl",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787053921,
+	"updated_at":	1787063965
+}

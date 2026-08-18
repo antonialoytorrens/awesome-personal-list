@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-z88dk-regex-git",
+	"original_url":	"https://github.com/z88dk/regex.git",
+	"description":	"Fork of garyhouston fork of Henry Spencer's BSD regular expression library.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787055088,
+	"updated_at":	1787063964
+}

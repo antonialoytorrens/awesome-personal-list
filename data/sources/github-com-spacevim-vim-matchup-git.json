@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-spacevim-vim-matchup-git",
+  "original_url": "https://github.com/SpaceVim/vim-matchup.git",
+  "description": "vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement",
+  "language": "Vim Script",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054300,
+  "updated_at": 1787054300
+}

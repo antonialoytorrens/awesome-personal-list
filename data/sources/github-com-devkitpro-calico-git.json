@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-devkitpro-calico-git",
+	"original_url":	"https://github.com/devkitPro/calico.git",
+	"description":	"RTOS-like bare metal platform support library for Nintendo GBA and DS(i)",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052049,
+	"updated_at":	1787063960
+}

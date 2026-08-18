@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pd-rs-ili9341-rs-git",
+  "original_url": "https://github.com/pd-rs/ili9341-rs.git",
+  "description": "A WIP, no_std, generic driver for the ILI9341 (and ILI9340C) TFT LCD display",
+  "language": "Rust",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787053940,
+  "updated_at": 1787053940
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-sysprog21-concurrent-programs-git",
+	"original_url":	"https://github.com/sysprog21/concurrent-programs.git",
+	"description":	"Complementary Concurrency Programs for course \"Linux Kernel Internals\"",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054833,
+	"updated_at":	1787063963
+}

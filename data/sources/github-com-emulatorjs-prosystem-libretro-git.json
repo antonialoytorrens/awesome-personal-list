@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-prosystem-libretro-git",
+	"original_url":	"https://github.com/EmulatorJS/prosystem-libretro.git",
+	"description":	"Port of ProSystem to the libretro API.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052152,
+	"updated_at":	1787063961
+}

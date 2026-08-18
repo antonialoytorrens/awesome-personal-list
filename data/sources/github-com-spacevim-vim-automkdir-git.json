@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-spacevim-vim-automkdir-git",
+  "original_url": "https://github.com/SpaceVim/vim-automkdir.git",
+  "description": "Really simple plugin to automatically create directories when saving files",
+  "language": "Vim Script",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054300,
+  "updated_at": 1787054300
+}

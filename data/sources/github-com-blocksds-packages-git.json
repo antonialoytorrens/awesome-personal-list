@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-blocksds-packages-git",
+  "original_url": "https://github.com/blocksds/packages.git",
+  "description": "Pacman packages of BlocksDS",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051828,
+  "updated_at": 1787051828
+}

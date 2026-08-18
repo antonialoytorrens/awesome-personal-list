@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-tencent-rapidjson",
+  "original_url": "https://github.com/Tencent/rapidjson",
+  "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051962,
+  "updated_at": 1787051962
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pacstall-pacstall-qa-git",
+  "original_url": "https://github.com/pacstall/pacstall-qa.git",
+  "description": "A tool to easily test pacscripts from PRs locally",
+  "language": "Nushell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052631,
+  "updated_at": 1787052631
+}

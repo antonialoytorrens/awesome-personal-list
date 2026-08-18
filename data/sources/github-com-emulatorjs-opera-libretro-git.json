@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-opera-libretro-git",
+	"original_url":	"https://github.com/EmulatorJS/opera-libretro.git",
+	"description":	"Port of 4DO/libfreedo to libretro.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052151,
+	"updated_at":	1787063961
+}

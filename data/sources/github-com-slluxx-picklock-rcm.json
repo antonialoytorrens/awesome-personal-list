@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-slluxx-picklock-rcm",
+	"original_url":	"https://github.com/Slluxx/Picklock_RCM",
+	"description":	"Nintendo Switch encryption key derivation bare metal RCM payload (originally made by shchmue)",
+	"language":	"C",
+	"categories":	["homebrew-console"],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052565,
+	"updated_at":	1787063963
+}

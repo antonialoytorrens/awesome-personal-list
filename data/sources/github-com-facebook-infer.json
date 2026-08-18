@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-facebook-infer",
+  "original_url": "https://github.com/facebook/infer",
+  "description": "A static analyzer for Java, C, C++, and Objective-C",
+  "language": "OCaml",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051914,
+  "updated_at": 1787051914
+}

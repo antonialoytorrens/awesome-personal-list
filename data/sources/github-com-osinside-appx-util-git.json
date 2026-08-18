@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-osinside-appx-util-git",
+  "original_url": "https://github.com/OSInside/appx-util.git",
+  "description": "Utility to create Microsoft .appx packages",
+  "language": "C++",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052615,
+  "updated_at": 1787052615
+}

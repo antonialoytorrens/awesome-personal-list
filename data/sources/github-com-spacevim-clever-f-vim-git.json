@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-spacevim-clever-f-vim-git",
+  "original_url": "https://github.com/SpaceVim/clever-f.vim.git",
+  "description": "Extended f, F, t and T key mappings for Vim.",
+  "language": "Vim Script",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054299,
+  "updated_at": 1787054299
+}

@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-siemens-mobile-hacks-sie-pit-viewer-git",
+	"original_url":	"https://github.com/siemens-mobile-hacks/sie_pit_viewer.git",
+	"description":	"Siemens PIT viewer",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054153,
+	"updated_at":	1787063963
+}

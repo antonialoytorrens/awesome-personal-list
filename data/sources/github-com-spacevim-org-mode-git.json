@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-spacevim-org-mode-git",
+  "original_url": "https://github.com/SpaceVim/org-mode.git",
+  "description": "org-mode for spacevim",
+  "language": "Vim Script",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054293,
+  "updated_at": 1787054293
+}

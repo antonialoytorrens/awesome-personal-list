@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-nintendo-file-formats-git",
+  "original_url": "https://github.com/PretendoNetwork/nintendo-file-formats.git",
+  "description": "TypeScript library for interacting with several Nintendo file formats across various consoles",
+  "language": "TypeScript",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054046,
+  "updated_at": 1787054046
+}

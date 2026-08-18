@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-likle-cwalk",
+	"original_url":	"https://github.com/likle/cwalk",
+	"description":	"Path library for C/C++. Cross-Platform for Linux, FreeBSD, Windows and MacOS. Supports UNIX and Windows path styles on those platforms.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051916,
+	"updated_at":	1787063962
+}

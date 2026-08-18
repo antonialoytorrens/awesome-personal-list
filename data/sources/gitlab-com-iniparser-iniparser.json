@@ -1,0 +1,12 @@
+{
+	"slug":	"gitlab-com-iniparser-iniparser",
+	"original_url":	"https://gitlab.com/iniparser/iniparser",
+	"description":	"ini file parser",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787051904,
+	"updated_at":	1787063964
+}

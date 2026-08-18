@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-r-anime-db-backup-git",
+  "original_url": "https://github.com/r-anime/db_backup.git",
+  "description": "A Go script to backup the DB",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054106,
+  "updated_at": 1787054106
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-pq-extended-git",
+  "original_url": "https://github.com/PretendoNetwork/pq-extended.git",
+  "description": "Extended `pq` Go module to add support for types not officially supported by PostgreSQL",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054043,
+  "updated_at": 1787054043
+}

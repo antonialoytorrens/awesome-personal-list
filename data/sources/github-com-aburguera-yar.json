@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-aburguera-yar",
+  "original_url": "https://github.com/aburguera/YAR",
+  "description": "A basic Raycaster coded in MC68000 assembly language using the EASy68K environment. It is aimed at providing students an example of medium-to-high complexity code.",
+  "language": "Assembly",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787051758,
+  "updated_at": 1787051758
+}

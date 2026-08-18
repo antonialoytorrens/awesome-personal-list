@@ -1,0 +1,1 @@
+Instead of raising an alert, now HTML supports modals. You should try to replace app.js alert with native html modals.

@@ -1,0 +1,12 @@
+{
+  "slug": "gitlab-com-knurd42-kcbench-git",
+  "original_url": "https://gitlab.com/knurd42/kcbench.git",
+  "description": "Linux kernel compile benchmark",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052406,
+  "updated_at": 1787052406
+}

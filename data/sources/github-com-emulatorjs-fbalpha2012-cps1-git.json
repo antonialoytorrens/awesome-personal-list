@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-fbalpha2012-cps1-git",
+	"original_url":	"https://github.com/EmulatorJS/fbalpha2012_cps1.git",
+	"description":	"Final Burn Alpha 2012. Port of Final Burn Alpha to Libretro (0.2.97.24). Standalone core for Capcom CPS1.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052158,
+	"updated_at":	1787063961
+}

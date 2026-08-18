@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-pretendonetwork-nex-protocols-common-go-git",
+  "original_url": "https://github.com/PretendoNetwork/nex-protocols-common-go.git",
+  "description": "Reusable implementations of NEX methods found in many servers",
+  "language": "Go",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054024,
+  "updated_at": 1787054024
+}

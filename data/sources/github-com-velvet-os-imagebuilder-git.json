@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-velvet-os-imagebuilder-git",
+  "original_url": "https://github.com/velvet-os/imagebuilder.git",
+  "description": "velvet os - simple script framework to build debian 13 trixie (in older versions also 12/bookworm, 11/bullseye and some ubuntu) bootable usb / sd card images for some arm and intel devices - lots of prebuilt images as well",
+  "language": "Shell",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054962,
+  "updated_at": 1787054962
+}

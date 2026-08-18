@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-emulatorjs-beetle-wswan-libretro-git",
+	"original_url":	"https://github.com/EmulatorJS/beetle-wswan-libretro.git",
+	"description":	"Standalone hard fork of Mednafen WonderSwan to libretro, itself a fork of Cygne",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787052162,
+	"updated_at":	1787063961
+}

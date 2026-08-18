@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-enigma-game-enigma-testlevels-git",
+  "original_url": "https://github.com/Enigma-Game/Enigma-Testlevels.git",
+  "description": "A set of test levels for the development version, this levelpack works without index, just checkout to the 'levels' subdirectory of your Enigma userdata path aside the 'auto' folder",
+  "language": "",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787052171,
+  "updated_at": 1787052171
+}

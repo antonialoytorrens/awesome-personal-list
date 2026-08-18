@@ -1,0 +1,12 @@
+{
+  "slug": "github-com-webosbrew-sample-media-qmlvideo-git",
+  "original_url": "https://github.com/webosbrew/sample-media-qmlvideo.git",
+  "description": "Simple demo for displaying video in QML with hardware acceleration on webOS TVs",
+  "language": "CMake",
+  "categories": [],
+  "notes": "",
+  "swh_status": 0,
+  "swh_checked_at": 0,
+  "created_at": 1787054985,
+  "updated_at": 1787054985
+}

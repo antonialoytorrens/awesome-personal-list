@@ -1,0 +1,12 @@
+{
+	"slug":	"github-com-pspdev-pspsdk-git",
+	"original_url":	"https://github.com/pspdev/pspsdk.git",
+	"description":	"An open-source SDK for PSP homebrew development.",
+	"language":	"C",
+	"categories":	[],
+	"notes":	"",
+	"swh_status":	0,
+	"swh_checked_at":	0,
+	"created_at":	1787054073,
+	"updated_at":	1787063963
+}
