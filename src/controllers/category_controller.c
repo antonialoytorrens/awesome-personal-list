@@ -175,15 +175,22 @@ route_category_get(ecewo_request_t *req, ecewo_response_t *res)
 		/* c.slug is already restricted to [A-Za-z0-9._-] by v_slug()
 		 * at creation time; escaped here regardless, on general
 		 * principle for anything landing in an href. */
-		wbuf_init(&del, 256);
+		wbuf_init(&del, 512);
 		buf_lit(&del, "<form class=\"form-danger\" method=\"post\" "
 		    "action=\"/categories/");
 		html_escape(&del, c.slug, strlen(c.slug));
-		buf_lit(&del, "\" data-confirm=\"[[category_form.confirm_delete]]\">\n"
+		buf_lit(&del, "\">\n"
 		    "<input type=\"hidden\" name=\"csrf\" value=\"$CSRF$\">\n"
 		    "<input type=\"hidden\" name=\"_method\" value=\"delete\">\n"
-		    "<button type=\"submit\" class=\"btn btn-danger\">"
-		    "[[actions.delete]]</button>\n</form>\n");
+		    "<details class=\"confirm\">\n"
+		    "<summary class=\"btn btn-danger\">"
+		    "<span class=\"when-closed\">[[actions.delete]]</span>"
+		    "<span class=\"when-open\">[[actions.cancel]]</span></summary>\n"
+		    "<div class=\"confirm-pop confirm-pop--left\">\n"
+		    "<p>[[category_form.confirm_delete]]</p>\n"
+		    "<button type=\"submit\" class=\"btn btn-sm btn-danger\">"
+		    "[[actions.confirm_delete]]</button>\n"
+		    "</div>\n</details>\n</form>\n");
 		view_set_raw(v, "DELETE_FORM", del.data, del.offset);
 		wbuf_cleanup(&del);
 	}

@@ -6,7 +6,6 @@
 <title>$TITLE$ · awesome-personal-list</title>
 <link rel="stylesheet" href="/public/style.css">
 <link rel="stylesheet" href="/categories.css">
-<script src="/public/app.js" defer></script>
 </head>
 <body class="$BODY_CLASS$">
 <header class="site">
@@ -16,16 +15,13 @@
 awesome-personal-list
 </a>
 <nav class="tabs">
-<a href="/sources">[[nav.sources]]</a>
-<a href="/sources/new">[[nav.new_source]]</a>
-<a href="/categories">[[nav.categories]]</a>
-<a href="/README.md">[[nav.readme]]</a>
+$NAV$
 </nav>
 <div class="nav-right">
 <form class="inline" method="post" action="/lang">
 <input type="hidden" name="next" value="$CURRENT_PATH$">
 <input type="hidden" name="csrf" value="$CSRF$">
-<select name="lang" class="lang-select-auto">$LANG_OPTIONS$</select>
+$LANG_BUTTONS$
 </form>
 <a class="who" href="/profile">$USER$</a>
 <form class="inline" method="post" action="/logout"><input type="hidden" name="csrf" value="$CSRF$"><button type="submit" class="btn btn-ghost">[[nav.logout]]</button></form>
@@ -35,12 +31,5 @@ awesome-personal-list
 <main class="page">
 $BODY$
 </main>
-<dialog id="confirm-dialog" class="confirm-dialog">
-<p id="confirm-message"></p>
-<form method="dialog" class="confirm-actions">
-<button type="submit" value="cancel" class="btn btn-ghost">[[actions.cancel]]</button>
-<button type="submit" value="confirm" class="btn btn-danger" autofocus>[[actions.confirm]]</button>
-</form>
-</dialog>
 </body>
 </html>

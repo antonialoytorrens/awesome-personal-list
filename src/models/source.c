@@ -29,6 +29,7 @@ source_to_json(const struct source *s)
 
 	root = cJSON_CreateObject();
 	cJSON_AddStringToObject(root, "slug", s->slug);
+	cJSON_AddStringToObject(root, "name", s->name);
 	cJSON_AddStringToObject(root, "original_url", s->original_url);
 	cJSON_AddStringToObject(root, "description", s->description);
 	cJSON_AddStringToObject(root, "language", s->language);
@@ -76,6 +77,7 @@ source_from_json(cJSON *root, struct source *out)
 	memset(out, 0, sizeof(*out));
 
 	json_str(root, "slug", out->slug, sizeof(out->slug));
+	json_str(root, "name", out->name, sizeof(out->name));
 	json_str(root, "original_url", out->original_url,
 	    sizeof(out->original_url));
 	json_str(root, "description", out->description,
@@ -239,6 +241,14 @@ source_exists_for_url(const char *url, struct source *out)
 		*out = s;
 
 	return (0);
+}
+
+/* The name shown for a source everywhere it's listed: the owner's override
+ * if they've set one, else derived from the URL as always. */
+const char *
+source_display_name(const struct source *s)
+{
+	return (s->name[0] != '\0' ? s->name : repo_display_name(s->original_url));
 }
 
 int

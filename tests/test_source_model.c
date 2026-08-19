@@ -206,11 +206,44 @@ static void test_source_categories_persisted(void)
 	TEST_ASSERT_TRUE(source_has_category(&out, "sdl"));
 }
 
+static void test_source_display_name_falls_back_when_unset(void)
+{
+	struct source	s;
+
+	make_source(&s, "https://github.com/user/repo", "", "");
+	TEST_ASSERT_EQUAL_STRING("repo", source_display_name(&s));
+}
+
+static void test_source_display_name_uses_override(void)
+{
+	struct source	s;
+
+	make_source(&s, "https://github.com/user/repo", "", "");
+	str_lcpy(s.name, "My Cool Project", sizeof(s.name));
+	TEST_ASSERT_EQUAL_STRING("My Cool Project", source_display_name(&s));
+}
+
+static void test_source_name_persisted(void)
+{
+	struct source	in, out;
+
+	make_source(&in, "https://github.com/user/named", "", "");
+	str_lcpy(in.name, "Custom Name", sizeof(in.name));
+	source_write(&in);
+
+	memset(&out, 0, sizeof(out));
+	source_read(in.slug, &out);
+	TEST_ASSERT_EQUAL_STRING("Custom Name", out.name);
+}
+
 int main(void)
 {
 	UNITY_BEGIN();
 
 	RUN_TEST(test_source_write_read_roundtrip);
+	RUN_TEST(test_source_display_name_falls_back_when_unset);
+	RUN_TEST(test_source_display_name_uses_override);
+	RUN_TEST(test_source_name_persisted);
 
 	RUN_TEST(test_source_list_empty);
 	RUN_TEST(test_source_list_two_sources);

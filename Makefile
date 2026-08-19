@@ -1,17 +1,21 @@
-.PHONY: all build run run-checker export clean help i18n-check test
+.PHONY: all build run run-swh-checker run-lang-checker export clean help i18n-check test
 
-APP     := awesome-personal-list
-CHECKER := awesome-personal-list-checker
-DEBUG   ?= 0
-BUILD   := .objs
+APP             := awesome-personal-list
+SWH_CHECKER     := awesome-personal-list-checker
+LANGCHECKER     := awesome-personal-list-lang-checker
+DEBUG           ?= 0
+BUILD           := .objs
 
-CORE_SRCS    := $(wildcard src/lib/*.c src/models/*.c)
-APP_SRCS     := $(CORE_SRCS) src/main.c $(wildcard src/views/*.c src/middleware/*.c src/controllers/*.c)
-CHECKER_SRCS := $(CORE_SRCS) src/checker_main.c
+CORE_SRCS        := $(wildcard src/lib/*.c src/models/*.c)
+APP_SRCS         := $(CORE_SRCS) src/main.c $(wildcard src/views/*.c src/middleware/*.c src/controllers/*.c)
+SWH_CHECKER_SRCS := $(CORE_SRCS) src/swh_checker_main.c
+LANGCHECKER_SRCS := $(CORE_SRCS) src/lang_checker_main.c
 
-APP_OBJS     := $(patsubst %.c,$(BUILD)/%.o,$(APP_SRCS))
-CHECKER_OBJS := $(patsubst %.c,$(BUILD)/%.o,$(CHECKER_SRCS))
-DEPS         := $(patsubst %.c,$(BUILD)/%.d,$(CORE_SRCS) src/main.c src/checker_main.c \
+APP_OBJS         := $(patsubst %.c,$(BUILD)/%.o,$(APP_SRCS))
+SWH_CHECKER_OBJS := $(patsubst %.c,$(BUILD)/%.o,$(SWH_CHECKER_SRCS))
+LANGCHECKER_OBJS := $(patsubst %.c,$(BUILD)/%.o,$(LANGCHECKER_SRCS))
+DEPS             := $(patsubst %.c,$(BUILD)/%.d,$(CORE_SRCS) src/main.c src/swh_checker_main.c \
+	src/lang_checker_main.c \
 	$(wildcard src/views/*.c src/middleware/*.c src/controllers/*.c))
 
 ECEWO_PKGS := ecewo ecewo-cookie ecewo-session ecewo-helmet ecewo-static
@@ -37,13 +41,16 @@ CFLAGS  += -Isrc/includes $(PKG_CFLAGS)
 
 all: build
 
-build: $(APP) $(CHECKER)
+build: $(APP) $(SWH_CHECKER) $(LANGCHECKER)
 
 $(APP): $(APP_OBJS)
 	$(CC) -o $@ $(APP_OBJS) $(PKG_LIBS) $(EXTRA_LIBS)
 
-$(CHECKER): $(CHECKER_OBJS)
-	$(CC) -o $@ $(CHECKER_OBJS) $(CURL_LIBS) $(CJSON_LIBS) $(EXTRA_LIBS)
+$(SWH_CHECKER): $(SWH_CHECKER_OBJS)
+	$(CC) -o $@ $(SWH_CHECKER_OBJS) $(CURL_LIBS) $(CJSON_LIBS) $(EXTRA_LIBS)
+
+$(LANGCHECKER): $(LANGCHECKER_OBJS)
+	$(CC) -o $@ $(LANGCHECKER_OBJS) $(CURL_LIBS) $(CJSON_LIBS) $(EXTRA_LIBS)
 
 $(BUILD)/%.o: %.c
 	@mkdir -p $(@D)
@@ -52,14 +59,17 @@ $(BUILD)/%.o: %.c
 run: build
 	set -a; . ./.env; set +a; ./$(APP)
 
-run-checker: $(CHECKER)
-	set -a; . ./.env; set +a; ./$(CHECKER)
+run-swh-checker: $(SWH_CHECKER)
+	set -a; . ./.env; set +a; ./$(SWH_CHECKER)
+
+run-lang-checker: $(LANGCHECKER)
+	set -a; . ./.env; set +a; ./$(LANGCHECKER)
 
 export: $(APP)
 	set -a; . ./.env; set +a; ./$(APP) export $${EXPORT_PATH:-AWESOME.md}
 
 clean:
-	rm -rf $(BUILD) $(APP) $(CHECKER)
+	rm -rf $(BUILD) $(APP) $(SWH_CHECKER) $(LANGCHECKER)
 
 # Every non-English locale/*.properties must define exactly the same key
 # set as locale/en.properties (the Weblate template). Pure grep/cut/sort/comm
@@ -86,12 +96,13 @@ i18n-check:
 	[ "$$ok" = 1 ]
 
 help:
-	@echo "build        compile ./$(APP) and ./$(CHECKER)   (DEBUG=1 for a debug build)"
-	@echo "run          build, then run the web app (sources .env)"
-	@echo "run-checker  build, then run the SWH checker once (sources .env)"
-	@echo "export       render AWESOME.md (or \$$EXPORT_PATH) from the current data"
-	@echo "i18n-check   diff each locale/*.properties' keys against en.properties"
-	@echo "clean        remove objects and both binaries"
+	@echo "build             compile ./$(APP), ./$(SWH_CHECKER), and ./$(LANGCHECKER)   (DEBUG=1 for a debug build)"
+	@echo "run               build, then run the web app (sources .env)"
+	@echo "run-swh-checker   build, then run the SWH checker once (sources .env)"
+	@echo "run-lang-checker  build, then run the language checker once (sources .env)"
+	@echo "export            render AWESOME.md (or \$$EXPORT_PATH) from the current data"
+	@echo "i18n-check        diff each locale/*.properties' keys against en.properties"
+	@echo "clean             remove objects and all three binaries"
 
 -include $(DEPS)
 

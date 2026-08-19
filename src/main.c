@@ -113,7 +113,10 @@ install_helmet(ecewo_app_t *app)
 	if ((h = ecewo_helmet_config_new()) == NULL)
 		return (-1);
 
-	ecewo_helmet_config_set_csp(h, "default-src 'self'");
+	/* The app ships no JavaScript at all -- every interaction is plain
+	 * HTML forms plus CSS. script-src 'none' makes that enforced rather
+	 * than merely conventional. */
+	ecewo_helmet_config_set_csp(h, "default-src 'self'; script-src 'none'");
 	ecewo_helmet_config_set_frame_options(h, "SAMEORIGIN");
 	ecewo_helmet_config_set_referrer_policy(h, "same-origin");
 	ecewo_helmet_config_set_nosniff(h, true);

@@ -1,11 +1,14 @@
 <div class="page-head">
-<h1 class="page-title">$ORIGINAL_URL$</h1>
-<p class="lede">[[swh.heading]] $SWH_STATUS$</p>
+<h1 class="page-title">$NAME$</h1>
+<p class="lede"><a href="$ORIGINAL_URL$">$ORIGINAL_URL$</a></p>
+<p class="lede">[[swh.heading]] $SWH_BADGE$</p>
 </div>
 
 <form class="form-card" method="post" action="/sources/$SLUG$">
 <input type="hidden" name="csrf" value="$CSRF$">
 <input type="hidden" name="_method" value="put">
+<label>[[fields.name]]<input type="text" name="name" value="$NAME_INPUT$" placeholder="$NAME_DEFAULT$"></label>
+<label>[[fields.original_url]]<input type="url" name="original_url" value="$ORIGINAL_URL$" required></label>
 <label>[[fields.description]]<textarea name="description" rows="2">$DESCRIPTION$</textarea></label>
 <label>[[fields.language]]<input type="text" name="language" value="$LANGUAGE$"></label>
 <label>[[fields.categories]]<div class="cats">$CATEGORY_OPTIONS$</div></label>
@@ -15,8 +18,14 @@
 </div>
 </form>
 
-<form class="form-danger" method="post" action="/sources/$SLUG$" data-confirm="[[source_form.confirm_delete]]">
+<form class="form-danger" method="post" action="/sources/$SLUG$">
 <input type="hidden" name="csrf" value="$CSRF$">
 <input type="hidden" name="_method" value="delete">
-<button type="submit" class="btn btn-danger">[[actions.delete]]</button>
+<details class="confirm">
+<summary class="btn btn-danger"><span class="when-closed">[[actions.delete]]</span><span class="when-open">[[actions.cancel]]</span></summary>
+<div class="confirm-pop confirm-pop--left">
+<p>[[source_form.confirm_delete]]</p>
+<button type="submit" class="btn btn-sm btn-danger">[[actions.confirm_delete]]</button>
+</div>
+</details>
 </form>

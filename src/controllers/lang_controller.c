@@ -49,6 +49,6 @@ route_lang_set(ecewo_request_t *req, ecewo_response_t *res)
 		str_lcpy(ctx->lang, lang, sizeof(ctx->lang));
 	}
 
-	form_free(&form);
 	view_redirect(res, url_is_safe_next(next) ? next : "/");
+	form_free(&form);
 }

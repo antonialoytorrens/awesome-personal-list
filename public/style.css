@@ -106,12 +106,28 @@ a:hover {
 	flex-wrap: wrap;
 }
 
-.brand {
+/*
+ * Every navbar item -- brand, tabs, user, language pills, log out -- shares
+ * one box height, one line-height and one font size, so they sit on a single
+ * baseline. Left to themselves each derived its own metrics from its font
+ * size and padding (24/33/21/28px boxes), which is what made the brand read
+ * as offset from the rest.
+ */
+.brand,
+.tabs a,
+.nav-right .who,
+.nav-right .lang-btn,
+.nav-right .btn {
 	display: inline-flex;
 	align-items: center;
+	min-height: 32px;
+	line-height: 20px;
+	font-size: 14px;
+}
+
+.brand {
 	gap: 8px;
 	font-weight: 600;
-	font-size: 16px;
 	color: var(--fg);
 	letter-spacing: -0.02em;
 }
@@ -136,7 +152,8 @@ a:hover {
 
 .tabs a {
 	color: var(--fg);
-	padding: 6px 10px;
+	padding: 0 10px;
+	border: 1px solid transparent;
 	border-radius: var(--radius);
 	font-weight: 500;
 }
@@ -145,6 +162,13 @@ a:hover {
 	background: var(--canvas);
 	text-decoration: none;
 	color: var(--fg);
+}
+
+.tabs a.is-active {
+	background: var(--accent-subtle);
+	border-color: var(--accent);
+	color: var(--accent);
+	font-weight: 600;
 }
 
 .nav-right {
@@ -157,6 +181,35 @@ a:hover {
 .who {
 	color: var(--muted);
 	font-weight: 500;
+}
+
+/*
+ * The language switcher is one submit button per locale rather than a
+ * <select>, which cannot submit itself without JavaScript. Same pill
+ * treatment as .pager-size, the app's other "pick one of these" control.
+ * These are type="submit", so the primary-button rule below has to exclude
+ * .lang-btn explicitly -- it outranks these on specificity otherwise, and
+ * every locale renders identically accent-filled.
+ */
+.lang-btn {
+	padding: 0 10px;
+	font-weight: 500;
+	color: var(--muted);
+	background: transparent;
+	border: 1px solid transparent;
+	border-radius: var(--radius-full);
+}
+
+.lang-btn:hover {
+	background: var(--canvas);
+	color: var(--fg);
+}
+
+.lang-btn.is-active {
+	background: var(--accent-subtle);
+	border-color: var(--accent);
+	color: var(--accent);
+	font-weight: 600;
 }
 
 form.inline {
@@ -312,6 +365,8 @@ body.guest .page {
 	background: var(--surface);
 	border: 1px solid var(--border);
 	border-radius: var(--radius);
+	/* Clips the selected-row tint to the card's rounded corners. */
+	overflow: hidden;
 	box-shadow: var(--shadow);
 }
 
@@ -321,8 +376,13 @@ body.guest .page {
 	align-items: center;
 	gap: 8px;
 	margin-bottom: 12px;
+	/* Matches .star's inline padding, so the toggle lines up with the row
+	 * checkboxes in the card below. */
+	padding: 8px 16px;
+	border-radius: var(--radius);
 }
 
+/* Overrides the global label rule: row instead of column, no top margin. */
 .select-all {
 	display: inline-flex;
 	flex-direction: row;
@@ -333,8 +393,137 @@ body.guest .page {
 	cursor: pointer;
 }
 
+.bulk-actions {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-left: auto;
+}
+
+/*
+ * The actions stay disabled until something is selected. CSS can't set the
+ * disabled attribute, so the toolbar ships an inert copy and a live copy and
+ * swaps which one is displayed -- display:none also drops the hidden copy out
+ * of the accessibility tree, and the inert copy's <select> is disabled, so it
+ * never reaches the request body.
+ */
+.bulk-actions--live {
+	display: none;
+}
+
+.bulk-form:has(.star-check:checked) .bulk-actions--live,
+.bulk-form:has(.all-check:checked) .bulk-actions--live {
+	display: flex;
+}
+
+.bulk-form:has(.star-check:checked) .bulk-actions--off,
+.bulk-form:has(.all-check:checked) .bulk-actions--off {
+	display: none;
+}
+
+.bulk-actions--off :disabled {
+	opacity: .5;
+	cursor: default;
+}
+
+/* Wording follows the scope toggle. revert, not inline, so a <span> stays
+ * inline and a <p> stays block. */
+.when-all {
+	display: none;
+}
+
+.bulk-form:has(.all-check:checked) .when-all {
+	display: revert;
+}
+
+.bulk-form:has(.all-check:checked) .when-page {
+	display: none;
+}
+
+/* "Everything matching" is the dangerous scope -- make it look like a mode.
+ * An inset outline rather than a border, so turning it on costs no layout. */
+.bulk-form:has(.all-check:checked) .bulk-toolbar {
+	background: var(--accent-subtle);
+	outline: 1px solid var(--accent);
+	outline-offset: -1px;
+}
+
+.star:has(.star-check:checked) {
+	background: var(--accent-subtle);
+}
+
 .star-check {
 	flex-shrink: 0;
+}
+
+/* ------------------------------------------------- inline delete confirm */
+
+/*
+ * Every destructive action confirms through this: a <details> disclosure,
+ * since the app ships no JavaScript and a <dialog> cannot open without it.
+ * The summary doubles as the cancel affordance, relabelling itself while open.
+ */
+.confirm {
+	position: relative;
+}
+
+.confirm > summary {
+	list-style: none;
+}
+
+.confirm > summary::-webkit-details-marker {
+	display: none;
+}
+
+.confirm > summary .when-open {
+	display: none;
+}
+
+.confirm[open] > summary .when-open {
+	display: inline;
+}
+
+.confirm[open] > summary .when-closed {
+	display: none;
+}
+
+.confirm-pop {
+	position: absolute;
+	right: 0;
+	top: calc(100% + 6px);
+	z-index: 5;
+	width: max-content;
+	max-width: 280px;
+	padding: 12px;
+	text-align: left;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	box-shadow: 0 8px 24px rgba(31, 35, 40, .2);
+}
+
+/* The bulk toolbar sits right-aligned, so its panel opens leftward. The
+ * delete forms are left-aligned blocks and need the mirror. */
+.confirm-pop--left {
+	right: auto;
+	left: 0;
+}
+
+.confirm-pop p {
+	margin: 0 0 10px;
+	font-size: 12px;
+}
+
+@media (max-width: 640px) {
+	.bulk-actions {
+		margin-left: 0;
+		width: 100%;
+	}
+
+	.bulk-actions select {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
 }
 
 /* ---------------------------------------------------------------- stars */
@@ -498,17 +687,27 @@ body.guest .page {
 	border: 1px solid transparent;
 }
 
-.badge-ok {
+/* Badges are links now (to the SWH origin page) -- keep their status color
+ * on hover instead of the generic a:hover accent tint. */
+.badge:hover {
+	text-decoration: none;
+	filter: brightness(0.95);
+}
+
+.badge-ok,
+.badge-ok:hover {
 	color: var(--success);
 	background: var(--success-subtle);
 }
 
-.badge-warn {
+.badge-warn,
+.badge-warn:hover {
 	color: var(--warning);
 	background: var(--warning-subtle);
 }
 
-.badge-muted {
+.badge-muted,
+.badge-muted:hover {
 	color: var(--muted);
 	background: var(--canvas);
 	border-color: var(--border);
@@ -735,14 +934,14 @@ button:hover,
 }
 
 .btn-primary,
-button[type="submit"]:not(.btn-ghost):not(.btn-danger) {
+button[type="submit"]:not(.btn-ghost):not(.btn-danger):not(.lang-btn) {
 	background: var(--accent);
 	border-color: var(--accent);
 	color: #fff;
 }
 
 .btn-primary:hover,
-button[type="submit"]:not(.btn-ghost):not(.btn-danger):hover {
+button[type="submit"]:not(.btn-ghost):not(.btn-danger):not(.lang-btn):hover {
 	background: var(--accent-hover);
 	border-color: var(--accent-hover);
 	color: #fff;
@@ -778,33 +977,6 @@ button.btn-danger:hover {
 
 .btn-block {
 	width: 100%;
-}
-
-/* ----------------------------------------------------------- confirm dialog */
-
-.confirm-dialog {
-	min-width: 280px;
-	max-width: 400px;
-	padding: 20px;
-	border: 1px solid var(--border);
-	border-radius: var(--radius);
-	background: var(--surface);
-	color: var(--fg);
-	box-shadow: 0 8px 24px rgba(31, 35, 40, .2);
-}
-
-.confirm-dialog::backdrop {
-	background: rgba(27, 31, 35, .5);
-}
-
-.confirm-dialog p {
-	margin: 0 0 16px;
-}
-
-.confirm-actions {
-	display: flex;
-	justify-content: flex-end;
-	gap: 8px;
 }
 
 /* ---------------------------------------------------------------- flashes */
