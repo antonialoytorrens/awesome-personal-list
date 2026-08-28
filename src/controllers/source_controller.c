@@ -130,11 +130,13 @@ render_swh_badge(struct wbuf *rows, const struct source *s, const char *lang)
 		break;
 	}
 
-	buf_lit(rows, "<span class=\"badge ");
-	buf_lit(rows, cls);
+	buf_lit(rows, "<a class=\"badge ");
+	wbuf_append(rows, cls, strlen(cls));
+	buf_lit(rows, "\" href=\"");
+	swh_browse_url(rows, s->original_url);
 	buf_lit(rows, "\">");
 	html_escape(rows, label, strlen(label));
-	buf_lit(rows, "</span>");
+	buf_lit(rows, "</a>");
 }
 
 /*
@@ -149,7 +151,7 @@ render_source_row(struct wbuf *rows, const struct source *s,
 	const char	*name, *host, *cname, *edit;
 	int		 i;
 
-	name = repo_display_name(s->original_url);
+	name = source_display_name(s);
 	host = url_host_path(s->original_url);
 	edit = i18n_t(lang, "actions.edit");
 
@@ -157,8 +159,8 @@ render_source_row(struct wbuf *rows, const struct source *s,
 	buf_lit(rows, "<input type=\"checkbox\" class=\"star-check\" name=\"slugs\" value=\"");
 	html_escape(rows, s->slug, strlen(s->slug));
 	buf_lit(rows, "\">\n");
-	buf_lit(rows, "<h3 class=\"star-name\"><a href=\"");
-	html_escape(rows, s->original_url, strlen(s->original_url));
+	buf_lit(rows, "<h3 class=\"star-name\"><a href=\"/sources/");
+	html_escape(rows, s->slug, strlen(s->slug));
 	buf_lit(rows, "\">");
 	html_escape(rows, name, strlen(name));
 	buf_lit(rows, "</a></h3>\n<a class=\"btn btn-sm btn-ghost\" href=\"/sources/");
@@ -286,9 +288,9 @@ static const size_t PAGE_SIZES[] = { 10, 20, 30, 50, 100, 200 };
 
 struct page_window {
 	size_t	start, end;	/* slice bounds into the filtered set, end exclusive */
-	size_t	per_page;	/* 0 means "all" */
-	size_t	page;		/* 1-indexed; meaningless when per_page == 0 */
-	size_t	total_pages;	/* meaningless when per_page == 0 */
+	size_t	per_page;	/* always one of PAGE_SIZES */
+	size_t	page;		/* 1-indexed */
+	size_t	total_pages;
 };
 
 static struct page_window
@@ -301,13 +303,10 @@ compute_page_window(ecewo_request_t *req, size_t total)
 	int			err;
 	long			v;
 
-	if (pp != NULL && !strcmp(pp, "all")) {
-		w.start = 0;
-		w.end = total;
-		w.page = w.total_pages = 1;
-		return (w);
-	}
-
+	/* Anything not in PAGE_SIZES -- including the retired "all" -- falls
+	 * back to the default rather than erroring, so old bookmarks still
+	 * resolve. The cap also keeps a full page of bulk checkboxes inside
+	 * FORM_MAX_FIELDS. */
 	w.per_page = DEFAULT_PAGE_SIZE;
 	if (pp != NULL) {
 		v = (long)str_tonum(pp, 10, 1, 100000, &err);
@@ -352,7 +351,6 @@ render_pagination(struct wbuf *out, const char *path, const char *extra_qs,
 	size_t		i;
 	const char	*prev = i18n_t(lang, "pager.prev");
 	const char	*next = i18n_t(lang, "pager.next");
-	const char	*all = i18n_t(lang, "pager.all");
 
 	buf_lit(out, "<div class=\"pager\">\n<div class=\"pager-sizes\">");
 	for (i = 0; i < PAGE_SIZES_COUNT; i++) {
@@ -362,15 +360,9 @@ render_pagination(struct wbuf *out, const char *path, const char *extra_qs,
 		    path, extra_qs != NULL ? extra_qs : "",
 		    extra_qs != NULL ? "&" : "", PAGE_SIZES[i], PAGE_SIZES[i]);
 	}
-	buf_lit(out, "<a class=\"pager-size");
-	if (w.per_page == 0)
-		buf_lit(out, " is-active");
-	wbuf_appendf(out, "\" href=\"%s?%s%sper_page=all\">", path,
-	    extra_qs != NULL ? extra_qs : "", extra_qs != NULL ? "&" : "");
-	html_escape(out, all, strlen(all));
-	buf_lit(out, "</a></div>\n");
+	buf_lit(out, "</div>\n");
 
-	if (w.per_page != 0 && w.total_pages > 1) {
+	if (w.total_pages > 1) {
 		buf_lit(out, "<div class=\"pager-nav\">");
 		if (w.page > 1) {
 			wbuf_appendf(out, "<a href=\"%s?%s%sper_page=%zu&page=%zu\">",
@@ -533,8 +525,8 @@ route_sources_list(ecewo_request_t *req, ecewo_response_t *res)
 	v = view_new("sources.html");
 	view_title(v, i18n_t(lang, "sources.title"));
 	view_setf(v, "LEDE", i18n_t(lang, "sources.lede_fmt"), nmatched);
-	view_setf(v, "BULK_ALL_LABEL", i18n_t(lang, "sources.bulk_all_label_fmt"),
-	    nmatched);
+	view_setf(v, "BULK_SELECT_ALL_LABEL",
+	    i18n_t(lang, "sources.bulk_select_all_matching_fmt"), nmatched);
 	view_setf(v, "BULK_ADD_ALL_LABEL",
 	    i18n_t(lang, "sources.bulk_add_category_all_fmt"), nmatched);
 	view_setf(v, "BULK_DELETE_ALL_LABEL",
@@ -564,14 +556,12 @@ route_source_get(ecewo_request_t *req, ecewo_response_t *res)
 {
 	struct source	 s;
 	struct category	*cats;
-	struct wbuf	 opts;
+	struct wbuf	 opts, badge;
 	size_t		 n;
 	int		 i;
 	const char	*sel[SOURCE_MAX_CATEGORIES];
 	struct view	*v;
 	const char	*slug, *lang;
-	int		 swh_status;
-	time_t		 swh_checked_at;
 
 	if (!require_auth(req, res))
 		return;
@@ -585,11 +575,6 @@ route_source_get(ecewo_request_t *req, ecewo_response_t *res)
 		return;
 	}
 
-	if (swh_cache_get(s.original_url, &swh_status, &swh_checked_at) == -1) {
-		swh_status = s.swh_status;
-		swh_checked_at = s.swh_checked_at;
-	}
-
 	category_list(&cats, &n);
 	for (i = 0; i < s.category_count; i++)
 		sel[i] = s.categories[i];
@@ -600,18 +585,21 @@ route_source_get(ecewo_request_t *req, ecewo_response_t *res)
 	v = view_new("source_form.html");
 	view_title(v, i18n_t(lang, "source_form.title"));
 	view_set(v, "SLUG", s.slug);
+	view_set(v, "NAME", source_display_name(&s));
+	view_set(v, "NAME_INPUT", s.name);
+	view_set(v, "NAME_DEFAULT", repo_display_name(s.original_url));
 	view_set(v, "ORIGINAL_URL", s.original_url);
 	view_set(v, "DESCRIPTION", s.description);
 	view_set(v, "LANGUAGE", s.language);
 	view_set(v, "NOTES", s.notes);
 	view_set_raw(v, "CATEGORY_OPTIONS", opts.data, opts.offset);
 	wbuf_cleanup(&opts);
-	view_set(v, "SWH_STATUS", swh_status == SWH_STATUS_ARCHIVED ?
-	    i18n_t(lang, "swh.status_archived") :
-	    swh_status == SWH_STATUS_NOT_FOUND ?
-	    i18n_t(lang, "swh.status_not_found") :
-	    i18n_t(lang, "swh.status_unchecked"));
-	(void)swh_checked_at;
+
+	wbuf_init(&badge, 128);
+	render_swh_badge(&badge, &s, lang);
+	view_set_raw(v, "SWH_BADGE", badge.data, badge.offset);
+	wbuf_cleanup(&badge);
+
 	view_render(req, res, ECEWO_OK, v);
 }
 
@@ -652,12 +640,20 @@ route_source_post(ecewo_request_t *req, ecewo_response_t *res)
 		return;
 	}
 
+	if (v_text(form_get(&form, "name"), NAME_MAX_LEN))
+		str_lcpy(s.name, form_get(&form, "name"), sizeof(s.name));
 	if (v_text(form_get(&form, "description"), TEXT_MAX_LEN))
 		str_lcpy(s.description, form_get(&form, "description"),
 		    sizeof(s.description));
-	if (v_text(form_get(&form, "language"), NAME_MAX_LEN))
+	if (v_text(form_get(&form, "language"), NAME_MAX_LEN)) {
+		const char	*canon;
+
 		str_lcpy(s.language, form_get(&form, "language"),
 		    sizeof(s.language));
+		canon = classify_canonical_language(s.language);
+		if (canon != NULL)
+			str_lcpy(s.language, canon, sizeof(s.language));
+	}
 	if (v_text(form_get(&form, "notes"), TEXT_MAX_LEN))
 		str_lcpy(s.notes, form_get(&form, "notes"), sizeof(s.notes));
 
@@ -672,6 +668,76 @@ route_source_post(ecewo_request_t *req, ecewo_response_t *res)
 		for (i = 0; i < npicked; i++) {
 			if (v_slug(picked[i]))
 				source_add_category(&s, picked[i]);
+		}
+	}
+
+	{
+		const char	*new_url = form_get(&form, "original_url");
+
+		if (new_url != NULL && strcmp(new_url, s.original_url) != 0) {
+			char		 newslug[NAME_MAX_LEN];
+			struct source	 other;
+			struct swh_result swh;
+
+			if (!v_url(new_url)) {
+				form_free(&form);
+				view_error(req, res, ECEWO_BAD_REQUEST,
+				    i18n_t(lang, "errors.bad_original_url"));
+				return;
+			}
+			if (store_slugify_url(new_url, newslug,
+			    sizeof(newslug)) == -1) {
+				form_free(&form);
+				view_error(req, res, ECEWO_BAD_REQUEST,
+				    i18n_t(lang, "errors.unusable_url"));
+				return;
+			}
+			/*
+			 * Same guard source_exists_for_url() does (slugify,
+			 * read, compare) -- inlined because a raw slug
+			 * collision must be rejected even for a different
+			 * literal URL that happens to slugify the same way,
+			 * which source_exists_for_url()'s exact-URL check
+			 * alone wouldn't catch.
+			 */
+			if (strcmp(newslug, s.slug) != 0 &&
+			    source_read(newslug, &other) == 0) {
+				form_free(&form);
+				view_error(req, res, ECEWO_BAD_REQUEST,
+				    i18n_t(lang, "errors.duplicate_source_url"));
+				return;
+			}
+
+			str_lcpy(s.original_url, new_url,
+			    sizeof(s.original_url));
+
+			/*
+			 * Stale cache entry is keyed on the old URL and
+			 * irrelevant now -- check the new URL synchronously,
+			 * same as source creation does.
+			 */
+			if (swh_cache_get(new_url, &s.swh_status,
+			    &s.swh_checked_at) == -1 &&
+			    swh_check_origin(new_url, app_cfg.swh_token,
+			    &swh) == 0) {
+				s.swh_status = swh.status;
+				s.swh_checked_at = time(NULL);
+				swh_cache_set(new_url, s.swh_status,
+				    s.swh_checked_at);
+			}
+
+			if (strcmp(newslug, s.slug) != 0) {
+				char	oldslug[NAME_MAX_LEN];
+
+				str_lcpy(oldslug, s.slug, sizeof(oldslug));
+				str_lcpy(s.slug, newslug, sizeof(s.slug));
+				s.updated_at = time(NULL);
+				source_write(&s);
+				source_delete(oldslug);
+				form_free(&form);
+				view_redirect(res, "/sources");
+				return;
+			}
 		}
 	}
 
@@ -858,11 +924,10 @@ route_sources_bulk(ecewo_request_t *req, ecewo_response_t *res)
 }
 
 /*
- * Manual "New source" flow: paste a URL, type description/language/notes
- * by hand, pick categories. classify_source() still runs at save time on
- * whatever was typed. Single-step (no separate review page), so category
- * auto-creation from a classify_source() suggestion can happen directly
- * here -- this POST is CSRF-checked.
+ * Manual "New source" flow: paste a URL, type description/notes by hand,
+ * pick categories. Language isn't asked for here -- the background
+ * language checker (src/lang_checker_main.c) fills it in and runs
+ * classify_source() once it's known.
  */
 void
 route_source_new_get(ecewo_request_t *req, ecewo_response_t *res)
@@ -887,7 +952,6 @@ route_source_new_get(ecewo_request_t *req, ecewo_response_t *res)
 	view_title(v, i18n_t(lang, "new_source_form.title"));
 	view_set(v, "ORIGINAL_URL", "");
 	view_set(v, "DESCRIPTION", "");
-	view_set(v, "LANGUAGE", "");
 	view_set(v, "NOTES", "");
 	view_set_raw(v, "CATEGORY_OPTIONS", opts.data, opts.offset);
 	wbuf_cleanup(&opts);
@@ -901,8 +965,7 @@ route_source_new_post(ecewo_request_t *req, ecewo_response_t *res)
 	struct source	 s;
 	struct swh_result swh;
 	const char	*url, *lang;
-	struct classified_category suggested[CLASSIFY_MAX_CATEGORIES];
-	int		 nsuggested, i;
+	int		 i;
 
 	if (!require_auth(req, res))
 		return;
@@ -938,9 +1001,6 @@ route_source_new_post(ecewo_request_t *req, ecewo_response_t *res)
 	if (v_text(form_get(&form, "description"), TEXT_MAX_LEN))
 		str_lcpy(s.description, form_get(&form, "description"),
 		    sizeof(s.description));
-	if (v_text(form_get(&form, "language"), NAME_MAX_LEN))
-		str_lcpy(s.language, form_get(&form, "language"),
-		    sizeof(s.language));
 	if (v_text(form_get(&form, "notes"), TEXT_MAX_LEN))
 		str_lcpy(s.notes, form_get(&form, "notes"), sizeof(s.notes));
 
@@ -956,19 +1016,9 @@ route_source_new_post(ecewo_request_t *req, ecewo_response_t *res)
 		}
 	}
 
-	nsuggested = classify_source(s.description, s.language,
-	    suggested, CLASSIFY_MAX_CATEGORIES);
-	for (i = 0; i < nsuggested; i++) {
-		struct category	c;
-
-		if (category_read(suggested[i].slug, &c) == -1) {
-			memset(&c, 0, sizeof(c));
-			str_lcpy(c.slug, suggested[i].slug, sizeof(c.slug));
-			str_lcpy(c.name, suggested[i].name, sizeof(c.name));
-			category_write(&c);
-		}
-		source_add_category(&s, suggested[i].slug);
-	}
+	/* language is unset here; the lang-checker fills it in in the
+	 * background (src/lang_checker_main.c) and classifies by language
+	 * at that point -- nothing to classify yet at creation time. */
 
 	if (swh_cache_get(url, &s.swh_status, &s.swh_checked_at) == -1 &&
 	    swh_check_origin(url, app_cfg.swh_token, &swh) == 0) {

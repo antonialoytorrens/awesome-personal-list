@@ -3,6 +3,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <time.h>
 
@@ -133,4 +134,15 @@ int
 url_is_safe_next(const char *next)
 {
 	return (next != NULL && next[0] == '/' && next[1] != '/');
+}
+
+void
+swh_browse_url(struct wbuf *out, const char *original_url)
+{
+	char	*enc;
+
+	enc = url_encode_str(original_url);
+	wbuf_appendf(out, "https://archive.softwareheritage.org/browse/origin/"
+	    "?origin_url=%s", enc);
+	free(enc);
 }

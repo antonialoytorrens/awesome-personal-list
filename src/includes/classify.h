@@ -1,9 +1,9 @@
 /*
- * awesome-personal-list - auto-classification for the "New source" form.
- * Tags a repo by programming language and known library/framework/console-
- * homebrew keywords, from whatever description/language the owner typed in.
- * A repo can match several (e.g. a C+SDL project is both); nothing here is
- * final -- the owner edits the suggestion before saving.
+ * awesome-personal-list - auto-classification by programming language.
+ * Tags a repo with its language category (e.g. "C" -> lang-c) once the
+ * language is known -- typed by hand at creation, or filled in later by
+ * the background language checker. Nothing here is final -- the owner
+ * edits the suggestion before saving.
  */
 
 #ifndef AWESOME_PERSONAL_LIST_CLASSIFY_H
@@ -19,7 +19,12 @@ struct classified_category {
 #define CLASSIFY_MAX_CATEGORIES	8
 
 /* Returns the count written to out (0 if nothing matched confidently). */
-int	classify_source(const char *description, const char *language,
-	    struct classified_category *out, size_t max);
+int	classify_source(const char *language, struct classified_category *out,
+	    size_t max);
+
+/* Canonical display name for a case/alias variant (e.g. "c++", "cpp",
+ * "golang"), or NULL if raw is empty or not a recognized language -- caller
+ * keeps the original text as typed/detected. */
+const char *classify_canonical_language(const char *raw);
 
 #endif /* !AWESOME_PERSONAL_LIST_CLASSIFY_H */

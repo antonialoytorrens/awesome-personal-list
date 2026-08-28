@@ -83,6 +83,7 @@ struct category {
 
 struct source {
 	char		slug[NAME_MAX_LEN];		/* derived from original_url */
+	char		name[NAME_MAX_LEN];		/* optional display-name override */
 	char		original_url[URL_MAX_LEN];
 	char		description[TEXT_MAX_LEN];
 	char		language[NAME_MAX_LEN];
@@ -125,6 +126,12 @@ struct app_config {
 
 	/* Optional; Software Heritage authenticated rate limit. */
 	char		swh_token[256];
+
+	/* Optional; github_token raises the language-detection rate limit
+	 * from 60/hr to 5000/hr. gitlab_token is rarely needed -- GitLab's
+	 * unauthenticated public-API limit is already generous. */
+	char		github_token[256];
+	char		gitlab_token[256];
 };
 
 extern struct app_config	app_cfg;

@@ -42,7 +42,6 @@ cmp_source_url(const void *a, const void *b)
 static void
 append_source(struct wbuf *out, const struct source *s)
 {
-	char	*enc;
 	char	 checked[32];
 	int	 status;
 	time_t	 checked_at;
@@ -52,7 +51,7 @@ append_source(struct wbuf *out, const struct source *s)
 		checked_at = s->swh_checked_at;
 	}
 
-	wbuf_appendf(out, "- **[%s](%s)**", repo_display_name(s->original_url),
+	wbuf_appendf(out, "- **[%s](%s)**", source_display_name(s),
 	    s->original_url);
 
 	if (s->description[0] != '\0')
@@ -60,14 +59,11 @@ append_source(struct wbuf *out, const struct source *s)
 
 	buf_lit(out, "\n  ");
 
-	enc = url_encode_str(s->original_url);
-
 	switch (status) {
 	case SWH_STATUS_ARCHIVED:
-		wbuf_appendf(out,
-		    "✅ [Archived in Software Heritage]"
-		    "(https://archive.softwareheritage.org/browse/origin/"
-		    "?origin_url=%s)", enc);
+		buf_lit(out, "✅ [Archived in Software Heritage](");
+		swh_browse_url(out, s->original_url);
+		buf_lit(out, ")");
 		break;
 	case SWH_STATUS_NOT_FOUND:
 		fmt_date(checked_at, checked, sizeof(checked));
@@ -77,7 +73,6 @@ append_source(struct wbuf *out, const struct source *s)
 		buf_lit(out, "❔ Not checked yet");
 	}
 
-	free(enc);
 	buf_lit(out, "\n\n");
 }
 

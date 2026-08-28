@@ -22,7 +22,9 @@
 
 static void	view_apply_raw(struct view *);
 static void	build_lang_options(struct wbuf *, const char *);
+static void	build_lang_buttons(struct wbuf *, const char *);
 static void	build_current_path(struct wbuf *, ecewo_request_t *);
+static void	build_nav(struct wbuf *, ecewo_request_t *);
 
 struct view *
 view_new(const char *template)
@@ -177,6 +179,59 @@ build_current_path(struct wbuf *out, ecewo_request_t *req)
 	}
 }
 
+/*
+ * Which nav tab, if any, matches the current request path. Checked
+ * most-specific first: /sources/new has its own tab even though it also
+ * sits under /sources, and /sources/:slug (the edit page) still counts as
+ * the sources tab.
+ */
+static const char *
+nav_active_href(const char *path)
+{
+	size_t	len;
+
+	if (!strcmp(path, "/sources/new"))
+		return ("/sources/new");
+
+	len = strlen("/sources");
+	if (!strncmp(path, "/sources", len) &&
+	    (path[len] == '\0' || path[len] == '/'))
+		return ("/sources");
+
+	len = strlen("/categories");
+	if (!strncmp(path, "/categories", len) &&
+	    (path[len] == '\0' || path[len] == '/'))
+		return ("/categories");
+
+	if (!strcmp(path, "/README.md"))
+		return ("/README.md");
+
+	return (NULL);
+}
+
+static void
+build_nav(struct wbuf *out, ecewo_request_t *req)
+{
+	static const struct { const char *href, *key; } items[] = {
+		{ "/sources",     "nav.sources" },
+		{ "/sources/new", "nav.new_source" },
+		{ "/categories",  "nav.categories" },
+		{ "/README.md",   "nav.readme" },
+	};
+	const char	*active = nav_active_href(ecewo_req_path(req));
+	size_t		 i;
+
+	for (i = 0; i < sizeof(items) / sizeof(items[0]); i++) {
+		int	is_active = active != NULL &&
+		    !strcmp(items[i].href, active);
+
+		wbuf_appendf(out, "<a href=\"%s\"%s>[[%s]]</a>\n",
+		    items[i].href,
+		    is_active ? " class=\"is-active\"" : "",
+		    items[i].key);
+	}
+}
+
 /* <option> per loaded locale, current one marked selected. Native names are
  * a small hardcoded, developer-trusted table (i18n_native_name()), not
  * translated content, so no escaping pass is needed here. */
@@ -191,6 +246,28 @@ build_lang_options(struct wbuf *out, const char *current)
 	for (i = 0; i < n; i++) {
 		wbuf_appendf(out, "<option value=\"%s\"%s>%s</option>",
 		    codes[i], !strcmp(codes[i], current) ? " selected" : "",
+		    i18n_native_name(codes[i]));
+	}
+}
+
+/*
+ * One submit button per locale, for the navbar switcher. A <select> can't
+ * submit itself without JavaScript and that form has no submit button of its
+ * own, so the choice and the submit are the same click. Same developer-trusted
+ * native-name table as build_lang_options(), so no escaping pass here either.
+ */
+static void
+build_lang_buttons(struct wbuf *out, const char *current)
+{
+	const char *const	*codes;
+	size_t			 n, i;
+
+	codes = i18n_locales(&n);
+
+	for (i = 0; i < n; i++) {
+		wbuf_appendf(out, "<button type=\"submit\" name=\"lang\" "
+		    "value=\"%s\" class=\"lang-btn%s\">%s</button>",
+		    codes[i], !strcmp(codes[i], current) ? " is-active" : "",
 		    i18n_native_name(codes[i]));
 	}
 }
@@ -230,9 +307,21 @@ view_render(ecewo_request_t *req, ecewo_response_t *res, int status,
 		wbuf_cleanup(&curpath);
 	}
 
+	wbuf_init(&opts, 256);
+	build_nav(&opts, req);
+	wbuf_replace_string(&layout, "$NAV$", opts.data, opts.offset);
+	wbuf_cleanup(&opts);
+
+	/* Two shapes of the same choice: <option>s for the /profile form,
+	 * submit buttons for the navbar switcher. */
 	wbuf_init(&opts, 128);
 	build_lang_options(&opts, lang);
 	wbuf_replace_string(&layout, "$LANG_OPTIONS$", opts.data, opts.offset);
+	wbuf_cleanup(&opts);
+
+	wbuf_init(&opts, 256);
+	build_lang_buttons(&opts, lang);
+	wbuf_replace_string(&layout, "$LANG_BUTTONS$", opts.data, opts.offset);
 	wbuf_cleanup(&opts);
 
 	i18n_translate(&layout, lang);

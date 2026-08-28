@@ -1,0 +1,11 @@
+[Unit]
+Description=awesome-personal-list language checker (one run)
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/awesome-personal-list
+EnvironmentFile=-/etc/awesome-personal-list/awesome-personal-list.conf
+ExecStart=/opt/awesome-personal-list/awesome-personal-list-lang-checker
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/opt/awesome-personal-list/data

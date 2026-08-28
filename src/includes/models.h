@@ -49,6 +49,8 @@ int	source_list(struct source **, size_t *);
 void	source_list_free(struct source *);
 /* O(1) slug lookup, not a directory scan -- see source.c. -1 if absent. */
 int	source_exists_for_url(const char *url, struct source *);
+/* The owner's name override if set, else derived from original_url. */
+const char *source_display_name(const struct source *);
 
 int	source_has_category(const struct source *, const char *slug);
 /* Adds slug if there's room and it's not already present. No-op for

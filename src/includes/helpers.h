@@ -25,6 +25,8 @@ void	 fmt_date(time_t, char *, size_t);
 const char	*repo_display_name(const char *);
 /* Skip a leading scheme://; returns url unchanged if none. */
 const char	*url_host_path(const char *);
+/* Appends the Software Heritage browse-origin URL for a repo URL. */
+void		 swh_browse_url(struct wbuf *, const char *);
 
 /* Same-origin only: "/x" is fine, "//evil.com/x" is protocol-relative and
  * would send the browser off-site right after a redirect. */

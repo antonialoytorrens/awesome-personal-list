@@ -1,1 +1,2 @@
-Instead of raising an alert, now HTML supports modals. You should try to replace app.js alert with native html modals.
+Uncategorized category should go below "All" category, and should have no color assigned.
+Put in .env.example the optional github and gitlab tokens for language detection.

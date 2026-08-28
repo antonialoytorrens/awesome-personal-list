@@ -1,6 +1,5 @@
 /* awesome-personal-list - auto-classification. See classify.h. */
 
-#include <stdio.h>
 #include <string.h>
 #include <strings.h>
 
@@ -43,47 +42,45 @@ static const struct lang_rule lang_rules[] = {
 	{ "Vala",	"lang-vala",	"Vala" },
 };
 
-struct keyword_rule {
-	const char	*keyword;	/* matched case-insensitively */
-	const char	*slug;
-	const char	*name;
+/* Short-form/alias spellings that don't match a lang_rules[] name directly. */
+struct lang_alias {
+	const char	*alias;
+	const char	*canonical;
 };
 
-/* Matched against the description -- extend freely. */
-static const struct keyword_rule keyword_rules[] = {
-	{ "SDL",	"sdl",		"SDL" },
-	{ "Qt",		"qt",		"Qt" },
-	{ "GTK",	"gtk",		"GTK" },
-	{ "OpenGL",	"opengl",	"OpenGL" },
-	{ "Vulkan",	"vulkan",	"Vulkan" },
-	{ "Box2D",	"box2d",	"Box2D" },
-	{ "Godot",	"godot",	"Godot" },
-	{ "Unity",	"unity",	"Unity" },
-	{ "Unreal",	"unreal",	"Unreal Engine" },
-	{ "ncurses",	"ncurses",	"ncurses" },
-	{ "Electron",	"electron",	"Electron" },
-	{ "React",	"react",	"React" },
-	{ "Node.js",	"nodejs",	"Node.js" },
-	{ "FFmpeg",	"ffmpeg",	"FFmpeg" },
-	{ "libretro",	"libretro",	"libretro" },
-	{ "Django",	"django",	"Django" },
-	{ "Flask",	"flask",	"Flask" },
-	{ "TensorFlow",	"tensorflow",	"TensorFlow" },
-	{ "PyTorch",	"pytorch",	"PyTorch" },
-	{ "QEMU",	"qemu",		"QEMU" },
-
-	/* Console-homebrew: specific enough not to false-positive on
-	 * everyday text (unlike e.g. bare "Switch" or "Vita"). */
-	{ "homebrew",		"homebrew-console", "Homebrew Console" },
-	{ "devkitPro",		"homebrew-console", "Homebrew Console" },
-	{ "libctru",		"homebrew-console", "Homebrew Console" },
-	{ "libnx",		"homebrew-console", "Homebrew Console" },
-	{ "Nintendo DS",	"homebrew-console", "Homebrew Console" },
-	{ "Game Boy Advance",	"homebrew-console", "Homebrew Console" },
-	{ "GameCube",		"homebrew-console", "Homebrew Console" },
-	{ "Dreamcast",		"homebrew-console", "Homebrew Console" },
-	{ "3DS",		"homebrew-console", "Homebrew Console" },
+static const struct lang_alias lang_aliases[] = {
+	{ "cpp",	"C++" },
+	{ "csharp",	"C#" },
+	{ "golang",	"Go" },
+	{ "js",		"JavaScript" },
+	{ "ts",		"TypeScript" },
+	{ "bash",	"Shell" },
+	{ "sh",		"Shell" },
+	{ "objc",	"Objective-C" },
+	{ "asm",	"Assembly" },
+	{ "ps1",	"PowerShell" },
 };
+
+const char *
+classify_canonical_language(const char *raw)
+{
+	size_t	i;
+
+	if (raw == NULL || raw[0] == '\0')
+		return (NULL);
+
+	for (i = 0; i < sizeof(lang_rules) / sizeof(lang_rules[0]); i++) {
+		if (!strcasecmp(raw, lang_rules[i].name))
+			return (lang_rules[i].display);
+	}
+
+	for (i = 0; i < sizeof(lang_aliases) / sizeof(lang_aliases[0]); i++) {
+		if (!strcasecmp(raw, lang_aliases[i].alias))
+			return (lang_aliases[i].canonical);
+	}
+
+	return (NULL);
+}
 
 static int
 add_category(struct classified_category *out, size_t max, int n,
@@ -106,8 +103,8 @@ add_category(struct classified_category *out, size_t max, int n,
 }
 
 int
-classify_source(const char *description, const char *language,
-    struct classified_category *out, size_t max)
+classify_source(const char *language, struct classified_category *out,
+    size_t max)
 {
 	size_t	i;
 	int	n = 0;
@@ -118,13 +115,6 @@ classify_source(const char *description, const char *language,
 			n = add_category(out, max, n, lang_rules[i].slug,
 			    lang_rules[i].display);
 			break;
-		}
-	}
-
-	for (i = 0; i < sizeof(keyword_rules) / sizeof(keyword_rules[0]); i++) {
-		if (str_casestr(description, keyword_rules[i].keyword) != NULL) {
-			n = add_category(out, max, n, keyword_rules[i].slug,
-			    keyword_rules[i].name);
 		}
 	}
 
