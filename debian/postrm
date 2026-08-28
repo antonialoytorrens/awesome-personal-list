@@ -1,0 +1,17 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+purge)
+	# data/sources and data/categories are the curated content, but
+	# they live under a package-managed path (/opt), not /etc or the
+	# admin's home, so treat purge the normal Debian way and remove
+	# everything including the credentials/cache files. Take a backup
+	# first if that content matters and this is a real removal.
+	rm -rf /opt/awesome-personal-list/data
+	;;
+esac
+
+#DEBHELPER#
+
+exit 0

@@ -1,0 +1,2 @@
+#Type Name                   ID  GECOS                                Home directory                  Shell
+u      awesome-personal-list  -  "awesome-personal-list service user"  /var/lib/awesome-personal-list  /usr/sbin/nologin

@@ -1,0 +1,22 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+configure)
+	# Make sure the service account exists now (idempotent; the
+	# #DEBHELPER# block below also runs dh_installsysusers's copy of
+	# this, but that happens *after* the chown here, and this directory
+	# has to be owned by the service user before dh_installsystemd, also
+	# in #DEBHELPER#, starts the unit -- which runs with
+	# ProtectSystem=strict and only this path in ReadWritePaths).
+	systemd-sysusers /usr/lib/sysusers.d/awesome-personal-list.conf
+
+	chown awesome-personal-list:awesome-personal-list \
+		/opt/awesome-personal-list/data
+	chmod 0750 /opt/awesome-personal-list/data
+	;;
+esac
+
+#DEBHELPER#
+
+exit 0

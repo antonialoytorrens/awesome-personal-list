@@ -1,0 +1,8 @@
+awesome-personal-list opt/awesome-personal-list/
+awesome-personal-list-checker opt/awesome-personal-list/
+src/templates/* opt/awesome-personal-list/src/templates/
+public/* opt/awesome-personal-list/public/
+locale/* opt/awesome-personal-list/locale/
+systemd/awesome-personal-list.service usr/lib/systemd/system/
+systemd/awesome-personal-list-checker.service usr/lib/systemd/system/
+systemd/awesome-personal-list-checker.timer usr/lib/systemd/system/

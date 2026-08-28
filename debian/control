@@ -1,0 +1,33 @@
+Source: awesome-personal-list
+Section: web
+Priority: optional
+Maintainer: Your Name <you@example.com>
+Build-Depends: debhelper-compat (= 13),
+               dh-sequence-installsysusers,
+               pkgconf,
+               libecewo-dev,
+               libecewo-cookie-dev,
+               libecewo-session-dev,
+               libecewo-helmet-dev,
+               libecewo-static-dev,
+               libcjson-dev,
+               libcurl4-openssl-dev,
+               libargon2-dev
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+
+Package: awesome-personal-list
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends}
+Description: personal curated "awesome list" checked against Software Heritage
+ awesome-personal-list is a small personal tool for curating a list of
+ upstream projects. Entries are flat JSON files on disk (no database),
+ written in C on top of the ecewo web framework.
+ .
+ Includes a companion awesome-personal-list-checker binary, meant to be run
+ periodically (see the bundled systemd timer), which re-verifies every
+ curated source against the Software Heritage archive.
+ .
+ Listens on 127.0.0.1:48889 by default; put a reverse proxy such as nginx
+ in front for TLS and public exposure.
