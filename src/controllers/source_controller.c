@@ -45,16 +45,6 @@ category_name(const struct category *cats, size_t n, const char *slug)
 }
 
 static int
-cmp_category_name(const void *a, const void *b)
-{
-	const struct category	*ca = a, *cb = b;
-
-	return (strcasecmp(ca->name, cb->name));
-}
-
-/* qsort comparator for an array of char[NAME_MAX_LEN] -- each element
- * pointer is already the string itself, not a pointer-to-pointer. */
-static int
 cmp_lang(const void *a, const void *b)
 {
 	return (strcasecmp((const char *)a, (const char *)b));
@@ -111,7 +101,7 @@ render_swh_badge(struct wbuf *rows, const struct source *s, const char *lang)
 	time_t		checked_at;
 	const char	*cls, *label;
 
-	if (swh_cache_get(s->original_url, &status, &checked_at) == -1)
+	if (swh_cache_get(s->original_url, &status, &checked_at, NULL) == -1)
 		status = s->swh_status;
 	(void)checked_at;
 
@@ -225,9 +215,12 @@ render_category_sidebar(struct wbuf *out, const struct category *cats,
 			buf_lit(out, " is-active");
 		buf_lit(out, "\" href=\"/sources?category=");
 		html_escape(out, cats[i].slug, strlen(cats[i].slug));
-		buf_lit(out, "\"><span><span class=\"dot\" data-cat=\"");
-		html_escape(out, cats[i].slug, strlen(cats[i].slug));
-		buf_lit(out, "\"></span>");
+		buf_lit(out, "\"><span>");
+		if (cats[i].color[0] != '\0') {
+			buf_lit(out, "<span class=\"dot\" data-cat=\"");
+			html_escape(out, cats[i].slug, strlen(cats[i].slug));
+			buf_lit(out, "\"></span>");
+		}
 		html_escape(out, cats[i].name, strlen(cats[i].name));
 		wbuf_appendf(out, "</span><span class=\"count\">%zu</span></a>\n", n);
 	}
@@ -435,7 +428,7 @@ route_sources_list(ecewo_request_t *req, ecewo_response_t *res)
 	}
 
 	if (category_list(&cats, &ncat) == 0 && ncat > 0)
-		qsort(cats, ncat, sizeof(*cats), cmp_category_name);
+		qsort(cats, ncat, sizeof(*cats), category_cmp);
 
 	wbuf_init(&sidebar, 1024);
 	render_category_sidebar(&sidebar, cats, ncat, srcs, n, filter, lang);
@@ -653,6 +646,17 @@ route_source_post(ecewo_request_t *req, ecewo_response_t *res)
 		canon = classify_canonical_language(s.language);
 		if (canon != NULL)
 			str_lcpy(s.language, canon, sizeof(s.language));
+		/*
+		 * Manual edit locks the field so the lang-checker won't
+		 * overwrite it. Clearing the field unlocks so the next
+		 * sweep can fill it in again.
+		 */
+		if (s.language[0] != '\0') {
+			s.language_locked = 1;
+			s.lang_checked_at = time(NULL);
+		} else {
+			s.language_locked = 0;
+		}
 	}
 	if (v_text(form_get(&form, "notes"), TEXT_MAX_LEN))
 		str_lcpy(s.notes, form_get(&form, "notes"), sizeof(s.notes));
@@ -717,13 +721,13 @@ route_source_post(ecewo_request_t *req, ecewo_response_t *res)
 			 * same as source creation does.
 			 */
 			if (swh_cache_get(new_url, &s.swh_status,
-			    &s.swh_checked_at) == -1 &&
+			    &s.swh_checked_at, NULL) == -1 &&
 			    swh_check_origin(new_url, app_cfg.swh_token,
 			    &swh) == 0) {
 				s.swh_status = swh.status;
 				s.swh_checked_at = time(NULL);
 				swh_cache_set(new_url, s.swh_status,
-				    s.swh_checked_at);
+				    s.swh_checked_at, 0);
 			}
 
 			if (strcmp(newslug, s.slug) != 0) {
@@ -1020,11 +1024,11 @@ route_source_new_post(ecewo_request_t *req, ecewo_response_t *res)
 	 * background (src/lang_checker_main.c) and classifies by language
 	 * at that point -- nothing to classify yet at creation time. */
 
-	if (swh_cache_get(url, &s.swh_status, &s.swh_checked_at) == -1 &&
+	if (swh_cache_get(url, &s.swh_status, &s.swh_checked_at, NULL) == -1 &&
 	    swh_check_origin(url, app_cfg.swh_token, &swh) == 0) {
 		s.swh_status = swh.status;
 		s.swh_checked_at = time(NULL);
-		swh_cache_set(url, s.swh_status, s.swh_checked_at);
+		swh_cache_set(url, s.swh_status, s.swh_checked_at, 0);
 	}
 
 	s.created_at = s.updated_at = time(NULL);

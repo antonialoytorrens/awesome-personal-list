@@ -70,6 +70,9 @@ seed_admin(void)
 		fatal("no admin account yet: set AWESOME_PERSONAL_LIST_ADMIN_USER and "
 		    "AWESOME_PERSONAL_LIST_ADMIN_PASSWORD for first run");
 
+	if (strlen(pass) < 8)
+		fatal("AWESOME_PERSONAL_LIST_ADMIN_PASSWORD must be at least 8 characters");
+
 	if (admin_create(user, pass) != 0)
 		fatal("could not create the admin account");
 
@@ -102,7 +105,7 @@ register_routes(ecewo_app_t *app)
 	ECEWO_POST (app, "/categories/:slug", route_category_post);
 	ECEWO_GET  (app, "/categories.css",   route_categories_css);
 
-	ECEWO_GET  (app, "/README.md",      route_readme);
+	ECEWO_GET  (app, "/AWESOME.md",     route_readme);
 }
 
 static int
@@ -133,7 +136,7 @@ on_shutdown(void *user_data)
 	ecewo_static_cleanup();
 }
 
-/* `awesome-personal-list export <path>` writes README.md and exits -- no server. */
+/* `awesome-personal-list export <path>` writes AWESOME.md and exits -- no server. */
 static int
 run_export(const char *path)
 {

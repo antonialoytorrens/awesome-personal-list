@@ -24,7 +24,7 @@ void	lang_cleanup(void);
  * `*rate_remaining` is set to the calls-remaining count from whichever
  * provider was just called (-1 if unknown or no provider matched), so a
  * caller looping over many sources can stop early the same way
- * checker_main.c does for Software Heritage.
+ * swh_checker_main.c does for Software Heritage.
  */
 int	lang_detect(const char *original_url, const char *github_token,
 	    const char *gitlab_token, char *out, size_t outlen,

@@ -1,10 +1,12 @@
 /*
  * awesome-personal-list - Software Heritage check-result cache.
- * data/swh_cache.tsv: original_url \t status \t checked_at
+ * data/swh_cache.tsv: original_url \t status \t checked_at \t check_count
  *
  * Shared by both binaries: the web app reads it when rendering, and
- * awesome-personal-list-checker is the only writer. Keyed on original_url rather than
- * a source slug so a not-yet-imported candidate can be checked too.
+ * awesome-personal-list-swh-checker is the only writer. Keyed on
+ * original_url rather than a source slug so a not-yet-imported candidate
+ * can be checked too. Legacy 3-column rows (no check_count) parse as
+ * check_count == 0.
  */
 
 #include <sys/types.h>
@@ -24,15 +26,16 @@ struct swh_row {
 	char		url[URL_MAX_LEN];
 	int		status;
 	time_t		checked_at;
+	unsigned	check_count;
 };
 
 static int
 swh_parse(char *line, struct swh_row *out)
 {
-	char	*fields[4];
+	char	*fields[5];
 	int	 count, err;
 
-	count = str_split(line, "\t", fields, 4);
+	count = str_split(line, "\t", fields, 5);
 	if (count < 3)
 		return (-1);
 
@@ -49,18 +52,28 @@ swh_parse(char *line, struct swh_row *out)
 	if (err != STR_OK)
 		return (-1);
 
+	if (count >= 4) {
+		out->check_count = (unsigned)str_tonum(fields[3], 10, 0,
+		    UINT32_MAX, &err);
+		if (err != STR_OK)
+			return (-1);
+	}
+
 	return (0);
 }
 
 int
-swh_cache_get(const char *original_url, int *status, time_t *checked_at)
+swh_cache_get(const char *original_url, int *status, time_t *checked_at,
+    unsigned *check_count)
 {
 	FILE		*fp;
-	char		 line[URL_MAX_LEN + 64];
+	char		 line[URL_MAX_LEN + 96];
 	struct swh_row	 row;
 
 	*status = SWH_STATUS_UNKNOWN;
 	*checked_at = 0;
+	if (check_count != NULL)
+		*check_count = 0;
 
 	if ((fp = fopen(SWH_CACHE_FILE, "r")) == NULL)
 		return (-1);
@@ -76,6 +89,8 @@ swh_cache_get(const char *original_url, int *status, time_t *checked_at)
 		if (!strcmp(row.url, original_url)) {
 			*status = row.status;
 			*checked_at = row.checked_at;
+			if (check_count != NULL)
+				*check_count = row.check_count;
 			fclose(fp);
 			return (0);
 		}
@@ -86,10 +101,11 @@ swh_cache_get(const char *original_url, int *status, time_t *checked_at)
 }
 
 int
-swh_cache_set(const char *original_url, int status, time_t checked_at)
+swh_cache_set(const char *original_url, int status, time_t checked_at,
+    unsigned check_count)
 {
 	FILE		*in;
-	char		 line[URL_MAX_LEN + 64];
+	char		 line[URL_MAX_LEN + 96];
 	struct wbuf	 buf;
 	struct swh_row	 row;
 	int		 ret, replaced;
@@ -107,21 +123,23 @@ swh_cache_set(const char *original_url, int status, time_t checked_at)
 				continue;
 
 			if (!strcmp(row.url, original_url)) {
-				wbuf_appendf(&buf, "%s\t%d\t%lld\n",
-				    original_url, status, (long long)checked_at);
+				wbuf_appendf(&buf, "%s\t%d\t%lld\t%u\n",
+				    original_url, status, (long long)checked_at,
+				    check_count);
 				replaced = 1;
 				continue;
 			}
 
-			wbuf_appendf(&buf, "%s\t%d\t%lld\n", row.url,
-			    row.status, (long long)row.checked_at);
+			wbuf_appendf(&buf, "%s\t%d\t%lld\t%u\n", row.url,
+			    row.status, (long long)row.checked_at,
+			    row.check_count);
 		}
 		fclose(in);
 	}
 
 	if (!replaced) {
-		wbuf_appendf(&buf, "%s\t%d\t%lld\n", original_url, status,
-		    (long long)checked_at);
+		wbuf_appendf(&buf, "%s\t%d\t%lld\t%u\n", original_url, status,
+		    (long long)checked_at, check_count);
 	}
 
 	ret = store_write(SWH_CACHE_FILE, buf.data, buf.offset);

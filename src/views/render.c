@@ -203,8 +203,8 @@ nav_active_href(const char *path)
 	    (path[len] == '\0' || path[len] == '/'))
 		return ("/categories");
 
-	if (!strcmp(path, "/README.md"))
-		return ("/README.md");
+	if (!strcmp(path, "/AWESOME.md"))
+		return ("/AWESOME.md");
 
 	return (NULL);
 }
@@ -216,7 +216,7 @@ build_nav(struct wbuf *out, ecewo_request_t *req)
 		{ "/sources",     "nav.sources" },
 		{ "/sources/new", "nav.new_source" },
 		{ "/categories",  "nav.categories" },
-		{ "/README.md",   "nav.readme" },
+		{ "/AWESOME.md",  "nav.readme" },
 	};
 	const char	*active = nav_active_href(ecewo_req_path(req));
 	size_t		 i;

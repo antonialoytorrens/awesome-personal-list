@@ -87,6 +87,10 @@ struct source {
 	char		original_url[URL_MAX_LEN];
 	char		description[TEXT_MAX_LEN];
 	char		language[NAME_MAX_LEN];
+	/* lang-checker backoff; language_locked skips auto-overwrite. */
+	time_t		lang_checked_at;
+	unsigned	lang_check_count;
+	int		language_locked;
 	char		categories[SOURCE_MAX_CATEGORIES][NAME_MAX_LEN];
 	int		category_count;
 	char		notes[TEXT_MAX_LEN];

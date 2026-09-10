@@ -1,5 +1,7 @@
 .objs/
 awesome-personal-list
+awesome-personal-list-swh-checker
+awesome-personal-list-lang-checker
 awesome-personal-list-checker
 
 # data/sources and data/categories are the actual curated content -- track
@@ -9,5 +11,5 @@ data/swh_cache.tsv
 data/candidates_cache.tsv
 data/tmp/
 
-AWESOME.md
+public/AWESOME.md
 .env

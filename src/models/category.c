@@ -1,9 +1,9 @@
 /*
  * awesome-personal-list - categories.
  * data/categories/<slug>.json. Full CRUD resource, not a hardcoded enum.
- * "uncategorized" is seeded on first run for its name/color metadata, but
- * is never actually assigned to a source -- see source.c. It's the one
- * category that can't be deleted or manually assigned.
+ * "uncategorized" is a system category: seeded on first run (no color),
+ * sorted first in lists, never assigned to a source -- see source.c --
+ * and the one category that can't be deleted or manually assigned.
  */
 
 #include <sys/types.h>
@@ -12,6 +12,7 @@
 
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
 #include <time.h>
 
 #include "app.h"
@@ -61,8 +62,13 @@ category_read(const char *slug, struct category *out)
 	json_str(root, "description", out->description,
 	    sizeof(out->description));
 	json_str(root, "color", out->color, sizeof(out->color));
-	if (!v_color(out->color))
-		str_lcpy(out->color, CATEGORY_DEFAULT_COLOR, sizeof(out->color));
+	if (!v_color(out->color)) {
+		if (!strcmp(out->slug, UNCATEGORIZED_SLUG))
+			out->color[0] = '\0';
+		else
+			str_lcpy(out->color, CATEGORY_DEFAULT_COLOR,
+			    sizeof(out->color));
+	}
 
 	cJSON_Delete(root);
 
@@ -85,8 +91,9 @@ category_write(const struct category *c)
 	cJSON_AddStringToObject(root, "slug", c->slug);
 	cJSON_AddStringToObject(root, "name", c->name);
 	cJSON_AddStringToObject(root, "description", c->description);
-	cJSON_AddStringToObject(root, "color",
-	    v_color(c->color) ? c->color : CATEGORY_DEFAULT_COLOR);
+	if (c->color[0] != '\0')
+		cJSON_AddStringToObject(root, "color",
+		    v_color(c->color) ? c->color : CATEGORY_DEFAULT_COLOR);
 
 	text = cJSON_Print(root);
 	cJSON_Delete(root);
@@ -154,6 +161,9 @@ category_list(struct category **out, size_t *count)
 
 	store_list_free(&list);
 
+	if (n > 1)
+		qsort(cats, n, sizeof(*cats), category_cmp);
+
 	*out = cats;
 	*count = n;
 	return (0);
@@ -163,6 +173,20 @@ void
 category_list_free(struct category *cats)
 {
 	free(cats);
+}
+
+int
+category_cmp(const void *a, const void *b)
+{
+	const struct category	*ca = a, *cb = b;
+	int			 a_sys, b_sys;
+
+	a_sys = !strcmp(ca->slug, UNCATEGORIZED_SLUG);
+	b_sys = !strcmp(cb->slug, UNCATEGORIZED_SLUG);
+	if (a_sys != b_sys)
+		return (a_sys ? -1 : 1);
+
+	return (strcasecmp(ca->name, cb->name));
 }
 
 int
@@ -179,7 +203,6 @@ category_seed_defaults(void)
 	str_lcpy(c.description,
 	    "New imports land here until you assign a real category.",
 	    sizeof(c.description));
-	str_lcpy(c.color, CATEGORY_DEFAULT_COLOR, sizeof(c.color));
 
 	return (category_write(&c));
 }

@@ -1,7 +1,7 @@
 .PHONY: all build run run-swh-checker run-lang-checker export clean help i18n-check test
 
 APP             := awesome-personal-list
-SWH_CHECKER     := awesome-personal-list-checker
+SWH_CHECKER     := awesome-personal-list-swh-checker
 LANGCHECKER     := awesome-personal-list-lang-checker
 DEBUG           ?= 0
 BUILD           := .objs
@@ -66,7 +66,7 @@ run-lang-checker: $(LANGCHECKER)
 	set -a; . ./.env; set +a; ./$(LANGCHECKER)
 
 export: $(APP)
-	set -a; . ./.env; set +a; ./$(APP) export $${EXPORT_PATH:-AWESOME.md}
+	set -a; . ./.env; set +a; ./$(APP) export $${EXPORT_PATH:-public/AWESOME.md}
 
 clean:
 	rm -rf $(BUILD) $(APP) $(SWH_CHECKER) $(LANGCHECKER)
@@ -100,7 +100,7 @@ help:
 	@echo "run               build, then run the web app (sources .env)"
 	@echo "run-swh-checker   build, then run the SWH checker once (sources .env)"
 	@echo "run-lang-checker  build, then run the language checker once (sources .env)"
-	@echo "export            render AWESOME.md (or \$$EXPORT_PATH) from the current data"
+	@echo "export            render public/AWESOME.md (or \$$EXPORT_PATH) from the current data"
 	@echo "i18n-check        diff each locale/*.properties' keys against en.properties"
 	@echo "clean             remove objects and all three binaries"
 
@@ -138,6 +138,11 @@ $(BUILD)/tests/test_helpers: tests/test_helpers.c $(UNITY_SRC) \
 
 $(BUILD)/tests/test_classify: tests/test_classify.c $(UNITY_SRC) \
     src/lib/classify.c src/lib/strutil.c src/lib/xmalloc.c
+	@mkdir -p $(@D)
+	$(CC) $(TEST_CFLAGS) -o $@ $^
+
+$(BUILD)/tests/test_check_backoff: tests/test_check_backoff.c $(UNITY_SRC) \
+    src/lib/check_backoff.c
 	@mkdir -p $(@D)
 	$(CC) $(TEST_CFLAGS) -o $@ $^
 
@@ -193,6 +198,7 @@ TEST_BINS := \
     $(BUILD)/tests/test_form \
     $(BUILD)/tests/test_helpers \
     $(BUILD)/tests/test_classify \
+    $(BUILD)/tests/test_check_backoff \
     $(BUILD)/tests/test_translit \
     $(BUILD)/tests/test_store \
     $(BUILD)/tests/test_source_model \

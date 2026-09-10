@@ -40,9 +40,12 @@ route_categories_list(ecewo_request_t *req, ecewo_response_t *res)
 		buf_lit(&rows, "<article class=\"star\">\n");
 		buf_lit(&rows, "<h3 class=\"star-name\"><a href=\"/categories/");
 		html_escape(&rows, cats[i].slug, strlen(cats[i].slug));
-		buf_lit(&rows, "\"><span class=\"dot\" data-cat=\"");
-		html_escape(&rows, cats[i].slug, strlen(cats[i].slug));
-		buf_lit(&rows, "\"></span> ");
+		buf_lit(&rows, "\">");
+		if (cats[i].color[0] != '\0') {
+			buf_lit(&rows, "<span class=\"dot\" data-cat=\"");
+			html_escape(&rows, cats[i].slug, strlen(cats[i].slug));
+			buf_lit(&rows, "\"></span> ");
+		}
 		html_escape(&rows, cats[i].name, strlen(cats[i].name));
 		buf_lit(&rows, "</a></h3>\n");
 		if (cats[i].description[0] != '\0') {
@@ -156,14 +159,23 @@ route_category_get(ecewo_request_t *req, ecewo_response_t *res)
 	view_set(v, "SLUG", c.slug);
 	view_set(v, "NAME", c.name);
 	view_set(v, "DESCRIPTION", c.description);
-	view_set(v, "COLOR", c.color);
 	view_set(v, "DISABLED", locked ? "disabled" : "");
 
 	if (locked) {
+		view_set_lit(v, "COLOR_FIELD", "");
 		view_set_lit(v, "SAVE_ACTIONS", "");
 		view_set_lit(v, "DELETE_FORM", "");
 	} else {
-		struct wbuf	save, del;
+		struct wbuf	color, save, del;
+
+		wbuf_init(&color, 256);
+		buf_lit(&color,
+		    "<label>[[fields.color]]"
+		    "<input type=\"color\" name=\"color\" value=\"");
+		html_escape(&color, c.color, strlen(c.color));
+		buf_lit(&color, "\"></label>\n");
+		view_set_raw(v, "COLOR_FIELD", color.data, color.offset);
+		wbuf_cleanup(&color);
 
 		wbuf_init(&save, 128);
 		buf_lit(&save, "<div class=\"form-actions\">\n"
@@ -285,13 +297,13 @@ route_categories_css(ecewo_request_t *req, ecewo_response_t *res)
 
 	wbuf_init(&css, 1024);
 	for (i = 0; i < n; i++) {
-		const char	*color = v_color(cats[i].color) ?
-		    cats[i].color : CATEGORY_DEFAULT_COLOR;
+		if (!v_color(cats[i].color))
+			continue;
 
 		/* slug is already restricted to [A-Za-z0-9._-] by v_slug()
 		 * at creation; color is re-checked here regardless. */
 		wbuf_appendf(&css, ".dot[data-cat=\"%s\"]{background:%s}\n",
-		    cats[i].slug, color);
+		    cats[i].slug, cats[i].color);
 	}
 	category_list_free(cats);
 

@@ -49,6 +49,9 @@ static void test_source_write_read_roundtrip(void)
 {
 	struct source in, out;
 	make_source(&in, "https://github.com/user/repo", "A test repo", "C");
+	in.lang_checked_at = 1700000000;
+	in.lang_check_count = 3;
+	in.language_locked = 1;
 
 	TEST_ASSERT_EQUAL_INT(0, source_write(&in));
 
@@ -59,6 +62,10 @@ static void test_source_write_read_roundtrip(void)
 	TEST_ASSERT_EQUAL_STRING(in.original_url, out.original_url);
 	TEST_ASSERT_EQUAL_STRING(in.description, out.description);
 	TEST_ASSERT_EQUAL_STRING(in.language, out.language);
+	TEST_ASSERT_EQUAL_INT64((long long)in.lang_checked_at,
+	    (long long)out.lang_checked_at);
+	TEST_ASSERT_EQUAL_UINT(in.lang_check_count, out.lang_check_count);
+	TEST_ASSERT_EQUAL_INT(in.language_locked, out.language_locked);
 }
 
 /* source_list */

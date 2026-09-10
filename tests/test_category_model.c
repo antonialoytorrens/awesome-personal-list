@@ -125,12 +125,31 @@ static void test_category_seed_creates_uncategorized(void)
 	TEST_ASSERT_EQUAL_INT(0, category_seed_defaults());
 	TEST_ASSERT_EQUAL_INT(0, category_read(UNCATEGORIZED_SLUG, &out));
 	TEST_ASSERT_EQUAL_STRING(UNCATEGORIZED_SLUG, out.slug);
+	TEST_ASSERT_EQUAL_STRING("", out.color);
 }
 
 static void test_category_seed_is_idempotent(void)
 {
 	category_seed_defaults();
 	TEST_ASSERT_EQUAL_INT(0, category_seed_defaults()); /* no-op */
+}
+
+/* category_list — Uncategorized sorts before other categories */
+
+static void test_category_list_uncategorized_first(void)
+{
+	struct category a, *cats;
+	size_t count;
+
+	category_seed_defaults();
+	make_category(&a, "zebra", "Zebra", "#111111");
+	category_write(&a);
+
+	TEST_ASSERT_EQUAL_INT(0, category_list(&cats, &count));
+	TEST_ASSERT_EQUAL_size_t(2, count);
+	TEST_ASSERT_EQUAL_STRING(UNCATEGORIZED_SLUG, cats[0].slug);
+	TEST_ASSERT_EQUAL_STRING("zebra", cats[1].slug);
+	category_list_free(cats);
 }
 
 /* category_delete — UNCATEGORIZED_SLUG cannot be deleted */
@@ -221,6 +240,7 @@ int main(void)
 
 	RUN_TEST(test_category_seed_creates_uncategorized);
 	RUN_TEST(test_category_seed_is_idempotent);
+	RUN_TEST(test_category_list_uncategorized_first);
 
 	RUN_TEST(test_category_delete_uncategorized_fails);
 	RUN_TEST(test_category_delete_without_sources);

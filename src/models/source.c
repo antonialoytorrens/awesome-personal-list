@@ -33,6 +33,12 @@ source_to_json(const struct source *s)
 	cJSON_AddStringToObject(root, "original_url", s->original_url);
 	cJSON_AddStringToObject(root, "description", s->description);
 	cJSON_AddStringToObject(root, "language", s->language);
+	cJSON_AddNumberToObject(root, "lang_checked_at",
+	    (double)s->lang_checked_at);
+	cJSON_AddNumberToObject(root, "lang_check_count",
+	    (double)s->lang_check_count);
+	cJSON_AddNumberToObject(root, "language_locked",
+	    (double)s->language_locked);
 
 	cats = cJSON_AddArrayToObject(root, "categories");
 	for (i = 0; i < s->category_count; i++)
@@ -107,6 +113,9 @@ source_from_json(cJSON *root, struct source *out)
 		}
 	}
 
+	out->lang_checked_at = (time_t)json_num(root, "lang_checked_at");
+	out->lang_check_count = (unsigned)json_num(root, "lang_check_count");
+	out->language_locked = (int)json_num(root, "language_locked");
 	out->swh_status = (int)json_num(root, "swh_status");
 	out->swh_checked_at = (time_t)json_num(root, "swh_checked_at");
 	out->created_at = (time_t)json_num(root, "created_at");

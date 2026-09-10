@@ -1,4 +1,4 @@
-/* awesome-personal-list - GET /README.md, always current, generated on request. */
+/* awesome-personal-list - GET /AWESOME.md, always current, generated on request. */
 
 #include <stdlib.h>
 #include <string.h>

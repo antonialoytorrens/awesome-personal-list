@@ -77,6 +77,8 @@ int	category_delete(const char *slug);
 int	category_list(struct category **, size_t *);
 void	category_list_free(struct category *);
 int	category_seed_defaults(void);
+/* UNCATEGORIZED_SLUG first, then strcasecmp on name. qsort-compatible. */
+int	category_cmp(const void *, const void *);
 
 /* ----------------------------------------------------------------- admin */
 
@@ -93,8 +95,12 @@ void	token_generate(char *, size_t);
 
 /* --------------------------------------------------------------- swh_cache */
 
-/* checked_at == 0 and status == SWH_STATUS_UNKNOWN when never checked. */
-int	swh_cache_get(const char *original_url, int *status, time_t *checked_at);
-int	swh_cache_set(const char *original_url, int status, time_t checked_at);
+/* checked_at == 0 and status == SWH_STATUS_UNKNOWN when never checked.
+ * check_count drives exponential backoff in the SWH checker (legacy
+ * 3-column cache rows read as check_count == 0). */
+int	swh_cache_get(const char *original_url, int *status, time_t *checked_at,
+	    unsigned *check_count);
+int	swh_cache_set(const char *original_url, int status, time_t checked_at,
+	    unsigned check_count);
 
 #endif /* !AWESOME_PERSONAL_LIST_MODELS_H */

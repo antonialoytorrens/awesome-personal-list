@@ -1,8 +1,8 @@
 /*
- * awesome-personal-list - README.md rendering.
- * Grouped by category (alphabetical, empty categories skipped), each entry
- * just the original repo plus its Software Heritage status -- no mirror
- * link, per the whole point of this app.
+ * awesome-personal-list - AWESOME.md rendering.
+ * Grouped by category (Uncategorized first, then alphabetical; empty
+ * categories skipped), each entry just the original repo plus its Software
+ * Heritage status -- no mirror link, per the whole point of this app.
  */
 
 #include <stdio.h>
@@ -17,14 +17,6 @@
 #include "readme.h"
 #include "wbuf.h"
 #include "xmalloc.h"
-
-static int
-cmp_category_name(const void *a, const void *b)
-{
-	const struct category	*ca = a, *cb = b;
-
-	return (strcasecmp(ca->name, cb->name));
-}
 
 static int
 cmp_source_url(const void *a, const void *b)
@@ -46,7 +38,7 @@ append_source(struct wbuf *out, const struct source *s)
 	int	 status;
 	time_t	 checked_at;
 
-	if (swh_cache_get(s->original_url, &status, &checked_at) == -1) {
+	if (swh_cache_get(s->original_url, &status, &checked_at, NULL) == -1) {
 		status = s->swh_status;
 		checked_at = s->swh_checked_at;
 	}
@@ -99,15 +91,16 @@ readme_render(void)
 		return (wbuf_stringify(&out, NULL));
 	}
 
-	qsort(cats, ncat, sizeof(*cats), cmp_category_name);
+	qsort(cats, ncat, sizeof(*cats), category_cmp);
 	qsort(srcs, nsrc, sizeof(*srcs), cmp_source_url);
 
-	/* A source in several categories (e.g. C + SDL) appears under each. */
+	/* A source in several categories (e.g. C + SDL) appears under each.
+	 * UNCATEGORIZED_SLUG matches sources with no category at all. */
 	for (i = 0; i < ncat; i++) {
 		int	any = 0;
 
 		for (j = 0; j < nsrc; j++) {
-			if (source_has_category(&srcs[j], cats[i].slug)) {
+			if (source_in_category(&srcs[j], cats[i].slug)) {
 				any = 1;
 				break;
 			}
@@ -119,7 +112,7 @@ readme_render(void)
 		wbuf_appendf(&out, "## %s\n\n", cats[i].name);
 
 		for (j = 0; j < nsrc; j++) {
-			if (source_has_category(&srcs[j], cats[i].slug))
+			if (source_in_category(&srcs[j], cats[i].slug))
 				append_source(&out, &srcs[j]);
 		}
 	}

@@ -1,9 +1,13 @@
 /*
- * awesome-personal-list-checker - re-checks Software Heritage status for every
- * curated source. Standalone (no ecewo): run by a systemd timer, resumable
- * across runs. Stops for the run once the rate limit is nearly exhausted
- * rather than sleeping for hours in-process; the next timer tick picks up
- * where the cache left off.
+ * awesome-personal-list-swh-checker - re-checks Software Heritage status for
+ * every curated source. Standalone (no ecewo): run by a systemd timer,
+ * resumable across runs. Stops for the run once the rate limit is nearly
+ * exhausted rather than sleeping for hours in-process; the next timer tick
+ * picks up where the cache left off.
+ *
+ * Each origin is rechecked on an exponential backoff (1 day → 90 days)
+ * keyed off checked_at + check_count in data/swh_cache.tsv, so not-yet-
+ * archived projects keep being polled without hitting the API every hour.
  */
 
 #include <stdio.h>
@@ -13,6 +17,7 @@
 #include <unistd.h>
 
 #include "app.h"
+#include "check_backoff.h"
 #include "envfile.h"
 #include "models.h"
 #include "strutil.h"
@@ -78,7 +83,8 @@ main(void)
 	struct swh_result	result;
 	size_t			i;
 	int			status, checked, skipped, failed;
-	time_t			checked_at;
+	unsigned		check_count;
+	time_t			checked_at, now;
 
 	load_config();
 
@@ -91,13 +97,18 @@ main(void)
 	memset(&set, 0, sizeof(set));
 	collect_urls(&set);
 
+	now = time(NULL);
 	app_log(LOG_INFO, "checking %zu distinct origins", set.count);
 
 	checked = skipped = failed = 0;
 
 	for (i = 0; i < set.count; i++) {
-		if (swh_cache_get(set.urls[i], &status, &checked_at) == 0 &&
-		    status == SWH_STATUS_ARCHIVED) {
+		int	have_cache;
+
+		have_cache = (swh_cache_get(set.urls[i], &status, &checked_at,
+		    &check_count) == 0);
+		if (have_cache &&
+		    !check_backoff_due(checked_at, check_count, now)) {
 			skipped++;
 			continue;
 		}
@@ -109,7 +120,12 @@ main(void)
 			continue;
 		}
 
-		swh_cache_set(set.urls[i], result.status, time(NULL));
+		if (have_cache && status == result.status)
+			check_count++;
+		else
+			check_count = 0;
+
+		swh_cache_set(set.urls[i], result.status, now, check_count);
 		checked++;
 
 		if (result.rate_remaining >= 0 && result.rate_remaining <= 1) {
