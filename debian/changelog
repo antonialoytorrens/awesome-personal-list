@@ -1,3 +1,9 @@
+awesome-personal-list (0.1.0-2) unstable; urgency=medium
+
+  * Enable UNITY_SUPPORT_64 so INT64 asserts work on 32-bit builds.
+
+ -- Antoni Aloy Torrens <aaloytorrens@gmail.com>  Sat, 12 Sep 2026 10:33:00 +0200
+
 awesome-personal-list (0.1.0-1) unstable; urgency=medium
 
   * Initial Debian packaging.

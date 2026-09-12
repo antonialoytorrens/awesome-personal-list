@@ -108,7 +108,8 @@ help:
 
 # Test suite
 UNITY_SRC   := vendor/unity/unity.c
-TEST_CFLAGS := $(CFLAGS) -Ivendor/unity
+# Enable UNITY_SUPPORT_64 due to long long / INT64 asserts in 32-bit builds
+TEST_CFLAGS := $(CFLAGS) -Ivendor/unity -DUNITY_SUPPORT_64
 
 # Unit tests (no filesystem I/O)
 $(BUILD)/tests/test_strutil: tests/test_strutil.c $(UNITY_SRC) \
