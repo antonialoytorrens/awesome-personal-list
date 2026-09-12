@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-metroid-prime-federation-force-git",
-  "original_url": "https://github.com/PretendoNetwork/metroid-prime-federation-force.git",
-  "description": "Game server for Metroid Prime: Federation Force and Metroid Prime: Blast Ball",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054066,
-  "updated_at": 1787054066
+	"slug": "github-com-pretendonetwork-metroid-prime-federation-force-git",
+	"original_url": "https://github.com/PretendoNetwork/metroid-prime-federation-force.git",
+	"description": "Game server for Metroid Prime: Federation Force and Metroid Prime: Blast Ball",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054066,
+	"updated_at": 1787054066
 }

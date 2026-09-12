@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-puretryout-fam-ribbers-com",
-  "original_url": "https://codeberg.org/PureTryOut/fam-ribbers.com",
-  "description": "",
-  "language": "SCSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043215,
-  "created_at": 1787051691,
-  "updated_at": 1787051691
+	"slug": "codeberg-org-puretryout-fam-ribbers-com",
+	"original_url": "https://codeberg.org/PureTryOut/fam-ribbers.com",
+	"description": "",
+	"language": "SCSS",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043215,
+	"created_at": 1787051691,
+	"updated_at": 1787051691
 }

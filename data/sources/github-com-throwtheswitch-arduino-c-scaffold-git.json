@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-throwtheswitch-arduino-c-scaffold-git",
-  "original_url": "https://github.com/ThrowTheSwitch/arduino_c_scaffold.git",
-  "description": "A scaffold project using Rake, avr-gcc, and avrdude to program the Arduino UNO in plain C.",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054904,
-  "updated_at": 1787054904
+	"slug": "github-com-throwtheswitch-arduino-c-scaffold-git",
+	"original_url": "https://github.com/ThrowTheSwitch/arduino_c_scaffold.git",
+	"description": "A scaffold project using Rake, avr-gcc, and avrdude to program the Arduino UNO in plain C.",
+	"language": "Ruby",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054904,
+	"updated_at": 1787054904
 }

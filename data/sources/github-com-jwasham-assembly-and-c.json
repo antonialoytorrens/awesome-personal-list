@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jwasham-assembly-and-c",
-  "original_url": "https://github.com/jwasham/assembly-and-c",
-  "description": "Personal study of book \"Low-Level Programming\" by Igor Zhirkov (Apress, 2017)",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052340,
-  "updated_at": 1787052340
+	"slug": "github-com-jwasham-assembly-and-c",
+	"original_url": "https://github.com/jwasham/assembly-and-c",
+	"description": "Personal study of book \"Low-Level Programming\" by Igor Zhirkov (Apress, 2017)",
+	"language": "Assembly",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052340,
+	"updated_at": 1787052340
 }

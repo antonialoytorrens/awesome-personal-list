@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-n64decomp-perfect-dark-git",
-	"original_url":	"https://github.com/n64decomp/perfect_dark.git",
-	"description":	"A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052493,
-	"updated_at":	1787063962
+	"slug": "github-com-n64decomp-perfect-dark-git",
+	"original_url": "https://github.com/n64decomp/perfect_dark.git",
+	"description": "A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052493,
+	"updated_at": 1787063962
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-floooh-sokol-wgpu-preview",
-  "original_url": "https://github.com/floooh/sokol-wgpu-preview",
-  "description": "Temporary sneak preview website for sokol WebGPU samples.",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054289,
-  "updated_at": 1787054289
+	"slug": "github-com-floooh-sokol-wgpu-preview",
+	"original_url": "https://github.com/floooh/sokol-wgpu-preview",
+	"description": "Temporary sneak preview website for sokol WebGPU samples.",
+	"language": "HTML",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054289,
+	"updated_at": 1787054289
 }

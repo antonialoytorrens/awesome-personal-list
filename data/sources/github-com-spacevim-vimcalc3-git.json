@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-spacevim-vimcalc3-git",
-  "original_url": "https://github.com/SpaceVim/VimCalc3.git",
-  "description": "A Vim plugin that provides a convenient interactive calculator inside a buffer. ",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054305,
-  "updated_at": 1787054305
+	"slug": "github-com-spacevim-vimcalc3-git",
+	"original_url": "https://github.com/SpaceVim/VimCalc3.git",
+	"description": "A Vim plugin that provides a convenient interactive calculator inside a buffer. ",
+	"language": "Python",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054305,
+	"updated_at": 1787054305
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ioquake-ioq3-git",
-	"original_url":	"https://github.com/ioquake/ioq3.git",
-	"description":	"The ioquake3 community effort to continue supporting/developing id's Quake III Arena",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052318,
-	"updated_at":	1787063961
+	"slug": "github-com-ioquake-ioq3-git",
+	"original_url": "https://github.com/ioquake/ioq3.git",
+	"description": "The ioquake3 community effort to continue supporting/developing id's Quake III Arena",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052318,
+	"updated_at": 1787063961
 }

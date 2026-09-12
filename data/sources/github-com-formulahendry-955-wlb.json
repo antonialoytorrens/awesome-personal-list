@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-formulahendry-955-wlb",
-  "original_url": "https://github.com/formulahendry/955.WLB",
-  "description": "Work Life Balance",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043218,
-  "created_at": 1787051694,
-  "updated_at": 1787051694
+	"slug": "github-com-formulahendry-955-wlb",
+	"original_url": "https://github.com/formulahendry/955.WLB",
+	"description": "Work Life Balance",
+	"language": "Markdown",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043218,
+	"created_at": 1787051694,
+	"updated_at": 1787051694
 }

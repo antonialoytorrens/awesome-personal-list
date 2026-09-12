@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-mario-kart-8-git",
-  "original_url": "https://github.com/PretendoNetwork/mario-kart-8.git",
-  "description": "Pretendo Mario Kart 8 server implementation",
-  "language": "Makefile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054027,
-  "updated_at": 1787054027
+	"slug": "github-com-pretendonetwork-mario-kart-8-git",
+	"original_url": "https://github.com/PretendoNetwork/mario-kart-8.git",
+	"description": "Pretendo Mario Kart 8 server implementation",
+	"language": "Makefile",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054027,
+	"updated_at": 1787054027
 }

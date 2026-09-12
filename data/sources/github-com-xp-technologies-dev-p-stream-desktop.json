@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-xp-technologies-dev-p-stream-desktop",
-  "original_url": "https://github.com/xp-technologies-dev/p-stream-desktop",
-  "description": "P-Stream electron wrapper with the extension built in and EVEN MORE SOURCES! RESURRECTED",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052624,
-  "updated_at": 1787052624
+	"slug": "github-com-xp-technologies-dev-p-stream-desktop",
+	"original_url": "https://github.com/xp-technologies-dev/p-stream-desktop",
+	"description": "P-Stream electron wrapper with the extension built in and EVEN MORE SOURCES! RESURRECTED",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052624,
+	"updated_at": 1787052624
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-openfl-git",
-  "original_url": "https://github.com/FunkinCrew/openfl.git",
-  "description": "The Open Flash Library for creative expression on the web, desktop, mobile and consoles.",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052225,
-  "updated_at": 1787052225
+	"slug": "github-com-funkincrew-openfl-git",
+	"original_url": "https://github.com/FunkinCrew/openfl.git",
+	"description": "The Open Flash Library for creative expression on the web, desktop, mobile and consoles.",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052225,
+	"updated_at": 1787052225
 }

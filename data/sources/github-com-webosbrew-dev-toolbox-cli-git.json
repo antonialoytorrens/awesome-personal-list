@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-dev-toolbox-cli-git",
-  "original_url": "https://github.com/webosbrew/dev-toolbox-cli.git",
-  "description": "",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055001,
-  "updated_at": 1787055001
+	"slug": "github-com-webosbrew-dev-toolbox-cli-git",
+	"original_url": "https://github.com/webosbrew/dev-toolbox-cli.git",
+	"description": "",
+	"language": "Rust",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055001,
+	"updated_at": 1787055001
 }

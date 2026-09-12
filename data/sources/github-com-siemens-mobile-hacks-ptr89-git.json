@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-ptr89-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/ptr89.git",
-  "description": "Yet another binary pattern finder.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054149,
-  "updated_at": 1787054149
+	"slug": "github-com-siemens-mobile-hacks-ptr89-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/ptr89.git",
+	"description": "Yet another binary pattern finder.",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054149,
+	"updated_at": 1787054149
 }

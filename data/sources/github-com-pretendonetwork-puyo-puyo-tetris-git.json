@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-puyo-puyo-tetris-git",
-  "original_url": "https://github.com/PretendoNetwork/puyo-puyo-tetris.git",
-  "description": "Pretendo Network Puyo Puyo Tetris game server",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054055,
-  "updated_at": 1787054055
+	"slug": "github-com-pretendonetwork-puyo-puyo-tetris-git",
+	"original_url": "https://github.com/PretendoNetwork/puyo-puyo-tetris.git",
+	"description": "Pretendo Network Puyo Puyo Tetris game server",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054055,
+	"updated_at": 1787054055
 }

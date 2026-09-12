@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-quickemu-project-quickgui-git",
-  "original_url": "https://github.com/quickemu-project/quickgui.git",
-  "description": "An elegant virtual machine manager for the desktop",
-  "language": "Dart",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054095,
-  "updated_at": 1787054095
+	"slug": "github-com-quickemu-project-quickgui-git",
+	"original_url": "https://github.com/quickemu-project/quickgui.git",
+	"description": "An elegant virtual machine manager for the desktop",
+	"language": "Dart",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054095,
+	"updated_at": 1787054095
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-r58playz-celeste-j2me-git",
-	"original_url":	"https://github.com/r58Playz/celeste-j2me.git",
-	"description":	"A port of Celeste Classic to J2ME based devices",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052334,
-	"updated_at":	1787063963
+	"slug": "github-com-r58playz-celeste-j2me-git",
+	"original_url": "https://github.com/r58Playz/celeste-j2me.git",
+	"description": "A port of Celeste Classic to J2ME based devices",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052334,
+	"updated_at": 1787063963
 }

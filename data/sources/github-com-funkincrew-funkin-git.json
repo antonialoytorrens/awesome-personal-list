@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-funkin-git",
-  "original_url": "https://github.com/FunkinCrew/Funkin.git",
-  "description": "A rhythm game made with HaxeFlixel",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052218,
-  "updated_at": 1787052218
+	"slug": "github-com-funkincrew-funkin-git",
+	"original_url": "https://github.com/FunkinCrew/Funkin.git",
+	"description": "A rhythm game made with HaxeFlixel",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052218,
+	"updated_at": 1787052218
 }

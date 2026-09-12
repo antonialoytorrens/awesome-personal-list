@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-gsx-labs-git",
-  "original_url": "https://github.com/URV-BioGEI/GSX_Labs.git",
-  "description": "Bash scripts for system and network configuration for a Linux System.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054956,
-  "updated_at": 1787054956
+	"slug": "github-com-urv-biogei-gsx-labs-git",
+	"original_url": "https://github.com/URV-BioGEI/GSX_Labs.git",
+	"description": "Bash scripts for system and network configuration for a Linux System.",
+	"language": "Shell",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054956,
+	"updated_at": 1787054956
 }

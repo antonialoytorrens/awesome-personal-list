@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-erincatto-box3d",
-	"original_url":	"https://github.com/erincatto/box3d",
-	"description":	"Box3D is a 3D physics engine for games",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051843,
-	"updated_at":	1787063961
+	"slug": "github-com-erincatto-box3d",
+	"original_url": "https://github.com/erincatto/box3d",
+	"description": "Box3D is a 3D physics engine for games",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051843,
+	"updated_at": 1787063961
 }

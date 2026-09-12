@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-krkrz-question-git",
-  "original_url": "https://github.com/krkrz/krkrz_question.git",
-  "description": "åéåéZè³ªåç¨ãªãã¸ããª",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052363,
-  "updated_at": 1787052363
+	"slug": "github-com-krkrz-krkrz-question-git",
+	"original_url": "https://github.com/krkrz/krkrz_question.git",
+	"description": "åéåéZè³ªåç¨ãªãã¸ããª",
+	"language": "",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052363,
+	"updated_at": 1787052363
 }

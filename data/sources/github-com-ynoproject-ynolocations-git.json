@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ynoproject-ynolocations-git",
-  "original_url": "https://github.com/ynoproject/ynolocations.git",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055067,
-  "updated_at": 1787055067
+	"slug": "github-com-ynoproject-ynolocations-git",
+	"original_url": "https://github.com/ynoproject/ynolocations.git",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055067,
+	"updated_at": 1787055067
 }

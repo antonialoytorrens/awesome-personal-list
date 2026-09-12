@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jorgeduenaslerin-docencia-23-24-git",
-  "original_url": "https://github.com/JorgeDuenasLerin/docencia-23-24.git",
-  "description": "MÃ³dulos impartidos en el Juan de la Cierva durante 2023/24",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043221,
-  "created_at": 1787051696,
-  "updated_at": 1787051696
+	"slug": "github-com-jorgeduenaslerin-docencia-23-24-git",
+	"original_url": "https://github.com/JorgeDuenasLerin/docencia-23-24.git",
+	"description": "MÃ³dulos impartidos en el Juan de la Cierva durante 2023/24",
+	"language": "JavaScript",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043221,
+	"created_at": 1787051696,
+	"updated_at": 1787051696
 }

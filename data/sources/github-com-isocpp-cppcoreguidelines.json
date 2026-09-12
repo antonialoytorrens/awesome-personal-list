@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-isocpp-cppcoreguidelines",
-  "original_url": "https://github.com/isocpp/CppCoreGuidelines",
-  "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051963,
-  "updated_at": 1787051963
+	"slug": "github-com-isocpp-cppcoreguidelines",
+	"original_url": "https://github.com/isocpp/CppCoreGuidelines",
+	"description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+	"language": "CSS",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051963,
+	"updated_at": 1787051963
 }

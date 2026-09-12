@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-imcommonsense-buckshot-decomp-public",
-  "original_url": "https://github.com/imcommonsense/buckshot-decomp-public",
-  "description": "full decompilation of buckshot roulette (excluding project and scene files)",
-  "language": "GDScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051846,
-  "updated_at": 1787051846
+	"slug": "github-com-imcommonsense-buckshot-decomp-public",
+	"original_url": "https://github.com/imcommonsense/buckshot-decomp-public",
+	"description": "full decompilation of buckshot roulette (excluding project and scene files)",
+	"language": "GDScript",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051846,
+	"updated_at": 1787051846
 }

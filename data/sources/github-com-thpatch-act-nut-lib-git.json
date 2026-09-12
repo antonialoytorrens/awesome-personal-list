@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-act-nut-lib-git",
-  "original_url": "https://github.com/thpatch/Act-Nut-lib.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054896,
-  "updated_at": 1787054896
+	"slug": "github-com-thpatch-act-nut-lib-git",
+	"original_url": "https://github.com/thpatch/Act-Nut-lib.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054896,
+	"updated_at": 1787054896
 }

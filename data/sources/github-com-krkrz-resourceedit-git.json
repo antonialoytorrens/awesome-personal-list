@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-resourceedit-git",
-  "original_url": "https://github.com/krkrz/resourceEdit.git",
-  "description": "Windowså®è¡ãã¡ã¤ã«ã®ãªã½ã¼ã¹ãæä½ãããã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052370,
-  "updated_at": 1787052370
+	"slug": "github-com-krkrz-resourceedit-git",
+	"original_url": "https://github.com/krkrz/resourceEdit.git",
+	"description": "Windowså®è¡ãã¡ã¤ã«ã®ãªã½ã¼ã¹ãæä½ãããã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052370,
+	"updated_at": 1787052370
 }

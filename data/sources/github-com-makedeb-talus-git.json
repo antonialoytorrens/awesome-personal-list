@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-makedeb-talus-git",
-  "original_url": "https://github.com/makedeb/talus.git",
-  "description": "The Talus API",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052419,
-  "updated_at": 1787052419
+	"slug": "github-com-makedeb-talus-git",
+	"original_url": "https://github.com/makedeb/talus.git",
+	"description": "The Talus API",
+	"language": "Python",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052419,
+	"updated_at": 1787052419
 }

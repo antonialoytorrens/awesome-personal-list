@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-chooj-chooj",
-  "original_url": "https://codeberg.org/chooj/chooj",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052345,
-  "updated_at": 1787052345
+	"slug": "codeberg-org-chooj-chooj",
+	"original_url": "https://codeberg.org/chooj/chooj",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052345,
+	"updated_at": 1787052345
 }

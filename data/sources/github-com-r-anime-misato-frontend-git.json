@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-misato-frontend-git",
-  "original_url": "https://github.com/r-anime/misato-frontend.git",
-  "description": "ð Management interface for /r/anime's Discord bot",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054103,
-  "updated_at": 1787054103
+	"slug": "github-com-r-anime-misato-frontend-git",
+	"original_url": "https://github.com/r-anime/misato-frontend.git",
+	"description": "ð Management interface for /r/anime's Discord bot",
+	"language": "Vue",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054103,
+	"updated_at": 1787054103
 }

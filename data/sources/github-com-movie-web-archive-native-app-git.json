@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-movie-web-archive-native-app-git",
-  "original_url": "https://github.com/movie-web-archive/native-app.git",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052479,
-  "updated_at": 1787052479
+	"slug": "github-com-movie-web-archive-native-app-git",
+	"original_url": "https://github.com/movie-web-archive/native-app.git",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052479,
+	"updated_at": 1787052479
 }

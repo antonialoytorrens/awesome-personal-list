@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-moondust-online-installers-git",
-  "original_url": "https://github.com/WohlSoft/Moondust-Online-Installers.git",
-  "description": "Collection of online installer scripts",
-  "language": "Inno Setup",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055036,
-  "updated_at": 1787055036
+	"slug": "github-com-wohlsoft-moondust-online-installers-git",
+	"original_url": "https://github.com/WohlSoft/Moondust-Online-Installers.git",
+	"description": "Collection of online installer scripts",
+	"language": "Inno Setup",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055036,
+	"updated_at": 1787055036
 }

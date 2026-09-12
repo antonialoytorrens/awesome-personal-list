@@ -1,12 +1,14 @@
 {
-  "slug": "forge-hackers-town-antijingoist-opendyslexic",
-  "original_url": "https://forge.hackers.town/antijingoist/opendyslexic",
-  "description": "",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052211,
-  "updated_at": 1787052211
+	"slug": "forge-hackers-town-antijingoist-opendyslexic",
+	"original_url": "https://forge.hackers.town/antijingoist/opendyslexic",
+	"description": "",
+	"language": "Text",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052211,
+	"updated_at": 1787052211
 }

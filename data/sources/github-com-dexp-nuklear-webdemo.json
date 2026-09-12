@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-dexp-nuklear-webdemo",
-	"original_url":	"https://github.com/DeXP/nuklear-webdemo",
-	"description":	"Web demo for Nuklear GUI library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052559,
-	"updated_at":	1787063960
+	"slug": "github-com-dexp-nuklear-webdemo",
+	"original_url": "https://github.com/DeXP/nuklear-webdemo",
+	"description": "Web demo for Nuklear GUI library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052559,
+	"updated_at": 1787063960
 }

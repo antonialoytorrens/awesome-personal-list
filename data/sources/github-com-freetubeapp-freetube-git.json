@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-freetube-git",
-  "original_url": "https://github.com/FreeTubeApp/FreeTube.git",
-  "description": "An Open Source YouTube app for privacy",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052213,
-  "updated_at": 1787052213
+	"slug": "github-com-freetubeapp-freetube-git",
+	"original_url": "https://github.com/FreeTubeApp/FreeTube.git",
+	"description": "An Open Source YouTube app for privacy",
+	"language": "Vue",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052213,
+	"updated_at": 1787052213
 }

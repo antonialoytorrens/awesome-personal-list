@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-videoencoder-git",
-  "original_url": "https://github.com/krkrz/videoEncoder.git",
-  "description": "ã¬ã¤ã¤ã¼ãåç»ä¿å­ãããã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052369,
-  "updated_at": 1787052369
+	"slug": "github-com-krkrz-videoencoder-git",
+	"original_url": "https://github.com/krkrz/videoEncoder.git",
+	"description": "ã¬ã¤ã¤ã¼ãåç»ä¿å­ãããã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052369,
+	"updated_at": 1787052369
 }

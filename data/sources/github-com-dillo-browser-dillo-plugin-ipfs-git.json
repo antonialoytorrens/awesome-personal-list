@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dillo-browser-dillo-plugin-ipfs-git",
-  "original_url": "https://github.com/dillo-browser/dillo-plugin-ipfs.git",
-  "description": "IPFS plugin for Dillo",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052054,
-  "updated_at": 1787052054
+	"slug": "github-com-dillo-browser-dillo-plugin-ipfs-git",
+	"original_url": "https://github.com/dillo-browser/dillo-plugin-ipfs.git",
+	"description": "IPFS plugin for Dillo",
+	"language": "Go",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052054,
+	"updated_at": 1787052054
 }

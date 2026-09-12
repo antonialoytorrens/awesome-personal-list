@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-portafirmas-ipad-git",
-  "original_url": "https://github.com/ctt-gob-es/portafirmas-ipad.git",
-  "description": "Cliente de portafirmas especializado en iPad",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051985,
-  "updated_at": 1787051985
+	"slug": "github-com-ctt-gob-es-portafirmas-ipad-git",
+	"original_url": "https://github.com/ctt-gob-es/portafirmas-ipad.git",
+	"description": "Cliente de portafirmas especializado en iPad",
+	"language": "",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051985,
+	"updated_at": 1787051985
 }

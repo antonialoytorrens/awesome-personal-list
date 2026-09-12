@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dillo-browser-dillo-plugin-man-git",
-  "original_url": "https://github.com/dillo-browser/dillo-plugin-man.git",
-  "description": "Dillo plugin for man pages",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052053,
-  "updated_at": 1787052053
+	"slug": "github-com-dillo-browser-dillo-plugin-man-git",
+	"original_url": "https://github.com/dillo-browser/dillo-plugin-man.git",
+	"description": "Dillo plugin for man pages",
+	"language": "Shell",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052053,
+	"updated_at": 1787052053
 }

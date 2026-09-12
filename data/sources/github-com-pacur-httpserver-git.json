@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pacur-httpserver-git",
-  "original_url": "https://github.com/pacur/httpserver.git",
-  "description": "Http file server written with Go",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053926,
-  "updated_at": 1787053926
+	"slug": "github-com-pacur-httpserver-git",
+	"original_url": "https://github.com/pacur/httpserver.git",
+	"description": "Http file server written with Go",
+	"language": "Go",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053926,
+	"updated_at": 1787053926
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-b0ney-xmodits-py",
-  "original_url": "https://github.com/B0ney/xmodits-py",
-  "description": "xmodits python library",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054921,
-  "updated_at": 1787054921
+	"slug": "github-com-b0ney-xmodits-py",
+	"original_url": "https://github.com/B0ney/xmodits-py",
+	"description": "xmodits python library",
+	"language": "Rust",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054921,
+	"updated_at": 1787054921
 }

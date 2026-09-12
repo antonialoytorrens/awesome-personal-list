@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-websnarf-bstrlib",
-	"original_url":	"https://github.com/websnarf/bstrlib",
-	"description":	"The Better String Library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051893,
-	"updated_at":	1787063964
+	"slug": "github-com-websnarf-bstrlib",
+	"original_url": "https://github.com/websnarf/bstrlib",
+	"description": "The Better String Library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051893,
+	"updated_at": 1787063964
 }

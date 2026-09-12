@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-raspiduino-mre-sdk",
-  "original_url": "https://github.com/raspiduino/mre-sdk",
-  "description": "MRE-sdk archive",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043226,
-  "created_at": 1787051700,
-  "updated_at": 1787051700
+	"slug": "github-com-raspiduino-mre-sdk",
+	"original_url": "https://github.com/raspiduino/mre-sdk",
+	"description": "MRE-sdk archive",
+	"language": "Markdown",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043226,
+	"created_at": 1787051700,
+	"updated_at": 1787051700
 }

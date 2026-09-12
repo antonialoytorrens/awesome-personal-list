@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devshaft-backup-ta",
-  "original_url": "https://github.com/DevShaft/Backup-TA",
-  "description": "",
-  "language": "Batchfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051777,
-  "updated_at": 1787051777
+	"slug": "github-com-devshaft-backup-ta",
+	"original_url": "https://github.com/DevShaft/Backup-TA",
+	"description": "",
+	"language": "Batchfile",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051777,
+	"updated_at": 1787051777
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "gitgud-io-pyxia-mf-dl",
-  "original_url": "https://gitgud.io/Pyxia/mf-dl",
-  "description": "Mediafire downloader",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043239,
-  "created_at": 1787051711,
-  "updated_at": 1787051711
+	"slug": "gitgud-io-pyxia-mf-dl",
+	"original_url": "https://gitgud.io/Pyxia/mf-dl",
+	"description": "Mediafire downloader",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043239,
+	"created_at": 1787051711,
+	"updated_at": 1787051711
 }

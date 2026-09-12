@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ayha1810-touhou-midi-collection",
-  "original_url": "https://github.com/AyHa1810/touhou-midi-collection",
-  "description": "A collection of TouHou MIDIs",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043236,
-  "created_at": 1787051709,
-  "updated_at": 1787051709
+	"slug": "github-com-ayha1810-touhou-midi-collection",
+	"original_url": "https://github.com/AyHa1810/touhou-midi-collection",
+	"description": "A collection of TouHou MIDIs",
+	"language": "Text",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043236,
+	"created_at": 1787051709,
+	"updated_at": 1787051709
 }

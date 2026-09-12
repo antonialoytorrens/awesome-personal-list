@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-lnh-team-dspico-git",
-  "original_url": "https://github.com/LNH-team/dspico.git",
-  "description": "Documentation repository for the DSpico flashcard",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052415,
-  "updated_at": 1787052415
+	"slug": "github-com-lnh-team-dspico-git",
+	"original_url": "https://github.com/LNH-team/dspico.git",
+	"description": "Documentation repository for the DSpico flashcard",
+	"language": "Markdown",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052415,
+	"updated_at": 1787052415
 }

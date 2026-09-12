@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-naev-naev-artwork",
-  "original_url": "https://github.com/naev/naev-artwork",
-  "description": "Naev's artwork repository",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052495,
-  "updated_at": 1787052495
+	"slug": "github-com-naev-naev-artwork",
+	"original_url": "https://github.com/naev/naev-artwork",
+	"description": "Naev's artwork repository",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052495,
+	"updated_at": 1787052495
 }

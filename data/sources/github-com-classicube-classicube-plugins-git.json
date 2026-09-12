@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-classicube-classicube-plugins-git",
-	"original_url":	"https://github.com/ClassiCube/ClassiCube-Plugins.git",
-	"description":	"Plugins for ClassiCube and ClassicalSharp",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051943,
-	"updated_at":	1787063960
+	"slug": "github-com-classicube-classicube-plugins-git",
+	"original_url": "https://github.com/ClassiCube/ClassiCube-Plugins.git",
+	"description": "Plugins for ClassiCube and ClassicalSharp",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051943,
+	"updated_at": 1787063960
 }

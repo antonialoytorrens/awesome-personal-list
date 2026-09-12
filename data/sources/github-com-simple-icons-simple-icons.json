@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-simple-icons-simple-icons",
-  "original_url": "https://github.com/simple-icons/simple-icons",
-  "description": "SVG icons for popular brands",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043217,
-  "created_at": 1787051693,
-  "updated_at": 1787051693
+	"slug": "github-com-simple-icons-simple-icons",
+	"original_url": "https://github.com/simple-icons/simple-icons",
+	"description": "SVG icons for popular brands",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043217,
+	"created_at": 1787051693,
+	"updated_at": 1787051693
 }

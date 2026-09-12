@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-decidim-decidim-org-git",
-  "original_url": "https://github.com/decidim/decidim.org.git",
-  "description": "Decidim.org public landing website. Made with Middleman. ",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051997,
-  "updated_at": 1787051997
+	"slug": "github-com-decidim-decidim-org-git",
+	"original_url": "https://github.com/decidim/decidim.org.git",
+	"description": "Decidim.org public landing website. Made with Middleman. ",
+	"language": "HTML",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051997,
+	"updated_at": 1787051997
 }

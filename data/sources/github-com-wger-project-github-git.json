@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wger-project-github-git",
-  "original_url": "https://github.com/wger-project/.github.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055011,
-  "updated_at": 1787055011
+	"slug": "github-com-wger-project-github-git",
+	"original_url": "https://github.com/wger-project/.github.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055011,
+	"updated_at": 1787055011
 }

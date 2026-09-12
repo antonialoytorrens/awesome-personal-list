@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-neocon-git",
-	"original_url":	"https://github.com/sysprog21/neocon.git",
-	"description":	"A simple serial console utility",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054840,
-	"updated_at":	1787063963
+	"slug": "github-com-sysprog21-neocon-git",
+	"original_url": "https://github.com/sysprog21/neocon.git",
+	"description": "A simple serial console utility",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054840,
+	"updated_at": 1787063963
 }

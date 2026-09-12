@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-python-git",
-  "original_url": "https://github.com/TheAlgorithms/Python.git",
-  "description": "All Algorithms implemented in Python",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054871,
-  "updated_at": 1787054871
+	"slug": "github-com-thealgorithms-python-git",
+	"original_url": "https://github.com/TheAlgorithms/Python.git",
+	"description": "All Algorithms implemented in Python",
+	"language": "Python",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054871,
+	"updated_at": 1787054871
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ruslang02-discord-symbian-server",
-  "original_url": "https://github.com/ruslang02/discord-symbian-server",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054331,
-  "updated_at": 1787054331
+	"slug": "github-com-ruslang02-discord-symbian-server",
+	"original_url": "https://github.com/ruslang02/discord-symbian-server",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054331,
+	"updated_at": 1787054331
 }

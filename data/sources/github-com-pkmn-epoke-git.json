@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pkmn-epoke-git",
-  "original_url": "https://github.com/pkmn/EPOke.git",
-  "description": "Enhanced PokÃ©mon battle state tracking and prediction engine ",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053967,
-  "updated_at": 1787053967
+	"slug": "github-com-pkmn-epoke-git",
+	"original_url": "https://github.com/pkmn/EPOke.git",
+	"description": "Enhanced PokÃ©mon battle state tracking and prediction engine ",
+	"language": "TypeScript",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053967,
+	"updated_at": 1787053967
 }

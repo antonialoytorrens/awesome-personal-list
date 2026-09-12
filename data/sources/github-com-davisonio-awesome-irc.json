@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-davisonio-awesome-irc",
-  "original_url": "https://github.com/davisonio/awesome-irc",
-  "description": "A curated list of awesome IRC resources.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043220,
-  "created_at": 1787051695,
-  "updated_at": 1787051695
+	"slug": "github-com-davisonio-awesome-irc",
+	"original_url": "https://github.com/davisonio/awesome-irc",
+	"description": "A curated list of awesome IRC resources.",
+	"language": "Markdown",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043220,
+	"created_at": 1787051695,
+	"updated_at": 1787051695
 }

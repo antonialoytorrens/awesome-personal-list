@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ioquake-three-git",
-  "original_url": "https://github.com/ioquake/three.git",
-  "description": "A GPL (v2) and Creative Commons (for the assets) game for the ioquake3 engine.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052319,
-  "updated_at": 1787052319
+	"slug": "github-com-ioquake-three-git",
+	"original_url": "https://github.com/ioquake/three.git",
+	"description": "A GPL (v2) and Creative Commons (for the assets) game for the ioquake3 engine.",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052319,
+	"updated_at": 1787052319
 }

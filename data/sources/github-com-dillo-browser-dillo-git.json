@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dillo-browser-dillo-git",
-  "original_url": "https://github.com/dillo-browser/dillo.git",
-  "description": "Dillo, a multi-platform graphical web browser",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052052,
-  "updated_at": 1787052052
+	"slug": "github-com-dillo-browser-dillo-git",
+	"original_url": "https://github.com/dillo-browser/dillo.git",
+	"description": "Dillo, a multi-platform graphical web browser",
+	"language": "C++",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052052,
+	"updated_at": 1787052052
 }

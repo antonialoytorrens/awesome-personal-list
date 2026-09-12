@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-include-what-you-use-include-what-you-use",
-  "original_url": "https://github.com/include-what-you-use/include-what-you-use",
-  "description": "A tool for use with clang to analyze #includes in C and C++ source files",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051961,
-  "updated_at": 1787051961
+	"slug": "github-com-include-what-you-use-include-what-you-use",
+	"original_url": "https://github.com/include-what-you-use/include-what-you-use",
+	"description": "A tool for use with clang to analyze #includes in C and C++ source files",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051961,
+	"updated_at": 1787051961
 }

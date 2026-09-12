@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-krkrz-krdstheora-git",
-	"original_url":	"https://github.com/krkrz/krdstheora.git",
-	"description":	"theoraåç»åçãã©ã°ã¤ã³",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052369,
-	"updated_at":	1787063961
+	"slug": "github-com-krkrz-krdstheora-git",
+	"original_url": "https://github.com/krkrz/krdstheora.git",
+	"description": "theoraåç»åçãã©ã°ã¤ã³",
+	"language": "C",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052369,
+	"updated_at": 1787063961
 }

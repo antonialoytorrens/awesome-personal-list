@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-aat-debian-repository-makedeb-python3-10",
-  "original_url": "https://gitlab.com/aat-debian-repository/makedeb/python3.10",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053925,
-  "updated_at": 1787053925
+	"slug": "gitlab-com-aat-debian-repository-makedeb-python3-10",
+	"original_url": "https://gitlab.com/aat-debian-repository/makedeb/python3.10",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053925,
+	"updated_at": 1787053925
 }

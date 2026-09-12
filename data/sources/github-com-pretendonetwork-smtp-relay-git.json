@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-smtp-relay-git",
-  "original_url": "https://github.com/PretendoNetwork/smtp-relay.git",
-  "description": "Simple SMTP relay to make forum emails work",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054065,
-  "updated_at": 1787054065
+	"slug": "github-com-pretendonetwork-smtp-relay-git",
+	"original_url": "https://github.com/PretendoNetwork/smtp-relay.git",
+	"description": "Simple SMTP relay to make forum emails work",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054065,
+	"updated_at": 1787054065
 }

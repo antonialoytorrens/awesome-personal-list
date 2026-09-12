@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-anael-seghezzi-maratis-tiny-c-library",
-	"original_url":	"https://github.com/anael-seghezzi/Maratis-Tiny-C-library",
-	"description":	"tiny math and image processing in C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051884,
-	"updated_at":	1787063960
+	"slug": "github-com-anael-seghezzi-maratis-tiny-c-library",
+	"original_url": "https://github.com/anael-seghezzi/Maratis-Tiny-C-library",
+	"description": "tiny math and image processing in C",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051884,
+	"updated_at": 1787063960
 }

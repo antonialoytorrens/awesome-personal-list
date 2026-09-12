@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mgerdes-dinosaur-game-assembly",
-  "original_url": "https://github.com/mgerdes/dinosaur-game-assembly",
-  "description": "The Chrome Dinosaur Game Implemented in ARM Assembly  ",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051799,
-  "updated_at": 1787051799
+	"slug": "github-com-mgerdes-dinosaur-game-assembly",
+	"original_url": "https://github.com/mgerdes/dinosaur-game-assembly",
+	"description": "The Chrome Dinosaur Game Implemented in ARM Assembly  ",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051799,
+	"updated_at": 1787051799
 }

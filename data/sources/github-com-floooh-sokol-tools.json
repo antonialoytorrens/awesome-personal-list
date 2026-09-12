@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-floooh-sokol-tools",
-  "original_url": "https://github.com/floooh/sokol-tools",
-  "description": "Command line tools for use with sokol headers",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054281,
-  "updated_at": 1787054281
+	"slug": "github-com-floooh-sokol-tools",
+	"original_url": "https://github.com/floooh/sokol-tools",
+	"description": "Command line tools for use with sokol headers",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054281,
+	"updated_at": 1787054281
 }

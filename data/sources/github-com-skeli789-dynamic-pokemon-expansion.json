@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-skeli789-dynamic-pokemon-expansion",
-	"original_url":	"https://github.com/Skeli789/Dynamic-Pokemon-Expansion",
-	"description":	"A tool to ease the process of expanding the number of Pokemon in Fire Red. It is meant to be used alongside the Complete FireRed Upgrade.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053961,
-	"updated_at":	1787063963
+	"slug": "github-com-skeli789-dynamic-pokemon-expansion",
+	"original_url": "https://github.com/Skeli789/Dynamic-Pokemon-Expansion",
+	"description": "A tool to ease the process of expanding the number of Pokemon in Fire Red. It is meant to be used alongside the Complete FireRed Upgrade.",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053961,
+	"updated_at": 1787063963
 }

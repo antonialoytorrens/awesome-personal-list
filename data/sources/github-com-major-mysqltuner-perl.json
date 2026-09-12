@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-major-mysqltuner-perl",
-  "original_url": "https://github.com/major/MySQLTuner-perl",
-  "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
-  "language": "Perl",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043229,
-  "created_at": 1787051703,
-  "updated_at": 1787051703
+	"slug": "github-com-major-mysqltuner-perl",
+	"original_url": "https://github.com/major/MySQLTuner-perl",
+	"description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+	"language": "Perl",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043229,
+	"created_at": 1787051703,
+	"updated_at": 1787051703
 }

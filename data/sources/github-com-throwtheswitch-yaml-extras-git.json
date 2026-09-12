@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-throwtheswitch-yaml-extras-git",
-  "original_url": "https://github.com/ThrowTheSwitch/yaml_extras.git",
-  "description": "Some slight extensions to YAML which allow silliness like the ability to include other files.",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054904,
-  "updated_at": 1787054904
+	"slug": "github-com-throwtheswitch-yaml-extras-git",
+	"original_url": "https://github.com/ThrowTheSwitch/yaml_extras.git",
+	"description": "Some slight extensions to YAML which allow silliness like the ability to include other files.",
+	"language": "Ruby",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054904,
+	"updated_at": 1787054904
 }

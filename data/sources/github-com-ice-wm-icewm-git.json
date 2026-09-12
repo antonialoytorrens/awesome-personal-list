@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ice-wm-icewm-git",
-  "original_url": "https://github.com/ice-wm/icewm.git",
-  "description": "IceWM releases only, see Wiki",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052282,
-  "updated_at": 1787052282
+	"slug": "github-com-ice-wm-icewm-git",
+	"original_url": "https://github.com/ice-wm/icewm.git",
+	"description": "IceWM releases only, see Wiki",
+	"language": "C++",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052282,
+	"updated_at": 1787052282
 }

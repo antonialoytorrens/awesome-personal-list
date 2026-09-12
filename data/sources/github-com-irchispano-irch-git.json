@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-irchispano-irch-git",
-	"original_url":	"https://github.com/IRCHispano/IRCh.git",
-	"description":	"IRCD de IRC-Hispano de nueva generaciÃ³n.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052324,
-	"updated_at":	1787063961
+	"slug": "github-com-irchispano-irch-git",
+	"original_url": "https://github.com/IRCHispano/IRCh.git",
+	"description": "IRCD de IRC-Hispano de nueva generaciÃ³n.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052324,
+	"updated_at": 1787063961
 }

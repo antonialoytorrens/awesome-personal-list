@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pajowu-superbird-custom-webapp-git",
-  "original_url": "https://github.com/pajowu/superbird-custom-webapp.git",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054308,
-  "updated_at": 1787054308
+	"slug": "github-com-pajowu-superbird-custom-webapp-git",
+	"original_url": "https://github.com/pajowu/superbird-custom-webapp.git",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054308,
+	"updated_at": 1787054308
 }

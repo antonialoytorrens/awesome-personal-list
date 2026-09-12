@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-imelody-play-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/imelody-play.git",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054161,
-  "updated_at": 1787054161
+	"slug": "github-com-siemens-mobile-hacks-imelody-play-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/imelody-play.git",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054161,
+	"updated_at": 1787054161
 }

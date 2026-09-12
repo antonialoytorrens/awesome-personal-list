@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-zpl-c-track-git",
-	"original_url":	"https://github.com/zpl-c/track.git",
-	"description":	"Native C99 event tracking library.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055100,
-	"updated_at":	1787063964
+	"slug": "github-com-zpl-c-track-git",
+	"original_url": "https://github.com/zpl-c/track.git",
+	"description": "Native C99 event tracking library.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055100,
+	"updated_at": 1787063964
 }

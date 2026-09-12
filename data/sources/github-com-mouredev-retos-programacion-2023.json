@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mouredev-retos-programacion-2023",
-  "original_url": "https://github.com/mouredev/retos-programacion-2023",
-  "description": "Ejercicios de cÃ³digo semanales en 2023 de la comunidad MoureDev para practicar lÃ³gica en cualquier lenguaje de programaciÃ³n.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052469,
-  "updated_at": 1787052469
+	"slug": "github-com-mouredev-retos-programacion-2023",
+	"original_url": "https://github.com/mouredev/retos-programacion-2023",
+	"description": "Ejercicios de cÃ³digo semanales en 2023 de la comunidad MoureDev para practicar lÃ³gica en cualquier lenguaje de programaciÃ³n.",
+	"language": "Python",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052469,
+	"updated_at": 1787052469
 }

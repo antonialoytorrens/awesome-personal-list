@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-akkera102-03-tiny-2048",
-  "original_url": "https://github.com/akkera102/03_tiny_2048",
-  "description": "Tiny 2048 - arduboy",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051796,
-  "updated_at": 1787051796
+	"slug": "github-com-akkera102-03-tiny-2048",
+	"original_url": "https://github.com/akkera102/03_tiny_2048",
+	"description": "Tiny 2048 - arduboy",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051796,
+	"updated_at": 1787051796
 }

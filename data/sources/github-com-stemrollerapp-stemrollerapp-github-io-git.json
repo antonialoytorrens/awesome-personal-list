@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-stemrollerapp-stemrollerapp-github-io-git",
-  "original_url": "https://github.com/stemrollerapp/stemrollerapp.github.io.git",
-  "description": "",
-  "language": "Svelte",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054309,
-  "updated_at": 1787054309
+	"slug": "github-com-stemrollerapp-stemrollerapp-github-io-git",
+	"original_url": "https://github.com/stemrollerapp/stemrollerapp.github.io.git",
+	"description": "",
+	"language": "Svelte",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054309,
+	"updated_at": 1787054309
 }

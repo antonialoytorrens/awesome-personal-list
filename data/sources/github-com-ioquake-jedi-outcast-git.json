@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ioquake-jedi-outcast-git",
-  "original_url": "https://github.com/ioquake/jedi-outcast.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052318,
-  "updated_at": 1787052318
+	"slug": "github-com-ioquake-jedi-outcast-git",
+	"original_url": "https://github.com/ioquake/jedi-outcast.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052318,
+	"updated_at": 1787052318
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-webosbrew-hyperion-ng-webos-loader-git",
-	"original_url":	"https://github.com/webosbrew/hyperion.ng-webos-loader.git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054998,
-	"updated_at":	1787063964
+	"slug": "github-com-webosbrew-hyperion-ng-webos-loader-git",
+	"original_url": "https://github.com/webosbrew/hyperion.ng-webos-loader.git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054998,
+	"updated_at": 1787063964
 }

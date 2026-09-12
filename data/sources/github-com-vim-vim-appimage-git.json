@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-vim-vim-appimage-git",
-  "original_url": "https://github.com/vim/vim-appimage.git",
-  "description": "AppImage for gVim",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054968,
-  "updated_at": 1787054968
+	"slug": "github-com-vim-vim-appimage-git",
+	"original_url": "https://github.com/vim/vim-appimage.git",
+	"description": "AppImage for gVim",
+	"language": "Shell",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054968,
+	"updated_at": 1787054968
 }

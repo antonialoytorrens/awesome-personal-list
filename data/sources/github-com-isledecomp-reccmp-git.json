@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-isledecomp-reccmp-git",
-  "original_url": "https://github.com/isledecomp/reccmp.git",
-  "description": "Collection of decompilation tools.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052327,
-  "updated_at": 1787052327
+	"slug": "github-com-isledecomp-reccmp-git",
+	"original_url": "https://github.com/isledecomp/reccmp.git",
+	"description": "Collection of decompilation tools.",
+	"language": "Python",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052327,
+	"updated_at": 1787052327
 }

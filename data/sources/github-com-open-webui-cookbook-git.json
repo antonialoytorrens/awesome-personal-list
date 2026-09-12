@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-open-webui-cookbook-git",
-  "original_url": "https://github.com/open-webui/cookbook.git",
-  "description": "we're cooking",
-  "language": "Jupyter Notebook",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052594,
-  "updated_at": 1787052594
+	"slug": "github-com-open-webui-cookbook-git",
+	"original_url": "https://github.com/open-webui/cookbook.git",
+	"description": "we're cooking",
+	"language": "Jupyter Notebook",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052594,
+	"updated_at": 1787052594
 }

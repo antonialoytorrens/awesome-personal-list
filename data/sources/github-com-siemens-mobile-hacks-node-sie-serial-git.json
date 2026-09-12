@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-node-sie-serial-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/node-sie-serial.git",
-  "description": "Various serial protocols which are used in the Siemens Mobile Phones.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054145,
-  "updated_at": 1787054145
+	"slug": "github-com-siemens-mobile-hacks-node-sie-serial-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/node-sie-serial.git",
+	"description": "Various serial protocols which are used in the Siemens Mobile Phones.",
+	"language": "TypeScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054145,
+	"updated_at": 1787054145
 }

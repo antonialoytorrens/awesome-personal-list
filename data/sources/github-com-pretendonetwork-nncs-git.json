@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-nncs-git",
-  "original_url": "https://github.com/PretendoNetwork/nncs.git",
-  "description": "NAT Check Server",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054030,
-  "updated_at": 1787054030
+	"slug": "github-com-pretendonetwork-nncs-git",
+	"original_url": "https://github.com/PretendoNetwork/nncs.git",
+	"description": "NAT Check Server",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054030,
+	"updated_at": 1787054030
 }

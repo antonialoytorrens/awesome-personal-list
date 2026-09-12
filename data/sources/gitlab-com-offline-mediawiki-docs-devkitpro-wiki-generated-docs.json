@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-offline-mediawiki-docs-devkitpro-wiki-generated-docs",
-  "original_url": "https://gitlab.com/offline-mediawiki-docs/devkitpro-wiki-generated-docs",
-  "description": "Devkitpro wiki generated docs for offline use. From script https://gitlab.com/antoni.aloytorrens/devkitpro-wiki-docs",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052574,
-  "updated_at": 1787052574
+	"slug": "gitlab-com-offline-mediawiki-docs-devkitpro-wiki-generated-docs",
+	"original_url": "https://gitlab.com/offline-mediawiki-docs/devkitpro-wiki-generated-docs",
+	"description": "Devkitpro wiki generated docs for offline use. From script https://gitlab.com/antoni.aloytorrens/devkitpro-wiki-docs",
+	"language": "HTML",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052574,
+	"updated_at": 1787052574
 }

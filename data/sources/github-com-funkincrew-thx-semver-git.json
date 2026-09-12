@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-thx-semver-git",
-  "original_url": "https://github.com/FunkinCrew/thx.semver.git",
-  "description": "Small SemVer library for haxe.",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052226,
-  "updated_at": 1787052226
+	"slug": "github-com-funkincrew-thx-semver-git",
+	"original_url": "https://github.com/FunkinCrew/thx.semver.git",
+	"description": "Small SemVer library for haxe.",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052226,
+	"updated_at": 1787052226
 }

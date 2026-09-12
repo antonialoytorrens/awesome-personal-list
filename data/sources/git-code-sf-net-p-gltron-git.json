@@ -1,12 +1,14 @@
 {
-	"slug":	"git-code-sf-net-p-gltron-git",
-	"original_url":	"https://git.code.sf.net/p/gltron/git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	1,
-	"swh_checked_at":	1787043214,
-	"created_at":	1787053264,
-	"updated_at":	1787063959
+	"slug": "git-code-sf-net-p-gltron-git",
+	"original_url": "https://git.code.sf.net/p/gltron/git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043214,
+	"created_at": 1787053264,
+	"updated_at": 1787063959
 }

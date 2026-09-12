@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fail0verflow-ps4-overlay-git",
-  "original_url": "https://github.com/fail0verflow/ps4-overlay.git",
-  "description": "Gentoo Portage overlay containing PS4 specific patches and packages",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052175,
-  "updated_at": 1787052175
+	"slug": "github-com-fail0verflow-ps4-overlay-git",
+	"original_url": "https://github.com/fail0verflow/ps4-overlay.git",
+	"description": "Gentoo Portage overlay containing PS4 specific patches and packages",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052175,
+	"updated_at": 1787052175
 }

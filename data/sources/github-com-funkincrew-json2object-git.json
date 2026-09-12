@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-json2object-git",
-  "original_url": "https://github.com/FunkinCrew/json2object.git",
-  "description": "Type safe Haxe/JSON (de)serializer",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052223,
-  "updated_at": 1787052223
+	"slug": "github-com-funkincrew-json2object-git",
+	"original_url": "https://github.com/FunkinCrew/json2object.git",
+	"description": "Type safe Haxe/JSON (de)serializer",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052223,
+	"updated_at": 1787052223
 }

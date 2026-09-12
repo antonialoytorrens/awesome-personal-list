@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-taisei-project-ghaction-import-gpg-git",
-  "original_url": "https://github.com/taisei-project/ghaction-import-gpg.git",
-  "description": ":octocat: GitHub Action to easily import a GPG key",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054862,
-  "updated_at": 1787054862
+	"slug": "github-com-taisei-project-ghaction-import-gpg-git",
+	"original_url": "https://github.com/taisei-project/ghaction-import-gpg.git",
+	"description": ":octocat: GitHub Action to easily import a GPG key",
+	"language": "TypeScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054862,
+	"updated_at": 1787054862
 }

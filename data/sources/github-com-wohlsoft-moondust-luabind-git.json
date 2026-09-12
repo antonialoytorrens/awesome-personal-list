@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-moondust-luabind-git",
-  "original_url": "https://github.com/WohlSoft/moondust-luabind.git",
-  "description": "An organized copy of LuaBind-Deboostified repo https://github.com/WohlSoft/luabind-deboostified especially for Moondust and LuaJIT use. Includes a copy of PUC-RIO Lua 5.3 as a fall-back.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055036,
-  "updated_at": 1787055036
+	"slug": "github-com-wohlsoft-moondust-luabind-git",
+	"original_url": "https://github.com/WohlSoft/moondust-luabind.git",
+	"description": "An organized copy of LuaBind-Deboostified repo https://github.com/WohlSoft/luabind-deboostified especially for Moondust and LuaJIT use. Includes a copy of PUC-RIO Lua 5.3 as a fall-back.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055036,
+	"updated_at": 1787055036
 }

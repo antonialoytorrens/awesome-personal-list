@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-fire-doc-git",
-  "original_url": "https://github.com/ctt-gob-es/fire-doc.git",
-  "description": "DocumentaciÃ³n del sistema de firma integral FIRe",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051984,
-  "updated_at": 1787051984
+	"slug": "github-com-ctt-gob-es-fire-doc-git",
+	"original_url": "https://github.com/ctt-gob-es/fire-doc.git",
+	"description": "DocumentaciÃ³n del sistema de firma integral FIRe",
+	"language": "Text",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051984,
+	"updated_at": 1787051984
 }

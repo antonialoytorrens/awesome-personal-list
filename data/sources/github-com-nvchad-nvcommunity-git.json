@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nvchad-nvcommunity-git",
-  "original_url": "https://github.com/NvChad/nvcommunity.git",
-  "description": "NvChad community repo for sharing plugin configurations ",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052562,
-  "updated_at": 1787052562
+	"slug": "github-com-nvchad-nvcommunity-git",
+	"original_url": "https://github.com/NvChad/nvcommunity.git",
+	"description": "NvChad community repo for sharing plugin configurations ",
+	"language": "Lua",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052562,
+	"updated_at": 1787052562
 }

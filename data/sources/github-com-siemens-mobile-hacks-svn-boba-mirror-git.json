@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-siemens-mobile-hacks-svn-boba-mirror-git",
-	"original_url":	"https://github.com/siemens-mobile-hacks/svn_boba_mirror.git",
-	"description":	"MIRROR: svn://svn.boba.su",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054136,
-	"updated_at":	1787063963
+	"slug": "github-com-siemens-mobile-hacks-svn-boba-mirror-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/svn_boba_mirror.git",
+	"description": "MIRROR: svn://svn.boba.su",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054136,
+	"updated_at": 1787063963
 }

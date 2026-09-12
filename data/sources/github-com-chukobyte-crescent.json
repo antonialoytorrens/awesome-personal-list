@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-chukobyte-crescent",
-	"original_url":	"https://github.com/Chukobyte/crescent",
-	"description":	"A fighting and beat em up game engine for windows, linux, and macos written in C and uses OpenGL.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053290,
-	"updated_at":	1787063960
+	"slug": "github-com-chukobyte-crescent",
+	"original_url": "https://github.com/Chukobyte/crescent",
+	"description": "A fighting and beat em up game engine for windows, linux, and macos written in C and uses OpenGL.",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053290,
+	"updated_at": 1787063960
 }

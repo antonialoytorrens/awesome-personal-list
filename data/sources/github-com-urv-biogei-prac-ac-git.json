@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-urv-biogei-prac-ac-git",
-	"original_url":	"https://github.com/URV-BioGEI/Prac_AC.git",
-	"description":	"Labs of the Computer Architectures subject of the Computer Science Degree, URV. ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054955,
-	"updated_at":	1787063964
+	"slug": "github-com-urv-biogei-prac-ac-git",
+	"original_url": "https://github.com/URV-BioGEI/Prac_AC.git",
+	"description": "Labs of the Computer Architectures subject of the Computer Science Degree, URV. ",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054955,
+	"updated_at": 1787063964
 }

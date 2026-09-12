@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-raylib4consoles-raylib4psp-git",
-  "original_url": "https://github.com/raylib4Consoles/raylib4Psp.git",
-  "description": "raylib4Psp",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054111,
-  "updated_at": 1787054111
+	"slug": "github-com-raylib4consoles-raylib4psp-git",
+	"original_url": "https://github.com/raylib4Consoles/raylib4Psp.git",
+	"description": "raylib4Psp",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054111,
+	"updated_at": 1787054111
 }

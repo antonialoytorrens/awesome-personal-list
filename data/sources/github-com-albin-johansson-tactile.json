@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-albin-johansson-tactile",
-  "original_url": "https://github.com/albin-johansson/tactile",
-  "description": "A tilemap editor that aims to be simple, fast and lightweight.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053271,
-  "updated_at": 1787053271
+	"slug": "github-com-albin-johansson-tactile",
+	"original_url": "https://github.com/albin-johansson/tactile",
+	"description": "A tilemap editor that aims to be simple, fast and lightweight.",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053271,
+	"updated_at": 1787053271
 }

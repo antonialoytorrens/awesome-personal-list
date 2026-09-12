@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-floooh-qoiview",
-	"original_url":	"https://github.com/floooh/qoiview",
-	"description":	"QOI image viewer on top of the Sokol headers",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054287,
-	"updated_at":	1787063961
+	"slug": "github-com-floooh-qoiview",
+	"original_url": "https://github.com/floooh/qoiview",
+	"description": "QOI image viewer on top of the Sokol headers",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054287,
+	"updated_at": 1787063961
 }

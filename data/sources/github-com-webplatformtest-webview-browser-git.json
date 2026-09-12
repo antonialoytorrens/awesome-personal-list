@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webplatformtest-webview-browser-git",
-  "original_url": "https://github.com/WebPlatformTest/WebView-Browser.git",
-  "description": "A simple browser used for testing the Android WebView",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055005,
-  "updated_at": 1787055005
+	"slug": "github-com-webplatformtest-webview-browser-git",
+	"original_url": "https://github.com/WebPlatformTest/WebView-Browser.git",
+	"description": "A simple browser used for testing the Android WebView",
+	"language": "Java",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055005,
+	"updated_at": 1787055005
 }

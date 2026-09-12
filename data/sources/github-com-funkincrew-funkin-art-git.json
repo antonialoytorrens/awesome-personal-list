@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-funkin-art-git",
-  "original_url": "https://github.com/FunkinCrew/funkin.art.git",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052229,
-  "updated_at": 1787052229
+	"slug": "github-com-funkincrew-funkin-art-git",
+	"original_url": "https://github.com/FunkinCrew/funkin.art.git",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052229,
+	"updated_at": 1787052229
 }

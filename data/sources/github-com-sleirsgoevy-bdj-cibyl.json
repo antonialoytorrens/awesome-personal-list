@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sleirsgoevy-bdj-cibyl",
-  "original_url": "https://github.com/sleirsgoevy/bdj-cibyl",
-  "description": "An example of using Cibyl MIPS-to-Java transpiler to run C programs on Blu-Play",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052334,
-  "updated_at": 1787052334
+	"slug": "github-com-sleirsgoevy-bdj-cibyl",
+	"original_url": "https://github.com/sleirsgoevy/bdj-cibyl",
+	"description": "An example of using Cibyl MIPS-to-Java transpiler to run C programs on Blu-Play",
+	"language": "Java",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052334,
+	"updated_at": 1787052334
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pkmn-dmg-git",
-  "original_url": "https://github.com/pkmn/dmg.git",
-  "description": "PokÃ©mon damage calculator",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053969,
-  "updated_at": 1787053969
+	"slug": "github-com-pkmn-dmg-git",
+	"original_url": "https://github.com/pkmn/dmg.git",
+	"description": "PokÃ©mon damage calculator",
+	"language": "TypeScript",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053969,
+	"updated_at": 1787053969
 }

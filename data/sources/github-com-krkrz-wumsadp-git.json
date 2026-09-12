@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-wumsadp-git",
-  "original_url": "https://github.com/krkrz/wumsadp.git",
-  "description": "MS-ADPCMé³å£°åçãã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052373,
-  "updated_at": 1787052373
+	"slug": "github-com-krkrz-wumsadp-git",
+	"original_url": "https://github.com/krkrz/wumsadp.git",
+	"description": "MS-ADPCMé³å£°åçãã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052373,
+	"updated_at": 1787052373
 }

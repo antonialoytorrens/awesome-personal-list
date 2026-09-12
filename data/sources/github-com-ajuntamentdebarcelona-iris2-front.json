@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ajuntamentdebarcelona-iris2-front",
-  "original_url": "https://github.com/AjuntamentdeBarcelona/iris2-front",
-  "description": "",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051770,
-  "updated_at": 1787051770
+	"slug": "github-com-ajuntamentdebarcelona-iris2-front",
+	"original_url": "https://github.com/AjuntamentdeBarcelona/iris2-front",
+	"description": "",
+	"language": "Vue",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051770,
+	"updated_at": 1787051770
 }

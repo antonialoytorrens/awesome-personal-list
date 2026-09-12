@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fallahn-xygine",
-  "original_url": "https://github.com/fallahn/xygine",
-  "description": "2D engine / framework built around SFML",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053270,
-  "updated_at": 1787053270
+	"slug": "github-com-fallahn-xygine",
+	"original_url": "https://github.com/fallahn/xygine",
+	"description": "2D engine / framework built around SFML",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053270,
+	"updated_at": 1787053270
 }

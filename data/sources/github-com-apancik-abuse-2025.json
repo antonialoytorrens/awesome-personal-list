@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-apancik-abuse-2025",
-  "original_url": "https://github.com/apancik/Abuse_2025",
-  "description": "Abuse 2025 is a modern port of the original game from 1995/1996, updated to run on modern systems and with new features like high-resolution graphics, controller support, and more.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053291,
-  "updated_at": 1787053291
+	"slug": "github-com-apancik-abuse-2025",
+	"original_url": "https://github.com/apancik/Abuse_2025",
+	"description": "Abuse 2025 is a modern port of the original game from 1995/1996, updated to run on modern systems and with new features like high-resolution graphics, controller support, and more.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053291,
+	"updated_at": 1787053291
 }

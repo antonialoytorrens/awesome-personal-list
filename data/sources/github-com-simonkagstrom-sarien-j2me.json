@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-simonkagstrom-sarien-j2me",
-	"original_url":	"https://github.com/SimonKagstrom/sarien-j2me",
-	"description":	"A port of the Sarien AGI interpreter to J2ME phones, using Cibyl",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052335,
-	"updated_at":	1787063963
+	"slug": "github-com-simonkagstrom-sarien-j2me",
+	"original_url": "https://github.com/SimonKagstrom/sarien-j2me",
+	"description": "A port of the Sarien AGI interpreter to J2ME phones, using Cibyl",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052335,
+	"updated_at": 1787063963
 }

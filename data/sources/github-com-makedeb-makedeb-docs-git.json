@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-makedeb-makedeb-docs-git",
-  "original_url": "https://github.com/makedeb/makedeb-docs.git",
-  "description": "Documentation for makedeb, the MPR, and other related projects",
-  "language": "SCSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052417,
-  "updated_at": 1787052417
+	"slug": "github-com-makedeb-makedeb-docs-git",
+	"original_url": "https://github.com/makedeb/makedeb-docs.git",
+	"description": "Documentation for makedeb, the MPR, and other related projects",
+	"language": "SCSS",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052417,
+	"updated_at": 1787052417
 }

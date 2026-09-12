@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-ci-checkout-git",
-  "original_url": "https://github.com/FunkinCrew/ci-checkout.git",
-  "description": "Action for checking out a repo",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052226,
-  "updated_at": 1787052226
+	"slug": "github-com-funkincrew-ci-checkout-git",
+	"original_url": "https://github.com/FunkinCrew/ci-checkout.git",
+	"description": "Action for checking out a repo",
+	"language": "TypeScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052226,
+	"updated_at": 1787052226
 }

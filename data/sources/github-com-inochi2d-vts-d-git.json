@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-vts-d-git",
-  "original_url": "https://github.com/Inochi2D/vts-d.git",
-  "description": "VTube Studio API for D using vibe-d",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052302,
-  "updated_at": 1787052302
+	"slug": "github-com-inochi2d-vts-d-git",
+	"original_url": "https://github.com/Inochi2D/vts-d.git",
+	"description": "VTube Studio API for D using vibe-d",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052302,
+	"updated_at": 1787052302
 }

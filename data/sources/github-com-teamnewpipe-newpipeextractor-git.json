@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-newpipeextractor-git",
-  "original_url": "https://github.com/TeamNewPipe/NewPipeExtractor.git",
-  "description": "NewPipe's core library for extracting data from streaming sites",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054865,
-  "updated_at": 1787054865
+	"slug": "github-com-teamnewpipe-newpipeextractor-git",
+	"original_url": "https://github.com/TeamNewPipe/NewPipeExtractor.git",
+	"description": "NewPipe's core library for extracting data from streaming sites",
+	"language": "Java",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054865,
+	"updated_at": 1787054865
 }

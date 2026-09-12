@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antimicrox-doxygen-git",
-  "original_url": "https://github.com/AntiMicroX/doxygen.git",
-  "description": "Repository for hosting doxygen-generated docs of antimicrox",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051784,
-  "updated_at": 1787051784
+	"slug": "github-com-antimicrox-doxygen-git",
+	"original_url": "https://github.com/AntiMicroX/doxygen.git",
+	"description": "Repository for hosting doxygen-generated docs of antimicrox",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051784,
+	"updated_at": 1787051784
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "git-tukaani-org-pkgtools-git",
-  "original_url": "https://git.tukaani.org/pkgtools.git",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052257,
-  "updated_at": 1787052257
+	"slug": "git-tukaani-org-pkgtools-git",
+	"original_url": "https://git.tukaani.org/pkgtools.git",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052257,
+	"updated_at": 1787052257
 }

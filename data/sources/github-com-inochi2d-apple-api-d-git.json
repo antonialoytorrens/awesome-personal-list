@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-apple-api-d-git",
-  "original_url": "https://github.com/Inochi2D/apple-api-d.git",
-  "description": "D bindings to various Apple APIs",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052314,
-  "updated_at": 1787052314
+	"slug": "github-com-inochi2d-apple-api-d-git",
+	"original_url": "https://github.com/Inochi2D/apple-api-d.git",
+	"description": "D bindings to various Apple APIs",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052314,
+	"updated_at": 1787052314
 }

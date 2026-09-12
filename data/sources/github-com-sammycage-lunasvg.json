@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sammycage-lunasvg",
-	"original_url":	"https://github.com/sammycage/lunasvg",
-	"description":	"lunasvg is a standalone SVG rendering library in C++",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051965,
-	"updated_at":	1787063963
+	"slug": "github-com-sammycage-lunasvg",
+	"original_url": "https://github.com/sammycage/lunasvg",
+	"description": "lunasvg is a standalone SVG rendering library in C++",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051965,
+	"updated_at": 1787063963
 }

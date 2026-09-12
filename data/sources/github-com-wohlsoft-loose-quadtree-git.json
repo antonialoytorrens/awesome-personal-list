@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-loose-quadtree-git",
-  "original_url": "https://github.com/WohlSoft/loose_quadtree.git",
-  "description": "Loose Quadtree (Region Tree) simple C++11 implementation",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055033,
-  "updated_at": 1787055033
+	"slug": "github-com-wohlsoft-loose-quadtree-git",
+	"original_url": "https://github.com/WohlSoft/loose_quadtree.git",
+	"description": "Loose Quadtree (Region Tree) simple C++11 implementation",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055033,
+	"updated_at": 1787055033
 }

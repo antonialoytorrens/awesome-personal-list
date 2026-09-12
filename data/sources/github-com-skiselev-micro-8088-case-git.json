@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-micro-8088-case-git",
-  "original_url": "https://github.com/skiselev/micro_8088_case.git",
-  "description": "",
-  "language": "OpenSCAD",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051732,
-  "updated_at": 1787051732
+	"slug": "github-com-skiselev-micro-8088-case-git",
+	"original_url": "https://github.com/skiselev/micro_8088_case.git",
+	"description": "",
+	"language": "OpenSCAD",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051732,
+	"updated_at": 1787051732
 }

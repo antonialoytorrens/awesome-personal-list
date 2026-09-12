@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nvidia-tegra-uboot-flasher-scripts",
-  "original_url": "https://github.com/NVIDIA/tegra-uboot-flasher-scripts",
-  "description": "Tegra U-Boot Flasher project: scripts",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053996,
-  "updated_at": 1787053996
+	"slug": "github-com-nvidia-tegra-uboot-flasher-scripts",
+	"original_url": "https://github.com/NVIDIA/tegra-uboot-flasher-scripts",
+	"description": "Tegra U-Boot Flasher project: scripts",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053996,
+	"updated_at": 1787053996
 }

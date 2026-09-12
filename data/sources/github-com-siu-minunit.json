@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-siu-minunit",
-	"original_url":	"https://github.com/siu/minunit",
-	"description":	"Minimal unit testing framework for C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051850,
-	"updated_at":	1787063963
+	"slug": "github-com-siu-minunit",
+	"original_url": "https://github.com/siu/minunit",
+	"description": "Minimal unit testing framework for C",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051850,
+	"updated_at": 1787063963
 }

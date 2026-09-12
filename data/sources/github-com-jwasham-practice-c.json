@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-jwasham-practice-c",
-	"original_url":	"https://github.com/jwasham/practice-c",
-	"description":	"Part of my daily plan for studying C.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052341,
-	"updated_at":	1787063961
+	"slug": "github-com-jwasham-practice-c",
+	"original_url": "https://github.com/jwasham/practice-c",
+	"description": "Part of my daily plan for studying C.",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052341,
+	"updated_at": 1787063961
 }

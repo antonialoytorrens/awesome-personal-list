@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tinycorelinux-flpicsee",
-  "original_url": "https://github.com/tinycorelinux/flpicsee",
-  "description": "fltk image viewer",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052209,
-  "updated_at": 1787052209
+	"slug": "github-com-tinycorelinux-flpicsee",
+	"original_url": "https://github.com/tinycorelinux/flpicsee",
+	"description": "fltk image viewer",
+	"language": "C++",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052209,
+	"updated_at": 1787052209
 }

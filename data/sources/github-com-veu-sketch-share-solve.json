@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-veu-sketch-share-solve",
-  "original_url": "https://github.com/veu/sketch-share-solve",
-  "description": "Playdateâs #1 nonogram game",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053977,
-  "updated_at": 1787053977
+	"slug": "github-com-veu-sketch-share-solve",
+	"original_url": "https://github.com/veu/sketch-share-solve",
+	"description": "Playdateâs #1 nonogram game",
+	"language": "Lua",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053977,
+	"updated_at": 1787053977
 }

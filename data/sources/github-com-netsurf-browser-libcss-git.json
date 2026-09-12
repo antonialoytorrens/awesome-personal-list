@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-netsurf-browser-libcss-git",
-	"original_url":	"https://github.com/netsurf-browser/libcss.git",
-	"description":	"Cascading Style Sheets library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052548,
-	"updated_at":	1787063962
+	"slug": "github-com-netsurf-browser-libcss-git",
+	"original_url": "https://github.com/netsurf-browser/libcss.git",
+	"description": "Cascading Style Sheets library",
+	"language": "C",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052548,
+	"updated_at": 1787063962
 }

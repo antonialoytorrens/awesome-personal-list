@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-jsangradorp-saf-jsp",
-	"original_url":	"https://gitlab.com/jsangradorp/saf-jsp",
-	"description":	"minimal abstract interface for simple games - jsangradorp fork for contributing",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053254,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-jsangradorp-saf-jsp",
+	"original_url": "https://gitlab.com/jsangradorp/saf-jsp",
+	"description": "minimal abstract interface for simple games - jsangradorp fork for contributing",
+	"language": "C",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053254,
+	"updated_at": 1787063964
 }

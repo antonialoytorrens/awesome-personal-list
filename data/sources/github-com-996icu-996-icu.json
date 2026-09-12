@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-996icu-996-icu",
-  "original_url": "https://github.com/996icu/996.ICU",
-  "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043219,
-  "created_at": 1787051694,
-  "updated_at": 1787051694
+	"slug": "github-com-996icu-996-icu",
+	"original_url": "https://github.com/996icu/996.ICU",
+	"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043219,
+	"created_at": 1787051694,
+	"updated_at": 1787051694
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-hazrpg-stadia-flasher",
-  "original_url": "https://github.com/hazrpg/stadia-flasher",
-  "description": "The original stadia controller flash tool to unlock bluetooth that works locally.",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043226,
-  "created_at": 1787051700,
-  "updated_at": 1787051700
+	"slug": "github-com-hazrpg-stadia-flasher",
+	"original_url": "https://github.com/hazrpg/stadia-flasher",
+	"description": "The original stadia controller flash tool to unlock bluetooth that works locally.",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043226,
+	"created_at": 1787051700,
+	"updated_at": 1787051700
 }

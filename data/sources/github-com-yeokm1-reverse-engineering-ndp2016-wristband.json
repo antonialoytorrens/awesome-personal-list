@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-yeokm1-reverse-engineering-ndp2016-wristband",
-  "original_url": "https://github.com/yeokm1/reverse-engineering-ndp2016-wristband",
-  "description": "Schematics of the reverse engineered Pixmob wristband used in NDP2016. Sample IR brute-force code is available but has not been fully tested in practice.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053953,
-  "updated_at": 1787053953
+	"slug": "github-com-yeokm1-reverse-engineering-ndp2016-wristband",
+	"original_url": "https://github.com/yeokm1/reverse-engineering-ndp2016-wristband",
+	"description": "Schematics of the reverse engineered Pixmob wristband used in NDP2016. Sample IR brute-force code is available but has not been fully tested in practice.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053953,
+	"updated_at": 1787053953
 }

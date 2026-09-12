@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-classicube-actions-testing-mcg-git",
-  "original_url": "https://github.com/ClassiCube/actions-testing-mcg.git",
-  "description": "Actions testing for MCGalaxy",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051945,
-  "updated_at": 1787051945
+	"slug": "github-com-classicube-actions-testing-mcg-git",
+	"original_url": "https://github.com/ClassiCube/actions-testing-mcg.git",
+	"description": "Actions testing for MCGalaxy",
+	"language": "C#",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051945,
+	"updated_at": 1787051945
 }

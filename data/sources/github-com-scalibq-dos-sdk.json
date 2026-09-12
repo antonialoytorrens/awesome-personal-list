@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-scalibq-dos-sdk",
-	"original_url":	"https://github.com/Scalibq/DOS_SDK",
-	"description":	"An SDK for developing DOS software for x86 machines, including IBM PC compatibles and NEC PC-98",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052099,
-	"updated_at":	1787063963
+	"slug": "github-com-scalibq-dos-sdk",
+	"original_url": "https://github.com/Scalibq/DOS_SDK",
+	"description": "An SDK for developing DOS software for x86 machines, including IBM PC compatibles and NEC PC-98",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052099,
+	"updated_at": 1787063963
 }

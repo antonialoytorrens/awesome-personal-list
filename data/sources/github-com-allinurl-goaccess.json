@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-allinurl-goaccess",
-	"original_url":	"https://github.com/allinurl/goaccess",
-	"description":	"GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051913,
-	"updated_at":	1787063960
+	"slug": "github-com-allinurl-goaccess",
+	"original_url": "https://github.com/allinurl/goaccess",
+	"description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+	"language": "C",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051913,
+	"updated_at": 1787063960
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-pacman-packages-git",
-  "original_url": "https://github.com/DS-Homebrew/pacman-packages.git",
-  "description": "WIP pacman packages",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052119,
-  "updated_at": 1787052119
+	"slug": "github-com-ds-homebrew-pacman-packages-git",
+	"original_url": "https://github.com/DS-Homebrew/pacman-packages.git",
+	"description": "WIP pacman packages",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052119,
+	"updated_at": 1787052119
 }

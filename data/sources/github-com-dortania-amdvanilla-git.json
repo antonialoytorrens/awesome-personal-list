@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-amdvanilla-git",
-  "original_url": "https://github.com/dortania/AMDVanilla.git",
-  "description": "A simple vanilla guide for AMD CPUs",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052076,
-  "updated_at": 1787052076
+	"slug": "github-com-dortania-amdvanilla-git",
+	"original_url": "https://github.com/dortania/AMDVanilla.git",
+	"description": "A simple vanilla guide for AMD CPUs",
+	"language": "Markdown",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052076,
+	"updated_at": 1787052076
 }

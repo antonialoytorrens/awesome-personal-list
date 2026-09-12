@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-j2me-preservation-emulators-history-git",
-  "original_url": "https://github.com/j2me-preservation/emulators-history.git",
-  "description": "Timeline of J2ME emulation projects",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052332,
-  "updated_at": 1787052332
+	"slug": "github-com-j2me-preservation-emulators-history-git",
+	"original_url": "https://github.com/j2me-preservation/emulators-history.git",
+	"description": "Timeline of J2ME emulation projects",
+	"language": "Python",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052332,
+	"updated_at": 1787052332
 }

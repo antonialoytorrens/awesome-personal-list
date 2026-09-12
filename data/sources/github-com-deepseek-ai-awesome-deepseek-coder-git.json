@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-awesome-deepseek-coder-git",
-  "original_url": "https://github.com/deepseek-ai/awesome-deepseek-coder.git",
-  "description": "A curated list of open-source projects related to DeepSeek Coder",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052001,
-  "updated_at": 1787052001
+	"slug": "github-com-deepseek-ai-awesome-deepseek-coder-git",
+	"original_url": "https://github.com/deepseek-ai/awesome-deepseek-coder.git",
+	"description": "A curated list of open-source projects related to DeepSeek Coder",
+	"language": "Markdown",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052001,
+	"updated_at": 1787052001
 }

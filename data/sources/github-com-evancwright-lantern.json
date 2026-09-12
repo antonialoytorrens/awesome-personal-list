@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-evancwright-lantern",
-  "original_url": "https://github.com/evancwright/Lantern",
-  "description": "Lantern text-adventure development tool",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051721,
-  "updated_at": 1787051721
+	"slug": "github-com-evancwright-lantern",
+	"original_url": "https://github.com/evancwright/Lantern",
+	"description": "Lantern text-adventure development tool",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051721,
+	"updated_at": 1787051721
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sherlock-project-sherlock",
-  "original_url": "https://github.com/sherlock-project/sherlock",
-  "description": "Hunt down social media accounts by username across social networks",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051725,
-  "updated_at": 1787051725
+	"slug": "github-com-sherlock-project-sherlock",
+	"original_url": "https://github.com/sherlock-project/sherlock",
+	"description": "Hunt down social media accounts by username across social networks",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051725,
+	"updated_at": 1787051725
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-simple2d-test-media-git",
-  "original_url": "https://github.com/simple2d/test_media.git",
-  "description": ":art: Media for Simple 2D tests",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054169,
-  "updated_at": 1787054169
+	"slug": "github-com-simple2d-test-media-git",
+	"original_url": "https://github.com/simple2d/test_media.git",
+	"description": ":art: Media for Simple 2D tests",
+	"language": "Text",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054169,
+	"updated_at": 1787054169
 }

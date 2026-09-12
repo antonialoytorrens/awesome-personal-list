@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-microsoft-ms-dos",
-  "original_url": "https://github.com/microsoft/MS-DOS",
-  "description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052092,
-  "updated_at": 1787052092
+	"slug": "github-com-microsoft-ms-dos",
+	"original_url": "https://github.com/microsoft/MS-DOS",
+	"description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052092,
+	"updated_at": 1787052092
 }

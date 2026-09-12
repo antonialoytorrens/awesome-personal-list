@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-bbbbbr-plutoscorner",
-	"original_url":	"https://github.com/bbbbbr/plutoscorner",
-	"description":	"2D platformer game about Lil' Matchy's adventures for the original Game Boy",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052232,
-	"updated_at":	1787063960
+	"slug": "github-com-bbbbbr-plutoscorner",
+	"original_url": "https://github.com/bbbbbr/plutoscorner",
+	"description": "2D platformer game about Lil' Matchy's adventures for the original Game Boy",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052232,
+	"updated_at": 1787063960
 }

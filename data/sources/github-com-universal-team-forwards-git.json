@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-team-forwards-git",
-  "original_url": "https://github.com/Universal-Team/ForwarDS.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054943,
-  "updated_at": 1787054943
+	"slug": "github-com-universal-team-forwards-git",
+	"original_url": "https://github.com/Universal-Team/ForwarDS.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054943,
+	"updated_at": 1787054943
 }

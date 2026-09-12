@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-r-lyeh-fwk",
-	"original_url":	"https://github.com/r-lyeh/FWK",
-	"description":	"ð 3D game framework in C.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051871,
-	"updated_at":	1787063963
+	"slug": "github-com-r-lyeh-fwk",
+	"original_url": "https://github.com/r-lyeh/FWK",
+	"description": "ð 3D game framework in C.",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051871,
+	"updated_at": 1787063963
 }

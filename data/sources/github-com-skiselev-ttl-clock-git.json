@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-ttl-clock-git",
-  "original_url": "https://github.com/skiselev/ttl-clock.git",
-  "description": "",
-  "language": "OpenSCAD",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051743,
-  "updated_at": 1787051743
+	"slug": "github-com-skiselev-ttl-clock-git",
+	"original_url": "https://github.com/skiselev/ttl-clock.git",
+	"description": "",
+	"language": "OpenSCAD",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051743,
+	"updated_at": 1787051743
 }

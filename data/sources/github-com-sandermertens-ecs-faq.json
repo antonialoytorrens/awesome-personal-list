@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sandermertens-ecs-faq",
-  "original_url": "https://github.com/SanderMertens/ecs-faq",
-  "description": "Frequently asked questions about Entity Component Systems",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051870,
-  "updated_at": 1787051870
+	"slug": "github-com-sandermertens-ecs-faq",
+	"original_url": "https://github.com/SanderMertens/ecs-faq",
+	"description": "Frequently asked questions about Entity Component Systems",
+	"language": "",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051870,
+	"updated_at": 1787051870
 }

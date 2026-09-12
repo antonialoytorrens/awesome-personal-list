@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-github-actions-discord-webhook-git",
-  "original_url": "https://github.com/DS-Homebrew/github-actions-discord-webhook.git",
-  "description": "â Here's your serverless solution for sending build status from GitHub Actions to Discord as webhooks.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052107,
-  "updated_at": 1787052107
+	"slug": "github-com-ds-homebrew-github-actions-discord-webhook-git",
+	"original_url": "https://github.com/DS-Homebrew/github-actions-discord-webhook.git",
+	"description": "â Here's your serverless solution for sending build status from GitHub Actions to Discord as webhooks.",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052107,
+	"updated_at": 1787052107
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-itsmattkc-msvc420",
-	"original_url":	"https://github.com/itsmattkc/MSVC420",
-	"description":	"Portable download of Microsoft Visual C++ 4.20 command line tools. Just run bin/VCVARS32.bat in any command prompt.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052461,
-	"updated_at":	1787063961
+	"slug": "github-com-itsmattkc-msvc420",
+	"original_url": "https://github.com/itsmattkc/MSVC420",
+	"description": "Portable download of Microsoft Visual C++ 4.20 command line tools. Just run bin/VCVARS32.bat in any command prompt.",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052461,
+	"updated_at": 1787063961
 }

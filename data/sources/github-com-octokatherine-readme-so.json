@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-octokatherine-readme-so",
-  "original_url": "https://github.com/octokatherine/readme.so",
-  "description": "An online drag-and-drop editor to easily build READMEs",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043238,
-  "created_at": 1787051710,
-  "updated_at": 1787051710
+	"slug": "github-com-octokatherine-readme-so",
+	"original_url": "https://github.com/octokatherine/readme.so",
+	"description": "An online drag-and-drop editor to easily build READMEs",
+	"language": "JavaScript",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043238,
+	"created_at": 1787051710,
+	"updated_at": 1787051710
 }

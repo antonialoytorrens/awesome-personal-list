@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-website-git",
-  "original_url": "https://github.com/TheAlgorithms/website.git",
-  "description": "The Algorithms website providing GitHub's largest open-source algorithm library.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054882,
-  "updated_at": 1787054882
+	"slug": "github-com-thealgorithms-website-git",
+	"original_url": "https://github.com/TheAlgorithms/website.git",
+	"description": "The Algorithms website providing GitHub's largest open-source algorithm library.",
+	"language": "TypeScript",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054882,
+	"updated_at": 1787054882
 }

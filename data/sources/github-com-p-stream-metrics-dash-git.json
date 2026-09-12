@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-p-stream-metrics-dash-git",
-  "original_url": "https://github.com/p-stream/metrics-dash.git",
-  "description": "A simple site to view movie-web backend metrics",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052622,
-  "updated_at": 1787052622
+	"slug": "github-com-p-stream-metrics-dash-git",
+	"original_url": "https://github.com/p-stream/metrics-dash.git",
+	"description": "A simple site to view movie-web backend metrics",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052622,
+	"updated_at": 1787052622
 }

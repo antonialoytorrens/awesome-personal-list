@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-fwgs-xash3d-fwgs",
-	"original_url":	"https://github.com/FWGS/xash3d-fwgs",
-	"description":	"Xash3D FWGS engine",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051926,
-	"updated_at":	1787063961
+	"slug": "github-com-fwgs-xash3d-fwgs",
+	"original_url": "https://github.com/FWGS/xash3d-fwgs",
+	"description": "Xash3D FWGS engine",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051926,
+	"updated_at": 1787063961
 }

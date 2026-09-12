@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-i2s-audio-phat-git",
-  "original_url": "https://github.com/skiselev/i2s_audio_phat.git",
-  "description": "",
-  "language": "KiCad Layout",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051743,
-  "updated_at": 1787051743
+	"slug": "github-com-skiselev-i2s-audio-phat-git",
+	"original_url": "https://github.com/skiselev/i2s_audio_phat.git",
+	"description": "",
+	"language": "KiCad Layout",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051743,
+	"updated_at": 1787051743
 }

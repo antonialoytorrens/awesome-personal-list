@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-libsndfile-libsamplerate-git",
-	"original_url":	"https://github.com/libsndfile/libsamplerate.git",
-	"description":	"An audio Sample Rate Conversion library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052400,
-	"updated_at":	1787063962
+	"slug": "github-com-libsndfile-libsamplerate-git",
+	"original_url": "https://github.com/libsndfile/libsamplerate.git",
+	"description": "An audio Sample Rate Conversion library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052400,
+	"updated_at": 1787063962
 }

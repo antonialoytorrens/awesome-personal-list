@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-opentoonz-opentoonz-nightlies-git",
-  "original_url": "https://github.com/opentoonz/opentoonz_nightlies.git",
-  "description": "This repository just hosts nightly builds of OpenToonz. DO NOT DEVELOP THIS",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052606,
-  "updated_at": 1787052606
+	"slug": "github-com-opentoonz-opentoonz-nightlies-git",
+	"original_url": "https://github.com/opentoonz/opentoonz_nightlies.git",
+	"description": "This repository just hosts nightly builds of OpenToonz. DO NOT DEVELOP THIS",
+	"language": "",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052606,
+	"updated_at": 1787052606
 }

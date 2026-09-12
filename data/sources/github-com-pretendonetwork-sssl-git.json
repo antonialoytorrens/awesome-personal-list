@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-sssl-git",
-  "original_url": "https://github.com/PretendoNetwork/SSSL.git",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054051,
-  "updated_at": 1787054051
+	"slug": "github-com-pretendonetwork-sssl-git",
+	"original_url": "https://github.com/PretendoNetwork/SSSL.git",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054051,
+	"updated_at": 1787054051
 }

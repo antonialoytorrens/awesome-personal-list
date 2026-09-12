@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-raylib4consoles-raylib4dreamcast-git",
-  "original_url": "https://github.com/raylib4Consoles/raylib4Dreamcast.git",
-  "description": "Raylib port for Sega Dreamcast",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054110,
-  "updated_at": 1787054110
+	"slug": "github-com-raylib4consoles-raylib4dreamcast-git",
+	"original_url": "https://github.com/raylib4Consoles/raylib4Dreamcast.git",
+	"description": "Raylib port for Sega Dreamcast",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054110,
+	"updated_at": 1787054110
 }

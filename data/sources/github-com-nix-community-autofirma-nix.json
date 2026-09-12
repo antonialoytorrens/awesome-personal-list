@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nix-community-autofirma-nix",
-  "original_url": "https://github.com/nix-community/autofirma-nix",
-  "description": "Nix modules for interacting with Spanish public administration services [maintainers=@nilp0inter @panchoh @CesarGallego]",
-  "language": "Nix",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051801,
-  "updated_at": 1787051801
+	"slug": "github-com-nix-community-autofirma-nix",
+	"original_url": "https://github.com/nix-community/autofirma-nix",
+	"description": "Nix modules for interacting with Spanish public administration services [maintainers=@nilp0inter @panchoh @CesarGallego]",
+	"language": "Nix",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051801,
+	"updated_at": 1787051801
 }

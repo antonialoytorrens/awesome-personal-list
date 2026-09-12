@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rigsofrods-rigsofrods-org-git",
-  "original_url": "https://github.com/RigsOfRods/rigsofrods.org.git",
-  "description": "Static part of the Rigs of Rods website",
-  "language": "SCSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054122,
-  "updated_at": 1787054122
+	"slug": "github-com-rigsofrods-rigsofrods-org-git",
+	"original_url": "https://github.com/RigsOfRods/rigsofrods.org.git",
+	"description": "Static part of the Rigs of Rods website",
+	"language": "SCSS",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054122,
+	"updated_at": 1787054122
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-linuxmint-mint-themes-legacy",
-  "original_url": "https://github.com/linuxmint/mint-themes-legacy",
-  "description": "Legacy Mint themes",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052468,
-  "updated_at": 1787052468
+	"slug": "github-com-linuxmint-mint-themes-legacy",
+	"original_url": "https://github.com/linuxmint/mint-themes-legacy",
+	"description": "Legacy Mint themes",
+	"language": "CSS",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052468,
+	"updated_at": 1787052468
 }

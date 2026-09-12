@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-dart-git",
-  "original_url": "https://github.com/TheAlgorithms/Dart.git",
-  "description": "All Algorithms implemented in Dart",
-  "language": "Dart",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054877,
-  "updated_at": 1787054877
+	"slug": "github-com-thealgorithms-dart-git",
+	"original_url": "https://github.com/TheAlgorithms/Dart.git",
+	"description": "All Algorithms implemented in Dart",
+	"language": "Dart",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054877,
+	"updated_at": 1787054877
 }

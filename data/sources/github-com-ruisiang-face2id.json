@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ruisiang-face2id",
-  "original_url": "https://github.com/RuiSiang/Face2ID",
-  "description": "Project to quickly transform face biometrics into UUIDs",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053234,
-  "updated_at": 1787053234
+	"slug": "github-com-ruisiang-face2id",
+	"original_url": "https://github.com/RuiSiang/Face2ID",
+	"description": "Project to quickly transform face biometrics into UUIDs",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053234,
+	"updated_at": 1787053234
 }

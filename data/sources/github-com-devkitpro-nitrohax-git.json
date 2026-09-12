@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-nitrohax-git",
-  "original_url": "https://github.com/devkitPro/nitrohax.git",
-  "description": "NitroHax cheat tool for Nintendo DS",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052029,
-  "updated_at": 1787052029
+	"slug": "github-com-devkitpro-nitrohax-git",
+	"original_url": "https://github.com/devkitPro/nitrohax.git",
+	"description": "NitroHax cheat tool for Nintendo DS",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052029,
+	"updated_at": 1787052029
 }

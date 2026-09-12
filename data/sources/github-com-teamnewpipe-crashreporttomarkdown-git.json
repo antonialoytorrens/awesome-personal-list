@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-crashreporttomarkdown-git",
-  "original_url": "https://github.com/TeamNewPipe/CrashReportToMarkdown.git",
-  "description": "NewPipe CrashReport to Markdown converter",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054868,
-  "updated_at": 1787054868
+	"slug": "github-com-teamnewpipe-crashreporttomarkdown-git",
+	"original_url": "https://github.com/TeamNewPipe/CrashReportToMarkdown.git",
+	"description": "NewPipe CrashReport to Markdown converter",
+	"language": "HTML",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054868,
+	"updated_at": 1787054868
 }

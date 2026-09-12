@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-awemorris-noct2d",
-  "original_url": "https://github.com/awemorris/Noct2D",
-  "description": "Portable 2D Game Engine with JIT VM Scripting",
-  "language": "Arc",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052388,
-  "updated_at": 1787052388
+	"slug": "github-com-awemorris-noct2d",
+	"original_url": "https://github.com/awemorris/Noct2D",
+	"description": "Portable 2D Game Engine with JIT VM Scripting",
+	"language": "Arc",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052388,
+	"updated_at": 1787052388
 }

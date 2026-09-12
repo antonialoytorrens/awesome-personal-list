@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-nex-protocols-git",
-  "original_url": "https://github.com/PretendoNetwork/nex-protocols.git",
-  "description": "The NEX RMC Protocols that actually do the dirty work within a given server.",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054012,
-  "updated_at": 1787054012
+	"slug": "github-com-pretendonetwork-nex-protocols-git",
+	"original_url": "https://github.com/PretendoNetwork/nex-protocols.git",
+	"description": "The NEX RMC Protocols that actually do the dirty work within a given server.",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054012,
+	"updated_at": 1787054012
 }

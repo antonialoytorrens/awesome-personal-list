@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-nimbus-git",
-  "original_url": "https://github.com/PretendoNetwork/nimbus.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054023,
-  "updated_at": 1787054023
+	"slug": "github-com-pretendonetwork-nimbus-git",
+	"original_url": "https://github.com/PretendoNetwork/nimbus.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054023,
+	"updated_at": 1787054023
 }

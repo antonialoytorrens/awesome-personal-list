@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-matlab-octave-git",
-  "original_url": "https://github.com/TheAlgorithms/MATLAB-Octave.git",
-  "description": "This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.",
-  "language": "MATLAB",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054875,
-  "updated_at": 1787054875
+	"slug": "github-com-thealgorithms-matlab-octave-git",
+	"original_url": "https://github.com/TheAlgorithms/MATLAB-Octave.git",
+	"description": "This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.",
+	"language": "MATLAB",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054875,
+	"updated_at": 1787054875
 }

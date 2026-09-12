@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-discordmessenger-iprogsthreads-git",
-  "original_url": "https://github.com/DiscordMessenger/iprogsthreads.git",
-  "description": "iProgramInCpp's implementation of C++11-ish threads for Win32",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052058,
-  "updated_at": 1787052058
+	"slug": "github-com-discordmessenger-iprogsthreads-git",
+	"original_url": "https://github.com/DiscordMessenger/iprogsthreads.git",
+	"description": "iProgramInCpp's implementation of C++11-ish threads for Win32",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052058,
+	"updated_at": 1787052058
 }

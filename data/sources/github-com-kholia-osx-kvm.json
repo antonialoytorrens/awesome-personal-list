@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kholia-osx-kvm",
-  "original_url": "https://github.com/kholia/OSX-KVM",
-  "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052618,
-  "updated_at": 1787052618
+	"slug": "github-com-kholia-osx-kvm",
+	"original_url": "https://github.com/kholia/OSX-KVM",
+	"description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+	"language": "Shell",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052618,
+	"updated_at": 1787052618
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-uzu-strudel",
-  "original_url": "https://codeberg.org/uzu/strudel",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051723,
-  "updated_at": 1787051723
+	"slug": "codeberg-org-uzu-strudel",
+	"original_url": "https://codeberg.org/uzu/strudel",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051723,
+	"updated_at": 1787051723
 }

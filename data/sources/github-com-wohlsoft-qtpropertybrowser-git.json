@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-qtpropertybrowser-git",
-  "original_url": "https://github.com/WohlSoft/QtPropertyBrowser.git",
-  "description": "QtPropertyBrowser for Qt5. Was a dependency for PGE Editor, no more needed.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055034,
-  "updated_at": 1787055034
+	"slug": "github-com-wohlsoft-qtpropertybrowser-git",
+	"original_url": "https://github.com/WohlSoft/QtPropertyBrowser.git",
+	"description": "QtPropertyBrowser for Qt5. Was a dependency for PGE Editor, no more needed.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055034,
+	"updated_at": 1787055034
 }

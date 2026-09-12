@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-jupyter-git",
-  "original_url": "https://github.com/TheAlgorithms/Jupyter.git",
-  "description": "The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation. ",
-  "language": "Jupyter Notebook",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054879,
-  "updated_at": 1787054879
+	"slug": "github-com-thealgorithms-jupyter-git",
+	"original_url": "https://github.com/TheAlgorithms/Jupyter.git",
+	"description": "The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation. ",
+	"language": "Jupyter Notebook",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054879,
+	"updated_at": 1787054879
 }

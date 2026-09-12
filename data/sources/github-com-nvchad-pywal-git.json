@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nvchad-pywal-git",
-  "original_url": "https://github.com/NvChad/pywal.git",
-  "description": "Pywal integration for NvChad's base46 (created & solely maintained by @Axenide)",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052564,
-  "updated_at": 1787052564
+	"slug": "github-com-nvchad-pywal-git",
+	"original_url": "https://github.com/NvChad/pywal.git",
+	"description": "Pywal integration for NvChad's base46 (created & solely maintained by @Axenide)",
+	"language": "Lua",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052564,
+	"updated_at": 1787052564
 }

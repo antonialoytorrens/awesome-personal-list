@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-dcurrent-openbor",
-	"original_url":	"https://github.com/DCurrent/openbor",
-	"description":	"Open Beats of Rage",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	1,
-	"swh_checked_at":	1787043234,
-	"created_at":	1787051707,
-	"updated_at":	1787063960
+	"slug": "github-com-dcurrent-openbor",
+	"original_url": "https://github.com/DCurrent/openbor",
+	"description": "Open Beats of Rage",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043234,
+	"created_at": 1787051707,
+	"updated_at": 1787063960
 }

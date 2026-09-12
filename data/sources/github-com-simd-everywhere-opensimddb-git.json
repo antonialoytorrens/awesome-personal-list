@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-simd-everywhere-opensimddb-git",
-  "original_url": "https://github.com/simd-everywhere/opensimddb.git",
-  "description": "Machine-readable data abount SIMD ISA extensions",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054167,
-  "updated_at": 1787054167
+	"slug": "github-com-simd-everywhere-opensimddb-git",
+	"original_url": "https://github.com/simd-everywhere/opensimddb.git",
+	"description": "Machine-readable data abount SIMD ISA extensions",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054167,
+	"updated_at": 1787054167
 }

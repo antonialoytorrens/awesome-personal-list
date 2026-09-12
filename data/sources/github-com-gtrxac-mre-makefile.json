@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-gtrxac-mre-makefile",
-	"original_url":	"https://github.com/gtrxAC/mre-makefile",
-	"description":	"Cross-platform build script for developing MediaTek MRE apps",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052484,
-	"updated_at":	1787063961
+	"slug": "github-com-gtrxac-mre-makefile",
+	"original_url": "https://github.com/gtrxAC/mre-makefile",
+	"description": "Cross-platform build script for developing MediaTek MRE apps",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052484,
+	"updated_at": 1787063961
 }

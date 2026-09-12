@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-y86-64-tools-git",
-	"original_url":	"https://github.com/sysprog21/y86_64-tools.git",
-	"description":	"Y86-64 Tools: assembler, simulator, Verilog designs",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054820,
-	"updated_at":	1787063964
+	"slug": "github-com-sysprog21-y86-64-tools-git",
+	"original_url": "https://github.com/sysprog21/y86_64-tools.git",
+	"description": "Y86-64 Tools: assembler, simulator, Verilog designs",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054820,
+	"updated_at": 1787063964
 }

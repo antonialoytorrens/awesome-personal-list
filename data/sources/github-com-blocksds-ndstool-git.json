@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-blocksds-ndstool-git",
-	"original_url":	"https://github.com/blocksds/ndstool.git",
-	"description":	"Tool to manipulate NDS ROMs. Fork of https://github.com/devkitPro/ndstool",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051820,
-	"updated_at":	1787063960
+	"slug": "github-com-blocksds-ndstool-git",
+	"original_url": "https://github.com/blocksds/ndstool.git",
+	"description": "Tool to manipulate NDS ROMs. Fork of https://github.com/devkitPro/ndstool",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051820,
+	"updated_at": 1787063960
 }

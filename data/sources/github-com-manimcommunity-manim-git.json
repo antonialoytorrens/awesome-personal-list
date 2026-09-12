@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-git",
-  "original_url": "https://github.com/ManimCommunity/manim.git",
-  "description": "A community-maintained Python framework for creating mathematical animations. ",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052426,
-  "updated_at": 1787052426
+	"slug": "github-com-manimcommunity-manim-git",
+	"original_url": "https://github.com/ManimCommunity/manim.git",
+	"description": "A community-maintained Python framework for creating mathematical animations. ",
+	"language": "Python",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052426,
+	"updated_at": 1787052426
 }

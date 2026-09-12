@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pokeglitch-poketre2",
-  "original_url": "https://github.com/Pokeglitch/poketre2",
-  "description": "Pokemon TRE2: Team Rocket Edition 2",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053956,
-  "updated_at": 1787053956
+	"slug": "github-com-pokeglitch-poketre2",
+	"original_url": "https://github.com/Pokeglitch/poketre2",
+	"description": "Pokemon TRE2: Team Rocket Edition 2",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053956,
+	"updated_at": 1787053956
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ptnnx-mre",
-  "original_url": "https://github.com/ptnnx/MRE",
-  "description": "MediaTekâs Runtime Environment MAUI Runtime Environment, MRE(MAUI Runtime Evironment) is an application development platform created by Mediatek",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052485,
-  "updated_at": 1787052485
+	"slug": "github-com-ptnnx-mre",
+	"original_url": "https://github.com/ptnnx/MRE",
+	"description": "MediaTekâs Runtime Environment MAUI Runtime Environment, MRE(MAUI Runtime Evironment) is an application development platform created by Mediatek",
+	"language": "",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052485,
+	"updated_at": 1787052485
 }

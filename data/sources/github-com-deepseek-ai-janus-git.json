@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-janus-git",
-  "original_url": "https://github.com/deepseek-ai/Janus.git",
-  "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052006,
-  "updated_at": 1787052006
+	"slug": "github-com-deepseek-ai-janus-git",
+	"original_url": "https://github.com/deepseek-ai/Janus.git",
+	"description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052006,
+	"updated_at": 1787052006
 }

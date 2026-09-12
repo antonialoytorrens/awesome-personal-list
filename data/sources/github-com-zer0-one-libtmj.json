@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-zer0-one-libtmj",
-	"original_url":	"https://github.com/Zer0-One/libtmj",
-	"description":	"A C library for loading Tiled maps and tilesets in JSON format",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051858,
-	"updated_at":	1787063964
+	"slug": "github-com-zer0-one-libtmj",
+	"original_url": "https://github.com/Zer0-One/libtmj",
+	"description": "A C library for loading Tiled maps and tilesets in JSON format",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051858,
+	"updated_at": 1787063964
 }

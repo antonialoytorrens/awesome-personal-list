@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-highwayfrogs-froggersadventurescompatfix-git",
-	"original_url":	"https://github.com/HighwayFrogs/FroggersAdventuresCompatFix.git",
-	"description":	"Unofficial patch for Frogger's Adventures to fix Windows 7/10 compatibility issues",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052272,
-	"updated_at":	1787063961
+	"slug": "github-com-highwayfrogs-froggersadventurescompatfix-git",
+	"original_url": "https://github.com/HighwayFrogs/FroggersAdventuresCompatFix.git",
+	"description": "Unofficial patch for Frogger's Adventures to fix Windows 7/10 compatibility issues",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052272,
+	"updated_at": 1787063961
 }

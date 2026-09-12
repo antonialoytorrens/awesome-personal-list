@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-squidgoddev-gladiator",
-  "original_url": "https://github.com/SquidGodDev/gladiator",
-  "description": "",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053972,
-  "updated_at": 1787053972
+	"slug": "github-com-squidgoddev-gladiator",
+	"original_url": "https://github.com/SquidGodDev/gladiator",
+	"description": "",
+	"language": "Lua",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053972,
+	"updated_at": 1787053972
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-knightfox75-ngine",
-  "original_url": "https://github.com/knightfox75/ngine",
-  "description": "2D Game Engine written in C++ based on SDL2 & SFML",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053268,
-  "updated_at": 1787053268
+	"slug": "github-com-knightfox75-ngine",
+	"original_url": "https://github.com/knightfox75/ngine",
+	"description": "2D Game Engine written in C++ based on SDL2 & SFML",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053268,
+	"updated_at": 1787053268
 }

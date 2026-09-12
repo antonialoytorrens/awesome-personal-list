@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-exl-f1-race-git",
-	"original_url":	"https://github.com/EXL/F1-Race.git",
-	"description":	"A port of the F1 Race game from MTK OS to SDL2 and Web using Emscripten.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053283,
-	"updated_at":	1787063961
+	"slug": "github-com-exl-f1-race-git",
+	"original_url": "https://github.com/EXL/F1-Race.git",
+	"description": "A port of the F1 Race game from MTK OS to SDL2 and Web using Emscripten.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053283,
+	"updated_at": 1787063961
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-kag3-ham-git",
-  "original_url": "https://github.com/krkrz/kag3_ham.git",
-  "description": "é±§å¥ãKAG3 for åéåéZ",
-  "language": "Common Lisp",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052365,
-  "updated_at": 1787052365
+	"slug": "github-com-krkrz-kag3-ham-git",
+	"original_url": "https://github.com/krkrz/kag3_ham.git",
+	"description": "é±§å¥ãKAG3 for åéåéZ",
+	"language": "Common Lisp",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052365,
+	"updated_at": 1787052365
 }

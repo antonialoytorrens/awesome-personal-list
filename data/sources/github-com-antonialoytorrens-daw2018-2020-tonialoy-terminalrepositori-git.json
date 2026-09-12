@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-daw2018-2020-tonialoy-terminalrepositori-git",
-  "original_url": "https://github.com/antonialoytorrens-DAW2018-2020/tonialoy-terminalrepositori.git",
-  "description": "El meu primer repositori des del terminal.",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051787,
-  "updated_at": 1787051787
+	"slug": "github-com-antonialoytorrens-daw2018-2020-tonialoy-terminalrepositori-git",
+	"original_url": "https://github.com/antonialoytorrens-DAW2018-2020/tonialoy-terminalrepositori.git",
+	"description": "El meu primer repositori des del terminal.",
+	"language": "Text",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051787,
+	"updated_at": 1787051787
 }

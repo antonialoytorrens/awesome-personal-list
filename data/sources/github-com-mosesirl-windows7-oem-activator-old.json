@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mosesirl-windows7-oem-activator-old",
-  "original_url": "https://github.com/mosesIRL/Windows7-OEM-Activator-old",
-  "description": "Restore OEM Windows 7 activation",
-  "language": "Batchfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055015,
-  "updated_at": 1787055015
+	"slug": "github-com-mosesirl-windows7-oem-activator-old",
+	"original_url": "https://github.com/mosesIRL/Windows7-OEM-Activator-old",
+	"description": "Restore OEM Windows 7 activation",
+	"language": "Batchfile",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055015,
+	"updated_at": 1787055015
 }

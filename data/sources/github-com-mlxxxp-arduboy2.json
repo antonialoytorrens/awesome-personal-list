@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mlxxxp-arduboy2",
-  "original_url": "https://github.com/MLXXXp/Arduboy2",
-  "description": "An alternative library for the Arduboy miniature game system",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051793,
-  "updated_at": 1787051793
+	"slug": "github-com-mlxxxp-arduboy2",
+	"original_url": "https://github.com/MLXXXp/Arduboy2",
+	"description": "An alternative library for the Arduboy miniature game system",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051793,
+	"updated_at": 1787051793
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-xeengine-samples-git",
-  "original_url": "https://github.com/XeEngine/Samples.git",
-  "description": "Samples that can be compiled using XeEngine",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055059,
-  "updated_at": 1787055059
+	"slug": "github-com-xeengine-samples-git",
+	"original_url": "https://github.com/XeEngine/Samples.git",
+	"description": "Samples that can be compiled using XeEngine",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055059,
+	"updated_at": 1787055059
 }

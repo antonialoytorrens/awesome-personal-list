@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pingus-windows-installer-git",
-  "original_url": "https://github.com/Pingus/windows-installer.git",
-  "description": "Pingus Windows installer source files",
-  "language": "NSIS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053948,
-  "updated_at": 1787053948
+	"slug": "github-com-pingus-windows-installer-git",
+	"original_url": "https://github.com/Pingus/windows-installer.git",
+	"description": "Pingus Windows installer source files",
+	"language": "NSIS",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053948,
+	"updated_at": 1787053948
 }

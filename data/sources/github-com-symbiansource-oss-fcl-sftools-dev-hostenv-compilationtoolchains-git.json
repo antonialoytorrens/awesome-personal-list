@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sftools-dev-hostenv-compilationtoolchains-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sftools.dev.hostenv.compilationtoolchains.git",
-  "description": "Symbian Compilation Toolchains",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054802,
-  "updated_at": 1787054802
+	"slug": "github-com-symbiansource-oss-fcl-sftools-dev-hostenv-compilationtoolchains-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sftools.dev.hostenv.compilationtoolchains.git",
+	"description": "Symbian Compilation Toolchains",
+	"language": "Text",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054802,
+	"updated_at": 1787054802
 }

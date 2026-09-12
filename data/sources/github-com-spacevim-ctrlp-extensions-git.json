@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-spacevim-ctrlp-extensions-git",
-  "original_url": "https://github.com/SpaceVim/ctrlp-extensions.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054301,
-  "updated_at": 1787054301
+	"slug": "github-com-spacevim-ctrlp-extensions-git",
+	"original_url": "https://github.com/SpaceVim/ctrlp-extensions.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054301,
+	"updated_at": 1787054301
 }

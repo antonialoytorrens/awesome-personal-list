@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-krkrz-wuvorbis-git",
-	"original_url":	"https://github.com/krkrz/wuvorbis.git",
-	"description":	"vorbisé³å£°ç¨ãã©ã°ã¤ã³",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052372,
-	"updated_at":	1787063962
+	"slug": "github-com-krkrz-wuvorbis-git",
+	"original_url": "https://github.com/krkrz/wuvorbis.git",
+	"description": "vorbisé³å£°ç¨ãã©ã°ã¤ã³",
+	"language": "C",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052372,
+	"updated_at": 1787063962
 }

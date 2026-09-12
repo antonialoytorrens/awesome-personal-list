@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-mortie-housecat",
-	"original_url":	"https://github.com/mortie/housecat",
-	"description":	"A static site generator, written in C.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051896,
-	"updated_at":	1787063962
+	"slug": "github-com-mortie-housecat",
+	"original_url": "https://github.com/mortie/housecat",
+	"description": "A static site generator, written in C.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051896,
+	"updated_at": 1787063962
 }

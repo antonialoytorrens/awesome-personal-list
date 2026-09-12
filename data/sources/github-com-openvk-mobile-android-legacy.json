@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-openvk-mobile-android-legacy",
-  "original_url": "https://github.com/openvk/mobile-android-legacy",
-  "description": "OpenVK Legacy client for Android >2.1. Inspired by VK 3.0.4 app from 2013.",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052610,
-  "updated_at": 1787052610
+	"slug": "github-com-openvk-mobile-android-legacy",
+	"original_url": "https://github.com/openvk/mobile-android-legacy",
+	"description": "OpenVK Legacy client for Android >2.1. Inspired by VK 3.0.4 app from 2013.",
+	"language": "Java",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052610,
+	"updated_at": 1787052610
 }

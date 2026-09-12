@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-chubby-git",
-  "original_url": "https://github.com/PretendoNetwork/chubby.git",
-  "description": "Discord moderation bot for Pretendo",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054017,
-  "updated_at": 1787054017
+	"slug": "github-com-pretendonetwork-chubby-git",
+	"original_url": "https://github.com/PretendoNetwork/chubby.git",
+	"description": "Discord moderation bot for Pretendo",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054017,
+	"updated_at": 1787054017
 }

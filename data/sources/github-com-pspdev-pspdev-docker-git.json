@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pspdev-pspdev-docker-git",
-  "original_url": "https://github.com/pspdev/pspdev-docker.git",
-  "description": "Automatically build a docker image with the pspdev toolchain ready to be used for homebrew development.",
-  "language": "Dockerfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054075,
-  "updated_at": 1787054075
+	"slug": "github-com-pspdev-pspdev-docker-git",
+	"original_url": "https://github.com/pspdev/pspdev-docker.git",
+	"description": "Automatically build a docker image with the pspdev toolchain ready to be used for homebrew development.",
+	"language": "Dockerfile",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054075,
+	"updated_at": 1787054075
 }

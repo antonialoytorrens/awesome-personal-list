@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cnlohr-rawdrawandroid",
-	"original_url":	"https://github.com/cnlohr/rawdrawandroid",
-	"description":	"Build android apps without any java, entirely in C and Make",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053254,
-	"updated_at":	1787063960
+	"slug": "github-com-cnlohr-rawdrawandroid",
+	"original_url": "https://github.com/cnlohr/rawdrawandroid",
+	"description": "Build android apps without any java, entirely in C and Make",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053254,
+	"updated_at": 1787063960
 }

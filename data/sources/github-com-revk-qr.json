@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-revk-qr",
-	"original_url":	"https://github.com/revk/QR",
-	"description":	"IEC18004 (QR) 2D barcode generation library and command line",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054116,
-	"updated_at":	1787063963
+	"slug": "github-com-revk-qr",
+	"original_url": "https://github.com/revk/QR",
+	"description": "IEC18004 (QR) 2D barcode generation library and command line",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054116,
+	"updated_at": 1787063963
 }

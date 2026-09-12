@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-arcolinux-arcolinux-jwm",
-  "original_url": "https://github.com/arcolinux/arcolinux-jwm",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052344,
-  "updated_at": 1787052344
+	"slug": "github-com-arcolinux-arcolinux-jwm",
+	"original_url": "https://github.com/arcolinux/arcolinux-jwm",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052344,
+	"updated_at": 1787052344
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-isso-docker-git",
-  "original_url": "https://github.com/TeamNewPipe/isso-docker.git",
-  "description": "Docker setup for the commenting platform isso",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054867,
-  "updated_at": 1787054867
+	"slug": "github-com-teamnewpipe-isso-docker-git",
+	"original_url": "https://github.com/TeamNewPipe/isso-docker.git",
+	"description": "Docker setup for the commenting platform isso",
+	"language": "Shell",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054867,
+	"updated_at": 1787054867
 }

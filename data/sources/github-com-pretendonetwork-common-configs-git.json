@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-common-configs-git",
-  "original_url": "https://github.com/PretendoNetwork/common-configs.git",
-  "description": "Pretendo's shared configuration packages and template repo files for configuration",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054061,
-  "updated_at": 1787054061
+	"slug": "github-com-pretendonetwork-common-configs-git",
+	"original_url": "https://github.com/PretendoNetwork/common-configs.git",
+	"description": "Pretendo's shared configuration packages and template repo files for configuration",
+	"language": "JavaScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054061,
+	"updated_at": 1787054061
 }

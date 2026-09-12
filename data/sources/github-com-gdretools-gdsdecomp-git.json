@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-gdretools-gdsdecomp-git",
-  "original_url": "https://github.com/GDRETools/gdsdecomp.git",
-  "description": "Godot reverse engineering tools",
-  "language": "PLSQL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052253,
-  "updated_at": 1787052253
+	"slug": "github-com-gdretools-gdsdecomp-git",
+	"original_url": "https://github.com/GDRETools/gdsdecomp.git",
+	"description": "Godot reverse engineering tools",
+	"language": "PLSQL",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052253,
+	"updated_at": 1787052253
 }

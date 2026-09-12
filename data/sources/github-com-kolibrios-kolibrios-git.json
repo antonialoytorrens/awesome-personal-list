@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-kolibrios-kolibrios-git",
-	"original_url":	"https://github.com/KolibriOS/kolibrios.git",
-	"description":	"The official mirror of the main KolibriOS repository",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052355,
-	"updated_at":	1787063961
+	"slug": "github-com-kolibrios-kolibrios-git",
+	"original_url": "https://github.com/KolibriOS/kolibrios.git",
+	"description": "The official mirror of the main KolibriOS repository",
+	"language": "C",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052355,
+	"updated_at": 1787063961
 }

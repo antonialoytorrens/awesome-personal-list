@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-concurrent-ll-git",
-	"original_url":	"https://github.com/sysprog21/concurrent-ll.git",
-	"description":	"concurrent linked list implementation",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054809,
-	"updated_at":	1787063963
+	"slug": "github-com-sysprog21-concurrent-ll-git",
+	"original_url": "https://github.com/sysprog21/concurrent-ll.git",
+	"description": "concurrent linked list implementation",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054809,
+	"updated_at": 1787063963
 }

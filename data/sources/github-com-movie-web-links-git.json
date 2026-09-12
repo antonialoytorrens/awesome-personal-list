@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-movie-web-links-git",
-  "original_url": "https://github.com/movie-web/links.git",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052475,
-  "updated_at": 1787052475
+	"slug": "github-com-movie-web-links-git",
+	"original_url": "https://github.com/movie-web/links.git",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052475,
+	"updated_at": 1787052475
 }

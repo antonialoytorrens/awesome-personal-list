@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-thcrap-git",
-  "original_url": "https://github.com/thpatch/thcrap.git",
-  "description": "Touhou Community Reliant Automatic Patcher",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054894,
-  "updated_at": 1787054894
+	"slug": "github-com-thpatch-thcrap-git",
+	"original_url": "https://github.com/thpatch/thcrap.git",
+	"description": "Touhou Community Reliant Automatic Patcher",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054894,
+	"updated_at": 1787054894
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-osinside-kiwi-descriptions-git",
-  "original_url": "https://github.com/OSInside/kiwi-descriptions.git",
-  "description": "Provides a collection of kiwi image descriptions",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052612,
-  "updated_at": 1787052612
+	"slug": "github-com-osinside-kiwi-descriptions-git",
+	"original_url": "https://github.com/OSInside/kiwi-descriptions.git",
+	"description": "Provides a collection of kiwi image descriptions",
+	"language": "Shell",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052612,
+	"updated_at": 1787052612
 }

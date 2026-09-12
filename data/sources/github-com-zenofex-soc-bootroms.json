@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zenofex-soc-bootroms",
-  "original_url": "https://github.com/Zenofex/SoC-BootROMs",
-  "description": "BootROM dumps from misc SoCs",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043246,
-  "created_at": 1787051717,
-  "updated_at": 1787051717
+	"slug": "github-com-zenofex-soc-bootroms",
+	"original_url": "https://github.com/Zenofex/SoC-BootROMs",
+	"description": "BootROM dumps from misc SoCs",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043246,
+	"created_at": 1787051717,
+	"updated_at": 1787051717
 }

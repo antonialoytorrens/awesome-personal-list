@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jwasham-coding-interview-university",
-  "original_url": "https://github.com/jwasham/coding-interview-university",
-  "description": "A complete computer science study plan to become a software engineer.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052339,
-  "updated_at": 1787052339
+	"slug": "github-com-jwasham-coding-interview-university",
+	"original_url": "https://github.com/jwasham/coding-interview-university",
+	"description": "A complete computer science study plan to become a software engineer.",
+	"language": "Markdown",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052339,
+	"updated_at": 1787052339
 }

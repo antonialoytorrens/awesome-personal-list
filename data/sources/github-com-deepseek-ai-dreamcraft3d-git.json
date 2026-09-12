@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-dreamcraft3d-git",
-  "original_url": "https://github.com/deepseek-ai/DreamCraft3D.git",
-  "description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052001,
-  "updated_at": 1787052001
+	"slug": "github-com-deepseek-ai-dreamcraft3d-git",
+	"original_url": "https://github.com/deepseek-ai/DreamCraft3D.git",
+	"description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052001,
+	"updated_at": 1787052001
 }

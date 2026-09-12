@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-untoxa-sushinights",
-	"original_url":	"https://github.com/untoxa/SushiNights",
-	"description":	"Our entry for the gbcompo21",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051968,
-	"updated_at":	1787063964
+	"slug": "github-com-untoxa-sushinights",
+	"original_url": "https://github.com/untoxa/SushiNights",
+	"description": "Our entry for the gbcompo21",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051968,
+	"updated_at": 1787063964
 }

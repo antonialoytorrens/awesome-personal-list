@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-google-cpu-features",
-  "original_url": "https://github.com/google/cpu_features",
-  "description": "A cross platform C99 library to get cpu features at runtime.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051893,
-  "updated_at": 1787051893
+	"slug": "github-com-google-cpu-features",
+	"original_url": "https://github.com/google/cpu_features",
+	"description": "A cross platform C99 library to get cpu features at runtime.",
+	"language": "C++",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051893,
+	"updated_at": 1787051893
 }

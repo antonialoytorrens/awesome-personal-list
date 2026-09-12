@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-maruno17-pokemon-essentials",
-  "original_url": "https://github.com/Maruno17/pokemon-essentials",
-  "description": "A heavily modified RPG Maker XP game project that makes the game play like a PokÃ©mon game. Not a full project in itself; this repo is to be added into an existing RMXP game project.",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054123,
-  "updated_at": 1787054123
+	"slug": "github-com-maruno17-pokemon-essentials",
+	"original_url": "https://github.com/Maruno17/pokemon-essentials",
+	"description": "A heavily modified RPG Maker XP game project that makes the game play like a PokÃ©mon game. Not a full project in itself; this repo is to be added into an existing RMXP game project.",
+	"language": "Ruby",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054123,
+	"updated_at": 1787054123
 }

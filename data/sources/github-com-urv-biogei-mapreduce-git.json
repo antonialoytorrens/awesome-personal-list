@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-mapreduce-git",
-  "original_url": "https://github.com/URV-BioGEI/MapReduce.git",
-  "description": "Distributed Systems, MapReduce",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054955,
-  "updated_at": 1787054955
+	"slug": "github-com-urv-biogei-mapreduce-git",
+	"original_url": "https://github.com/URV-BioGEI/MapReduce.git",
+	"description": "Distributed Systems, MapReduce",
+	"language": "Python",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054955,
+	"updated_at": 1787054955
 }

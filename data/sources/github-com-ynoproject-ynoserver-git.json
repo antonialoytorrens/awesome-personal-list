@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ynoproject-ynoserver-git",
-  "original_url": "https://github.com/ynoproject/ynoserver.git",
-  "description": "Game server backend and API for YNOproject",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055065,
-  "updated_at": 1787055065
+	"slug": "github-com-ynoproject-ynoserver-git",
+	"original_url": "https://github.com/ynoproject/ynoserver.git",
+	"description": "Game server backend and API for YNOproject",
+	"language": "Go",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055065,
+	"updated_at": 1787055065
 }

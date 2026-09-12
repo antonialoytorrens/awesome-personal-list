@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kosua20-midivisualizer",
-  "original_url": "https://github.com/kosua20/MIDIVisualizer",
-  "description": "A small MIDI visualizer tool, using OpenGL",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043236,
-  "created_at": 1787051709,
-  "updated_at": 1787051709
+	"slug": "github-com-kosua20-midivisualizer",
+	"original_url": "https://github.com/kosua20/MIDIVisualizer",
+	"description": "A small MIDI visualizer tool, using OpenGL",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043236,
+	"created_at": 1787051709,
+	"updated_at": 1787051709
 }

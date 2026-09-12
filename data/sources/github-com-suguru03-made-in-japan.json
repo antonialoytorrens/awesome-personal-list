@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-suguru03-made-in-japan",
-  "original_url": "https://github.com/suguru03/made-in-japan",
-  "description": "ð¯ðµ A list of great developers and cool projects made in Japan ð",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043237,
-  "created_at": 1787051709,
-  "updated_at": 1787051709
+	"slug": "github-com-suguru03-made-in-japan",
+	"original_url": "https://github.com/suguru03/made-in-japan",
+	"description": "ð¯ðµ A list of great developers and cool projects made in Japan ð",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043237,
+	"created_at": 1787051709,
+	"updated_at": 1787051709
 }

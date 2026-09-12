@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-instructkr-claw-code",
-  "original_url": "https://github.com/instructkr/claw-code",
-  "description": "The fastest repo in history to surpass 50K stars â­, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051728,
-  "updated_at": 1787051728
+	"slug": "github-com-instructkr-claw-code",
+	"original_url": "https://github.com/instructkr/claw-code",
+	"description": "The fastest repo in history to surpass 50K stars â­, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.",
+	"language": "Rust",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051728,
+	"updated_at": 1787051728
 }

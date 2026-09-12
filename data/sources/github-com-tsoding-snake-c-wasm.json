@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-tsoding-snake-c-wasm",
-	"original_url":	"https://github.com/tsoding/snake-c-wasm",
-	"description":	"Snake written in Pure C and compilable to WebAssembly",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054922,
-	"updated_at":	1787063964
+	"slug": "github-com-tsoding-snake-c-wasm",
+	"original_url": "https://github.com/tsoding/snake-c-wasm",
+	"description": "Snake written in Pure C and compilable to WebAssembly",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054922,
+	"updated_at": 1787063964
 }

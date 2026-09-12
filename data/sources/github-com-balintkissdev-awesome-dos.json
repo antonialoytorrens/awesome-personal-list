@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-balintkissdev-awesome-dos",
-  "original_url": "https://github.com/balintkissdev/awesome-dos",
-  "description": "Curated list of references for development of DOS applications.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052098,
-  "updated_at": 1787052098
+	"slug": "github-com-balintkissdev-awesome-dos",
+	"original_url": "https://github.com/balintkissdev/awesome-dos",
+	"description": "Curated list of references for development of DOS applications.",
+	"language": "Markdown",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052098,
+	"updated_at": 1787052098
 }

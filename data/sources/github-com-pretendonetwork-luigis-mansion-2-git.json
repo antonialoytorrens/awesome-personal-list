@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-luigis-mansion-2-git",
-  "original_url": "https://github.com/PretendoNetwork/luigis-mansion-2.git",
-  "description": "NEX server for Luigi's Mansion: Dark Moon (Luigi's Mansion 2)",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054047,
-  "updated_at": 1787054047
+	"slug": "github-com-pretendonetwork-luigis-mansion-2-git",
+	"original_url": "https://github.com/PretendoNetwork/luigis-mansion-2.git",
+	"description": "NEX server for Luigi's Mansion: Dark Moon (Luigi's Mansion 2)",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054047,
+	"updated_at": 1787054047
 }

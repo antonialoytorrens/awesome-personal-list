@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wonderfultoolchain-teak-llvm-git",
-  "original_url": "https://github.com/WonderfulToolchain/teak-llvm.git",
-  "description": "Modified version of llvm with a backend for the DSi and 3DS Teak DSP",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055051,
-  "updated_at": 1787055051
+	"slug": "github-com-wonderfultoolchain-teak-llvm-git",
+	"original_url": "https://github.com/WonderfulToolchain/teak-llvm.git",
+	"description": "Modified version of llvm with a backend for the DSi and 3DS Teak DSP",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055051,
+	"updated_at": 1787055051
 }

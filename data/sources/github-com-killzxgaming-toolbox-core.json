@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-killzxgaming-toolbox-core",
-  "original_url": "https://github.com/KillzXGaming/Toolbox.Core",
-  "description": "An overhaul on the current toolbox backend with many improvements.",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052440,
-  "updated_at": 1787052440
+	"slug": "github-com-killzxgaming-toolbox-core",
+	"original_url": "https://github.com/KillzXGaming/Toolbox.Core",
+	"description": "An overhaul on the current toolbox backend with many improvements.",
+	"language": "C#",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052440,
+	"updated_at": 1787052440
 }

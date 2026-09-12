@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-linuxmint-mintstick-git",
-  "original_url": "https://github.com/linuxmint/mintstick.git",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053917,
-  "updated_at": 1787053917
+	"slug": "github-com-linuxmint-mintstick-git",
+	"original_url": "https://github.com/linuxmint/mintstick.git",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053917,
+	"updated_at": 1787053917
 }

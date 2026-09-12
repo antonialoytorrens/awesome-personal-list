@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-immediate-mode-ui-nuklear",
-	"original_url":	"https://github.com/Immediate-Mode-UI/Nuklear",
-	"description":	"A single-header ANSI C immediate mode cross-platform GUI library",
-	"language":	"c",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051855,
-	"updated_at":	1787063961
+	"slug": "github-com-immediate-mode-ui-nuklear",
+	"original_url": "https://github.com/Immediate-Mode-UI/Nuklear",
+	"description": "A single-header ANSI C immediate mode cross-platform GUI library",
+	"language": "c",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051855,
+	"updated_at": 1787063961
 }

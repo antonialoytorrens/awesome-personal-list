@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ocornut-str",
-  "original_url": "https://github.com/ocornut/str",
-  "description": "Lightweight C++ string type with a configuable local buffer",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052569,
-  "updated_at": 1787052569
+	"slug": "github-com-ocornut-str",
+	"original_url": "https://github.com/ocornut/str",
+	"description": "Lightweight C++ string type with a configuable local buffer",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052569,
+	"updated_at": 1787052569
 }

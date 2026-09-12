@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-aws-sdk-presigned-post-go-git",
-  "original_url": "https://github.com/PretendoNetwork/aws-sdk-presigned-post-go.git",
-  "description": "Custom PresignClient for the AWS s3 Go SDK (v2) to add support for presigned POST urls",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054039,
-  "updated_at": 1787054039
+	"slug": "github-com-pretendonetwork-aws-sdk-presigned-post-go-git",
+	"original_url": "https://github.com/PretendoNetwork/aws-sdk-presigned-post-go.git",
+	"description": "Custom PresignClient for the AWS s3 Go SDK (v2) to add support for presigned POST urls",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054039,
+	"updated_at": 1787054039
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-libctru-git",
-  "original_url": "https://github.com/devkitPro/libctru.git",
-  "description": "Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11)",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052012,
-  "updated_at": 1787052012
+	"slug": "github-com-devkitpro-libctru-git",
+	"original_url": "https://github.com/devkitPro/libctru.git",
+	"description": "Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11)",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052012,
+	"updated_at": 1787052012
 }

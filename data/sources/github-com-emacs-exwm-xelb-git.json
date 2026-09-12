@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-emacs-exwm-xelb-git",
-  "original_url": "https://github.com/emacs-exwm/xelb.git",
-  "description": "X protocol Emacs Lisp Binding",
-  "language": "Emacs Lisp",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052143,
-  "updated_at": 1787052143
+	"slug": "github-com-emacs-exwm-xelb-git",
+	"original_url": "https://github.com/emacs-exwm/xelb.git",
+	"description": "X protocol Emacs Lisp Binding",
+	"language": "Emacs Lisp",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052143,
+	"updated_at": 1787052143
 }

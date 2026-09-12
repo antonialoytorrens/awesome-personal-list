@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-shiz-pydle",
-  "original_url": "https://codeberg.org/shiz/pydle",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054093,
-  "updated_at": 1787054093
+	"slug": "codeberg-org-shiz-pydle",
+	"original_url": "https://codeberg.org/shiz/pydle",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054093,
+	"updated_at": 1787054093
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sf-app-imgeditor-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.imgeditor.git",
-  "description": "Symbian Image Editor App",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054346,
-  "updated_at": 1787054346
+	"slug": "github-com-symbiansource-oss-fcl-sf-app-imgeditor-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.imgeditor.git",
+	"description": "Symbian Image Editor App",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054346,
+	"updated_at": 1787054346
 }

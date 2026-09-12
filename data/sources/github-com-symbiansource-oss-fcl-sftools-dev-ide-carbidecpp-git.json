@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sftools-dev-ide-carbidecpp-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sftools.dev.ide.carbidecpp.git",
-  "description": "Symbian Carbide C++",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054804,
-  "updated_at": 1787054804
+	"slug": "github-com-symbiansource-oss-fcl-sftools-dev-ide-carbidecpp-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sftools.dev.ide.carbidecpp.git",
+	"description": "Symbian Carbide C++",
+	"language": "Java",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054804,
+	"updated_at": 1787054804
 }

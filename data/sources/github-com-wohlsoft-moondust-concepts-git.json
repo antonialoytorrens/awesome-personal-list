@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-moondust-concepts-git",
-  "original_url": "https://github.com/WohlSoft/Moondust-Concepts.git",
-  "description": "A collection of sketches, logos, and icons, used in Moondust Project, and source materials used in the creation.",
-  "language": "SVG",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055037,
-  "updated_at": 1787055037
+	"slug": "github-com-wohlsoft-moondust-concepts-git",
+	"original_url": "https://github.com/WohlSoft/Moondust-Concepts.git",
+	"description": "A collection of sketches, logos, and icons, used in Moondust Project, and source materials used in the creation.",
+	"language": "SVG",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055037,
+	"updated_at": 1787055037
 }

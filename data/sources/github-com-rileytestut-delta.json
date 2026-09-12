@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rileytestut-delta",
-  "original_url": "https://github.com/rileytestut/Delta",
-  "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
-  "language": "Swift",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052320,
-  "updated_at": 1787052320
+	"slug": "github-com-rileytestut-delta",
+	"original_url": "https://github.com/rileytestut/Delta",
+	"description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
+	"language": "Swift",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052320,
+	"updated_at": 1787052320
 }

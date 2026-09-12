@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-ddeploy-git",
-  "original_url": "https://github.com/Inochi2D/ddeploy.git",
-  "description": "Deploy D applications across platforms",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052310,
-  "updated_at": 1787052310
+	"slug": "github-com-inochi2d-ddeploy-git",
+	"original_url": "https://github.com/Inochi2D/ddeploy.git",
+	"description": "Deploy D applications across platforms",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052310,
+	"updated_at": 1787052310
 }

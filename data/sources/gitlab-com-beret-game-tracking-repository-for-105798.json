@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-beret-game-tracking-repository-for-105798",
-	"original_url":	"https://gitlab.com/beret-game/tracking_repository_for_105798",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051811,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-beret-game-tracking-repository-for-105798",
+	"original_url": "https://gitlab.com/beret-game/tracking_repository_for_105798",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051811,
+	"updated_at": 1787063964
 }

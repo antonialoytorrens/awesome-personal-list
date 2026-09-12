@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sdlpal-sdlpal-git",
-	"original_url":	"https://github.com/sdlpal/sdlpal.git",
-	"description":	"SDL-based reimplementation of the classic Chinese-language RPG known as PAL.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053292,
-	"updated_at":	1787063963
+	"slug": "github-com-sdlpal-sdlpal-git",
+	"original_url": "https://github.com/sdlpal/sdlpal.git",
+	"description": "SDL-based reimplementation of the classic Chinese-language RPG known as PAL.",
+	"language": "C",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053292,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-siemens-mobile-hacks-cpu-clock-ctl-git",
-	"original_url":	"https://github.com/siemens-mobile-hacks/cpu_clock_ctl.git",
-	"description":	"Ð­Ð»ÑÑ-Ð´ÐµÐ¼Ð¾Ð½ Ð´Ð»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ°ÑÑÐ¾ÑÐ¾Ð¹ Ð¿ÑÐ¾ÑÐµÑÑÐ¾ÑÐ°.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054156,
-	"updated_at":	1787063963
+	"slug": "github-com-siemens-mobile-hacks-cpu-clock-ctl-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/cpu_clock_ctl.git",
+	"description": "Ð­Ð»ÑÑ-Ð´ÐµÐ¼Ð¾Ð½ Ð´Ð»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ°ÑÑÐ¾ÑÐ¾Ð¹ Ð¿ÑÐ¾ÑÐµÑÑÐ¾ÑÐ°.",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054156,
+	"updated_at": 1787063963
 }

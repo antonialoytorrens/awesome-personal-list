@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pspdev-pspdev-git",
-  "original_url": "https://github.com/pspdev/pspdev.git",
-  "description": "pspdev master repository",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054081,
-  "updated_at": 1787054081
+	"slug": "github-com-pspdev-pspdev-git",
+	"original_url": "https://github.com/pspdev/pspdev.git",
+	"description": "pspdev master repository",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054081,
+	"updated_at": 1787054081
 }

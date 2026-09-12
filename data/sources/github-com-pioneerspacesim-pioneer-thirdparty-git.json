@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pioneerspacesim-pioneer-thirdparty-git",
-	"original_url":	"https://github.com/pioneerspacesim/pioneer-thirdparty.git",
-	"description":	"Third-party packages required to build Pioneer",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053950,
-	"updated_at":	1787063962
+	"slug": "github-com-pioneerspacesim-pioneer-thirdparty-git",
+	"original_url": "https://github.com/pioneerspacesim/pioneer-thirdparty.git",
+	"description": "Third-party packages required to build Pioneer",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053950,
+	"updated_at": 1787063962
 }

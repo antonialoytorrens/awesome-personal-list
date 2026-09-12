@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-alexfru-smallerc",
-	"original_url":	"https://github.com/alexfru/SmallerC",
-	"description":	"Simple C compiler",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051871,
-	"updated_at":	1787063960
+	"slug": "github-com-alexfru-smallerc",
+	"original_url": "https://github.com/alexfru/SmallerC",
+	"description": "Simple C compiler",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051871,
+	"updated_at": 1787063960
 }

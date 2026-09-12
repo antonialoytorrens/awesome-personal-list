@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-kotlin-git",
-  "original_url": "https://github.com/TheAlgorithms/Kotlin.git",
-  "description": "All Algorithms implemented in Kotlin",
-  "language": "Kotlin",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054877,
-  "updated_at": 1787054877
+	"slug": "github-com-thealgorithms-kotlin-git",
+	"original_url": "https://github.com/TheAlgorithms/Kotlin.git",
+	"description": "All Algorithms implemented in Kotlin",
+	"language": "Kotlin",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054877,
+	"updated_at": 1787054877
 }

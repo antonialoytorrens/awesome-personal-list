@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-blocksds-gbajpeg-git",
-	"original_url":	"https://github.com/blocksds/gbajpeg.git",
-	"description":	"Public Domain library designed to load JPEG files on GBA.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051824,
-	"updated_at":	1787063960
+	"slug": "github-com-blocksds-gbajpeg-git",
+	"original_url": "https://github.com/blocksds/gbajpeg.git",
+	"description": "Public Domain library designed to load JPEG files on GBA.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051824,
+	"updated_at": 1787063960
 }

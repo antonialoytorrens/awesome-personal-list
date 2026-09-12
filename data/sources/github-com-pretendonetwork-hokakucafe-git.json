@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pretendonetwork-hokakucafe-git",
-	"original_url":	"https://github.com/PretendoNetwork/HokakuCafe.git",
-	"description":	"On-console network traffic dumper for the Wii U",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054024,
-	"updated_at":	1787063962
+	"slug": "github-com-pretendonetwork-hokakucafe-git",
+	"original_url": "https://github.com/PretendoNetwork/HokakuCafe.git",
+	"description": "On-console network traffic dumper for the Wii U",
+	"language": "C",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054024,
+	"updated_at": 1787063962
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-scala-git",
-  "original_url": "https://github.com/TheAlgorithms/Scala.git",
-  "description": "All Algorithms implemented in Scala",
-  "language": "Scala",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054872,
-  "updated_at": 1787054872
+	"slug": "github-com-thealgorithms-scala-git",
+	"original_url": "https://github.com/TheAlgorithms/Scala.git",
+	"description": "All Algorithms implemented in Scala",
+	"language": "Scala",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054872,
+	"updated_at": 1787054872
 }

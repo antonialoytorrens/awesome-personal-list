@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-arcadesdude-bru",
-  "original_url": "https://github.com/arcadesdude/BRU",
-  "description": "Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.",
-  "language": "PowerShell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055019,
-  "updated_at": 1787055019
+	"slug": "github-com-arcadesdude-bru",
+	"original_url": "https://github.com/arcadesdude/BRU",
+	"description": "Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.",
+	"language": "PowerShell",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055019,
+	"updated_at": 1787055019
 }

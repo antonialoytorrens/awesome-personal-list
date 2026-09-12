@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rust-sdl2-rust-sdl2",
-  "original_url": "https://github.com/Rust-SDL2/rust-sdl2",
-  "description": "SDL2 bindings for Rust",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053239,
-  "updated_at": 1787053239
+	"slug": "github-com-rust-sdl2-rust-sdl2",
+	"original_url": "https://github.com/Rust-SDL2/rust-sdl2",
+	"description": "SDL2 bindings for Rust",
+	"language": "Rust",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053239,
+	"updated_at": 1787053239
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-wiseshell-truc",
-  "original_url": "https://gitlab.com/wiseshell/truc",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055022,
-  "updated_at": 1787055022
+	"slug": "gitlab-com-wiseshell-truc",
+	"original_url": "https://gitlab.com/wiseshell/truc",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055022,
+	"updated_at": 1787055022
 }

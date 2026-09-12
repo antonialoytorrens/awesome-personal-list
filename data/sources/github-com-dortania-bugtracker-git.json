@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-bugtracker-git",
-  "original_url": "https://github.com/dortania/bugtracker.git",
-  "description": "Dortania Bugtracker",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052083,
-  "updated_at": 1787052083
+	"slug": "github-com-dortania-bugtracker-git",
+	"original_url": "https://github.com/dortania/bugtracker.git",
+	"description": "Dortania Bugtracker",
+	"language": "",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052083,
+	"updated_at": 1787052083
 }

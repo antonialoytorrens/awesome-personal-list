@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cntools-cnping-git",
-	"original_url":	"https://github.com/cntools/cnping.git",
-	"description":	"Minimal Graphical Ping Tool",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051948,
-	"updated_at":	1787063960
+	"slug": "github-com-cntools-cnping-git",
+	"original_url": "https://github.com/cntools/cnping.git",
+	"description": "Minimal Graphical Ping Tool",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051948,
+	"updated_at": 1787063960
 }

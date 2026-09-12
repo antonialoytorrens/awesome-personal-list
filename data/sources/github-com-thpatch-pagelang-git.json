@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-thpatch-pagelang-git",
-	"original_url":	"https://github.com/thpatch/PageLang.git",
-	"description":	"Defines a variable that contains the current page content language",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054900,
-	"updated_at":	1787063969
+	"slug": "github-com-thpatch-pagelang-git",
+	"original_url": "https://github.com/thpatch/PageLang.git",
+	"description": "Defines a variable that contains the current page content language",
+	"language": "PHP",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054900,
+	"updated_at": 1787063969
 }

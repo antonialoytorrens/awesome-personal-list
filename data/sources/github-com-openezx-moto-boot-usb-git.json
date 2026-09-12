@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-openezx-moto-boot-usb-git",
-	"original_url":	"https://github.com/OpenEZX/moto-boot-usb.git",
-	"description":	"Ancient archive of OpenEZX moto-boot-usb",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052597,
-	"updated_at":	1787063962
+	"slug": "github-com-openezx-moto-boot-usb-git",
+	"original_url": "https://github.com/OpenEZX/moto-boot-usb.git",
+	"description": "Ancient archive of OpenEZX moto-boot-usb",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052597,
+	"updated_at": 1787063962
 }

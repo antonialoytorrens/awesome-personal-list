@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-qmk-qmk-firmware",
-	"original_url":	"https://github.com/qmk/qmk_firmware",
-	"description":	"Open-source keyboard firmware for Atmel AVR and Arm USB families",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051914,
-	"updated_at":	1787063963
+	"slug": "github-com-qmk-qmk-firmware",
+	"original_url": "https://github.com/qmk/qmk_firmware",
+	"description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051914,
+	"updated_at": 1787063963
 }

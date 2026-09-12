@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ancurio-rgss-script-editor-git",
-  "original_url": "https://github.com/Ancurio/rgss_script_editor.git",
-  "description": "Script editor for Scripts.{rxdata, rvdata, rvdata2} ",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043211,
-  "created_at": 1787051688,
-  "updated_at": 1787051688
+	"slug": "github-com-ancurio-rgss-script-editor-git",
+	"original_url": "https://github.com/Ancurio/rgss_script_editor.git",
+	"description": "Script editor for Scripts.{rxdata, rvdata, rvdata2} ",
+	"language": "C++",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043211,
+	"created_at": 1787051688,
+	"updated_at": 1787051688
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sysprog21-rv32emu-demo-git",
-  "original_url": "https://github.com/sysprog21/rv32emu-demo.git",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054843,
-  "updated_at": 1787054843
+	"slug": "github-com-sysprog21-rv32emu-demo-git",
+	"original_url": "https://github.com/sysprog21/rv32emu-demo.git",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054843,
+	"updated_at": 1787054843
 }

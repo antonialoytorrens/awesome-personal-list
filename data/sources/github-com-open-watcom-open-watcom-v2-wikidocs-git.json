@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-open-watcom-open-watcom-v2-wikidocs-git",
-  "original_url": "https://github.com/open-watcom/open-watcom-v2-wikidocs.git",
-  "description": "Open Watcom 2 Wiki Documentation",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052589,
-  "updated_at": 1787052589
+	"slug": "github-com-open-watcom-open-watcom-v2-wikidocs-git",
+	"original_url": "https://github.com/open-watcom/open-watcom-v2-wikidocs.git",
+	"description": "Open Watcom 2 Wiki Documentation",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052589,
+	"updated_at": 1787052589
 }

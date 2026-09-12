@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-llvm-mos-continuous-release-git",
-  "original_url": "https://github.com/llvm-mos/continuous-release.git",
-  "description": "Project for continuous build and release of the llvm-mos compiler toolset",
-  "language": "CMake",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052409,
-  "updated_at": 1787052409
+	"slug": "github-com-llvm-mos-continuous-release-git",
+	"original_url": "https://github.com/llvm-mos/continuous-release.git",
+	"description": "Project for continuous build and release of the llvm-mos compiler toolset",
+	"language": "CMake",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052409,
+	"updated_at": 1787052409
 }

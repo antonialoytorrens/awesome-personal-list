@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pspdev-psptoolchain-git",
-  "original_url": "https://github.com/pspdev/psptoolchain.git",
-  "description": "A script to automatically build an open-source toolchain for PSP homebrew development. ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054072,
-  "updated_at": 1787054072
+	"slug": "github-com-pspdev-psptoolchain-git",
+	"original_url": "https://github.com/pspdev/psptoolchain.git",
+	"description": "A script to automatically build an open-source toolchain for PSP homebrew development. ",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054072,
+	"updated_at": 1787054072
 }

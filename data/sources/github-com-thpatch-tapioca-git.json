@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-tapioca-git",
-  "original_url": "https://github.com/thpatch/Tapioca.git",
-  "description": "Efficient and cost effective continuous delivery for large binary games.",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054901,
-  "updated_at": 1787054901
+	"slug": "github-com-thpatch-tapioca-git",
+	"original_url": "https://github.com/thpatch/Tapioca.git",
+	"description": "Efficient and cost effective continuous delivery for large binary games.",
+	"language": "Go",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054901,
+	"updated_at": 1787054901
 }

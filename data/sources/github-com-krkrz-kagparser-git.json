@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-kagparser-git",
-  "original_url": "https://github.com/krkrz/KAGParser.git",
-  "description": "KAGã¹ã¯ãªãããã¼ãµã¼ãã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052374,
-  "updated_at": 1787052374
+	"slug": "github-com-krkrz-kagparser-git",
+	"original_url": "https://github.com/krkrz/KAGParser.git",
+	"description": "KAGã¹ã¯ãªãããã¼ãµã¼ãã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052374,
+	"updated_at": 1787052374
 }

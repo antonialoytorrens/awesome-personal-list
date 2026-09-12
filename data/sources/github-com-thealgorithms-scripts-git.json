@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-scripts-git",
-  "original_url": "https://github.com/TheAlgorithms/scripts.git",
-  "description": "Scripts used across all The Algorithms repositories",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054883,
-  "updated_at": 1787054883
+	"slug": "github-com-thealgorithms-scripts-git",
+	"original_url": "https://github.com/TheAlgorithms/scripts.git",
+	"description": "Scripts used across all The Algorithms repositories",
+	"language": "Python",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054883,
+	"updated_at": 1787054883
 }

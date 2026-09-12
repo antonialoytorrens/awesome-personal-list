@@ -1,12 +1,14 @@
 {
-	"slug":	"git-tukaani-org-libxzfile-git",
-	"original_url":	"https://git.tukaani.org/libxzfile.git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052257,
-	"updated_at":	1787063960
+	"slug": "git-tukaani-org-libxzfile-git",
+	"original_url": "https://git.tukaani.org/libxzfile.git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052257,
+	"updated_at": 1787063960
 }

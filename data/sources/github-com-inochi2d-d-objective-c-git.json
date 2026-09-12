@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-d-objective-c-git",
-  "original_url": "https://github.com/Inochi2D/D-objective-c.git",
-  "description": "Repository used to keep a compatible Objective-C bindings generation with D.",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052309,
-  "updated_at": 1787052309
+	"slug": "github-com-inochi2d-d-objective-c-git",
+	"original_url": "https://github.com/Inochi2D/D-objective-c.git",
+	"description": "Repository used to keep a compatible Objective-C bindings generation with D.",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052309,
+	"updated_at": 1787052309
 }

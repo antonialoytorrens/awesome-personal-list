@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-thpatch-touhouthemedb-git",
-	"original_url":	"https://github.com/thpatch/TouhouThemeDB.git",
-	"description":	"MediaWiki extension providing data on all canon Touhou music themes",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054902,
-	"updated_at":	1787063969
+	"slug": "github-com-thpatch-touhouthemedb-git",
+	"original_url": "https://github.com/thpatch/TouhouThemeDB.git",
+	"description": "MediaWiki extension providing data on all canon Touhou music themes",
+	"language": "PHP",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054902,
+	"updated_at": 1787063969
 }

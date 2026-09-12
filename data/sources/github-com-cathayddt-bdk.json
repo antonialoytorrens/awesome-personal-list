@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-cathayddt-bdk",
-  "original_url": "https://github.com/cathayddt/bdk",
-  "description": "Streamlined blockchain deployment kit for Hyperledger Fabric.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053235,
-  "updated_at": 1787053235
+	"slug": "github-com-cathayddt-bdk",
+	"original_url": "https://github.com/cathayddt/bdk",
+	"description": "Streamlined blockchain deployment kit for Hyperledger Fabric.",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053235,
+	"updated_at": 1787053235
 }

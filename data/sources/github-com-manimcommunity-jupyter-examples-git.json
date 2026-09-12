@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-jupyter-examples-git",
-  "original_url": "https://github.com/ManimCommunity/jupyter_examples.git",
-  "description": "This repo contains example notebooks which can be launched via binder",
-  "language": "Jupyter Notebook",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052431,
-  "updated_at": 1787052431
+	"slug": "github-com-manimcommunity-jupyter-examples-git",
+	"original_url": "https://github.com/ManimCommunity/jupyter_examples.git",
+	"description": "This repo contains example notebooks which can be launched via binder",
+	"language": "Jupyter Notebook",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052431,
+	"updated_at": 1787052431
 }

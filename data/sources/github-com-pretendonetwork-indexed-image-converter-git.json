@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-indexed-image-converter-git",
-  "original_url": "https://github.com/PretendoNetwork/indexed-image-converter.git",
-  "description": "Convert between standard images and BMP style indexed images",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054017,
-  "updated_at": 1787054017
+	"slug": "github-com-pretendonetwork-indexed-image-converter-git",
+	"original_url": "https://github.com/PretendoNetwork/indexed-image-converter.git",
+	"description": "Convert between standard images and BMP style indexed images",
+	"language": "JavaScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054017,
+	"updated_at": 1787054017
 }

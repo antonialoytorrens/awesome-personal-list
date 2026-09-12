@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-devkitpro-3ds-hbmenu-git",
-	"original_url":	"https://github.com/devkitPro/3ds-hbmenu.git",
-	"description":	"The 3DS Homebrew Menu (â© Í¡Â° ÍÊ Í¡Â°)âââï¾ ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052029,
-	"updated_at":	1787063960
+	"slug": "github-com-devkitpro-3ds-hbmenu-git",
+	"original_url": "https://github.com/devkitPro/3ds-hbmenu.git",
+	"description": "The 3DS Homebrew Menu (â© Í¡Â° ÍÊ Í¡Â°)âââï¾ ",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052029,
+	"updated_at": 1787063960
 }

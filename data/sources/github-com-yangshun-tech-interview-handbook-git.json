@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-yangshun-tech-interview-handbook-git",
-  "original_url": "https://github.com/yangshun/tech-interview-handbook.git",
-  "description": "ð¯ Curated coding interview preparation materials for busy software engineers",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043222,
-  "created_at": 1787051697,
-  "updated_at": 1787051697
+	"slug": "github-com-yangshun-tech-interview-handbook-git",
+	"original_url": "https://github.com/yangshun/tech-interview-handbook.git",
+	"description": "ð¯ Curated coding interview preparation materials for busy software engineers",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043222,
+	"created_at": 1787051697,
+	"updated_at": 1787051697
 }

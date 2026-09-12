@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-lhkastenson-mariopascal",
-  "original_url": "https://github.com/lhkastenson/MarioPascal",
-  "description": "A Mario clone written in Turbo Pascal by Mike Wiering in 1994.",
-  "language": "Pascal",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053930,
-  "updated_at": 1787053930
+	"slug": "github-com-lhkastenson-mariopascal",
+	"original_url": "https://github.com/lhkastenson/MarioPascal",
+	"description": "A Mario clone written in Turbo Pascal by Mike Wiering in 1994.",
+	"language": "Pascal",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053930,
+	"updated_at": 1787053930
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-apoxi-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/apoxi.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054156,
-  "updated_at": 1787054156
+	"slug": "github-com-siemens-mobile-hacks-apoxi-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/apoxi.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054156,
+	"updated_at": 1787054156
 }

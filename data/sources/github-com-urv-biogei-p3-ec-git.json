@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-p3-ec-git",
-  "original_url": "https://github.com/URV-BioGEI/P3_EC.git",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054951,
-  "updated_at": 1787054951
+	"slug": "github-com-urv-biogei-p3-ec-git",
+	"original_url": "https://github.com/URV-BioGEI/P3_EC.git",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054951,
+	"updated_at": 1787054951
 }

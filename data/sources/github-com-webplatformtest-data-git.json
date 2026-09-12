@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-webplatformtest-data-git",
-	"original_url":	"https://github.com/WebPlatformTest/Data.git",
-	"description":	"Data for generating information about other browsers on HTML5test.com",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055005,
-	"updated_at":	1787063969
+	"slug": "github-com-webplatformtest-data-git",
+	"original_url": "https://github.com/WebPlatformTest/Data.git",
+	"description": "Data for generating information about other browsers on HTML5test.com",
+	"language": "PHP",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055005,
+	"updated_at": 1787063969
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-diasurgical-devilutionx",
-  "original_url": "https://github.com/diasurgical/DevilutionX",
-  "description": "Diablo build for modern operating systems",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051724,
-  "updated_at": 1787051724
+	"slug": "github-com-diasurgical-devilutionx",
+	"original_url": "https://github.com/diasurgical/DevilutionX",
+	"description": "Diablo build for modern operating systems",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051724,
+	"updated_at": 1787051724
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sftools-depl-swconfigapps-sysmodeltools-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sftools.depl.swconfigapps.sysmodeltools.git",
-  "description": "Symbian System Model Tools",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054798,
-  "updated_at": 1787054798
+	"slug": "github-com-symbiansource-oss-fcl-sftools-depl-swconfigapps-sysmodeltools-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sftools.depl.swconfigapps.sysmodeltools.git",
+	"description": "Symbian System Model Tools",
+	"language": "Java",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054798,
+	"updated_at": 1787054798
 }

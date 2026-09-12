@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rigsofrods-ror-osx-buildscripts-git",
-  "original_url": "https://github.com/RigsOfRods/ror-osx-buildscripts.git",
-  "description": "Shell scripts to build Rigs of Rods git on OS X",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054119,
-  "updated_at": 1787054119
+	"slug": "github-com-rigsofrods-ror-osx-buildscripts-git",
+	"original_url": "https://github.com/RigsOfRods/ror-osx-buildscripts.git",
+	"description": "Shell scripts to build Rigs of Rods git on OS X",
+	"language": "Shell",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054119,
+	"updated_at": 1787054119
 }

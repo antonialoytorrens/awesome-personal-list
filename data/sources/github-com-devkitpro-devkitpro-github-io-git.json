@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-devkitpro-github-io-git",
-  "original_url": "https://github.com/devkitPro/devkitpro.github.io.git",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052030,
-  "updated_at": 1787052030
+	"slug": "github-com-devkitpro-devkitpro-github-io-git",
+	"original_url": "https://github.com/devkitPro/devkitpro.github.io.git",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052030,
+	"updated_at": 1787052030
 }

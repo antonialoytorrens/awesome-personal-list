@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-daw2018-2020-crud-article-djangovue",
-  "original_url": "https://github.com/antonialoytorrens-DAW2018-2020/CRUD-Article-DjangoVue",
-  "description": "Projecte d'introducciÃ³ per als llenguatges Python (amb el framework de Django) i VueJS.",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051791,
-  "updated_at": 1787051791
+	"slug": "github-com-antonialoytorrens-daw2018-2020-crud-article-djangovue",
+	"original_url": "https://github.com/antonialoytorrens-DAW2018-2020/CRUD-Article-DjangoVue",
+	"description": "Projecte d'introducciÃ³ per als llenguatges Python (amb el framework de Django) i VueJS.",
+	"language": "HTML",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051791,
+	"updated_at": 1787051791
 }

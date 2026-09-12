@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-bevyengine-atomicow-git",
-  "original_url": "https://github.com/bevyengine/atomicow.git",
-  "description": "A `Cow`-like data structure where owned data is stored inside an `Arc`.",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051817,
-  "updated_at": 1787051817
+	"slug": "github-com-bevyengine-atomicow-git",
+	"original_url": "https://github.com/bevyengine/atomicow.git",
+	"description": "A `Cow`-like data structure where owned data is stored inside an `Arc`.",
+	"language": "Rust",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051817,
+	"updated_at": 1787051817
 }

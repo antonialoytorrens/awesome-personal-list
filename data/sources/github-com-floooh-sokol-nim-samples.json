@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-floooh-sokol-nim-samples",
-  "original_url": "https://github.com/floooh/sokol-nim-samples",
-  "description": "Example code for https://github.com/floooh/sokol-nim",
-  "language": "Nim",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054289,
-  "updated_at": 1787054289
+	"slug": "github-com-floooh-sokol-nim-samples",
+	"original_url": "https://github.com/floooh/sokol-nim-samples",
+	"description": "Example code for https://github.com/floooh/sokol-nim",
+	"language": "Nim",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054289,
+	"updated_at": 1787054289
 }

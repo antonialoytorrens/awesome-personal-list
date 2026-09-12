@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sftools-fbf-buildmanifest-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sftools.fbf.buildmanifest.git",
-  "description": "Symbian Build Manifest",
-  "language": "CSV",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054806,
-  "updated_at": 1787054806
+	"slug": "github-com-symbiansource-oss-fcl-sftools-fbf-buildmanifest-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sftools.fbf.buildmanifest.git",
+	"description": "Symbian Build Manifest",
+	"language": "CSV",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054806,
+	"updated_at": 1787054806
 }

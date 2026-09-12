@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-orcwg-cra-hub",
-  "original_url": "https://github.com/orcwg/cra-hub",
-  "description": "Everything you ever wanted to know about the CRA and its implementation",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051720,
-  "updated_at": 1787051720
+	"slug": "github-com-orcwg-cra-hub",
+	"original_url": "https://github.com/orcwg/cra-hub",
+	"description": "Everything you ever wanted to know about the CRA and its implementation",
+	"language": "Markdown",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051720,
+	"updated_at": 1787051720
 }

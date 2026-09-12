@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-crz-shadows-pokemon-crystal-legacy",
-  "original_url": "https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy",
-  "description": "This is a PokÃ©mon Rom Hack made by TheSmithPlays with the intended purpose of fixing PokÃ©mon Crystal into a more polished experience while staying true to the vision of Generation 2.",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053965,
-  "updated_at": 1787053965
+	"slug": "github-com-crz-shadows-pokemon-crystal-legacy",
+	"original_url": "https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy",
+	"description": "This is a PokÃ©mon Rom Hack made by TheSmithPlays with the intended purpose of fixing PokÃ©mon Crystal into a more polished experience while staying true to the vision of Generation 2.",
+	"language": "Assembly",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053965,
+	"updated_at": 1787053965
 }

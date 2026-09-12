@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-dr-luigi-git",
-  "original_url": "https://github.com/PretendoNetwork/dr-luigi.git",
-  "description": "Dr. Luigi replacement server",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054054,
-  "updated_at": 1787054054
+	"slug": "github-com-pretendonetwork-dr-luigi-git",
+	"original_url": "https://github.com/PretendoNetwork/dr-luigi.git",
+	"description": "Dr. Luigi replacement server",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054054,
+	"updated_at": 1787054054
 }

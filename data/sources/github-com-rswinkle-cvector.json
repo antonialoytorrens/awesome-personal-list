@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-rswinkle-cvector",
-	"original_url":	"https://github.com/rswinkle/CVector",
-	"description":	"A C vector library similar to the C++ STL vector",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051869,
-	"updated_at":	1787063963
+	"slug": "github-com-rswinkle-cvector",
+	"original_url": "https://github.com/rswinkle/CVector",
+	"description": "A C vector library similar to the C++ STL vector",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051869,
+	"updated_at": 1787063963
 }

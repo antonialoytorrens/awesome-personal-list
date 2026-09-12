@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-awemorris-noctscriptide",
-  "original_url": "https://github.com/awemorris/NoctScriptIDE",
-  "description": "IDE for the NoctLang, Noct2D, and other NoctVM families",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052389,
-  "updated_at": 1787052389
+	"slug": "github-com-awemorris-noctscriptide",
+	"original_url": "https://github.com/awemorris/NoctScriptIDE",
+	"description": "IDE for the NoctLang, Noct2D, and other NoctVM families",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052389,
+	"updated_at": 1787052389
 }

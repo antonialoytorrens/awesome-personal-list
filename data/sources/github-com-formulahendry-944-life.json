@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-formulahendry-944-life",
-  "original_url": "https://github.com/formulahendry/944.Life",
-  "description": "996.ICU çåå repo: 944 å·¥ä½å¶ - å·¥ä½ 944ï¼çæ´»ä¸ºå",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043219,
-  "created_at": 1787051695,
-  "updated_at": 1787051695
+	"slug": "github-com-formulahendry-944-life",
+	"original_url": "https://github.com/formulahendry/944.Life",
+	"description": "996.ICU çåå repo: 944 å·¥ä½å¶ - å·¥ä½ 944ï¼çæ´»ä¸ºå",
+	"language": "",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043219,
+	"created_at": 1787051695,
+	"updated_at": 1787051695
 }

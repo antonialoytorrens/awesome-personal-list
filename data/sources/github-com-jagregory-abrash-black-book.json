@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jagregory-abrash-black-book",
-  "original_url": "https://github.com/jagregory/abrash-black-book",
-  "description": "Markdown source for Michael Abrash's Graphics Programming Black Book",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051898,
-  "updated_at": 1787051898
+	"slug": "github-com-jagregory-abrash-black-book",
+	"original_url": "https://github.com/jagregory/abrash-black-book",
+	"description": "Markdown source for Michael Abrash's Graphics Programming Black Book",
+	"language": "CSS",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051898,
+	"updated_at": 1787051898
 }

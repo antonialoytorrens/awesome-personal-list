@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-nex-documentation-generator-git",
-  "original_url": "https://github.com/PretendoNetwork/nex-documentation-generator.git",
-  "description": "Tool to build out MarkDown documentation for NEX protocols found within 3DS and WiiU game dumps using the games DDL Parse Trees",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054023,
-  "updated_at": 1787054023
+	"slug": "github-com-pretendonetwork-nex-documentation-generator-git",
+	"original_url": "https://github.com/PretendoNetwork/nex-documentation-generator.git",
+	"description": "Tool to build out MarkDown documentation for NEX protocols found within 3DS and WiiU game dumps using the games DDL Parse Trees",
+	"language": "JavaScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054023,
+	"updated_at": 1787054023
 }

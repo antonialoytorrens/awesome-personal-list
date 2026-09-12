@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-youtube-chat-git",
-  "original_url": "https://github.com/FreeTubeApp/youtube-chat.git",
-  "description": "Fetch YouTube Live comments",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052216,
-  "updated_at": 1787052216
+	"slug": "github-com-freetubeapp-youtube-chat-git",
+	"original_url": "https://github.com/FreeTubeApp/youtube-chat.git",
+	"description": "Fetch YouTube Live comments",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052216,
+	"updated_at": 1787052216
 }

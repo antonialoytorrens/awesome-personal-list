@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-doxygen-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/doxygen.git",
-  "description": "Official doxygen git repository",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054144,
-  "updated_at": 1787054144
+	"slug": "github-com-siemens-mobile-hacks-doxygen-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/doxygen.git",
+	"description": "Official doxygen git repository",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054144,
+	"updated_at": 1787054144
 }

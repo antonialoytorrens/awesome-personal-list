@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-xmader-musescore-downloader",
-  "original_url": "https://github.com/Xmader/musescore-downloader",
-  "description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | åç»å½ãå Musescore Proï¼åè´¹ä¸è½½ musescore.com ä¸çæ²è°± | Installation: https://msdl.librescore.org/install.user.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043209,
-  "created_at": 1787051686,
-  "updated_at": 1787051686
+	"slug": "github-com-xmader-musescore-downloader",
+	"original_url": "https://github.com/Xmader/musescore-downloader",
+	"description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | åç»å½ãå Musescore Proï¼åè´¹ä¸è½½ musescore.com ä¸çæ²è°± | Installation: https://msdl.librescore.org/install.user.",
+	"language": "TypeScript",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043209,
+	"created_at": 1787051686,
+	"updated_at": 1787051686
 }

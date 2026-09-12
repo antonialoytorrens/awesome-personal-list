@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-dashed-tetris-sdl-c",
-	"original_url":	"https://github.com/dashed/tetris-sdl-c",
-	"description":	"ð¹ï¸ A toy project implementing a simple tetris clone in C for learning SDL 2.x.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053273,
-	"updated_at":	1787063960
+	"slug": "github-com-dashed-tetris-sdl-c",
+	"original_url": "https://github.com/dashed/tetris-sdl-c",
+	"description": "ð¹ï¸ A toy project implementing a simple tetris clone in C for learning SDL 2.x.",
+	"language": "C",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053273,
+	"updated_at": 1787063960
 }

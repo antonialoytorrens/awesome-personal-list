@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-makedeb-prebuilt-mpr-git",
-  "original_url": "https://github.com/makedeb/prebuilt-mpr.git",
-  "description": "The backend system powering the Prebuilt-MPR",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052425,
-  "updated_at": 1787052425
+	"slug": "github-com-makedeb-prebuilt-mpr-git",
+	"original_url": "https://github.com/makedeb/prebuilt-mpr.git",
+	"description": "The backend system powering the Prebuilt-MPR",
+	"language": "",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052425,
+	"updated_at": 1787052425
 }

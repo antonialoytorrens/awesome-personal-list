@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-grandorgue-loopauditioneer-git",
-  "original_url": "https://github.com/GrandOrgue/LoopAuditioneer.git",
-  "description": "Software for loop and cue handling in .wav files.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052266,
-  "updated_at": 1787052266
+	"slug": "github-com-grandorgue-loopauditioneer-git",
+	"original_url": "https://github.com/GrandOrgue/LoopAuditioneer.git",
+	"description": "Software for loop and cue handling in .wav files.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052266,
+	"updated_at": 1787052266
 }

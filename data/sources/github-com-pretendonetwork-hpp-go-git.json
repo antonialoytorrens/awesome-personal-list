@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-hpp-go-git",
-  "original_url": "https://github.com/PretendoNetwork/hpp-go.git",
-  "description": "Go implementation of the NEX HPP protocol",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054034,
-  "updated_at": 1787054034
+	"slug": "github-com-pretendonetwork-hpp-go-git",
+	"original_url": "https://github.com/PretendoNetwork/hpp-go.git",
+	"description": "Go implementation of the NEX HPP protocol",
+	"language": "",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054034,
+	"updated_at": 1787054034
 }

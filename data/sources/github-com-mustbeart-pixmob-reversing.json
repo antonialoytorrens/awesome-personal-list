@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mustbeart-pixmob-reversing",
-  "original_url": "https://github.com/MustBeArt/PIXMOB-reversing",
-  "description": "Work to reverse engineer PIXMOB BLE LED bracelets",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053953,
-  "updated_at": 1787053953
+	"slug": "github-com-mustbeart-pixmob-reversing",
+	"original_url": "https://github.com/MustBeArt/PIXMOB-reversing",
+	"description": "Work to reverse engineer PIXMOB BLE LED bracelets",
+	"language": "Python",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053953,
+	"updated_at": 1787053953
 }

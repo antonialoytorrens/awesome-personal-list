@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-kwidgets-git",
-  "original_url": "https://github.com/krkrz/kwidgets.git",
-  "description": "ui widget for kirikiri/kirikiriz",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052379,
-  "updated_at": 1787052379
+	"slug": "github-com-krkrz-kwidgets-git",
+	"original_url": "https://github.com/krkrz/kwidgets.git",
+	"description": "ui widget for kirikiri/kirikiriz",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052379,
+	"updated_at": 1787052379
 }

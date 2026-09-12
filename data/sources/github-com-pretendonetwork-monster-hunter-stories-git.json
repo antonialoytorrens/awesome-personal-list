@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-monster-hunter-stories-git",
-  "original_url": "https://github.com/PretendoNetwork/monster-hunter-stories.git",
-  "description": "",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054068,
-  "updated_at": 1787054068
+	"slug": "github-com-pretendonetwork-monster-hunter-stories-git",
+	"original_url": "https://github.com/PretendoNetwork/monster-hunter-stories.git",
+	"description": "",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054068,
+	"updated_at": 1787054068
 }

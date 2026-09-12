@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-open-watcom-open-watcom-1-9-git",
-  "original_url": "https://github.com/open-watcom/open-watcom-1.9.git",
-  "description": "Open Watcom 1.9 (Wiki, Source code repository), Open Watcom 1.0-1.9 download, Open Watcom 1.9 Documentation",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052590,
-  "updated_at": 1787052590
+	"slug": "github-com-open-watcom-open-watcom-1-9-git",
+	"original_url": "https://github.com/open-watcom/open-watcom-1.9.git",
+	"description": "Open Watcom 1.9 (Wiki, Source code repository), Open Watcom 1.0-1.9 download, Open Watcom 1.9 Documentation",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052590,
+	"updated_at": 1787052590
 }

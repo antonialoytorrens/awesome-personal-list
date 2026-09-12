@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zuzoovn-machine-learning-for-software-engineers",
-  "original_url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
-  "description": "A complete daily plan for studying to become a machine learning engineer.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052342,
-  "updated_at": 1787052342
+	"slug": "github-com-zuzoovn-machine-learning-for-software-engineers",
+	"original_url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+	"description": "A complete daily plan for studying to become a machine learning engineer.",
+	"language": "Markdown",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052342,
+	"updated_at": 1787052342
 }

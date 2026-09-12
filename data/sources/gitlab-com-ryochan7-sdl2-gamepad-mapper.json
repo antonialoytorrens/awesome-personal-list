@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-ryochan7-sdl2-gamepad-mapper",
-  "original_url": "https://gitlab.com/ryochan7/sdl2-gamepad-mapper",
-  "description": "GUI application to map a generic controller to the SDL2 GameController spec and generate an SDL2 mapping string",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053266,
-  "updated_at": 1787053266
+	"slug": "gitlab-com-ryochan7-sdl2-gamepad-mapper",
+	"original_url": "https://gitlab.com/ryochan7/sdl2-gamepad-mapper",
+	"description": "GUI application to map a generic controller to the SDL2 GameController spec and generate an SDL2 mapping string",
+	"language": "C++",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053266,
+	"updated_at": 1787053266
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-elivepatch-gentoo-sources-overlay-git",
-  "original_url": "https://github.com/elivepatch/gentoo-sources_overlay.git",
-  "description": "This overlay contain working but un-mantained Gentoo-sources for use with elivepatch",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052141,
-  "updated_at": 1787052141
+	"slug": "github-com-elivepatch-gentoo-sources-overlay-git",
+	"original_url": "https://github.com/elivepatch/gentoo-sources_overlay.git",
+	"description": "This overlay contain working but un-mantained Gentoo-sources for use with elivepatch",
+	"language": "Shell",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052141,
+	"updated_at": 1787052141
 }

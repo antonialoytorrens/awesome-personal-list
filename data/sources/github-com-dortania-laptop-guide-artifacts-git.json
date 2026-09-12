@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-laptop-guide-artifacts-git",
-  "original_url": "https://github.com/dortania/laptop-guide-artifacts.git",
-  "description": "An artifact repository for the clover laptop guide. (Deprecated)",
-  "language": "OpenStep Property List",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052078,
-  "updated_at": 1787052078
+	"slug": "github-com-dortania-laptop-guide-artifacts-git",
+	"original_url": "https://github.com/dortania/laptop-guide-artifacts.git",
+	"description": "An artifact repository for the clover laptop guide. (Deprecated)",
+	"language": "OpenStep Property List",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052078,
+	"updated_at": 1787052078
 }

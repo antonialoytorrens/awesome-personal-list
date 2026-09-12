@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-bevyengine-bevy-git",
-  "original_url": "https://github.com/bevyengine/bevy.git",
-  "description": "A refreshingly simple data-driven game engine built in Rust",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051812,
-  "updated_at": 1787051812
+	"slug": "github-com-bevyengine-bevy-git",
+	"original_url": "https://github.com/bevyengine/bevy.git",
+	"description": "A refreshingly simple data-driven game engine built in Rust",
+	"language": "Rust",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051812,
+	"updated_at": 1787051812
 }

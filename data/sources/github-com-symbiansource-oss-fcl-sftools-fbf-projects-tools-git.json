@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sftools-fbf-projects-tools-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sftools.fbf.projects.tools.git",
-  "description": "Symbian Tools Descriptions",
-  "language": "CSV",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054808,
-  "updated_at": 1787054808
+	"slug": "github-com-symbiansource-oss-fcl-sftools-fbf-projects-tools-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sftools.fbf.projects.tools.git",
+	"description": "Symbian Tools Descriptions",
+	"language": "CSV",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054808,
+	"updated_at": 1787054808
 }

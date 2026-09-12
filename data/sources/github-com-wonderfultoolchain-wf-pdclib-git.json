@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wonderfultoolchain-wf-pdclib-git",
-	"original_url":	"https://github.com/WonderfulToolchain/wf-pdclib.git",
-	"description":	"Wonderful fork of the Public Domain C Library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055052,
-	"updated_at":	1787063964
+	"slug": "github-com-wonderfultoolchain-wf-pdclib-git",
+	"original_url": "https://github.com/WonderfulToolchain/wf-pdclib.git",
+	"description": "Wonderful fork of the Public Domain C Library",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055052,
+	"updated_at": 1787063964
 }

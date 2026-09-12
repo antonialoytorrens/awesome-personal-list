@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-wic-git",
-  "original_url": "https://github.com/krkrz/wic.git",
-  "description": "Windows Imaging Componentãå©ç¨ããç»åèª­ã¿æ¸ããã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052368,
-  "updated_at": 1787052368
+	"slug": "github-com-krkrz-wic-git",
+	"original_url": "https://github.com/krkrz/wic.git",
+	"description": "Windows Imaging Componentãå©ç¨ããç»åèª­ã¿æ¸ããã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052368,
+	"updated_at": 1787052368
 }

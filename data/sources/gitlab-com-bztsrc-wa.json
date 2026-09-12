@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-bztsrc-wa",
-	"original_url":	"https://gitlab.com/bztsrc/wa",
-	"description":	"Dependency-free single header WASM Runtime in ANSI C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051917,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-bztsrc-wa",
+	"original_url": "https://gitlab.com/bztsrc/wa",
+	"description": "Dependency-free single header WASM Runtime in ANSI C",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051917,
+	"updated_at": 1787063964
 }

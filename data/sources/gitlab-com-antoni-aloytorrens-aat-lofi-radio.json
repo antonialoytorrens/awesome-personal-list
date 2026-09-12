@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-antoni-aloytorrens-aat-lofi-radio",
-  "original_url": "https://gitlab.com/antoni.aloytorrens/aat-lofi-radio",
-  "description": "icecast2 + ezstream 1.0.2 (patch to stream with mp3) + configs + songs",
-  "language": "XSLT",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043205,
-  "created_at": 1787051648,
-  "updated_at": 1787051648
+	"slug": "gitlab-com-antoni-aloytorrens-aat-lofi-radio",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/aat-lofi-radio",
+	"description": "icecast2 + ezstream 1.0.2 (patch to stream with mp3) + configs + songs",
+	"language": "XSLT",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043205,
+	"created_at": 1787051648,
+	"updated_at": 1787051648
 }

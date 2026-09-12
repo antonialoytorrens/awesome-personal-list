@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-spacevim-languageclient-neovim-git",
-  "original_url": "https://github.com/SpaceVim/LanguageClient-neovim.git",
-  "description": "Language Server Protocol support for neovim and vim.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054295,
-  "updated_at": 1787054295
+	"slug": "github-com-spacevim-languageclient-neovim-git",
+	"original_url": "https://github.com/SpaceVim/LanguageClient-neovim.git",
+	"description": "Language Server Protocol support for neovim and vim.",
+	"language": "Python",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054295,
+	"updated_at": 1787054295
 }

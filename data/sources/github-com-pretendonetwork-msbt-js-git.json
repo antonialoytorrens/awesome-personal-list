@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-msbt-js-git",
-  "original_url": "https://github.com/PretendoNetwork/msbt.js.git",
-  "description": "JavaScript parser for MSBT files",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054039,
-  "updated_at": 1787054039
+	"slug": "github-com-pretendonetwork-msbt-js-git",
+	"original_url": "https://github.com/PretendoNetwork/msbt.js.git",
+	"description": "JavaScript parser for MSBT files",
+	"language": "JavaScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054039,
+	"updated_at": 1787054039
 }

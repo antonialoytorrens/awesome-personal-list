@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zpl-c-vercel-log-integration-git",
-  "original_url": "https://github.com/zpl-c/vercel-log-integration.git",
-  "description": "Configure a custom log drain on a Vercel app.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055103,
-  "updated_at": 1787055103
+	"slug": "github-com-zpl-c-vercel-log-integration-git",
+	"original_url": "https://github.com/zpl-c/vercel-log-integration.git",
+	"description": "Configure a custom log drain on a Vercel app.",
+	"language": "JavaScript",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055103,
+	"updated_at": 1787055103
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-grpc-protobufs-git",
-  "original_url": "https://github.com/PretendoNetwork/grpc-protobufs.git",
-  "description": "gRPC protobuf definitions for Pretendo micro-services",
-  "language": "Protocol Buffer",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054025,
-  "updated_at": 1787054025
+	"slug": "github-com-pretendonetwork-grpc-protobufs-git",
+	"original_url": "https://github.com/PretendoNetwork/grpc-protobufs.git",
+	"description": "gRPC protobuf definitions for Pretendo micro-services",
+	"language": "Protocol Buffer",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054025,
+	"updated_at": 1787054025
 }

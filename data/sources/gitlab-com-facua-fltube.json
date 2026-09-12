@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-facua-fltube",
-  "original_url": "https://gitlab.com/facuA/fltube",
-  "description": "FLTube is an application for search & stream Youtube videos. Written for FLTK and powered by yt-dlp. https://fltube.sourceforge.io/",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052208,
-  "updated_at": 1787052208
+	"slug": "gitlab-com-facua-fltube",
+	"original_url": "https://gitlab.com/facuA/fltube",
+	"description": "FLTube is an application for search & stream Youtube videos. Written for FLTK and powered by yt-dlp. https://fltube.sourceforge.io/",
+	"language": "C++",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052208,
+	"updated_at": 1787052208
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-motoharu-gosuto-psvgxp",
-  "original_url": "https://github.com/motoharu-gosuto/psvgxp",
-  "description": "Reversing GXP shader binaries",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053990,
-  "updated_at": 1787053990
+	"slug": "github-com-motoharu-gosuto-psvgxp",
+	"original_url": "https://github.com/motoharu-gosuto/psvgxp",
+	"description": "Reversing GXP shader binaries",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053990,
+	"updated_at": 1787053990
 }

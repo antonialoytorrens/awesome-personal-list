@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rigsofrods-ror-linux-buildscripts-git",
-  "original_url": "https://github.com/RigsOfRods/ror-linux-buildscripts.git",
-  "description": "Shell scripts to build Rigs of Rods git on apt based GNU/Linux systems",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054118,
-  "updated_at": 1787054118
+	"slug": "github-com-rigsofrods-ror-linux-buildscripts-git",
+	"original_url": "https://github.com/RigsOfRods/ror-linux-buildscripts.git",
+	"description": "Shell scripts to build Rigs of Rods git on apt based GNU/Linux systems",
+	"language": "Shell",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054118,
+	"updated_at": 1787054118
 }

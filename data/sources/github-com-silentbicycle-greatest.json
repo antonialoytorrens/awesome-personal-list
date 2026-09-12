@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-silentbicycle-greatest",
-	"original_url":	"https://github.com/silentbicycle/greatest",
-	"description":	"A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.\r\n\r\nSee https://gitlab.com/postmarketOS/ondev2/-/merge_requests/1/diffs?commit_id=b7231452f6eb0ec5d45fb07d211b2f3c2b2a4ee9 for examples",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051861,
-	"updated_at":	1787063963
+	"slug": "github-com-silentbicycle-greatest",
+	"original_url": "https://github.com/silentbicycle/greatest",
+	"description": "A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.\r\n\r\nSee https://gitlab.com/postmarketOS/ondev2/-/merge_requests/1/diffs?commit_id=b7231452f6eb0ec5d45fb07d211b2f3c2b2a4ee9 for examples",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051861,
+	"updated_at": 1787063963
 }

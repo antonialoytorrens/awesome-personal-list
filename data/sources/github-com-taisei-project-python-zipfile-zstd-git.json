@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-taisei-project-python-zipfile-zstd-git",
-  "original_url": "https://github.com/taisei-project/python-zipfile-zstd.git",
-  "description": "Monkey patch the standard zipfile module to enable Zstandard support",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054860,
-  "updated_at": 1787054860
+	"slug": "github-com-taisei-project-python-zipfile-zstd-git",
+	"original_url": "https://github.com/taisei-project/python-zipfile-zstd.git",
+	"description": "Monkey patch the standard zipfile module to enable Zstandard support",
+	"language": "Python",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054860,
+	"updated_at": 1787054860
 }

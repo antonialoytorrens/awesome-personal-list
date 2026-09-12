@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-renpy-git",
-  "original_url": "https://github.com/Inochi2D/renpy.git",
-  "description": "The Ren'Py Visual Novel Engine",
-  "language": "Ren'Py",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052305,
-  "updated_at": 1787052305
+	"slug": "github-com-inochi2d-renpy-git",
+	"original_url": "https://github.com/Inochi2D/renpy.git",
+	"description": "The Ren'Py Visual Novel Engine",
+	"language": "Ren'Py",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052305,
+	"updated_at": 1787052305
 }

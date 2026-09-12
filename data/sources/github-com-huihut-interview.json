@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-huihut-interview",
-  "original_url": "https://github.com/huihut/interview",
-  "description": "ð C/C++ ææ¯é¢è¯åºç¡ç¥è¯æ»ç»ï¼åæ¬è¯­è¨ãç¨åºåºãæ°æ®ç»æãç®æ³ãç³»ç»ãç½ç»ãé¾æ¥è£è½½åºç­ç¥è¯åé¢è¯ç»éªãæèãåæ¨ç­ä¿¡æ¯ãThis repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051913,
-  "updated_at": 1787051913
+	"slug": "github-com-huihut-interview",
+	"original_url": "https://github.com/huihut/interview",
+	"description": "ð C/C++ ææ¯é¢è¯åºç¡ç¥è¯æ»ç»ï¼åæ¬è¯­è¨ãç¨åºåºãæ°æ®ç»æãç®æ³ãç³»ç»ãç½ç»ãé¾æ¥è£è½½åºç­ç¥è¯åé¢è¯ç»éªãæèãåæ¨ç­ä¿¡æ¯ãThis repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+	"language": "C++",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051913,
+	"updated_at": 1787051913
 }

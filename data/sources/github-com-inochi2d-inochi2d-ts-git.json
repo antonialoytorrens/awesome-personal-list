@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-inochi2d-ts-git",
-  "original_url": "https://github.com/Inochi2D/inochi2d-ts.git",
-  "description": "TypeScript implementation of Inochi2D using Three.js",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052300,
-  "updated_at": 1787052300
+	"slug": "github-com-inochi2d-inochi2d-ts-git",
+	"original_url": "https://github.com/Inochi2D/inochi2d-ts.git",
+	"description": "TypeScript implementation of Inochi2D using Three.js",
+	"language": "TypeScript",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052300,
+	"updated_at": 1787052300
 }

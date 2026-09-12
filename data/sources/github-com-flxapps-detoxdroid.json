@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flxapps-detoxdroid",
-  "original_url": "https://github.com/flxapps/DetoxDroid",
-  "description": "Use your phone rather than letting your phone use you.",
-  "language": "Kotlin",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051779,
-  "updated_at": 1787051779
+	"slug": "github-com-flxapps-detoxdroid",
+	"original_url": "https://github.com/flxapps/DetoxDroid",
+	"description": "Use your phone rather than letting your phone use you.",
+	"language": "Kotlin",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051779,
+	"updated_at": 1787051779
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-pokemon-rumble-world-authentication-git",
-  "original_url": "https://github.com/PretendoNetwork/pokemon-rumble-world-authentication.git",
-  "description": "",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054042,
-  "updated_at": 1787054042
+	"slug": "github-com-pretendonetwork-pokemon-rumble-world-authentication-git",
+	"original_url": "https://github.com/PretendoNetwork/pokemon-rumble-world-authentication.git",
+	"description": "",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054042,
+	"updated_at": 1787054042
 }

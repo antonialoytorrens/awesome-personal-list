@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-p-stream-extension-git",
-  "original_url": "https://github.com/p-stream/extension.git",
-  "description": "A simple browser extension to scrape more sources and yield better quality.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052620,
-  "updated_at": 1787052620
+	"slug": "github-com-p-stream-extension-git",
+	"original_url": "https://github.com/p-stream/extension.git",
+	"description": "A simple browser extension to scrape more sources and yield better quality.",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052620,
+	"updated_at": 1787052620
 }

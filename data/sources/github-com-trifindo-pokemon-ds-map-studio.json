@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-trifindo-pokemon-ds-map-studio",
-  "original_url": "https://github.com/Trifindo/Pokemon-DS-Map-Studio",
-  "description": "",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053960,
-  "updated_at": 1787053960
+	"slug": "github-com-trifindo-pokemon-ds-map-studio",
+	"original_url": "https://github.com/Trifindo/Pokemon-DS-Map-Studio",
+	"description": "",
+	"language": "Java",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053960,
+	"updated_at": 1787053960
 }

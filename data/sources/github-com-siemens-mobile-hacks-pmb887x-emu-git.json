@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-pmb887x-emu-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/pmb887x-emu.git",
-  "description": "pmb887x-based phones emulator",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054135,
-  "updated_at": 1787054135
+	"slug": "github-com-siemens-mobile-hacks-pmb887x-emu-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/pmb887x-emu.git",
+	"description": "pmb887x-based phones emulator",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054135,
+	"updated_at": 1787054135
 }

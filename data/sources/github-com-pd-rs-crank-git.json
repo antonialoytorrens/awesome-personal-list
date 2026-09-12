@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pd-rs-crank-git",
-  "original_url": "https://github.com/pd-rs/crank.git",
-  "description": "A wrapper for cargo to use creating games for the Playdate handheld gaming system.",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053938,
-  "updated_at": 1787053938
+	"slug": "github-com-pd-rs-crank-git",
+	"original_url": "https://github.com/pd-rs/crank.git",
+	"description": "A wrapper for cargo to use creating games for the Playdate handheld gaming system.",
+	"language": "Rust",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053938,
+	"updated_at": 1787053938
 }

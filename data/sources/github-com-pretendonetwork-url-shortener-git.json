@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-url-shortener-git",
-  "original_url": "https://github.com/PretendoNetwork/url-shortener.git",
-  "description": "Basic URL shortening service intended for use with preten.do",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054054,
-  "updated_at": 1787054054
+	"slug": "github-com-pretendonetwork-url-shortener-git",
+	"original_url": "https://github.com/PretendoNetwork/url-shortener.git",
+	"description": "Basic URL shortening service intended for use with preten.do",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054054,
+	"updated_at": 1787054054
 }

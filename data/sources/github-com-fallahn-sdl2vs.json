@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fallahn-sdl2vs",
-  "original_url": "https://github.com/fallahn/sdl2vs",
-  "description": "Example Visual Studio Solution for SDL2 projects on Android.",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053270,
-  "updated_at": 1787053270
+	"slug": "github-com-fallahn-sdl2vs",
+	"original_url": "https://github.com/fallahn/sdl2vs",
+	"description": "Example Visual Studio Solution for SDL2 projects on Android.",
+	"language": "Java",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053270,
+	"updated_at": 1787053270
 }

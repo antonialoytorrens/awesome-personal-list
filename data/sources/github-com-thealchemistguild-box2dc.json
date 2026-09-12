@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealchemistguild-box2dc",
-  "original_url": "https://github.com/thealchemistguild/Box2DC",
-  "description": "Box2D C API for portability to other languages.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051841,
-  "updated_at": 1787051841
+	"slug": "github-com-thealchemistguild-box2dc",
+	"original_url": "https://github.com/thealchemistguild/Box2DC",
+	"description": "Box2D C API for portability to other languages.",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051841,
+	"updated_at": 1787051841
 }

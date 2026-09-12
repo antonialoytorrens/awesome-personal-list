@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-ips-git",
-  "original_url": "https://github.com/ctt-gob-es/ips.git",
-  "description": "InscripciÃ³n en Pruebas Selectivas",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051983,
-  "updated_at": 1787051983
+	"slug": "github-com-ctt-gob-es-ips-git",
+	"original_url": "https://github.com/ctt-gob-es/ips.git",
+	"description": "InscripciÃ³n en Pruebas Selectivas",
+	"language": "Java",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051983,
+	"updated_at": 1787051983
 }

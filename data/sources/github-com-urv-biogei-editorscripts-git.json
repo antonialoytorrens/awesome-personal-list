@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-editorscripts-git",
-  "original_url": "https://github.com/URV-BioGEI/EditorScripts.git",
-  "description": "PrÃ ctica 1 FSO",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054948,
-  "updated_at": 1787054948
+	"slug": "github-com-urv-biogei-editorscripts-git",
+	"original_url": "https://github.com/URV-BioGEI/EditorScripts.git",
+	"description": "PrÃ ctica 1 FSO",
+	"language": "Python",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054948,
+	"updated_at": 1787054948
 }

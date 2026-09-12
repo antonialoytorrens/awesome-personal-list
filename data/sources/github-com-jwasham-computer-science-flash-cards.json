@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jwasham-computer-science-flash-cards",
-  "original_url": "https://github.com/jwasham/computer-science-flash-cards",
-  "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052340,
-  "updated_at": 1787052340
+	"slug": "github-com-jwasham-computer-science-flash-cards",
+	"original_url": "https://github.com/jwasham/computer-science-flash-cards",
+	"description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.",
+	"language": "HTML",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052340,
+	"updated_at": 1787052340
 }

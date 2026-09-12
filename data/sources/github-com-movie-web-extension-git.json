@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-movie-web-extension-git",
-  "original_url": "https://github.com/movie-web/extension.git",
-  "description": "movie-web extension, allows providers to work without proxy",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052474,
-  "updated_at": 1787052474
+	"slug": "github-com-movie-web-extension-git",
+	"original_url": "https://github.com/movie-web/extension.git",
+	"description": "movie-web extension, allows providers to work without proxy",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052474,
+	"updated_at": 1787052474
 }

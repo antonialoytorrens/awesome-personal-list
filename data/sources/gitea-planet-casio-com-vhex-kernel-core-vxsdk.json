@@ -1,12 +1,14 @@
 {
-  "slug": "gitea-planet-casio-com-vhex-kernel-core-vxsdk",
-  "original_url": "https://gitea.planet-casio.com/Vhex-Kernel-Core/vxSDK",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051931,
-  "updated_at": 1787051931
+	"slug": "gitea-planet-casio-com-vhex-kernel-core-vxsdk",
+	"original_url": "https://gitea.planet-casio.com/Vhex-Kernel-Core/vxSDK",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051931,
+	"updated_at": 1787051931
 }

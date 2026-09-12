@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-lencx-nofwl",
-  "original_url": "https://github.com/lencx/nofwl",
-  "description": "NoFWL Desktop Application",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051766,
-  "updated_at": 1787051766
+	"slug": "github-com-lencx-nofwl",
+	"original_url": "https://github.com/lencx/nofwl",
+	"description": "NoFWL Desktop Application",
+	"language": "Rust",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051766,
+	"updated_at": 1787051766
 }

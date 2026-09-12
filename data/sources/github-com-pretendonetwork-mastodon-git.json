@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-mastodon-git",
-  "original_url": "https://github.com/PretendoNetwork/mastodon.git",
-  "description": "pink version of glitch-soc, i guess. \"powers\" mastodon.pretendo.network and fedi.limes.pink",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054063,
-  "updated_at": 1787054063
+	"slug": "github-com-pretendonetwork-mastodon-git",
+	"original_url": "https://github.com/PretendoNetwork/mastodon.git",
+	"description": "pink version of glitch-soc, i guess. \"powers\" mastodon.pretendo.network and fedi.limes.pink",
+	"language": "Ruby",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054063,
+	"updated_at": 1787054063
 }

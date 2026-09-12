@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-mgerdes-water-simulation",
-	"original_url":	"https://github.com/mgerdes/water-simulation",
-	"description":	"OpenGL Water Simulation",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051860,
-	"updated_at":	1787063962
+	"slug": "github-com-mgerdes-water-simulation",
+	"original_url": "https://github.com/mgerdes/water-simulation",
+	"description": "OpenGL Water Simulation",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051860,
+	"updated_at": 1787063962
 }

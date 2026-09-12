@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dannye-pokered-gbc",
-  "original_url": "https://github.com/dannye/pokered-gbc",
-  "description": "PokÃ©mon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crysaudio branch.",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053963,
-  "updated_at": 1787053963
+	"slug": "github-com-dannye-pokered-gbc",
+	"original_url": "https://github.com/dannye/pokered-gbc",
+	"description": "PokÃ©mon Red/Blue overhauled with full GBC support. Made by FroggestSpirit, Drenn, and dannye. Also check out the crysaudio branch.",
+	"language": "Assembly",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053963,
+	"updated_at": 1787053963
 }

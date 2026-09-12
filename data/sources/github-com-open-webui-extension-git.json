@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-open-webui-extension-git",
-  "original_url": "https://github.com/open-webui/extension.git",
-  "description": "WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)",
-  "language": "Svelte",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052594,
-  "updated_at": 1787052594
+	"slug": "github-com-open-webui-extension-git",
+	"original_url": "https://github.com/open-webui/extension.git",
+	"description": "WIP: Open WebUI Chrome Extension (Requires Open WebUI v0.2.0+)",
+	"language": "Svelte",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052594,
+	"updated_at": 1787052594
 }

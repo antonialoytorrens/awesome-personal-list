@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-colonelsalt-rocket-edition",
-  "original_url": "https://github.com/colonelsalt/Rocket-Edition",
-  "description": "PokÃ©mon FireRed: Rocket Edition",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053955,
-  "updated_at": 1787053955
+	"slug": "github-com-colonelsalt-rocket-edition",
+	"original_url": "https://github.com/colonelsalt/Rocket-Edition",
+	"description": "PokÃ©mon FireRed: Rocket Edition",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053955,
+	"updated_at": 1787053955
 }

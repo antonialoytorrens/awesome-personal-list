@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sqpat-realdoom",
-  "original_url": "https://github.com/sqpat/RealDOOM",
-  "description": "16-bit DOS port of DOOM",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052073,
-  "updated_at": 1787052073
+	"slug": "github-com-sqpat-realdoom",
+	"original_url": "https://github.com/sqpat/RealDOOM",
+	"description": "16-bit DOS port of DOOM",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052073,
+	"updated_at": 1787052073
 }

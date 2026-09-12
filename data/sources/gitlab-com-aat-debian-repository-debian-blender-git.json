@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-aat-debian-repository-debian-blender-git",
-	"original_url":	"https://gitlab.com/aat-debian-repository/debian/blender.git",
-	"description":	"This project will follow the latest LTS release of Blender (master branch).\r\n\r\nThen, at EOL, a separate branch will be created with the latest EOLed LTS tag only, along with the exact Debian Stable version/s that was/were built.\r\n\r\nFor example, `2.83.20-b",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053917,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-aat-debian-repository-debian-blender-git",
+	"original_url": "https://gitlab.com/aat-debian-repository/debian/blender.git",
+	"description": "This project will follow the latest LTS release of Blender (master branch).\r\n\r\nThen, at EOL, a separate branch will be created with the latest EOLed LTS tag only, along with the exact Debian Stable version/s that was/were built.\r\n\r\nFor example, `2.83.20-b",
+	"language": "C",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053917,
+	"updated_at": 1787063964
 }

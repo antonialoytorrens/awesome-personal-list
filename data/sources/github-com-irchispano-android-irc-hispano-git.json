@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-irchispano-android-irc-hispano-git",
-  "original_url": "https://github.com/IRCHispano/Android-IRC-Hispano.git",
-  "description": "IRC Hispano Client for Android. Based on Yaaic (Yet Another Android IRC Client).",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052322,
-  "updated_at": 1787052322
+	"slug": "github-com-irchispano-android-irc-hispano-git",
+	"original_url": "https://github.com/IRCHispano/Android-IRC-Hispano.git",
+	"description": "IRC Hispano Client for Android. Based on Yaaic (Yet Another Android IRC Client).",
+	"language": "Java",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052322,
+	"updated_at": 1787052322
 }

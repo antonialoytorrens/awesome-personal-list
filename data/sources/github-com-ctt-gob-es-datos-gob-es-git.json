@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-datos-gob-es-git",
-  "original_url": "https://github.com/ctt-gob-es/datos.gob.es.git",
-  "description": "Este repositorio contiene el cÃ³digo fuente de la plataforma del catÃ¡logo nacional de Datos Abiertos datos.gob.es, implementada sobre el gestor de catÃ¡logos CKAN y el gestor de contenido DRUPAL.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051977,
-  "updated_at": 1787051977
+	"slug": "github-com-ctt-gob-es-datos-gob-es-git",
+	"original_url": "https://github.com/ctt-gob-es/datos.gob.es.git",
+	"description": "Este repositorio contiene el cÃ³digo fuente de la plataforma del catÃ¡logo nacional de Datos Abiertos datos.gob.es, implementada sobre el gestor de catÃ¡logos CKAN y el gestor de contenido DRUPAL.",
+	"language": "Markdown",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051977,
+	"updated_at": 1787051977
 }

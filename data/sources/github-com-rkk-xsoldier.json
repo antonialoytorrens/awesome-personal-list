@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-rkk-xsoldier",
-	"original_url":	"https://github.com/rkk/xsoldier",
-	"description":	"Cleaned up version of http://www.interq.or.jp/libra/oohara/xsoldier/index.html",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053262,
-	"updated_at":	1787063963
+	"slug": "github-com-rkk-xsoldier",
+	"original_url": "https://github.com/rkk/xsoldier",
+	"description": "Cleaned up version of http://www.interq.or.jp/libra/oohara/xsoldier/index.html",
+	"language": "C",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053262,
+	"updated_at": 1787063963
 }

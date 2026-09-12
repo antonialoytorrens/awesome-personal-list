@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pioneerspacesim-pioneer-manual-git",
-  "original_url": "https://github.com/pioneerspacesim/Pioneer-Manual.git",
-  "description": "Pioneer's wiki (the development repository)",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053950,
-  "updated_at": 1787053950
+	"slug": "github-com-pioneerspacesim-pioneer-manual-git",
+	"original_url": "https://github.com/pioneerspacesim/Pioneer-Manual.git",
+	"description": "Pioneer's wiki (the development repository)",
+	"language": "Markdown",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053950,
+	"updated_at": 1787053950
 }

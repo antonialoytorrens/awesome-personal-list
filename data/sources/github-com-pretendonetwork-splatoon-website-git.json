@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-splatoon-website-git",
-  "original_url": "https://github.com/PretendoNetwork/Splatoon-Website.git",
-  "description": "Replacement service for SplatNet in Splatoon 1",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054070,
-  "updated_at": 1787054070
+	"slug": "github-com-pretendonetwork-splatoon-website-git",
+	"original_url": "https://github.com/PretendoNetwork/Splatoon-Website.git",
+	"description": "Replacement service for SplatNet in Splatoon 1",
+	"language": "Vue",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054070,
+	"updated_at": 1787054070
 }

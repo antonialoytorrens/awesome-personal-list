@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-team-homemen3d-git",
-  "original_url": "https://github.com/Universal-Team/HomeMen3D.git",
-  "description": "A WIP 3DS Home Menu Replacement.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054936,
-  "updated_at": 1787054936
+	"slug": "github-com-universal-team-homemen3d-git",
+	"original_url": "https://github.com/Universal-Team/HomeMen3D.git",
+	"description": "A WIP 3DS Home Menu Replacement.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054936,
+	"updated_at": 1787054936
 }

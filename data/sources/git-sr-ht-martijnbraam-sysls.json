@@ -1,12 +1,14 @@
 {
-  "slug": "git-sr-ht-martijnbraam-sysls",
-  "original_url": "https://git.sr.ht/~martijnbraam/sysls",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052446,
-  "updated_at": 1787052446
+	"slug": "git-sr-ht-martijnbraam-sysls",
+	"original_url": "https://git.sr.ht/~martijnbraam/sysls",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052446,
+	"updated_at": 1787052446
 }

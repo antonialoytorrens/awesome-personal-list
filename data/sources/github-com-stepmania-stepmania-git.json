@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-stepmania-stepmania-git",
-  "original_url": "https://github.com/stepmania/stepmania.git",
-  "description": "Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054309,
-  "updated_at": 1787054309
+	"slug": "github-com-stepmania-stepmania-git",
+	"original_url": "https://github.com/stepmania/stepmania.git",
+	"description": "Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054309,
+	"updated_at": 1787054309
 }

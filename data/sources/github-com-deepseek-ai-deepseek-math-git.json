@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-deepseek-math-git",
-  "original_url": "https://github.com/deepseek-ai/DeepSeek-Math.git",
-  "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052003,
-  "updated_at": 1787052003
+	"slug": "github-com-deepseek-ai-deepseek-math-git",
+	"original_url": "https://github.com/deepseek-ai/DeepSeek-Math.git",
+	"description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052003,
+	"updated_at": 1787052003
 }

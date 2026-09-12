@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-newpipe-nightly-git",
-  "original_url": "https://github.com/TeamNewPipe/NewPipe-nightly.git",
-  "description": "Nightly builds of NewPipe",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054870,
-  "updated_at": 1787054870
+	"slug": "github-com-teamnewpipe-newpipe-nightly-git",
+	"original_url": "https://github.com/TeamNewPipe/NewPipe-nightly.git",
+	"description": "Nightly builds of NewPipe",
+	"language": "Text",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054870,
+	"updated_at": 1787054870
 }

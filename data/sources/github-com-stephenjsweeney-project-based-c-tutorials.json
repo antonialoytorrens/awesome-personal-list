@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-stephenjsweeney-project-based-c-tutorials",
-  "original_url": "https://github.com/stephenjsweeney/project-based-c-tutorials",
-  "description": "A list of tutorials that work towards the making of small to large projects in C.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051859,
-  "updated_at": 1787051859
+	"slug": "github-com-stephenjsweeney-project-based-c-tutorials",
+	"original_url": "https://github.com/stephenjsweeney/project-based-c-tutorials",
+	"description": "A list of tutorials that work towards the making of small to large projects in C.",
+	"language": "Markdown",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051859,
+	"updated_at": 1787051859
 }

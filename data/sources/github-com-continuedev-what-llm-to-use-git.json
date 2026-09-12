@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-continuedev-what-llm-to-use-git",
-  "original_url": "https://github.com/continuedev/what-llm-to-use.git",
-  "description": "ð What LLM to use?",
-  "language": "CSV",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051954,
-  "updated_at": 1787051954
+	"slug": "github-com-continuedev-what-llm-to-use-git",
+	"original_url": "https://github.com/continuedev/what-llm-to-use.git",
+	"description": "ð What LLM to use?",
+	"language": "CSV",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051954,
+	"updated_at": 1787051954
 }

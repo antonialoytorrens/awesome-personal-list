@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-deepseek-coder-v2-git",
-  "original_url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2.git",
-  "description": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
-  "language": "SVG",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052004,
-  "updated_at": 1787052004
+	"slug": "github-com-deepseek-ai-deepseek-coder-v2-git",
+	"original_url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2.git",
+	"description": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
+	"language": "SVG",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052004,
+	"updated_at": 1787052004
 }

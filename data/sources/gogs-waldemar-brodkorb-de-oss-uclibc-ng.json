@@ -1,12 +1,14 @@
 {
-	"slug":	"gogs-waldemar-brodkorb-de-oss-uclibc-ng",
-	"original_url":	"https://gogs.waldemar-brodkorb.de/oss/uclibc-ng",
-	"description":	"Embedded C library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052404,
-	"updated_at":	1787063964
+	"slug": "gogs-waldemar-brodkorb-de-oss-uclibc-ng",
+	"original_url": "https://gogs.waldemar-brodkorb.de/oss/uclibc-ng",
+	"description": "Embedded C library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052404,
+	"updated_at": 1787063964
 }

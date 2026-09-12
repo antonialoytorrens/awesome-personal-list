@@ -1,12 +1,14 @@
 {
-	"slug":	"codeberg-org-skylyrac-libugba-git",
-	"original_url":	"https://codeberg.org/SkyLyrac/libugba.git",
-	"description":	"Low level library to develop GBA games that can also be built for PC.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052244,
-	"updated_at":	1787063959
+	"slug": "codeberg-org-skylyrac-libugba-git",
+	"original_url": "https://codeberg.org/SkyLyrac/libugba.git",
+	"description": "Low level library to develop GBA games that can also be built for PC.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052244,
+	"updated_at": 1787063959
 }

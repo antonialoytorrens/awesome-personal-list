@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-garlicos-git",
-  "original_url": "https://github.com/URV-BioGEI/GarlicOS.git",
-  "description": "Operating System for NDS written in C and Assembler",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054952,
-  "updated_at": 1787054952
+	"slug": "github-com-urv-biogei-garlicos-git",
+	"original_url": "https://github.com/URV-BioGEI/GarlicOS.git",
+	"description": "Operating System for NDS written in C and Assembler",
+	"language": "Assembly",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054952,
+	"updated_at": 1787054952
 }

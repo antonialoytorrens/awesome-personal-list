@@ -1,12 +1,14 @@
 {
-  "slug": "evolvis-org-anonscm-git-alioth-musescore-git",
-  "original_url": "https://evolvis.org/anonscm/git/alioth/musescore.git",
-  "description": "Rochade is the default build branch according to Debian",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043218,
-  "created_at": 1787051694,
-  "updated_at": 1787051694
+	"slug": "evolvis-org-anonscm-git-alioth-musescore-git",
+	"original_url": "https://evolvis.org/anonscm/git/alioth/musescore.git",
+	"description": "Rochade is the default build branch according to Debian",
+	"language": "C++",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043218,
+	"created_at": 1787051694,
+	"updated_at": 1787051694
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-grimfang4-sdl-gpu",
-	"original_url":	"https://github.com/grimfang4/sdl-gpu",
-	"description":	"A library for high-performance, modern 2D graphics with SDL written in C.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053270,
-	"updated_at":	1787063961
+	"slug": "github-com-grimfang4-sdl-gpu",
+	"original_url": "https://github.com/grimfang4/sdl-gpu",
+	"description": "A library for high-performance, modern 2D graphics with SDL written in C.",
+	"language": "C",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053270,
+	"updated_at": 1787063961
 }

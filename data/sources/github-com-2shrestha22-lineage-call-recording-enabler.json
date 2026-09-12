@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-2shrestha22-lineage-call-recording-enabler",
-  "original_url": "https://github.com/2shrestha22/lineage-call-recording-enabler",
-  "description": "A Runtime Resource Overlay for the dialer app in LineageOS to enable call recording for all countries.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051777,
-  "updated_at": 1787051777
+	"slug": "github-com-2shrestha22-lineage-call-recording-enabler",
+	"original_url": "https://github.com/2shrestha22/lineage-call-recording-enabler",
+	"description": "A Runtime Resource Overlay for the dialer app in LineageOS to enable call recording for all countries.",
+	"language": "Shell",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051777,
+	"updated_at": 1787051777
 }

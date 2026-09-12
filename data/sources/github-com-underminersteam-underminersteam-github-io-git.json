@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-underminersteam-underminersteam-github-io-git",
-  "original_url": "https://github.com/UnderminersTeam/underminersteam.github.io.git",
-  "description": "Underminers Team Website",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054928,
-  "updated_at": 1787054928
+	"slug": "github-com-underminersteam-underminersteam-github-io-git",
+	"original_url": "https://github.com/UnderminersTeam/underminersteam.github.io.git",
+	"description": "Underminers Team Website",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054928,
+	"updated_at": 1787054928
 }

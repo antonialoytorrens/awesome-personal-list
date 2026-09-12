@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-oshaboy-sdl-cobol-demo",
-  "original_url": "https://github.com/oshaboy/SDL-COBOL-DEMO",
-  "description": "A basic SDL demo, written in Cobol.",
-  "language": "COBOL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051951,
-  "updated_at": 1787051951
+	"slug": "github-com-oshaboy-sdl-cobol-demo",
+	"original_url": "https://github.com/oshaboy/SDL-COBOL-DEMO",
+	"description": "A basic SDL demo, written in Cobol.",
+	"language": "COBOL",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051951,
+	"updated_at": 1787051951
 }

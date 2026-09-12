@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nektos-pipeline-dashboard-git",
-  "original_url": "https://github.com/nektos/pipeline-dashboard.git",
-  "description": "Simple dashboard for pipelines on AWS",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052523,
-  "updated_at": 1787052523
+	"slug": "github-com-nektos-pipeline-dashboard-git",
+	"original_url": "https://github.com/nektos/pipeline-dashboard.git",
+	"description": "Simple dashboard for pipelines on AWS",
+	"language": "JavaScript",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052523,
+	"updated_at": 1787052523
 }

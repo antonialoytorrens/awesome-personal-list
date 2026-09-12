@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jamesw343-pixmob-ir",
-  "original_url": "https://github.com/jamesw343/PixMob_IR",
-  "description": "PixMob IR Reverse Engineering",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053954,
-  "updated_at": 1787053954
+	"slug": "github-com-jamesw343-pixmob-ir",
+	"original_url": "https://github.com/jamesw343/PixMob_IR",
+	"description": "PixMob IR Reverse Engineering",
+	"language": "Python",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053954,
+	"updated_at": 1787053954
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-framework-ios-pades-git",
-  "original_url": "https://github.com/ctt-gob-es/framework-ios-pades.git",
-  "description": "Framework para firma PADES en IOS",
-  "language": "Objective-C",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051988,
-  "updated_at": 1787051988
+	"slug": "github-com-ctt-gob-es-framework-ios-pades-git",
+	"original_url": "https://github.com/ctt-gob-es/framework-ios-pades.git",
+	"description": "Framework para firma PADES en IOS",
+	"language": "Objective-C",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051988,
+	"updated_at": 1787051988
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sandermertens-bake",
-	"original_url":	"https://github.com/SanderMertens/bake",
-	"description":	"Bake, A build system for building, testing and running C & C++ projects",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051909,
-	"updated_at":	1787063963
+	"slug": "github-com-sandermertens-bake",
+	"original_url": "https://github.com/SanderMertens/bake",
+	"description": "Bake, A build system for building, testing and running C & C++ projects",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051909,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-krkrz-dev-git",
-  "original_url": "https://github.com/krkrz/krkrz_dev.git",
-  "description": "åéåéZ çµ±åãªãã¸ããª éçºç¨å¨é¨å¥ã",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052371,
-  "updated_at": 1787052371
+	"slug": "github-com-krkrz-krkrz-dev-git",
+	"original_url": "https://github.com/krkrz/krkrz_dev.git",
+	"description": "åéåéZ çµ±åãªãã¸ããª éçºç¨å¨é¨å¥ã",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052371,
+	"updated_at": 1787052371
 }

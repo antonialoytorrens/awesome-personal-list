@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-exl-nxengine",
-  "original_url": "https://github.com/EXL/NXEngine",
-  "description": "A port of the open-source rewrite Cave Story game engine for various platforms. Original author is Caitlin \"rogueeve\" Shaw, https://nxengine.sourceforge.io/",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052172,
-  "updated_at": 1787052172
+	"slug": "github-com-exl-nxengine",
+	"original_url": "https://github.com/EXL/NXEngine",
+	"description": "A port of the open-source rewrite Cave Story game engine for various platforms. Original author is Caitlin \"rogueeve\" Shaw, https://nxengine.sourceforge.io/",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052172,
+	"updated_at": 1787052172
 }

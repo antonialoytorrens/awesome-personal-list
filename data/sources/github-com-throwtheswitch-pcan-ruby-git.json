@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-throwtheswitch-pcan-ruby-git",
-	"original_url":	"https://github.com/ThrowTheSwitch/pcan-ruby.git",
-	"description":	"Ruby Bindings for Peak PCAN USB-to-CAN adapter with dynamic Ruby-based message signal creation",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054910,
-	"updated_at":	1787063964
+	"slug": "github-com-throwtheswitch-pcan-ruby-git",
+	"original_url": "https://github.com/ThrowTheSwitch/pcan-ruby.git",
+	"description": "Ruby Bindings for Peak PCAN USB-to-CAN adapter with dynamic Ruby-based message signal creation",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054910,
+	"updated_at": 1787063964
 }

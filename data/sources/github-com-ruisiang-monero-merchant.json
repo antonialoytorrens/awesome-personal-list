@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ruisiang-monero-merchant",
-  "original_url": "https://github.com/RuiSiang/monero-merchant",
-  "description": "Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment, which is currently the most robust and privacy-oriented cryptocurrency with extremely low transaction fees.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053235,
-  "updated_at": 1787053235
+	"slug": "github-com-ruisiang-monero-merchant",
+	"original_url": "https://github.com/RuiSiang/monero-merchant",
+	"description": "Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment, which is currently the most robust and privacy-oriented cryptocurrency with extremely low transaction fees.",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053235,
+	"updated_at": 1787053235
 }

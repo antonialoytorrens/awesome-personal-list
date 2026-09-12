@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-devmodemgr-git",
-  "original_url": "https://github.com/webosbrew/DevModeMgr.git",
-  "description": "Developer Mode UI for LG webOS TVs",
-  "language": "QML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054989,
-  "updated_at": 1787054989
+	"slug": "github-com-webosbrew-devmodemgr-git",
+	"original_url": "https://github.com/webosbrew/DevModeMgr.git",
+	"description": "Developer Mode UI for LG webOS TVs",
+	"language": "QML",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054989,
+	"updated_at": 1787054989
 }

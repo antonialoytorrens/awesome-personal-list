@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wohlsoft-spc2it-git",
-	"original_url":	"https://github.com/WohlSoft/spc2it.git",
-	"description":	"Tracking fork of ds-sloth/spc2it",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055043,
-	"updated_at":	1787063964
+	"slug": "github-com-wohlsoft-spc2it-git",
+	"original_url": "https://github.com/WohlSoft/spc2it.git",
+	"description": "Tracking fork of ds-sloth/spc2it",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055043,
+	"updated_at": 1787063964
 }

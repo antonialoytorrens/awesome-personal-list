@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-enjens-mediatek-documents",
-  "original_url": "https://github.com/EnJens/MediaTek-documents",
-  "description": "Development Documents for MTK chipsets",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043225,
-  "created_at": 1787051700,
-  "updated_at": 1787051700
+	"slug": "github-com-enjens-mediatek-documents",
+	"original_url": "https://github.com/EnJens/MediaTek-documents",
+	"description": "Development Documents for MTK chipsets",
+	"language": "Text",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043225,
+	"created_at": 1787051700,
+	"updated_at": 1787051700
 }

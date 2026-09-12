@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flecs-hub-flecs-lang-git",
-  "original_url": "https://github.com/flecs-hub/flecs-lang.git",
-  "description": "vscode syntax coloring for flecs language",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052205,
-  "updated_at": 1787052205
+	"slug": "github-com-flecs-hub-flecs-lang-git",
+	"original_url": "https://github.com/flecs-hub/flecs-lang.git",
+	"description": "vscode syntax coloring for flecs language",
+	"language": "",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052205,
+	"updated_at": 1787052205
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-nesds-git",
-	"original_url":	"https://github.com/DS-Homebrew/NesDS.git",
-	"description":	"NesDS1.3c",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052120,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-nesds-git",
+	"original_url": "https://github.com/DS-Homebrew/NesDS.git",
+	"description": "NesDS1.3c",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052120,
+	"updated_at": 1787063960
 }

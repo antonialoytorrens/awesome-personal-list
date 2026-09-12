@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-shaberusoft-logging-git",
-  "original_url": "https://github.com/DS-Homebrew/shaberusoft-logging.git",
-  "description": "Documenting ShaberuSoft's development files. All can be launched on TWiLight Menu++'s latest update!",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052123,
-  "updated_at": 1787052123
+	"slug": "github-com-ds-homebrew-shaberusoft-logging-git",
+	"original_url": "https://github.com/DS-Homebrew/shaberusoft-logging.git",
+	"description": "Documenting ShaberuSoft's development files. All can be launched on TWiLight Menu++'s latest update!",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052123,
+	"updated_at": 1787052123
 }

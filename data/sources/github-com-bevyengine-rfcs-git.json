@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-bevyengine-rfcs-git",
-  "original_url": "https://github.com/bevyengine/rfcs.git",
-  "description": "Suggest changes to Bevy and view accepted designs ",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051814,
-  "updated_at": 1787051814
+	"slug": "github-com-bevyengine-rfcs-git",
+	"original_url": "https://github.com/bevyengine/rfcs.git",
+	"description": "Suggest changes to Bevy and view accepted designs ",
+	"language": "Markdown",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051814,
+	"updated_at": 1787051814
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-sink-the-fleet-arm-git",
-  "original_url": "https://github.com/URV-BioGEI/Sink-The-Fleet-ARM.git",
-  "description": "Greedy ARM implementation of the \"sink the fleet\" using Insight. Final exercise of the subject Computer Fundamentals from URV's Computer Science degree in 2015",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054958,
-  "updated_at": 1787054958
+	"slug": "github-com-urv-biogei-sink-the-fleet-arm-git",
+	"original_url": "https://github.com/URV-BioGEI/Sink-The-Fleet-ARM.git",
+	"description": "Greedy ARM implementation of the \"sink the fleet\" using Insight. Final exercise of the subject Computer Fundamentals from URV's Computer Science degree in 2015",
+	"language": "Assembly",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054958,
+	"updated_at": 1787054958
 }

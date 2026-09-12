@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pret-pokeheartgold-git",
-  "original_url": "https://github.com/pret/pokeheartgold.git",
-  "description": "Decompilation of Pokemon HeartGold/SoulSilver",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054004,
-  "updated_at": 1787054004
+	"slug": "github-com-pret-pokeheartgold-git",
+	"original_url": "https://github.com/pret/pokeheartgold.git",
+	"description": "Decompilation of Pokemon HeartGold/SoulSilver",
+	"language": "Assembly",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054004,
+	"updated_at": 1787054004
 }

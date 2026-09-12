@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-videojs-http-source-selector-git",
-  "original_url": "https://github.com/FreeTubeApp/videojs-http-source-selector.git",
-  "description": "VideoJS plugin that leverages videojs-contrib-quality-levels plugin to offer manual user-select able level selection options for adaptive http streams.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052217,
-  "updated_at": 1787052217
+	"slug": "github-com-freetubeapp-videojs-http-source-selector-git",
+	"original_url": "https://github.com/FreeTubeApp/videojs-http-source-selector.git",
+	"description": "VideoJS plugin that leverages videojs-contrib-quality-levels plugin to offer manual user-select able level selection options for adaptive http streams.",
+	"language": "JavaScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052217,
+	"updated_at": 1787052217
 }

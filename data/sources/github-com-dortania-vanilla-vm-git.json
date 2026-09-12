@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-vanilla-vm-git",
-  "original_url": "https://github.com/dortania/vanilla-vm.git",
-  "description": "Vanilla VM guide",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052078,
-  "updated_at": 1787052078
+	"slug": "github-com-dortania-vanilla-vm-git",
+	"original_url": "https://github.com/dortania/vanilla-vm.git",
+	"description": "Vanilla VM guide",
+	"language": "Markdown",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052078,
+	"updated_at": 1787052078
 }

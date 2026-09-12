@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-gpu-buyers-guide-git",
-  "original_url": "https://github.com/dortania/GPU-Buyers-Guide.git",
-  "description": "Repo for GPU Buyers Guide",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052080,
-  "updated_at": 1787052080
+	"slug": "github-com-dortania-gpu-buyers-guide-git",
+	"original_url": "https://github.com/dortania/GPU-Buyers-Guide.git",
+	"description": "Repo for GPU Buyers Guide",
+	"language": "JavaScript",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052080,
+	"updated_at": 1787052080
 }

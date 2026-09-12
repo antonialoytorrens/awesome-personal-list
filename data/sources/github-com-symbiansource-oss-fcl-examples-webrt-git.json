@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-examples-webrt-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.examples.WebRT.git",
-  "description": "Symbian Web Runtime Example Code",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054333,
-  "updated_at": 1787054333
+	"slug": "github-com-symbiansource-oss-fcl-examples-webrt-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.examples.WebRT.git",
+	"description": "Symbian Web Runtime Example Code",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054333,
+	"updated_at": 1787054333
 }

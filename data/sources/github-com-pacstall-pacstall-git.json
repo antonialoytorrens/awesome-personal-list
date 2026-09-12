@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pacstall-pacstall-git",
-  "original_url": "https://github.com/pacstall/pacstall.git",
-  "description": "An AUR-inspired package manager for Ubuntu",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052625,
-  "updated_at": 1787052625
+	"slug": "github-com-pacstall-pacstall-git",
+	"original_url": "https://github.com/pacstall/pacstall.git",
+	"description": "An AUR-inspired package manager for Ubuntu",
+	"language": "Shell",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052625,
+	"updated_at": 1787052625
 }

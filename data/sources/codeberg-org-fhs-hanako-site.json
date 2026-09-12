@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-fhs-hanako-site",
-  "original_url": "https://codeberg.org/fhs/hanako-site",
-  "description": "",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052185,
-  "updated_at": 1787052185
+	"slug": "codeberg-org-fhs-hanako-site",
+	"original_url": "https://codeberg.org/fhs/hanako-site",
+	"description": "",
+	"language": "Vue",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052185,
+	"updated_at": 1787052185
 }

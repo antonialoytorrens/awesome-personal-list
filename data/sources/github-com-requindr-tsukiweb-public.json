@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-requindr-tsukiweb-public",
-  "original_url": "https://github.com/requinDr/tsukiweb-public",
-  "description": "Web porting of Tsukihime to make it accessible on different devices with QoL improvements",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054982,
-  "updated_at": 1787054982
+	"slug": "github-com-requindr-tsukiweb-public",
+	"original_url": "https://github.com/requinDr/tsukiweb-public",
+	"description": "Web porting of Tsukihime to make it accessible on different devices with QoL improvements",
+	"language": "TypeScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054982,
+	"updated_at": 1787054982
 }

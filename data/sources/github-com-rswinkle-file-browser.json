@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-rswinkle-file-browser",
-	"original_url":	"https://github.com/rswinkle/file_browser",
-	"description":	"See nuklear_sdl_renderer.h",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051922,
-	"updated_at":	1787063963
+	"slug": "github-com-rswinkle-file-browser",
+	"original_url": "https://github.com/rswinkle/file_browser",
+	"description": "See nuklear_sdl_renderer.h",
+	"language": "C",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051922,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-justicerage-gepetto",
-  "original_url": "https://github.com/JusticeRage/Gepetto",
-  "description": "IDA plugin which queries OpenAI's GPT language models to speed up reverse-engineering",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051764,
-  "updated_at": 1787051764
+	"slug": "github-com-justicerage-gepetto",
+	"original_url": "https://github.com/JusticeRage/Gepetto",
+	"description": "IDA plugin which queries OpenAI's GPT language models to speed up reverse-engineering",
+	"language": "Python",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051764,
+	"updated_at": 1787051764
 }

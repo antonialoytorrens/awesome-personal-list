@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-yurisizuku-onscripteryuri",
-  "original_url": "https://github.com/YuriSizuku/OnscripterYuri",
-  "description": "An enhancement ONScripter project porting to many platforms, especially web. ",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054113,
-  "updated_at": 1787054113
+	"slug": "github-com-yurisizuku-onscripteryuri",
+	"original_url": "https://github.com/YuriSizuku/OnscripterYuri",
+	"description": "An enhancement ONScripter project porting to many platforms, especially web. ",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054113,
+	"updated_at": 1787054113
 }

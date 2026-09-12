@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-libsndfile-sndfile-tools-git",
-	"original_url":	"https://github.com/libsndfile/sndfile-tools.git",
-	"description":	"A collection of tools (written in C) to do interesting things with sound files",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052399,
-	"updated_at":	1787063962
+	"slug": "github-com-libsndfile-sndfile-tools-git",
+	"original_url": "https://github.com/libsndfile/sndfile-tools.git",
+	"description": "A collection of tools (written in C) to do interesting things with sound files",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052399,
+	"updated_at": 1787063962
 }

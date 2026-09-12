@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-phoboslab-ejecta",
-  "original_url": "https://github.com/phoboslab/Ejecta",
-  "description": "A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS",
-  "language": "Objective-C",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052321,
-  "updated_at": 1787052321
+	"slug": "github-com-phoboslab-ejecta",
+	"original_url": "https://github.com/phoboslab/Ejecta",
+	"description": "A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS",
+	"language": "Objective-C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052321,
+	"updated_at": 1787052321
 }

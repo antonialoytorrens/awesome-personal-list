@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-suika3-community-suika2-archive-git",
-	"original_url":	"https://github.com/suika3-community/suika2-archive.git",
-	"description":	"Mirrored Archive of Suika2 and Polaris Engine as of July 2024",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054319,
-	"updated_at":	1787063963
+	"slug": "github-com-suika3-community-suika2-archive-git",
+	"original_url": "https://github.com/suika3-community/suika2-archive.git",
+	"description": "Mirrored Archive of Suika2 and Polaris Engine as of July 2024",
+	"language": "C",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054319,
+	"updated_at": 1787063963
 }

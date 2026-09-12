@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-idreesinc-playbook",
-  "original_url": "https://github.com/IdreesInc/PlayBook",
-  "description": "A cranky ebook reader for the Playdate console",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053981,
-  "updated_at": 1787053981
+	"slug": "github-com-idreesinc-playbook",
+	"original_url": "https://github.com/IdreesInc/PlayBook",
+	"description": "A cranky ebook reader for the Playdate console",
+	"language": "Lua",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053981,
+	"updated_at": 1787053981
 }

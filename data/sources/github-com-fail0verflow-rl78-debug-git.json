@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fail0verflow-rl78-debug-git",
-  "original_url": "https://github.com/fail0verflow/rl78-debug.git",
-  "description": "Implementation of Renesas debug protocol(s) for RL78 and perhaps other archs",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052180,
-  "updated_at": 1787052180
+	"slug": "github-com-fail0verflow-rl78-debug-git",
+	"original_url": "https://github.com/fail0verflow/rl78-debug.git",
+	"description": "Implementation of Renesas debug protocol(s) for RL78 and perhaps other archs",
+	"language": "Python",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052180,
+	"updated_at": 1787052180
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-devkitpro-citro2d-git",
-	"original_url":	"https://github.com/devkitPro/citro2d.git",
-	"description":	"Library for drawing 2D graphics using the Nintendo 3DS's PICA200 GPU",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052033,
-	"updated_at":	1787063960
+	"slug": "github-com-devkitpro-citro2d-git",
+	"original_url": "https://github.com/devkitPro/citro2d.git",
+	"description": "Library for drawing 2D graphics using the Nintendo 3DS's PICA200 GPU",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052033,
+	"updated_at": 1787063960
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-pattern89-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/pattern89.git",
-  "description": "Ð¢ÑÐ»Ð·Ð° Ð´Ð»Ñ Ð¿Ð¾Ð¸ÑÐºÐ° Ð¿Ð°ÑÑÐµÑÐ½Ð¾Ð² Ð² ÑÑÐ»Ð»ÑÐ»ÐµÑÐ°Ñ",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054148,
-  "updated_at": 1787054148
+	"slug": "github-com-siemens-mobile-hacks-pattern89-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/pattern89.git",
+	"description": "Ð¢ÑÐ»Ð·Ð° Ð´Ð»Ñ Ð¿Ð¾Ð¸ÑÐºÐ° Ð¿Ð°ÑÑÐµÑÐ½Ð¾Ð² Ð² ÑÑÐ»Ð»ÑÐ»ÐµÑÐ°Ñ",
+	"language": "Go",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054148,
+	"updated_at": 1787054148
 }

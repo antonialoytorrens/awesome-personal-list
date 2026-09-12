@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nitroustracker-libntxm-git",
-  "original_url": "https://github.com/NitrousTracker/libntxm.git",
-  "description": "libntxm - An XM Player Library for the Nintendo DS",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052554,
-  "updated_at": 1787052554
+	"slug": "github-com-nitroustracker-libntxm-git",
+	"original_url": "https://github.com/NitrousTracker/libntxm.git",
+	"description": "libntxm - An XM Player Library for the Nintendo DS",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052554,
+	"updated_at": 1787052554
 }

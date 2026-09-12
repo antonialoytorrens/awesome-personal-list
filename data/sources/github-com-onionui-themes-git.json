@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-onionui-themes-git",
-  "original_url": "https://github.com/OnionUI/Themes.git",
-  "description": "Custom themes for Onion",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052580,
-  "updated_at": 1787052580
+	"slug": "github-com-onionui-themes-git",
+	"original_url": "https://github.com/OnionUI/Themes.git",
+	"description": "Custom themes for Onion",
+	"language": "Markdown",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052580,
+	"updated_at": 1787052580
 }

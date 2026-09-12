@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-webos-homebrew-channel-git",
-  "original_url": "https://github.com/webosbrew/webos-homebrew-channel.git",
-  "description": "Unofficial webOS TV homebrew store and root-related tooling",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054988,
-  "updated_at": 1787054988
+	"slug": "github-com-webosbrew-webos-homebrew-channel-git",
+	"original_url": "https://github.com/webosbrew/webos-homebrew-channel.git",
+	"description": "Unofficial webOS TV homebrew store and root-related tooling",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054988,
+	"updated_at": 1787054988
 }

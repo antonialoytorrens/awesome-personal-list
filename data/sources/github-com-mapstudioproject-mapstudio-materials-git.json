@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mapstudioproject-mapstudio-materials-git",
-  "original_url": "https://github.com/MapStudioProject/MapStudio-Materials.git",
-  "description": "A preset database for material preset .zips used by tools like Track Studio. ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052436,
-  "updated_at": 1787052436
+	"slug": "github-com-mapstudioproject-mapstudio-materials-git",
+	"original_url": "https://github.com/MapStudioProject/MapStudio-Materials.git",
+	"description": "A preset database for material preset .zips used by tools like Track Studio. ",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052436,
+	"updated_at": 1787052436
 }

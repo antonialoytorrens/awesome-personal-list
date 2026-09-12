@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-tinymembench-git",
-	"original_url":	"https://github.com/sysprog21/tinymembench.git",
-	"description":	"Measure peak bandwidth of sequential memory accesses and the latency of random memory accesses",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054823,
-	"updated_at":	1787063964
+	"slug": "github-com-sysprog21-tinymembench-git",
+	"original_url": "https://github.com/sysprog21/tinymembench.git",
+	"description": "Measure peak bandwidth of sequential memory accesses and the latency of random memory accesses",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054823,
+	"updated_at": 1787063964
 }

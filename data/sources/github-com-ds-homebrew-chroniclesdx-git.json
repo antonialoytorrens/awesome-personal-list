@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-chroniclesdx-git",
-  "original_url": "https://github.com/DS-Homebrew/ChroniclesDX.git",
-  "description": "Changes made to Sonic Chronicles: The Dark Brotherhood, with RomFS being injected programatically.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052118,
-  "updated_at": 1787052118
+	"slug": "github-com-ds-homebrew-chroniclesdx-git",
+	"original_url": "https://github.com/DS-Homebrew/ChroniclesDX.git",
+	"description": "Changes made to Sonic Chronicles: The Dark Brotherhood, with RomFS being injected programatically.",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052118,
+	"updated_at": 1787052118
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-flxpartialsound-git",
-  "original_url": "https://github.com/FunkinCrew/FlxPartialSound.git",
-  "description": "",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052228,
-  "updated_at": 1787052228
+	"slug": "github-com-funkincrew-flxpartialsound-git",
+	"original_url": "https://github.com/FunkinCrew/FlxPartialSound.git",
+	"description": "",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052228,
+	"updated_at": 1787052228
 }

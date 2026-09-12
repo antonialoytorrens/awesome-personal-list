@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-clonehero-game-releases-git",
-  "original_url": "https://github.com/clonehero-game/releases.git",
-  "description": "Clone Hero Releases",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051947,
-  "updated_at": 1787051947
+	"slug": "github-com-clonehero-game-releases-git",
+	"original_url": "https://github.com/clonehero-game/releases.git",
+	"description": "Clone Hero Releases",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051947,
+	"updated_at": 1787051947
 }

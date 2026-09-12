@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-squidgoddev-almost-tennis",
-  "original_url": "https://github.com/SquidGodDev/almost-tennis",
-  "description": "A fast paced, pong-like action game for the Playdate",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053975,
-  "updated_at": 1787053975
+	"slug": "github-com-squidgoddev-almost-tennis",
+	"original_url": "https://github.com/SquidGodDev/almost-tennis",
+	"description": "A fast paced, pong-like action game for the Playdate",
+	"language": "Lua",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053975,
+	"updated_at": 1787053975
 }

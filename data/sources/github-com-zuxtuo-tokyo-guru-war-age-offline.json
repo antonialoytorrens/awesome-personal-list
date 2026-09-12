@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zuxtuo-tokyo-guru-war-age-offline",
-  "original_url": "https://github.com/ZUXTUO/Tokyo-Guru-War-Age-Offline-",
-  "description": "Tokyo Guru War Age Mobile Game Project",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054919,
-  "updated_at": 1787054919
+	"slug": "github-com-zuxtuo-tokyo-guru-war-age-offline",
+	"original_url": "https://github.com/ZUXTUO/Tokyo-Guru-War-Age-Offline-",
+	"description": "Tokyo Guru War Age Mobile Game Project",
+	"language": "C#",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054919,
+	"updated_at": 1787054919
 }

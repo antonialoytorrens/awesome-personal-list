@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-xp-technologies-dev-providers",
-  "original_url": "https://github.com/xp-technologies-dev/providers",
-  "description": "Providers and sources for P-Stream",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052623,
-  "updated_at": 1787052623
+	"slug": "github-com-xp-technologies-dev-providers",
+	"original_url": "https://github.com/xp-technologies-dev/providers",
+	"description": "Providers and sources for P-Stream",
+	"language": "TypeScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052623,
+	"updated_at": 1787052623
 }

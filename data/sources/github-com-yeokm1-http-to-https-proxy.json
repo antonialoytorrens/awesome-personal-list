@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-yeokm1-http-to-https-proxy",
-  "original_url": "https://github.com/yeokm1/http-to-https-proxy",
-  "description": "A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052090,
-  "updated_at": 1787052090
+	"slug": "github-com-yeokm1-http-to-https-proxy",
+	"original_url": "https://github.com/yeokm1/http-to-https-proxy",
+	"description": "A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.",
+	"language": "Go",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052090,
+	"updated_at": 1787052090
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antoniond-ucity",
-  "original_url": "https://github.com/AntonioND/ucity",
-  "description": "The open-source city-building game for Game Boy Color.",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052238,
-  "updated_at": 1787052238
+	"slug": "github-com-antoniond-ucity",
+	"original_url": "https://github.com/AntonioND/ucity",
+	"description": "The open-source city-building game for Game Boy Color.",
+	"language": "Assembly",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052238,
+	"updated_at": 1787052238
 }

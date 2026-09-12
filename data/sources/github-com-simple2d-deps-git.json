@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-simple2d-deps-git",
-	"original_url":	"https://github.com/simple2d/deps.git",
-	"description":	"ð  Dependencies for Simple 2D",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054170,
-	"updated_at":	1787063963
+	"slug": "github-com-simple2d-deps-git",
+	"original_url": "https://github.com/simple2d/deps.git",
+	"description": "ð  Dependencies for Simple 2D",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054170,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tsaarni-android-native-egl-example-git",
-  "original_url": "https://github.com/tsaarni/android-native-egl-example.git",
-  "description": "Sample that shows how to combine native rendering with Java UI on Android",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051774,
-  "updated_at": 1787051774
+	"slug": "github-com-tsaarni-android-native-egl-example-git",
+	"original_url": "https://github.com/tsaarni/android-native-egl-example.git",
+	"description": "Sample that shows how to combine native rendering with Java UI on Android",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051774,
+	"updated_at": 1787051774
 }

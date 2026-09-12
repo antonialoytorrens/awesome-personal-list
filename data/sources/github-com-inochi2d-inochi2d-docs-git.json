@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-inochi2d-docs-git",
-  "original_url": "https://github.com/Inochi2D/inochi2d-docs.git",
-  "description": "Documentation for Inochi2D",
-  "language": "Pip Requirements",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052299,
-  "updated_at": 1787052299
+	"slug": "github-com-inochi2d-inochi2d-docs-git",
+	"original_url": "https://github.com/Inochi2D/inochi2d-docs.git",
+	"description": "Documentation for Inochi2D",
+	"language": "Pip Requirements",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052299,
+	"updated_at": 1787052299
 }

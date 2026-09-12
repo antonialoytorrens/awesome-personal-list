@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-awards-web-git",
-  "original_url": "https://github.com/r-anime/awards-web.git",
-  "description": ":trophy: The /r/anime Awards website",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054100,
-  "updated_at": 1787054100
+	"slug": "github-com-r-anime-awards-web-git",
+	"original_url": "https://github.com/r-anime/awards-web.git",
+	"description": ":trophy: The /r/anime Awards website",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054100,
+	"updated_at": 1787054100
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-tweets-git",
-  "original_url": "https://github.com/ManimCommunity/manim-tweets.git",
-  "description": "Code for tweets by @manim_community on twitter",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052428,
-  "updated_at": 1787052428
+	"slug": "github-com-manimcommunity-manim-tweets-git",
+	"original_url": "https://github.com/ManimCommunity/manim-tweets.git",
+	"description": "Code for tweets by @manim_community on twitter",
+	"language": "Python",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052428,
+	"updated_at": 1787052428
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ajuntamentdebarcelona-modul-comu-osam-flutter",
-  "original_url": "https://github.com/AjuntamentdeBarcelona/modul_comu_osam_flutter",
-  "description": "",
-  "language": "Dart",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051769,
-  "updated_at": 1787051769
+	"slug": "github-com-ajuntamentdebarcelona-modul-comu-osam-flutter",
+	"original_url": "https://github.com/AjuntamentdeBarcelona/modul_comu_osam_flutter",
+	"description": "",
+	"language": "Dart",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051769,
+	"updated_at": 1787051769
 }

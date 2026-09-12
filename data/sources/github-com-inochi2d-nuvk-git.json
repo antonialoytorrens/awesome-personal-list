@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-nuvk-git",
-  "original_url": "https://github.com/Inochi2D/nuvk.git",
-  "description": "Graphics API layer for official Inochi2D apps.",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052313,
-  "updated_at": 1787052313
+	"slug": "github-com-inochi2d-nuvk-git",
+	"original_url": "https://github.com/Inochi2D/nuvk.git",
+	"description": "Graphics API layer for official Inochi2D apps.",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052313,
+	"updated_at": 1787052313
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pacstall-pacstall-deb-git",
-  "original_url": "https://github.com/pacstall/pacstall.deb.git",
-  "description": "Packaging pacstall as a deb file",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052626,
-  "updated_at": 1787052626
+	"slug": "github-com-pacstall-pacstall-deb-git",
+	"original_url": "https://github.com/pacstall/pacstall.deb.git",
+	"description": "Packaging pacstall as a deb file",
+	"language": "",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052626,
+	"updated_at": 1787052626
 }

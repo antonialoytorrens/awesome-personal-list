@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-zpl-c-librg-git",
-	"original_url":	"https://github.com/zpl-c/librg.git",
-	"description":	"ð Making multi-player gamedev simpler since 2017",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055096,
-	"updated_at":	1787063964
+	"slug": "github-com-zpl-c-librg-git",
+	"original_url": "https://github.com/zpl-c/librg.git",
+	"description": "ð Making multi-player gamedev simpler since 2017",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055096,
+	"updated_at": 1787063964
 }

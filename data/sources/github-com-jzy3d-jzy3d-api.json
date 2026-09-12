@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jzy3d-jzy3d-api",
-  "original_url": "https://github.com/jzy3d/jzy3d-api",
-  "description": "A Java API for 3d and 2d charts",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052337,
-  "updated_at": 1787052337
+	"slug": "github-com-jzy3d-jzy3d-api",
+	"original_url": "https://github.com/jzy3d/jzy3d-api",
+	"description": "A Java API for 3d and 2d charts",
+	"language": "Java",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052337,
+	"updated_at": 1787052337
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-lnh-team-dspico-bootloader-git",
-	"original_url":	"https://github.com/LNH-team/dspico-bootloader.git",
-	"description":	"Bootloader for the DSpico.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052414,
-	"updated_at":	1787063962
+	"slug": "github-com-lnh-team-dspico-bootloader-git",
+	"original_url": "https://github.com/LNH-team/dspico-bootloader.git",
+	"description": "Bootloader for the DSpico.",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052414,
+	"updated_at": 1787063962
 }

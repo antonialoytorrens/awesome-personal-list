@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-z80-512k-git",
-  "original_url": "https://github.com/skiselev/Z80-512K.git",
-  "description": "",
-  "language": "VHDL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051738,
-  "updated_at": 1787051738
+	"slug": "github-com-skiselev-z80-512k-git",
+	"original_url": "https://github.com/skiselev/Z80-512K.git",
+	"description": "",
+	"language": "VHDL",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051738,
+	"updated_at": 1787051738
 }

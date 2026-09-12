@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-nn-olv-logger-plugin-git",
-  "original_url": "https://github.com/PretendoNetwork/nn_olv_logger_plugin.git",
-  "description": "Log nn_olv debug messages",
-  "language": "Makefile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054040,
-  "updated_at": 1787054040
+	"slug": "github-com-pretendonetwork-nn-olv-logger-plugin-git",
+	"original_url": "https://github.com/PretendoNetwork/nn_olv_logger_plugin.git",
+	"description": "Log nn_olv debug messages",
+	"language": "Makefile",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054040,
+	"updated_at": 1787054040
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-openezx-dfu-util-git",
-	"original_url":	"https://github.com/OpenEZX/dfu-util.git",
-	"description":	"Ancient archive of OpenEZX dfu-util",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052595,
-	"updated_at":	1787063962
+	"slug": "github-com-openezx-dfu-util-git",
+	"original_url": "https://github.com/OpenEZX/dfu-util.git",
+	"description": "Ancient archive of OpenEZX dfu-util",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052595,
+	"updated_at": 1787063962
 }

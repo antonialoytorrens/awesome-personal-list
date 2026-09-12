@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-oobabooga-text-generation-webui",
-  "original_url": "https://github.com/oobabooga/text-generation-webui",
-  "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051765,
-  "updated_at": 1787051765
+	"slug": "github-com-oobabooga-text-generation-webui",
+	"original_url": "https://github.com/oobabooga/text-generation-webui",
+	"description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051765,
+	"updated_at": 1787051765
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-funkinbounties-git",
-  "original_url": "https://github.com/FunkinCrew/funkinBounties.git",
-  "description": "EZ WORK I WANT DONE FOR CHEAP LOL!",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052220,
-  "updated_at": 1787052220
+	"slug": "github-com-funkincrew-funkinbounties-git",
+	"original_url": "https://github.com/FunkinCrew/funkinBounties.git",
+	"description": "EZ WORK I WANT DONE FOR CHEAP LOL!",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052220,
+	"updated_at": 1787052220
 }

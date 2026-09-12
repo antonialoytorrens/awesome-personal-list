@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sdk-seven-posprintf-git",
-  "original_url": "https://github.com/sdk-seven/posprintf.git",
-  "description": "a condensed version of sprintf for Thumb, esp. GBA (sdk-seven fork)",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053261,
-  "updated_at": 1787053261
+	"slug": "github-com-sdk-seven-posprintf-git",
+	"original_url": "https://github.com/sdk-seven/posprintf.git",
+	"description": "a condensed version of sprintf for Thumb, esp. GBA (sdk-seven fork)",
+	"language": "Assembly",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053261,
+	"updated_at": 1787053261
 }

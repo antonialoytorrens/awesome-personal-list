@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blogc-blogc-example-git",
-  "original_url": "https://github.com/blogc/blogc-example.git",
-  "description": "An example repository that can be used as base for a blogc website.",
-  "language": "Makefile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051830,
-  "updated_at": 1787051830
+	"slug": "github-com-blogc-blogc-example-git",
+	"original_url": "https://github.com/blogc/blogc-example.git",
+	"description": "An example repository that can be used as base for a blogc website.",
+	"language": "Makefile",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051830,
+	"updated_at": 1787051830
 }

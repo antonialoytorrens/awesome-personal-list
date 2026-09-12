@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wohlsoft-qt-lua-test-git",
-	"original_url":	"https://github.com/WohlSoft/qt-lua-test.git",
-	"description":	"A repo where lua/luabind are tested together with qt in various platforms.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055027,
-	"updated_at":	1787063964
+	"slug": "github-com-wohlsoft-qt-lua-test-git",
+	"original_url": "https://github.com/WohlSoft/qt-lua-test.git",
+	"description": "A repo where lua/luabind are tested together with qt in various platforms.",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055027,
+	"updated_at": 1787063964
 }

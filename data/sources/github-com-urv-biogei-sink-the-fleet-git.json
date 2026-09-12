@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-urv-biogei-sink-the-fleet-git",
-	"original_url":	"https://github.com/URV-BioGEI/Sink-The-Fleet.git",
-	"description":	"Complete C implementation of \"sink the fleet\" game using conio.h Windows library. Final exercise of the subject Programming Fundamentals from URV's Computer Science degree in 2015",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054958,
-	"updated_at":	1787063964
+	"slug": "github-com-urv-biogei-sink-the-fleet-git",
+	"original_url": "https://github.com/URV-BioGEI/Sink-The-Fleet.git",
+	"description": "Complete C implementation of \"sink the fleet\" game using conio.h Windows library. Final exercise of the subject Programming Fundamentals from URV's Computer Science degree in 2015",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054958,
+	"updated_at": 1787063964
 }

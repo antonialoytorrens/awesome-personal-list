@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-debloater-alliance-universal-android-preinstalled-lists-git",
-  "original_url": "https://github.com/Universal-Debloater-Alliance/universal-android-preinstalled-lists.git",
-  "description": "(WIP) The set of all known built-in Android packages. Used primarily by UAD-NG",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054929,
-  "updated_at": 1787054929
+	"slug": "github-com-universal-debloater-alliance-universal-android-preinstalled-lists-git",
+	"original_url": "https://github.com/Universal-Debloater-Alliance/universal-android-preinstalled-lists.git",
+	"description": "(WIP) The set of all known built-in Android packages. Used primarily by UAD-NG",
+	"language": "",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054929,
+	"updated_at": 1787054929
 }

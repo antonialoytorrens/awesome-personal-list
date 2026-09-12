@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-decidim-decidim-git",
-  "original_url": "https://github.com/decidim/decidim.git",
-  "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051997,
-  "updated_at": 1787051997
+	"slug": "github-com-decidim-decidim-git",
+	"original_url": "https://github.com/decidim/decidim.git",
+	"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+	"language": "Ruby",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051997,
+	"updated_at": 1787051997
 }

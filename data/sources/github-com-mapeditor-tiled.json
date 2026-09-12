@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mapeditor-tiled",
-  "original_url": "https://github.com/mapeditor/tiled",
-  "description": "Flexible (tilemap) level editor",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054912,
-  "updated_at": 1787054912
+	"slug": "github-com-mapeditor-tiled",
+	"original_url": "https://github.com/mapeditor/tiled",
+	"description": "Flexible (tilemap) level editor",
+	"language": "C++",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054912,
+	"updated_at": 1787054912
 }

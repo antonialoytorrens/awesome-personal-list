@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-cgzirim-seek-tune",
-  "original_url": "https://github.com/cgzirim/seek-tune",
-  "description": "Video: https://www.youtube.com/watch?v=a0CVCcb0RJM\r\nPDF: https://drive.google.com/file/d/1ahyCTXBAZiuni6RTzHzLoOwwfTRFaU-C/view",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043245,
-  "created_at": 1787051717,
-  "updated_at": 1787051717
+	"slug": "github-com-cgzirim-seek-tune",
+	"original_url": "https://github.com/cgzirim/seek-tune",
+	"description": "Video: https://www.youtube.com/watch?v=a0CVCcb0RJM\r\nPDF: https://drive.google.com/file/d/1ahyCTXBAZiuni6RTzHzLoOwwfTRFaU-C/view",
+	"language": "Go",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043245,
+	"created_at": 1787051717,
+	"updated_at": 1787051717
 }

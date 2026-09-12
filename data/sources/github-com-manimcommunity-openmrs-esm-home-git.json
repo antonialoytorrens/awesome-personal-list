@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-openmrs-esm-home-git",
-  "original_url": "https://github.com/ManimCommunity/openmrs-esm-home.git",
-  "description": "The homepage microfrontend for the OpenMRS SPA",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052433,
-  "updated_at": 1787052433
+	"slug": "github-com-manimcommunity-openmrs-esm-home-git",
+	"original_url": "https://github.com/ManimCommunity/openmrs-esm-home.git",
+	"description": "The homepage microfrontend for the OpenMRS SPA",
+	"language": "TypeScript",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052433,
+	"updated_at": 1787052433
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-qrcode-git",
-  "original_url": "https://github.com/krkrz/qrcode.git",
-  "description": "QRã³ã¼ããã¬ã¤ã¤ã¼ã«æ¸ãè¾¼ããã©ã°ã¤ã³",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052373,
-  "updated_at": 1787052373
+	"slug": "github-com-krkrz-qrcode-git",
+	"original_url": "https://github.com/krkrz/qrcode.git",
+	"description": "QRã³ã¼ããã¬ã¤ã¤ã¼ã«æ¸ãè¾¼ããã©ã°ã¤ã³",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052373,
+	"updated_at": 1787052373
 }

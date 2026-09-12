@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-satella-git",
-  "original_url": "https://github.com/r-anime/satella.git",
-  "description": "",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054105,
-  "updated_at": 1787054105
+	"slug": "github-com-r-anime-satella-git",
+	"original_url": "https://github.com/r-anime/satella.git",
+	"description": "",
+	"language": "Ruby",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054105,
+	"updated_at": 1787054105
 }

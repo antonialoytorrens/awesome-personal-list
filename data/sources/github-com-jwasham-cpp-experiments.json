@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jwasham-cpp-experiments",
-  "original_url": "https://github.com/jwasham/cpp-experiments",
-  "description": "C++ Experiments and sandbox code",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052343,
-  "updated_at": 1787052343
+	"slug": "github-com-jwasham-cpp-experiments",
+	"original_url": "https://github.com/jwasham/cpp-experiments",
+	"description": "C++ Experiments and sandbox code",
+	"language": "C++",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052343,
+	"updated_at": 1787052343
 }

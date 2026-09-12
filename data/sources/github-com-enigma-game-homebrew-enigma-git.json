@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-enigma-game-homebrew-enigma-git",
-  "original_url": "https://github.com/Enigma-Game/homebrew-enigma.git",
-  "description": "Homebrew formulae for development testing the game Enigma on macOS Do not use this tap for released versions of Enigma, instead get Enigma from homebrew/core",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052171,
-  "updated_at": 1787052171
+	"slug": "github-com-enigma-game-homebrew-enigma-git",
+	"original_url": "https://github.com/Enigma-Game/homebrew-enigma.git",
+	"description": "Homebrew formulae for development testing the game Enigma on macOS Do not use this tap for released versions of Enigma, instead get Enigma from homebrew/core",
+	"language": "Ruby",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052171,
+	"updated_at": 1787052171
 }

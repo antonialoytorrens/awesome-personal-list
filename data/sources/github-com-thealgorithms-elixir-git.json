@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-elixir-git",
-  "original_url": "https://github.com/TheAlgorithms/Elixir.git",
-  "description": "",
-  "language": "Elixir",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054879,
-  "updated_at": 1787054879
+	"slug": "github-com-thealgorithms-elixir-git",
+	"original_url": "https://github.com/TheAlgorithms/Elixir.git",
+	"description": "",
+	"language": "Elixir",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054879,
+	"updated_at": 1787054879
 }

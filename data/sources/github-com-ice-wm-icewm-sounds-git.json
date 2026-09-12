@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ice-wm-icewm-sounds-git",
-  "original_url": "https://github.com/ice-wm/icewm-sounds.git",
-  "description": "sound files for IceWM",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052278,
-  "updated_at": 1787052278
+	"slug": "github-com-ice-wm-icewm-sounds-git",
+	"original_url": "https://github.com/ice-wm/icewm-sounds.git",
+	"description": "sound files for IceWM",
+	"language": "",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052278,
+	"updated_at": 1787052278
 }

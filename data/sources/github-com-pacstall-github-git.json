@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pacstall-github-git",
-  "original_url": "https://github.com/pacstall/.github.git",
-  "description": "GitHub profile readme",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052627,
-  "updated_at": 1787052627
+	"slug": "github-com-pacstall-github-git",
+	"original_url": "https://github.com/pacstall/.github.git",
+	"description": "GitHub profile readme",
+	"language": "",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052627,
+	"updated_at": 1787052627
 }

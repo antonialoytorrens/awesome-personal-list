@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-massgravel-spp-stuff-git",
-  "original_url": "https://github.com/massgravel/spp-stuff.git",
-  "description": "Random stuff related to SPP",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052457,
-  "updated_at": 1787052457
+	"slug": "github-com-massgravel-spp-stuff-git",
+	"original_url": "https://github.com/massgravel/spp-stuff.git",
+	"description": "Random stuff related to SPP",
+	"language": "Python",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052457,
+	"updated_at": 1787052457
 }

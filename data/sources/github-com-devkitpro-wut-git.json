@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-devkitpro-wut-git",
-	"original_url":	"https://github.com/devkitPro/wut.git",
-	"description":	"Let's try to make a Wii U Toolchain / SDK for creating rpx/rpl.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052026,
-	"updated_at":	1787063960
+	"slug": "github-com-devkitpro-wut-git",
+	"original_url": "https://github.com/devkitPro/wut.git",
+	"description": "Let's try to make a Wii U Toolchain / SDK for creating rpx/rpl.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052026,
+	"updated_at": 1787063960
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-flecs-hub-flecs-math-git",
-	"original_url":	"https://github.com/flecs-hub/flecs-math.git",
-	"description":	"Math functions for flecs",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052192,
-	"updated_at":	1787063961
+	"slug": "github-com-flecs-hub-flecs-math-git",
+	"original_url": "https://github.com/flecs-hub/flecs-math.git",
+	"description": "Math functions for flecs",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052192,
+	"updated_at": 1787063961
 }

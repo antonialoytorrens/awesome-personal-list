@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-gbdk-2020-gbdk-2020-sdcc-git",
-  "original_url": "https://github.com/gbdk-2020/gbdk-2020-sdcc.git",
-  "description": "SDCC to bundle with GBDK-2020",
-  "language": "Diff",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052252,
-  "updated_at": 1787052252
+	"slug": "github-com-gbdk-2020-gbdk-2020-sdcc-git",
+	"original_url": "https://github.com/gbdk-2020/gbdk-2020-sdcc.git",
+	"description": "SDCC to bundle with GBDK-2020",
+	"language": "Diff",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052252,
+	"updated_at": 1787052252
 }

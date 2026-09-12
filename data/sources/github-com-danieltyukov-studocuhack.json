@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-danieltyukov-studocuhack",
-  "original_url": "https://github.com/danieltyukov/studocuhack",
-  "description": "Chrome/Firefox Extension for Free Premium Studocu/Studeersnel ",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043234,
-  "created_at": 1787051707,
-  "updated_at": 1787051707
+	"slug": "github-com-danieltyukov-studocuhack",
+	"original_url": "https://github.com/danieltyukov/studocuhack",
+	"description": "Chrome/Firefox Extension for Free Premium Studocu/Studeersnel ",
+	"language": "JavaScript",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043234,
+	"created_at": 1787051707,
+	"updated_at": 1787051707
 }

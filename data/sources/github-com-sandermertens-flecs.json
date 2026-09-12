@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sandermertens-flecs",
-	"original_url":	"https://github.com/SanderMertens/flecs",
-	"description":	"A fast entity component system (ECS) for C & C++",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051856,
-	"updated_at":	1787063963
+	"slug": "github-com-sandermertens-flecs",
+	"original_url": "https://github.com/SanderMertens/flecs",
+	"description": "A fast entity component system (ECS) for C & C++",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051856,
+	"updated_at": 1787063963
 }

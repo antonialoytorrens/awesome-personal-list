@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-dillo-dillo",
-  "original_url": "https://codeberg.org/dillo/dillo",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052208,
-  "updated_at": 1787052208
+	"slug": "codeberg-org-dillo-dillo",
+	"original_url": "https://codeberg.org/dillo/dillo",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052208,
+	"updated_at": 1787052208
 }

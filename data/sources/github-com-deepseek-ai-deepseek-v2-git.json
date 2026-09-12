@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-deepseek-v2-git",
-  "original_url": "https://github.com/deepseek-ai/DeepSeek-V2.git",
-  "description": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
-  "language": "SVG",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052004,
-  "updated_at": 1787052004
+	"slug": "github-com-deepseek-ai-deepseek-v2-git",
+	"original_url": "https://github.com/deepseek-ai/DeepSeek-V2.git",
+	"description": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+	"language": "SVG",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052004,
+	"updated_at": 1787052004
 }

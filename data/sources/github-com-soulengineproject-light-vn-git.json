@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-soulengineproject-light-vn-git",
-  "original_url": "https://github.com/SoulEngineProject/Light.vn.git",
-  "description": "The Light.vn VIsual Novel Engine",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054290,
-  "updated_at": 1787054290
+	"slug": "github-com-soulengineproject-light-vn-git",
+	"original_url": "https://github.com/SoulEngineProject/Light.vn.git",
+	"description": "The Light.vn VIsual Novel Engine",
+	"language": "",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054290,
+	"updated_at": 1787054290
 }

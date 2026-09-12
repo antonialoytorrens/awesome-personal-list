@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blogc-blogc-the-plain-git",
-  "original_url": "https://github.com/blogc/blogc-the-plain.git",
-  "description": "Port of \"The Plain\" Jekyll theme to blogc",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051833,
-  "updated_at": 1787051833
+	"slug": "github-com-blogc-blogc-the-plain-git",
+	"original_url": "https://github.com/blogc/blogc-the-plain.git",
+	"description": "Port of \"The Plain\" Jekyll theme to blogc",
+	"language": "CSS",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051833,
+	"updated_at": 1787051833
 }

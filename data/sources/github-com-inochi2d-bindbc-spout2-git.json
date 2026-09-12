@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-bindbc-spout2-git",
-  "original_url": "https://github.com/Inochi2D/bindbc-spout2.git",
-  "description": "SpoutLibrary binding for D",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052297,
-  "updated_at": 1787052297
+	"slug": "github-com-inochi2d-bindbc-spout2-git",
+	"original_url": "https://github.com/Inochi2D/bindbc-spout2.git",
+	"description": "SpoutLibrary binding for D",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052297,
+	"updated_at": 1787052297
 }

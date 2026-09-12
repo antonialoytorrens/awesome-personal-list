@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-axet-android-call-recorder",
-  "original_url": "https://gitlab.com/axet/android-call-recorder",
-  "description": "Android Call Recorder. Simple recording app, using native Android interfaces to record sound.",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051777,
-  "updated_at": 1787051777
+	"slug": "gitlab-com-axet-android-call-recorder",
+	"original_url": "https://gitlab.com/axet/android-call-recorder",
+	"description": "Android Call Recorder. Simple recording app, using native Android interfaces to record sound.",
+	"language": "Java",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051777,
+	"updated_at": 1787051777
 }

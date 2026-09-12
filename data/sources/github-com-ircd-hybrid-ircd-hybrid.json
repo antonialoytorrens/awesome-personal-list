@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ircd-hybrid-ircd-hybrid",
-	"original_url":	"https://github.com/ircd-hybrid/ircd-hybrid",
-	"description":	"A lightweight, high-performance internet relay chat daemon.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051920,
-	"updated_at":	1787063961
+	"slug": "github-com-ircd-hybrid-ircd-hybrid",
+	"original_url": "https://github.com/ircd-hybrid/ircd-hybrid",
+	"description": "A lightweight, high-performance internet relay chat daemon.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051920,
+	"updated_at": 1787063961
 }

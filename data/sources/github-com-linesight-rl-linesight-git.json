@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-linesight-rl-linesight-git",
-  "original_url": "https://github.com/Linesight-RL/linesight.git",
-  "description": "AI Plays Trackmania with Reinforcement Learning",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052403,
-  "updated_at": 1787052403
+	"slug": "github-com-linesight-rl-linesight-git",
+	"original_url": "https://github.com/Linesight-RL/linesight.git",
+	"description": "AI Plays Trackmania with Reinforcement Learning",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052403,
+	"updated_at": 1787052403
 }

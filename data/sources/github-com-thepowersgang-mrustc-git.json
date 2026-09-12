@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thepowersgang-mrustc-git",
-  "original_url": "https://github.com/thepowersgang/mrustc.git",
-  "description": "Alternative rust compiler (re-implementation)",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053238,
-  "updated_at": 1787053238
+	"slug": "github-com-thepowersgang-mrustc-git",
+	"original_url": "https://github.com/thepowersgang/mrustc.git",
+	"description": "Alternative rust compiler (re-implementation)",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053238,
+	"updated_at": 1787053238
 }

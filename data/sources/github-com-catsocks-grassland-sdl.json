@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-catsocks-grassland-sdl",
-  "original_url": "https://github.com/catsocks/grassland-sdl",
-  "description": "An unfinished attempt at imitating the RPG Maker grid-based game look using C++17 and SDL 2.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053264,
-  "updated_at": 1787053264
+	"slug": "github-com-catsocks-grassland-sdl",
+	"original_url": "https://github.com/catsocks/grassland-sdl",
+	"description": "An unfinished attempt at imitating the RPG Maker grid-based game look using C++17 and SDL 2.",
+	"language": "C++",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053264,
+	"updated_at": 1787053264
 }

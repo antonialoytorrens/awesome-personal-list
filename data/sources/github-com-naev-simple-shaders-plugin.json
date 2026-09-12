@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-naev-simple-shaders-plugin",
-  "original_url": "https://github.com/naev/simple-shaders-plugin",
-  "description": "",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052498,
-  "updated_at": 1787052498
+	"slug": "github-com-naev-simple-shaders-plugin",
+	"original_url": "https://github.com/naev/simple-shaders-plugin",
+	"description": "",
+	"language": "Lua",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052498,
+	"updated_at": 1787052498
 }

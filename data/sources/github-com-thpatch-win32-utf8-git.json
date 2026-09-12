@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-thpatch-win32-utf8-git",
-	"original_url":	"https://github.com/thpatch/win32_utf8.git",
-	"description":	"Transparent UTF-8 support for native Win32 ANSI applications",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054895,
-	"updated_at":	1787063964
+	"slug": "github-com-thpatch-win32-utf8-git",
+	"original_url": "https://github.com/thpatch/win32_utf8.git",
+	"description": "Transparent UTF-8 support for native Win32 ANSI applications",
+	"language": "C",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054895,
+	"updated_at": 1787063964
 }

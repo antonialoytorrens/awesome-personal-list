@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-massgravel-activated-win-git",
-  "original_url": "https://github.com/massgravel/activated.win.git",
-  "description": "Repository for activated.win site",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052456,
-  "updated_at": 1787052456
+	"slug": "github-com-massgravel-activated-win-git",
+	"original_url": "https://github.com/massgravel/activated.win.git",
+	"description": "Repository for activated.win site",
+	"language": "HTML",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052456,
+	"updated_at": 1787052456
 }

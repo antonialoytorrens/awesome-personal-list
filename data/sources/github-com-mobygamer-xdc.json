@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mobygamer-xdc",
-  "original_url": "https://github.com/MobyGamer/XDC",
-  "description": "XDC 8088+CGA video/animation compiler",
-  "language": "Pascal",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043230,
-  "created_at": 1787051704,
-  "updated_at": 1787051704
+	"slug": "github-com-mobygamer-xdc",
+	"original_url": "https://github.com/MobyGamer/XDC",
+	"description": "XDC 8088+CGA video/animation compiler",
+	"language": "Pascal",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043230,
+	"created_at": 1787051704,
+	"updated_at": 1787051704
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-vhspace-sdl3-rs",
-  "original_url": "https://github.com/vhspace/sdl3-rs",
-  "description": "SDL3 bindings for Rust",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053240,
-  "updated_at": 1787053240
+	"slug": "github-com-vhspace-sdl3-rs",
+	"original_url": "https://github.com/vhspace/sdl3-rs",
+	"description": "SDL3 bindings for Rust",
+	"language": "Rust",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053240,
+	"updated_at": 1787053240
 }

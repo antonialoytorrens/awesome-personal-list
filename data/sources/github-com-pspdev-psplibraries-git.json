@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pspdev-psplibraries-git",
-  "original_url": "https://github.com/pspdev/psplibraries.git",
-  "description": "A script to automatically build open-source libraries for PSP homebrew development.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054073,
-  "updated_at": 1787054073
+	"slug": "github-com-pspdev-psplibraries-git",
+	"original_url": "https://github.com/pspdev/psplibraries.git",
+	"description": "A script to automatically build open-source libraries for PSP homebrew development.",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054073,
+	"updated_at": 1787054073
 }

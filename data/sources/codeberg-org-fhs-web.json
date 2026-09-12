@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-fhs-web",
-  "original_url": "https://codeberg.org/fhs/web",
-  "description": "",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052184,
-  "updated_at": 1787052184
+	"slug": "codeberg-org-fhs-web",
+	"original_url": "https://codeberg.org/fhs/web",
+	"description": "",
+	"language": "Vue",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052184,
+	"updated_at": 1787052184
 }

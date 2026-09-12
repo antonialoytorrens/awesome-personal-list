@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nektos-stacker-git",
-  "original_url": "https://github.com/nektos/stacker.git",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052526,
-  "updated_at": 1787052526
+	"slug": "github-com-nektos-stacker-git",
+	"original_url": "https://github.com/nektos/stacker.git",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052526,
+	"updated_at": 1787052526
 }

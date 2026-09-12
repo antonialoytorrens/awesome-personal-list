@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-contributor-covenant-git",
-  "original_url": "https://github.com/TheAlgorithms/contributor_covenant.git",
-  "description": "Pledge your respect and appreciation for contributors of all kinds to your open source project.",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054885,
-  "updated_at": 1787054885
+	"slug": "github-com-thealgorithms-contributor-covenant-git",
+	"original_url": "https://github.com/TheAlgorithms/contributor_covenant.git",
+	"description": "Pledge your respect and appreciation for contributors of all kinds to your open source project.",
+	"language": "CSS",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054885,
+	"updated_at": 1787054885
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-wiseshell-wiseshell-net",
-  "original_url": "https://gitlab.com/wiseshell/wiseshell.net",
-  "description": "",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055023,
-  "updated_at": 1787055023
+	"slug": "gitlab-com-wiseshell-wiseshell-net",
+	"original_url": "https://gitlab.com/wiseshell/wiseshell.net",
+	"description": "",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055023,
+	"updated_at": 1787055023
 }

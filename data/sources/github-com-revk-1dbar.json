@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-revk-1dbar",
-	"original_url":	"https://github.com/revk/1dbar",
-	"description":	"Some simple 1D barcode functions",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054115,
-	"updated_at":	1787063963
+	"slug": "github-com-revk-1dbar",
+	"original_url": "https://github.com/revk/1dbar",
+	"description": "Some simple 1D barcode functions",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054115,
+	"updated_at": 1787063963
 }

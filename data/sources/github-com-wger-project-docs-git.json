@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wger-project-docs-git",
-  "original_url": "https://github.com/wger-project/docs.git",
-  "description": "Documentation for wger",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055010,
-  "updated_at": 1787055010
+	"slug": "github-com-wger-project-docs-git",
+	"original_url": "https://github.com/wger-project/docs.git",
+	"description": "Documentation for wger",
+	"language": "Markdown",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055010,
+	"updated_at": 1787055010
 }

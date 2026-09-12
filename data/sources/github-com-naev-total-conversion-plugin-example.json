@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-naev-total-conversion-plugin-example",
-  "original_url": "https://github.com/naev/total_conversion_plugin_example",
-  "description": "An example of a total conversion plugin for Naev that can minimally load.",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052496,
-  "updated_at": 1787052496
+	"slug": "github-com-naev-total-conversion-plugin-example",
+	"original_url": "https://github.com/naev/total_conversion_plugin_example",
+	"description": "An example of a total conversion plugin for Naev that can minimally load.",
+	"language": "Lua",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052496,
+	"updated_at": 1787052496
 }

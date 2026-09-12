@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-ntrboot-flasher-nds-git",
-	"original_url":	"https://github.com/DS-Homebrew/ntrboot_flasher_nds.git",
-	"description":	"A NDS NTRBoot flasher to flash 3DS FIRMs to your DS flashcart",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052117,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-ntrboot-flasher-nds-git",
+	"original_url": "https://github.com/DS-Homebrew/ntrboot_flasher_nds.git",
+	"description": "A NDS NTRBoot flasher to flash 3DS FIRMs to your DS flashcart",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052117,
+	"updated_at": 1787063960
 }

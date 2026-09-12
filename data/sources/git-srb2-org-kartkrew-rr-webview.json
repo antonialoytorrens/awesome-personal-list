@@ -1,12 +1,14 @@
 {
-  "slug": "git-srb2-org-kartkrew-rr-webview",
-  "original_url": "https://git.srb2.org/KartKrew/rr-webview",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054317,
-  "updated_at": 1787054317
+	"slug": "git-srb2-org-kartkrew-rr-webview",
+	"original_url": "https://git.srb2.org/KartKrew/rr-webview",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054317,
+	"updated_at": 1787054317
 }

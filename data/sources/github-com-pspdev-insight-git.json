@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pspdev-insight-git",
-	"original_url":	"https://github.com/pspdev/insight.git",
-	"description":	"A fork of insight to the PSP.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054076,
-	"updated_at":	1787063962
+	"slug": "github-com-pspdev-insight-git",
+	"original_url": "https://github.com/pspdev/insight.git",
+	"description": "A fork of insight to the PSP.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054076,
+	"updated_at": 1787063962
 }

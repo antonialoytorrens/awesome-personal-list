@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-b0ney-xmodits-lib",
-  "original_url": "https://github.com/B0ney/xmodits-lib",
-  "description": "xmodits core library, used for xmodits-cli, xmodits-gui and xmodits-py",
-  "language": "Logos",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054922,
-  "updated_at": 1787054922
+	"slug": "github-com-b0ney-xmodits-lib",
+	"original_url": "https://github.com/B0ney/xmodits-lib",
+	"description": "xmodits core library, used for xmodits-cli, xmodits-gui and xmodits-py",
+	"language": "Logos",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054922,
+	"updated_at": 1787054922
 }

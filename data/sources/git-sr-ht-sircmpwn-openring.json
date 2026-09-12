@@ -1,12 +1,14 @@
 {
-  "slug": "git-sr-ht-sircmpwn-openring",
-  "original_url": "https://git.sr.ht/~sircmpwn/openring",
-  "description": "",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043223,
-  "created_at": 1787051698,
-  "updated_at": 1787051698
+	"slug": "git-sr-ht-sircmpwn-openring",
+	"original_url": "https://git.sr.ht/~sircmpwn/openring",
+	"description": "",
+	"language": "Go",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043223,
+	"created_at": 1787051698,
+	"updated_at": 1787051698
 }

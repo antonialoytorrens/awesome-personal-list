@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-fhs-ks-web",
-  "original_url": "https://codeberg.org/fhs/ks-web",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052186,
-  "updated_at": 1787052186
+	"slug": "codeberg-org-fhs-ks-web",
+	"original_url": "https://codeberg.org/fhs/ks-web",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052186,
+	"updated_at": 1787052186
 }

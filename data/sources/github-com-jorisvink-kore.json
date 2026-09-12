@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-jorisvink-kore",
-	"original_url":	"https://github.com/jorisvink/kore",
-	"description":	"An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051919,
-	"updated_at":	1787063961
+	"slug": "github-com-jorisvink-kore",
+	"original_url": "https://github.com/jorisvink/kore",
+	"description": "An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051919,
+	"updated_at": 1787063961
 }

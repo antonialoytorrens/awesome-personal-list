@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-n64decomp-ido5-3-cc-git",
-  "original_url": "https://github.com/n64decomp/ido5.3_cc.git",
-  "description": "Binary package for the Iris Development Option 5.3 C compiler.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052491,
-  "updated_at": 1787052491
+	"slug": "github-com-n64decomp-ido5-3-cc-git",
+	"original_url": "https://github.com/n64decomp/ido5.3_cc.git",
+	"description": "Binary package for the Iris Development Option 5.3 C compiler.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052491,
+	"updated_at": 1787052491
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-sssl-dns-git",
-  "original_url": "https://github.com/PretendoNetwork/SSSL-DNS.git",
-  "description": "Custom DNS server intended to be used in conjunction with SSSL",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054051,
-  "updated_at": 1787054051
+	"slug": "github-com-pretendonetwork-sssl-dns-git",
+	"original_url": "https://github.com/PretendoNetwork/SSSL-DNS.git",
+	"description": "Custom DNS server intended to be used in conjunction with SSSL",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054051,
+	"updated_at": 1787054051
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dtolnay-bootstrap-git",
-  "original_url": "https://github.com/dtolnay/bootstrap.git",
-  "description": "Bootstrapping rustc from source",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053238,
-  "updated_at": 1787053238
+	"slug": "github-com-dtolnay-bootstrap-git",
+	"original_url": "https://github.com/dtolnay/bootstrap.git",
+	"description": "Bootstrapping rustc from source",
+	"language": "Shell",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053238,
+	"updated_at": 1787053238
 }

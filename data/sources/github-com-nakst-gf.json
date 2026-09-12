@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nakst-gf",
-  "original_url": "https://github.com/nakst/gf",
-  "description": "A GDB frontend for Linux.",
-  "language": "Objective-C",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052501,
-  "updated_at": 1787052501
+	"slug": "github-com-nakst-gf",
+	"original_url": "https://github.com/nakst/gf",
+	"description": "A GDB frontend for Linux.",
+	"language": "Objective-C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052501,
+	"updated_at": 1787052501
 }

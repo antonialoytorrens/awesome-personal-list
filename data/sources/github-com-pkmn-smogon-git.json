@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pkmn-smogon-git",
-  "original_url": "https://github.com/pkmn/smogon.git",
-  "description": "Wrapper around Smogon's analyses and usage statistics",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053968,
-  "updated_at": 1787053968
+	"slug": "github-com-pkmn-smogon-git",
+	"original_url": "https://github.com/pkmn/smogon.git",
+	"description": "Wrapper around Smogon's analyses and usage statistics",
+	"language": "TypeScript",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053968,
+	"updated_at": 1787053968
 }

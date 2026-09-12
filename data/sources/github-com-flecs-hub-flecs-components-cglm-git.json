@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-flecs-hub-flecs-components-cglm-git",
-	"original_url":	"https://github.com/flecs-hub/flecs-components-cglm.git",
-	"description":	"Components for cglm types",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052202,
-	"updated_at":	1787063961
+	"slug": "github-com-flecs-hub-flecs-components-cglm-git",
+	"original_url": "https://github.com/flecs-hub/flecs-components-cglm.git",
+	"description": "Components for cglm types",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052202,
+	"updated_at": 1787063961
 }

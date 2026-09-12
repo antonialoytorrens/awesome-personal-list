@@ -1,12 +1,14 @@
 {
-	"slug":	"git-srb2-org-kartkrew-kartmaker",
-	"original_url":	"https://git.srb2.org/KartKrew/kartmaker",
-	"description":	"Character WAD generator for Dr. Robotnik's Ring Racers",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054318,
-	"updated_at":	1787063959
+	"slug": "git-srb2-org-kartkrew-kartmaker",
+	"original_url": "https://git.srb2.org/KartKrew/kartmaker",
+	"description": "Character WAD generator for Dr. Robotnik's Ring Racers",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054318,
+	"updated_at": 1787063959
 }

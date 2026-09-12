@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-scarsty-mlcc",
-  "original_url": "https://github.com/scarsty/mlcc",
-  "description": "ä¸äºæç¨çåè½",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051966,
-  "updated_at": 1787051966
+	"slug": "github-com-scarsty-mlcc",
+	"original_url": "https://github.com/scarsty/mlcc",
+	"description": "ä¸äºæç¨çåè½",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051966,
+	"updated_at": 1787051966
 }

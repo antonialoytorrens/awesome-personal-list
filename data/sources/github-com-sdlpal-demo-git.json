@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sdlpal-demo-git",
-  "original_url": "https://github.com/sdlpal/demo.git",
-  "description": "",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053296,
-  "updated_at": 1787053296
+	"slug": "github-com-sdlpal-demo-git",
+	"original_url": "https://github.com/sdlpal/demo.git",
+	"description": "",
+	"language": "JavaScript",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053296,
+	"updated_at": 1787053296
 }

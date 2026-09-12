@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kotc-game-kotc-git",
-  "original_url": "https://github.com/kotc-game/kotc.git",
-  "description": "Keeper of the Cards",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052360,
-  "updated_at": 1787052360
+	"slug": "github-com-kotc-game-kotc-git",
+	"original_url": "https://github.com/kotc-game/kotc.git",
+	"description": "Keeper of the Cards",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052360,
+	"updated_at": 1787052360
 }

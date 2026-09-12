@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-taisei-project-crossc-git",
-  "original_url": "https://github.com/taisei-project/crossc.git",
-  "description": "Portable C wrapper for SPIRV-Cross",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054851,
-  "updated_at": 1787054851
+	"slug": "github-com-taisei-project-crossc-git",
+	"original_url": "https://github.com/taisei-project/crossc.git",
+	"description": "Portable C wrapper for SPIRV-Cross",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054851,
+	"updated_at": 1787054851
 }

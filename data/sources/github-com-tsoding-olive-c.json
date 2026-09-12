@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-tsoding-olive-c",
-	"original_url":	"https://github.com/tsoding/olive.c",
-	"description":	"Simple 2D Graphics Library for C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051866,
-	"updated_at":	1787063964
+	"slug": "github-com-tsoding-olive-c",
+	"original_url": "https://github.com/tsoding/olive.c",
+	"description": "Simple 2D Graphics Library for C",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051866,
+	"updated_at": 1787063964
 }

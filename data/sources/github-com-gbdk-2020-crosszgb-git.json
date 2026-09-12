@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-gbdk-2020-crosszgb-git",
-  "original_url": "https://github.com/gbdk-2020/CrossZGB.git",
-  "description": "Game engine for the Nintento Game Boy / Nintento Game Boy Color / Analogue Pocket / Mega Duck / Sega Master System / Sega Game Gear",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052251,
-  "updated_at": 1787052251
+	"slug": "github-com-gbdk-2020-crosszgb-git",
+	"original_url": "https://github.com/gbdk-2020/CrossZGB.git",
+	"description": "Game engine for the Nintento Game Boy / Nintento Game Boy Color / Analogue Pocket / Mega Duck / Sega Master System / Sega Game Gear",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052251,
+	"updated_at": 1787052251
 }

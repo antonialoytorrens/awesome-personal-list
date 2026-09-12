@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-verysleepy-tests-git",
-  "original_url": "https://github.com/VerySleepy/tests.git",
-  "description": "Very Sleepy test suite",
-  "language": "Batchfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054966,
-  "updated_at": 1787054966
+	"slug": "github-com-verysleepy-tests-git",
+	"original_url": "https://github.com/VerySleepy/tests.git",
+	"description": "Very Sleepy test suite",
+	"language": "Batchfile",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054966,
+	"updated_at": 1787054966
 }

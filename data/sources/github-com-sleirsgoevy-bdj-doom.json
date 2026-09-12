@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sleirsgoevy-bdj-doom",
-	"original_url":	"https://github.com/sleirsgoevy/bdj-doom",
-	"description":	"Blu-Play port of DOOM I (1993)",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052333,
-	"updated_at":	1787063963
+	"slug": "github-com-sleirsgoevy-bdj-doom",
+	"original_url": "https://github.com/sleirsgoevy/bdj-doom",
+	"description": "Blu-Play port of DOOM I (1993)",
+	"language": "C",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052333,
+	"updated_at": 1787063963
 }

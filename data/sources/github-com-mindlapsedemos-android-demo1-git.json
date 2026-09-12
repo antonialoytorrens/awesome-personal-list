@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-mindlapsedemos-android-demo1-git",
-	"original_url":	"https://github.com/MindlapseDemos/android_demo1.git",
-	"description":	"WIP multiplatform android/pc demo project.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052466,
-	"updated_at":	1787063962
+	"slug": "github-com-mindlapsedemos-android-demo1-git",
+	"original_url": "https://github.com/MindlapseDemos/android_demo1.git",
+	"description": "WIP multiplatform android/pc demo project.",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052466,
+	"updated_at": 1787063962
 }

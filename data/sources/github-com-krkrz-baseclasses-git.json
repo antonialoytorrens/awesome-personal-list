@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-baseclasses-git",
-  "original_url": "https://github.com/krkrz/baseclasses.git",
-  "description": "baseclassesã®ã³ãã¼ãDirectShowãã£ã«ã¿ãä½¿ç¨ã«å¿è¦ã",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052376,
-  "updated_at": 1787052376
+	"slug": "github-com-krkrz-baseclasses-git",
+	"original_url": "https://github.com/krkrz/baseclasses.git",
+	"description": "baseclassesã®ã³ãã¼ãDirectShowãã£ã«ã¿ãä½¿ç¨ã«å¿è¦ã",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052376,
+	"updated_at": 1787052376
 }

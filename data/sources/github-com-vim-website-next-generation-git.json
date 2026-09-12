@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-vim-website-next-generation-git",
-  "original_url": "https://github.com/vim/website_next_generation.git",
-  "description": "The new website",
-  "language": "SQL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054970,
-  "updated_at": 1787054970
+	"slug": "github-com-vim-website-next-generation-git",
+	"original_url": "https://github.com/vim/website_next_generation.git",
+	"description": "The new website",
+	"language": "SQL",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054970,
+	"updated_at": 1787054970
 }

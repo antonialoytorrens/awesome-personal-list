@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pkmn-0-error-git",
-  "original_url": "https://github.com/pkmn/0-ERROR.git",
-  "description": "Competitive PokÃ©mon battling AI",
-  "language": "Zig",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053967,
-  "updated_at": 1787053967
+	"slug": "github-com-pkmn-0-error-git",
+	"original_url": "https://github.com/pkmn/0-ERROR.git",
+	"description": "Competitive PokÃ©mon battling AI",
+	"language": "Zig",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053967,
+	"updated_at": 1787053967
 }

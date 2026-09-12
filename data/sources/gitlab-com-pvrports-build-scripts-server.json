@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-pvrports-build-scripts-server",
-  "original_url": "https://gitlab.com/pvrports/build-scripts-server",
-  "description": "Simple automated scripts for package building on server",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054092,
-  "updated_at": 1787054092
+	"slug": "gitlab-com-pvrports-build-scripts-server",
+	"original_url": "https://gitlab.com/pvrports/build-scripts-server",
+	"description": "Simple automated scripts for package building on server",
+	"language": "Shell",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054092,
+	"updated_at": 1787054092
 }

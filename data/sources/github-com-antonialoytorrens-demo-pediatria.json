@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-demo-pediatria",
-  "original_url": "https://github.com/antonialoytorrens/demo-pediatria",
-  "description": "Pediatria Hospital Inca, Mohammed",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052183,
-  "updated_at": 1787052183
+	"slug": "github-com-antonialoytorrens-demo-pediatria",
+	"original_url": "https://github.com/antonialoytorrens/demo-pediatria",
+	"description": "Pediatria Hospital Inca, Mohammed",
+	"language": "CSS",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052183,
+	"updated_at": 1787052183
 }

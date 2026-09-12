@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-joric-nanoircd-git",
-	"original_url":	"https://github.com/joric/nanoircd.git",
-	"description":	"A (very) tiny IRC server, C-version, public domain",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	2,
-	"swh_checked_at":	1787043208,
-	"created_at":	1787051685,
-	"updated_at":	1787063961
+	"slug": "github-com-joric-nanoircd-git",
+	"original_url": "https://github.com/joric/nanoircd.git",
+	"description": "A (very) tiny IRC server, C-version, public domain",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043208,
+	"created_at": 1787051685,
+	"updated_at": 1787063961
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-robloach-nuklear-sdl-12",
-	"original_url":	"https://github.com/RobLoach/nuklear_sdl_12",
-	"description":	"SDL 1.2 support for Nuklear",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051884,
-	"updated_at":	1787063963
+	"slug": "github-com-robloach-nuklear-sdl-12",
+	"original_url": "https://github.com/RobLoach/nuklear_sdl_12",
+	"description": "SDL 1.2 support for Nuklear",
+	"language": "C",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051884,
+	"updated_at": 1787063963
 }

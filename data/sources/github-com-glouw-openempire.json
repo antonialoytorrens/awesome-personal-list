@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-glouw-openempire",
-	"original_url":	"https://github.com/glouw/openempire",
-	"description":	"A multiplayer lockstep RTS engine compatible with the Age of Empires II Trial assets",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053286,
-	"updated_at":	1787063961
+	"slug": "github-com-glouw-openempire",
+	"original_url": "https://github.com/glouw/openempire",
+	"description": "A multiplayer lockstep RTS engine compatible with the Age of Empires II Trial assets",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053286,
+	"updated_at": 1787063961
 }

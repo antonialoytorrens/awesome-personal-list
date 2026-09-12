@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-semu-git",
-	"original_url":	"https://github.com/sysprog21/semu.git",
-	"description":	"A minimalist RISC-V system emulator capable of running Linux kernel",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054839,
-	"updated_at":	1787063964
+	"slug": "github-com-sysprog21-semu-git",
+	"original_url": "https://github.com/sysprog21/semu.git",
+	"description": "A minimalist RISC-V system emulator capable of running Linux kernel",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054839,
+	"updated_at": 1787063964
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-blogbot-git",
-  "original_url": "https://github.com/FunkinCrew/blogBot.git",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052221,
-  "updated_at": 1787052221
+	"slug": "github-com-funkincrew-blogbot-git",
+	"original_url": "https://github.com/FunkinCrew/blogBot.git",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052221,
+	"updated_at": 1787052221
 }

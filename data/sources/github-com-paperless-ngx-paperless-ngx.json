@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-paperless-ngx-paperless-ngx",
-  "original_url": "https://github.com/paperless-ngx/paperless-ngx",
-  "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043228,
-  "created_at": 1787051702,
-  "updated_at": 1787051702
+	"slug": "github-com-paperless-ngx-paperless-ngx",
+	"original_url": "https://github.com/paperless-ngx/paperless-ngx",
+	"description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043228,
+	"created_at": 1787051702,
+	"updated_at": 1787051702
 }

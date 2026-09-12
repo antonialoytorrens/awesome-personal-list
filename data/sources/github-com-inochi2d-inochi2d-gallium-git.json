@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-inochi2d-gallium-git",
-  "original_url": "https://github.com/Inochi2D/inochi2d-gallium.git",
-  "description": "Partial Intel on Windows support for Inochi2D via Gallium and Zink",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052293,
-  "updated_at": 1787052293
+	"slug": "github-com-inochi2d-inochi2d-gallium-git",
+	"original_url": "https://github.com/Inochi2D/inochi2d-gallium.git",
+	"description": "Partial Intel on Windows support for Inochi2D via Gallium and Zink",
+	"language": "",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052293,
+	"updated_at": 1787052293
 }

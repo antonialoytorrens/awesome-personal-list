@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nektos-quinntainer-git",
-  "original_url": "https://github.com/nektos/quinntainer.git",
-  "description": "Yet another way to run containers on AWS!",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052527,
-  "updated_at": 1787052527
+	"slug": "github-com-nektos-quinntainer-git",
+	"original_url": "https://github.com/nektos/quinntainer.git",
+	"description": "Yet another way to run containers on AWS!",
+	"language": "JavaScript",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052527,
+	"updated_at": 1787052527
 }

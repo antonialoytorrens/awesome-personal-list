@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fr0st-brutal-awesome-pascal",
-  "original_url": "https://github.com/Fr0sT-Brutal/awesome-pascal",
-  "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
-  "language": "Pascal",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053930,
-  "updated_at": 1787053930
+	"slug": "github-com-fr0st-brutal-awesome-pascal",
+	"original_url": "https://github.com/Fr0sT-Brutal/awesome-pascal",
+	"description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
+	"language": "Pascal",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053930,
+	"updated_at": 1787053930
 }

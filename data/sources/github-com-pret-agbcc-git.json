@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pret-agbcc-git",
-	"original_url":	"https://github.com/pret/agbcc.git",
-	"description":	"C compiler",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054000,
-	"updated_at":	1787063962
+	"slug": "github-com-pret-agbcc-git",
+	"original_url": "https://github.com/pret/agbcc.git",
+	"description": "C compiler",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054000,
+	"updated_at": 1787063962
 }

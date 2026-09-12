@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-erincatto-box2d-lite",
-  "original_url": "https://github.com/erincatto/box2d-lite",
-  "description": "A small 2D physics engine",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051842,
-  "updated_at": 1787051842
+	"slug": "github-com-erincatto-box2d-lite",
+	"original_url": "https://github.com/erincatto/box2d-lite",
+	"description": "A small 2D physics engine",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051842,
+	"updated_at": 1787051842
 }

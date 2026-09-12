@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-itsmattkc-lego1disassemble",
-  "original_url": "https://github.com/itsmattkc/LEGO1Disassemble",
-  "description": "A machine automated compilable disassembly of LEGO1.DLL from LEGO Island",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052460,
-  "updated_at": 1787052460
+	"slug": "github-com-itsmattkc-lego1disassemble",
+	"original_url": "https://github.com/itsmattkc/LEGO1Disassemble",
+	"description": "A machine automated compilable disassembly of LEGO1.DLL from LEGO Island",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052460,
+	"updated_at": 1787052460
 }

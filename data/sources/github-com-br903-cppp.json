@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-br903-cppp",
-	"original_url":	"https://github.com/BR903/cppp",
-	"description":	"A program for automatically resolving #ifdef statements in C code. ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051865,
-	"updated_at":	1787063960
+	"slug": "github-com-br903-cppp",
+	"original_url": "https://github.com/BR903/cppp",
+	"description": "A program for automatically resolving #ifdef statements in C code. ",
+	"language": "C",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051865,
+	"updated_at": 1787063960
 }

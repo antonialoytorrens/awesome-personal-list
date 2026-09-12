@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antimicrox-antimicrox-github-io-git",
-  "original_url": "https://github.com/AntiMicroX/antimicrox.github.io.git",
-  "description": "Repository containing AntiMicroX website",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051784,
-  "updated_at": 1787051784
+	"slug": "github-com-antimicrox-antimicrox-github-io-git",
+	"original_url": "https://github.com/AntiMicroX/antimicrox.github.io.git",
+	"description": "Repository containing AntiMicroX website",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051784,
+	"updated_at": 1787051784
 }

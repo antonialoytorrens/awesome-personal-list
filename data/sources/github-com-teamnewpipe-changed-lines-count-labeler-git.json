@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-changed-lines-count-labeler-git",
-  "original_url": "https://github.com/TeamNewPipe/changed-lines-count-labeler.git",
-  "description": "An action for automatically labelling pull requests based on the changed lines count",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054870,
-  "updated_at": 1787054870
+	"slug": "github-com-teamnewpipe-changed-lines-count-labeler-git",
+	"original_url": "https://github.com/TeamNewPipe/changed-lines-count-labeler.git",
+	"description": "An action for automatically labelling pull requests based on the changed lines count",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054870,
+	"updated_at": 1787054870
 }

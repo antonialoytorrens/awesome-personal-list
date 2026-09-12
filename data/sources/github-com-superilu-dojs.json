@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-superilu-dojs",
-	"original_url":	"https://github.com/SuperIlu/DOjS",
-	"description":	"A MS-DOS Creative Coding IDE/platform based on JavaScript ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052093,
-	"updated_at":	1787063963
+	"slug": "github-com-superilu-dojs",
+	"original_url": "https://github.com/SuperIlu/DOjS",
+	"description": "A MS-DOS Creative Coding IDE/platform based on JavaScript ",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052093,
+	"updated_at": 1787063963
 }

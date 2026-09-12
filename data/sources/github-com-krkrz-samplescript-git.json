@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-samplescript-git",
-  "original_url": "https://github.com/krkrz/SampleScript.git",
-  "description": "åéåéZ TJS2ãµã³ãã«ã¹ã¯ãªãã",
-  "language": "GLSL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052367,
-  "updated_at": 1787052367
+	"slug": "github-com-krkrz-samplescript-git",
+	"original_url": "https://github.com/krkrz/SampleScript.git",
+	"description": "åéåéZ TJS2ãµã³ãã«ã¹ã¯ãªãã",
+	"language": "GLSL",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052367,
+	"updated_at": 1787052367
 }

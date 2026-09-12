@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-zpl-c-raylib-git",
-	"original_url":	"https://github.com/zpl-c/raylib.git",
-	"description":	"A simple and easy-to-use library to enjoy videogames programming",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055102,
-	"updated_at":	1787063964
+	"slug": "github-com-zpl-c-raylib-git",
+	"original_url": "https://github.com/zpl-c/raylib.git",
+	"description": "A simple and easy-to-use library to enjoy videogames programming",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055102,
+	"updated_at": 1787063964
 }

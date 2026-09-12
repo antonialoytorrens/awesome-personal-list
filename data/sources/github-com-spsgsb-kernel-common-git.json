@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-spsgsb-kernel-common-git",
-  "original_url": "https://github.com/spsgsb/kernel-common.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054306,
-  "updated_at": 1787054306
+	"slug": "github-com-spsgsb-kernel-common-git",
+	"original_url": "https://github.com/spsgsb/kernel-common.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054306,
+	"updated_at": 1787054306
 }

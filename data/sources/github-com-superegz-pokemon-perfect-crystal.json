@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-superegz-pokemon-perfect-crystal",
-  "original_url": "https://github.com/Superegz/Pokemon-Perfect-Crystal",
-  "description": "The goal of this hack has been to make an idealized definitive version of Pokemon Crystal that has every Pokemon available to catch and to fix a number of glaring glitches that hampered the original game.",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053964,
-  "updated_at": 1787053964
+	"slug": "github-com-superegz-pokemon-perfect-crystal",
+	"original_url": "https://github.com/Superegz/Pokemon-Perfect-Crystal",
+	"description": "The goal of this hack has been to make an idealized definitive version of Pokemon Crystal that has every Pokemon available to catch and to fix a number of glaring glitches that hampered the original game.",
+	"language": "Assembly",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053964,
+	"updated_at": 1787053964
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-clamor-s-diff-qc750",
-	"original_url":	"https://github.com/clamor-s/diff_qc750",
-	"description":	"See https://github.com/clamor-s/diff_qc750/tree/master/vendor/nvidia/tegra/core/system/nvflash",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053994,
-	"updated_at":	1787063960
+	"slug": "github-com-clamor-s-diff-qc750",
+	"original_url": "https://github.com/clamor-s/diff_qc750",
+	"description": "See https://github.com/clamor-s/diff_qc750/tree/master/vendor/nvidia/tegra/core/system/nvflash",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053994,
+	"updated_at": 1787063960
 }

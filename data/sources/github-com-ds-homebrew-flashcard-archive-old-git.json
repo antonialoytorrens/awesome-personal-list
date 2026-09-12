@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-flashcard-archive-old-git",
-  "original_url": "https://github.com/DS-Homebrew/flashcard-archive-OLD.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052122,
-  "updated_at": 1787052122
+	"slug": "github-com-ds-homebrew-flashcard-archive-old-git",
+	"original_url": "https://github.com/DS-Homebrew/flashcard-archive-OLD.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052122,
+	"updated_at": 1787052122
 }

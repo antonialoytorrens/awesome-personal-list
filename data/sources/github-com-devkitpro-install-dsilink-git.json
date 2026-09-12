@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-install-dsilink-git",
-  "original_url": "https://github.com/devkitPro/install-dsilink.git",
-  "description": "",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052025,
-  "updated_at": 1787052025
+	"slug": "github-com-devkitpro-install-dsilink-git",
+	"original_url": "https://github.com/devkitPro/install-dsilink.git",
+	"description": "",
+	"language": "Assembly",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052025,
+	"updated_at": 1787052025
 }

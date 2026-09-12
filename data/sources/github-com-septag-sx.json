@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-septag-sx",
-	"original_url":	"https://github.com/septag/sx",
-	"description":	"Portable base library for C programmers, designed for performance and simplicity.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051873,
-	"updated_at":	1787063963
+	"slug": "github-com-septag-sx",
+	"original_url": "https://github.com/septag/sx",
+	"description": "Portable base library for C programmers, designed for performance and simplicity.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051873,
+	"updated_at": 1787063963
 }

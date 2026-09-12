@@ -1,12 +1,14 @@
 {
-	"slug":	"git-sr-ht-liebach-sde",
-	"original_url":	"https://git.sr.ht/~liebach/sde",
-	"description":	"Suckless desktop environment",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	2,
-	"swh_checked_at":	1787043240,
-	"created_at":	1787051712,
-	"updated_at":	1787063959
+	"slug": "git-sr-ht-liebach-sde",
+	"original_url": "https://git.sr.ht/~liebach/sde",
+	"description": "Suckless desktop environment",
+	"language": "C",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043240,
+	"created_at": 1787051712,
+	"updated_at": 1787063959
 }

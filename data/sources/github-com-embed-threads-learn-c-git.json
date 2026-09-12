@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-embed-threads-learn-c-git",
-  "original_url": "https://github.com/Embed-Threads/Learn-C.git",
-  "description": "A curated list of the top books to learn C programming, carefully selected to provide a comprehensive understanding of the language. Perfect for beginners and those looking to enhance their skills, these books guide you through C programming intricacies. ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052143,
-  "updated_at": 1787052143
+	"slug": "github-com-embed-threads-learn-c-git",
+	"original_url": "https://github.com/Embed-Threads/Learn-C.git",
+	"description": "A curated list of the top books to learn C programming, carefully selected to provide a comprehensive understanding of the language. Perfect for beginners and those looking to enhance their skills, these books guide you through C programming intricacies. ",
+	"language": "",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052143,
+	"updated_at": 1787052143
 }

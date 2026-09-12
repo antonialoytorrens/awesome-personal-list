@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-zeldaret-oot-vc-git",
-	"original_url":	"https://github.com/zeldaret/oot-vc.git",
-	"description":	"Decompilation of the Wii Virtual Console Emulator for Ocarina of Time (JP)",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055092,
-	"updated_at":	1787063964
+	"slug": "github-com-zeldaret-oot-vc-git",
+	"original_url": "https://github.com/zeldaret/oot-vc.git",
+	"description": "Decompilation of the Wii Virtual Console Emulator for Ocarina of Time (JP)",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055092,
+	"updated_at": 1787063964
 }

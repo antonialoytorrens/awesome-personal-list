@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-inochi2d-c-git",
-  "original_url": "https://github.com/Inochi2D/inochi2d-c.git",
-  "description": "A layer for using Inochi2D with non-D programming languages via a C ABI",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052295,
-  "updated_at": 1787052295
+	"slug": "github-com-inochi2d-inochi2d-c-git",
+	"original_url": "https://github.com/Inochi2D/inochi2d-c.git",
+	"description": "A layer for using Inochi2D with non-D programming languages via a C ABI",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052295,
+	"updated_at": 1787052295
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-ui-themes-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/UI-Themes.git",
-  "description": "This repository is intended to store themes",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054153,
-  "updated_at": 1787054153
+	"slug": "github-com-siemens-mobile-hacks-ui-themes-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/UI-Themes.git",
+	"description": "This repository is intended to store themes",
+	"language": "Markdown",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054153,
+	"updated_at": 1787054153
 }

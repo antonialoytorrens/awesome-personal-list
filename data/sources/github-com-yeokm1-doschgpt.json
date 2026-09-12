@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-yeokm1-doschgpt",
-  "original_url": "https://github.com/yeokm1/doschgpt",
-  "description": "A proof-of-concept ChatGPT and Hugging Face client for DOS with text-to-speech for Sound Blaster compatible systems.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052090,
-  "updated_at": 1787052090
+	"slug": "github-com-yeokm1-doschgpt",
+	"original_url": "https://github.com/yeokm1/doschgpt",
+	"description": "A proof-of-concept ChatGPT and Hugging Face client for DOS with text-to-speech for Sound Blaster compatible systems.",
+	"language": "C++",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052090,
+	"updated_at": 1787052090
 }

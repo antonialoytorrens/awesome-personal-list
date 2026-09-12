@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-shauninman-gcc-arm-8-3-aarch64",
-  "original_url": "https://github.com/shauninman/gcc-arm-8.3-aarch64",
-  "description": "Creates an gcc-arm-8.3-2019.03-aarch64-arm-linux-gnueabihf.tar.xz equivalent to gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf.tar.xz for use with docker on M1 Macs",
-  "language": "Dockerfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052584,
-  "updated_at": 1787052584
+	"slug": "github-com-shauninman-gcc-arm-8-3-aarch64",
+	"original_url": "https://github.com/shauninman/gcc-arm-8.3-aarch64",
+	"description": "Creates an gcc-arm-8.3-2019.03-aarch64-arm-linux-gnueabihf.tar.xz equivalent to gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf.tar.xz for use with docker on M1 Macs",
+	"language": "Dockerfile",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052584,
+	"updated_at": 1787052584
 }

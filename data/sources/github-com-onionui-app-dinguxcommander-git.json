@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-onionui-app-dinguxcommander-git",
-  "original_url": "https://github.com/OnionUI/app-DinguxCommander.git",
-  "description": "Two-pane file manager in the style of Norton Commander",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052582,
-  "updated_at": 1787052582
+	"slug": "github-com-onionui-app-dinguxcommander-git",
+	"original_url": "https://github.com/OnionUI/app-DinguxCommander.git",
+	"description": "Two-pane file manager in the style of Norton Commander",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052582,
+	"updated_at": 1787052582
 }

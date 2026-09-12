@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-decidim-decidim-bulletin-board-git",
-  "original_url": "https://github.com/decidim/decidim-bulletin-board.git",
-  "description": "",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051999,
-  "updated_at": 1787051999
+	"slug": "github-com-decidim-decidim-bulletin-board-git",
+	"original_url": "https://github.com/decidim/decidim-bulletin-board.git",
+	"description": "",
+	"language": "Ruby",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051999,
+	"updated_at": 1787051999
 }

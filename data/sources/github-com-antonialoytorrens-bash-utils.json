@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-bash-utils",
-  "original_url": "https://github.com/antonialoytorrens/bash_utils",
-  "description": "A hand-made collection of bash scripts and utils",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043207,
-  "created_at": 1787051684,
-  "updated_at": 1787051684
+	"slug": "github-com-antonialoytorrens-bash-utils",
+	"original_url": "https://github.com/antonialoytorrens/bash_utils",
+	"description": "A hand-made collection of bash scripts and utils",
+	"language": "Shell",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043207,
+	"created_at": 1787051684,
+	"updated_at": 1787051684
 }

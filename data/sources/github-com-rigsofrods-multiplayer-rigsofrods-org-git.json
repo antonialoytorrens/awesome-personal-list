@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-rigsofrods-multiplayer-rigsofrods-org-git",
-	"original_url":	"https://github.com/RigsOfRods/multiplayer.rigsofrods.org.git",
-	"description":	"Rigs of Rods multiplayer API",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054121,
-	"updated_at":	1787063969
+	"slug": "github-com-rigsofrods-multiplayer-rigsofrods-org-git",
+	"original_url": "https://github.com/RigsOfRods/multiplayer.rigsofrods.org.git",
+	"description": "Rigs of Rods multiplayer API",
+	"language": "PHP",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054121,
+	"updated_at": 1787063969
 }

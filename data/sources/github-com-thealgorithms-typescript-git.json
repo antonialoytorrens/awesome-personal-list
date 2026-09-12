@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-typescript-git",
-  "original_url": "https://github.com/TheAlgorithms/TypeScript.git",
-  "description": "Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054885,
-  "updated_at": 1787054885
+	"slug": "github-com-thealgorithms-typescript-git",
+	"original_url": "https://github.com/TheAlgorithms/TypeScript.git",
+	"description": "Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.",
+	"language": "TypeScript",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054885,
+	"updated_at": 1787054885
 }

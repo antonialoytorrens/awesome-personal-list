@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-gimp-vtuber-scripts-git",
-  "original_url": "https://github.com/Inochi2D/gimp-vtuber-scripts.git",
-  "description": "Scripts for automating the process of preparing vtuber models with the GNU Image Manipulation Program",
-  "language": "Scheme",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052307,
-  "updated_at": 1787052307
+	"slug": "github-com-inochi2d-gimp-vtuber-scripts-git",
+	"original_url": "https://github.com/Inochi2D/gimp-vtuber-scripts.git",
+	"description": "Scripts for automating the process of preparing vtuber models with the GNU Image Manipulation Program",
+	"language": "Scheme",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052307,
+	"updated_at": 1787052307
 }

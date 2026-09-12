@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-thealgorithms-github-io-git",
-  "original_url": "https://github.com/TheAlgorithms/TheAlgorithms.github.io.git",
-  "description": "This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054880,
-  "updated_at": 1787054880
+	"slug": "github-com-thealgorithms-thealgorithms-github-io-git",
+	"original_url": "https://github.com/TheAlgorithms/TheAlgorithms.github.io.git",
+	"description": "This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html",
+	"language": "HTML",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054880,
+	"updated_at": 1787054880
 }

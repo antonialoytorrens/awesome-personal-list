@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-game20-localization-git",
-  "original_url": "https://github.com/thpatch/game20_localization.git",
-  "description": "GensoYonbaiKen2 localization file.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054898,
-  "updated_at": 1787054898
+	"slug": "github-com-thpatch-game20-localization-git",
+	"original_url": "https://github.com/thpatch/game20_localization.git",
+	"description": "GensoYonbaiKen2 localization file.",
+	"language": "",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054898,
+	"updated_at": 1787054898
 }

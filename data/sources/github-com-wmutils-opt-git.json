@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wmutils-opt-git",
-	"original_url":	"https://github.com/wmutils/opt.git",
-	"description":	"optional addons to wmutils",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055025,
-	"updated_at":	1787063964
+	"slug": "github-com-wmutils-opt-git",
+	"original_url": "https://github.com/wmutils/opt.git",
+	"description": "optional addons to wmutils",
+	"language": "C",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055025,
+	"updated_at": 1787063964
 }

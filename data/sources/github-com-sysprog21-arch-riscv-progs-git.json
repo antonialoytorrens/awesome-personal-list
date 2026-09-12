@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sysprog21-arch-riscv-progs-git",
-  "original_url": "https://github.com/sysprog21/arch-riscv-progs.git",
-  "description": "Programs in RISC-V assembly",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054847,
-  "updated_at": 1787054847
+	"slug": "github-com-sysprog21-arch-riscv-progs-git",
+	"original_url": "https://github.com/sysprog21/arch-riscv-progs.git",
+	"description": "Programs in RISC-V assembly",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054847,
+	"updated_at": 1787054847
 }

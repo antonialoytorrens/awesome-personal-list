@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-p-stream-m3u8-proxy-git",
-  "original_url": "https://github.com/p-stream/M3U8-Proxy.git",
-  "description": "DISCONTINUED! Use simple-proxy",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052621,
-  "updated_at": 1787052621
+	"slug": "github-com-p-stream-m3u8-proxy-git",
+	"original_url": "https://github.com/p-stream/M3U8-Proxy.git",
+	"description": "DISCONTINUED! Use simple-proxy",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052621,
+	"updated_at": 1787052621
 }

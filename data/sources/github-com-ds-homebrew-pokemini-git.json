@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-pokemini-git",
-	"original_url":	"https://github.com/DS-Homebrew/PokeMini.git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052108,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-pokemini-git",
+	"original_url": "https://github.com/DS-Homebrew/PokeMini.git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052108,
+	"updated_at": 1787063960
 }

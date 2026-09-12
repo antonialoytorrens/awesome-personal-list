@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-pasarelaautenticacion-git",
-  "original_url": "https://github.com/ctt-gob-es/PasarelaAutenticacion.git",
-  "description": "Pasarela de AutenticaciÃ³n",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051987,
-  "updated_at": 1787051987
+	"slug": "github-com-ctt-gob-es-pasarelaautenticacion-git",
+	"original_url": "https://github.com/ctt-gob-es/PasarelaAutenticacion.git",
+	"description": "Pasarela de AutenticaciÃ³n",
+	"language": "",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051987,
+	"updated_at": 1787051987
 }

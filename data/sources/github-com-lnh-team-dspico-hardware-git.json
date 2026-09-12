@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-lnh-team-dspico-hardware-git",
-  "original_url": "https://github.com/LNH-team/dspico-hardware.git",
-  "description": "DSpico Hardware (PCB, shell, sticker, boxart)",
-  "language": "SVG",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052414,
-  "updated_at": 1787052414
+	"slug": "github-com-lnh-team-dspico-hardware-git",
+	"original_url": "https://github.com/LNH-team/dspico-hardware.git",
+	"description": "DSpico Hardware (PCB, shell, sticker, boxart)",
+	"language": "SVG",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052414,
+	"updated_at": 1787052414
 }

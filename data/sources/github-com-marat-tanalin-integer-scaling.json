@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-marat-tanalin-integer-scaling",
-	"original_url":	"https://github.com/Marat-Tanalin/integer-scaling",
-	"description":	"Library for calculations for pixel-perfect integer-ratio image upscaling (C++/Rust/JS/PHP) + testcases",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051963,
-	"updated_at":	1787063969
+	"slug": "github-com-marat-tanalin-integer-scaling",
+	"original_url": "https://github.com/Marat-Tanalin/integer-scaling",
+	"description": "Library for calculations for pixel-perfect integer-ratio image upscaling (C++/Rust/JS/PHP) + testcases",
+	"language": "PHP",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051963,
+	"updated_at": 1787063969
 }

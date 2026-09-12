@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-yksz-c-logger",
-	"original_url":	"https://github.com/yksz/c-logger",
-	"description":	"A simple logging library for C/C++",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051868,
-	"updated_at":	1787063964
+	"slug": "github-com-yksz-c-logger",
+	"original_url": "https://github.com/yksz/c-logger",
+	"description": "A simple logging library for C/C++",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051868,
+	"updated_at": 1787063964
 }

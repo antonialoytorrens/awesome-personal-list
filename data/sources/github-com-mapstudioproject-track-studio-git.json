@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mapstudioproject-track-studio-git",
-  "original_url": "https://github.com/MapStudioProject/Track-Studio.git",
-  "description": "A powerful MK8 map editor for creating and editing track models, objects, paths and animations.",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052435,
-  "updated_at": 1787052435
+	"slug": "github-com-mapstudioproject-track-studio-git",
+	"original_url": "https://github.com/MapStudioProject/Track-Studio.git",
+	"description": "A powerful MK8 map editor for creating and editing track models, objects, paths and animations.",
+	"language": "C#",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052435,
+	"updated_at": 1787052435
 }

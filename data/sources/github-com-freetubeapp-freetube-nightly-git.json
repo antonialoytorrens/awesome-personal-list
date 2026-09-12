@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-freetube-nightly-git",
-  "original_url": "https://github.com/FreeTubeApp/FreeTube-Nightly.git",
-  "description": "Nightly builds of FreeTube",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052218,
-  "updated_at": 1787052218
+	"slug": "github-com-freetubeapp-freetube-nightly-git",
+	"original_url": "https://github.com/FreeTubeApp/FreeTube-Nightly.git",
+	"description": "Nightly builds of FreeTube",
+	"language": "Text",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052218,
+	"updated_at": 1787052218
 }

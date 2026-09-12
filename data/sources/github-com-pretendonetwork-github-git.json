@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-github-git",
-  "original_url": "https://github.com/PretendoNetwork/.github.git",
-  "description": "Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054008,
-  "updated_at": 1787054008
+	"slug": "github-com-pretendonetwork-github-git",
+	"original_url": "https://github.com/PretendoNetwork/.github.git",
+	"description": "Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements",
+	"language": "",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054008,
+	"updated_at": 1787054008
 }

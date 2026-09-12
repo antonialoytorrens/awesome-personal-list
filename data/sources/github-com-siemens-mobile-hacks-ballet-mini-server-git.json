@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-ballet-mini-server-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/ballet-mini-server.git",
-  "description": "Custom server for BalletMini.elf browser",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054134,
-  "updated_at": 1787054134
+	"slug": "github-com-siemens-mobile-hacks-ballet-mini-server-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/ballet-mini-server.git",
+	"description": "Custom server for BalletMini.elf browser",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054134,
+	"updated_at": 1787054134
 }

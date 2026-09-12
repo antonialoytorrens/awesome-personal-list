@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-web-api-git",
-  "original_url": "https://github.com/TeamNewPipe/web-api.git",
-  "description": "REST API providing external data feeds for the NewPipe website. Written as a micro service. In Python.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054866,
-  "updated_at": 1787054866
+	"slug": "github-com-teamnewpipe-web-api-git",
+	"original_url": "https://github.com/TeamNewPipe/web-api.git",
+	"description": "REST API providing external data feeds for the NewPipe website. Written as a micro service. In Python.",
+	"language": "Python",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054866,
+	"updated_at": 1787054866
 }

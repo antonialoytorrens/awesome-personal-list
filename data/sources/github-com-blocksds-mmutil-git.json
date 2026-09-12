@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-blocksds-mmutil-git",
-	"original_url":	"https://github.com/blocksds/mmutil.git",
-	"description":	"Tool to package audio files for Maxmod. Fork of https://github.com/devkitPro/mmutil",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051821,
-	"updated_at":	1787063960
+	"slug": "github-com-blocksds-mmutil-git",
+	"original_url": "https://github.com/blocksds/mmutil.git",
+	"description": "Tool to package audio files for Maxmod. Fork of https://github.com/devkitPro/mmutil",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051821,
+	"updated_at": 1787063960
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-soulengineproject-light-vn-plugins-tests-git",
-  "original_url": "https://github.com/SoulEngineProject/Light.vn-plugins-tests.git",
-  "description": "Light.vn Test Plugins",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054291,
-  "updated_at": 1787054291
+	"slug": "github-com-soulengineproject-light-vn-plugins-tests-git",
+	"original_url": "https://github.com/SoulEngineProject/Light.vn-plugins-tests.git",
+	"description": "Light.vn Test Plugins",
+	"language": "Text",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054291,
+	"updated_at": 1787054291
 }

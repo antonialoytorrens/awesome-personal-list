@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-mindlapsedemos-256boss-git",
-	"original_url":	"https://github.com/MindlapseDemos/256boss.git",
-	"description":	"Bootable launcher for running 256byte intros without DOS",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052465,
-	"updated_at":	1787063962
+	"slug": "github-com-mindlapsedemos-256boss-git",
+	"original_url": "https://github.com/MindlapseDemos/256boss.git",
+	"description": "Bootable launcher for running 256byte intros without DOS",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052465,
+	"updated_at": 1787063962
 }

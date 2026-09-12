@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-albfernandez-clienteafirma-deb-package",
-  "original_url": "https://github.com/albfernandez/clienteafirma-deb-package",
-  "description": "Paquetes debian de AutoFirma",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051800,
-  "updated_at": 1787051800
+	"slug": "github-com-albfernandez-clienteafirma-deb-package",
+	"original_url": "https://github.com/albfernandez/clienteafirma-deb-package",
+	"description": "Paquetes debian de AutoFirma",
+	"language": "Shell",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051800,
+	"updated_at": 1787051800
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"git-srb2-org-kartkrew-ringracers",
-	"original_url":	"https://git.srb2.org/KartKrew/RingRacers",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054316,
-	"updated_at":	1787063960
+	"slug": "git-srb2-org-kartkrew-ringracers",
+	"original_url": "https://git.srb2.org/KartKrew/RingRacers",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054316,
+	"updated_at": 1787063960
 }

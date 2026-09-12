@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-naticq-server-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/naticq_server.git",
-  "description": "Ð¡ÐµÑÐ²ÐµÑ IG11 Ð´Ð»Ñ Ð¿ÑÐ¾ÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð¿ÑÐ¾ÑÐ¾ÐºÐ¾Ð»Ð° NatICQ Ð² ICQ (Oscar)",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054137,
-  "updated_at": 1787054137
+	"slug": "github-com-siemens-mobile-hacks-naticq-server-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/naticq_server.git",
+	"description": "Ð¡ÐµÑÐ²ÐµÑ IG11 Ð´Ð»Ñ Ð¿ÑÐ¾ÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð¿ÑÐ¾ÑÐ¾ÐºÐ¾Ð»Ð° NatICQ Ð² ICQ (Oscar)",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054137,
+	"updated_at": 1787054137
 }

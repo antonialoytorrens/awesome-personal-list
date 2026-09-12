@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-3ds-portlibs-git",
-  "original_url": "https://github.com/devkitPro/3ds_portlibs.git",
-  "description": "Portlibs for 3DS",
-  "language": "Makefile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052017,
-  "updated_at": 1787052017
+	"slug": "github-com-devkitpro-3ds-portlibs-git",
+	"original_url": "https://github.com/devkitPro/3ds_portlibs.git",
+	"description": "Portlibs for 3DS",
+	"language": "Makefile",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052017,
+	"updated_at": 1787052017
 }

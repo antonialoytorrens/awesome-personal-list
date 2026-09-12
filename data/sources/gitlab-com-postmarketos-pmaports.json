@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-postmarketos-pmaports",
-  "original_url": "https://gitlab.com/postmarketOS/pmaports",
-  "description": "postmarketOS package build recipes",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053990,
-  "updated_at": 1787053990
+	"slug": "gitlab-com-postmarketos-pmaports",
+	"original_url": "https://gitlab.com/postmarketOS/pmaports",
+	"description": "postmarketOS package build recipes",
+	"language": "Shell",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053990,
+	"updated_at": 1787053990
 }

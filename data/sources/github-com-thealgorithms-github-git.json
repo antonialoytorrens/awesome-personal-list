@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-github-git",
-  "original_url": "https://github.com/TheAlgorithms/.github.git",
-  "description": "Default configuration for @TheAlgorithms repositories",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054878,
-  "updated_at": 1787054878
+	"slug": "github-com-thealgorithms-github-git",
+	"original_url": "https://github.com/TheAlgorithms/.github.git",
+	"description": "Default configuration for @TheAlgorithms repositories",
+	"language": "Markdown",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054878,
+	"updated_at": 1787054878
 }

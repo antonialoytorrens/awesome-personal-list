@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sf-mw-ipconnmgmt-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sf.mw.ipconnmgmt.git",
-  "description": "Symbian IP Connection Management Middleware",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054372,
-  "updated_at": 1787054372
+	"slug": "github-com-symbiansource-oss-fcl-sf-mw-ipconnmgmt-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sf.mw.ipconnmgmt.git",
+	"description": "Symbian IP Connection Management Middleware",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054372,
+	"updated_at": 1787054372
 }

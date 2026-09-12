@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-old-funkin-site-git",
-  "original_url": "https://github.com/FunkinCrew/old-funkin-site.git",
-  "description": "The old site source for funkin.me! For historical purposes teehee",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052221,
-  "updated_at": 1787052221
+	"slug": "github-com-funkincrew-old-funkin-site-git",
+	"original_url": "https://github.com/FunkinCrew/old-funkin-site.git",
+	"description": "The old site source for funkin.me! For historical purposes teehee",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052221,
+	"updated_at": 1787052221
 }

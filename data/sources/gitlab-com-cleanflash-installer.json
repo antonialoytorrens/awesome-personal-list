@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-cleanflash-installer",
-  "original_url": "https://gitlab.com/cleanflash/installer",
-  "description": "",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043242,
-  "created_at": 1787051714,
-  "updated_at": 1787051714
+	"slug": "gitlab-com-cleanflash-installer",
+	"original_url": "https://gitlab.com/cleanflash/installer",
+	"description": "",
+	"language": "Rust",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043242,
+	"created_at": 1787051714,
+	"updated_at": 1787051714
 }

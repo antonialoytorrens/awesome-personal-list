@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-dev-goodies-git",
-  "original_url": "https://github.com/webosbrew/dev-goodies.git",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054987,
-  "updated_at": 1787054987
+	"slug": "github-com-webosbrew-dev-goodies-git",
+	"original_url": "https://github.com/webosbrew/dev-goodies.git",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054987,
+	"updated_at": 1787054987
 }

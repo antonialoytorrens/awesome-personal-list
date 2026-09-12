@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-plugintemplate-git",
-  "original_url": "https://github.com/ManimCommunity/manim-plugintemplate.git",
-  "description": "A template project to both illustrate and serve as an example for plugin creations on top of the manim.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052428,
-  "updated_at": 1787052428
+	"slug": "github-com-manimcommunity-manim-plugintemplate-git",
+	"original_url": "https://github.com/ManimCommunity/manim-plugintemplate.git",
+	"description": "A template project to both illustrate and serve as an example for plugin creations on top of the manim.",
+	"language": "Python",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052428,
+	"updated_at": 1787052428
 }

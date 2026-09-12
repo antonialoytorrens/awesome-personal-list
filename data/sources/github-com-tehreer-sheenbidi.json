@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-tehreer-sheenbidi",
-	"original_url":	"https://github.com/Tehreer/SheenBidi",
-	"description":	"A sophisticated implementation of Unicode Bidirectional Algorithm",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051853,
-	"updated_at":	1787063964
+	"slug": "github-com-tehreer-sheenbidi",
+	"original_url": "https://github.com/Tehreer/SheenBidi",
+	"description": "A sophisticated implementation of Unicode Bidirectional Algorithm",
+	"language": "C",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051853,
+	"updated_at": 1787063964
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-quickemu-project-quickemu-project-github-io-git",
-  "original_url": "https://github.com/quickemu-project/quickemu-project.github.io.git",
-  "description": "Quickemu website",
-  "language": "Nix",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054097,
-  "updated_at": 1787054097
+	"slug": "github-com-quickemu-project-quickemu-project-github-io-git",
+	"original_url": "https://github.com/quickemu-project/quickemu-project.github.io.git",
+	"description": "Quickemu website",
+	"language": "Nix",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054097,
+	"updated_at": 1787054097
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-phoboslab-qoi",
-	"original_url":	"https://github.com/phoboslab/qoi",
-	"description":	"The âQuite OK Image Formatâ for fast, lossless image compression",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051891,
-	"updated_at":	1787063962
+	"slug": "github-com-phoboslab-qoi",
+	"original_url": "https://github.com/phoboslab/qoi",
+	"description": "The âQuite OK Image Formatâ for fast, lossless image compression",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051891,
+	"updated_at": 1787063962
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-linux-pmb887x-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/linux-pmb887x.git",
-  "description": "Just for fun and self-studying porting linux kernel to the Benq-Siemens EL71",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054134,
-  "updated_at": 1787054134
+	"slug": "github-com-siemens-mobile-hacks-linux-pmb887x-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/linux-pmb887x.git",
+	"description": "Just for fun and self-studying porting linux kernel to the Benq-Siemens EL71",
+	"language": "",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054134,
+	"updated_at": 1787054134
 }

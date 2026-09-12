@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-i2d-wgpu-git",
-  "original_url": "https://github.com/Inochi2D/i2d-wgpu.git",
-  "description": "WebGPU for D (With Inochi2D specific changes)",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052303,
-  "updated_at": 1787052303
+	"slug": "github-com-inochi2d-i2d-wgpu-git",
+	"original_url": "https://github.com/Inochi2D/i2d-wgpu.git",
+	"description": "WebGPU for D (With Inochi2D specific changes)",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052303,
+	"updated_at": 1787052303
 }

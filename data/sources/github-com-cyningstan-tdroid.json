@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cyningstan-tdroid",
-	"original_url":	"https://github.com/cyningstan/tdroid",
-	"description":	"Team Droid",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052096,
-	"updated_at":	1787063960
+	"slug": "github-com-cyningstan-tdroid",
+	"original_url": "https://github.com/cyningstan/tdroid",
+	"description": "Team Droid",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052096,
+	"updated_at": 1787063960
 }

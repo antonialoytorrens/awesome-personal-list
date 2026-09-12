@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-opentoonz-opentoonz-sample-git",
-  "original_url": "https://github.com/opentoonz/opentoonz_sample.git",
-  "description": "OpenToonz Sample Data",
-  "language": "TL-Verilog",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052608,
-  "updated_at": 1787052608
+	"slug": "github-com-opentoonz-opentoonz-sample-git",
+	"original_url": "https://github.com/opentoonz/opentoonz_sample.git",
+	"description": "OpenToonz Sample Data",
+	"language": "TL-Verilog",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052608,
+	"updated_at": 1787052608
 }

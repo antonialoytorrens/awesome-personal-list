@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-fail0verflow-sony-psvr-linux-git",
-	"original_url":	"https://github.com/fail0verflow/sony-psvr-linux.git",
-	"description":	"PSVR linux kernel OSS releases in git form https://doc.dl.playstation.net/doc/psvr-oss/linux_kernel.html",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052180,
-	"updated_at":	1787063961
+	"slug": "github-com-fail0verflow-sony-psvr-linux-git",
+	"original_url": "https://github.com/fail0verflow/sony-psvr-linux.git",
+	"description": "PSVR linux kernel OSS releases in git form https://doc.dl.playstation.net/doc/psvr-oss/linux_kernel.html",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052180,
+	"updated_at": 1787063961
 }

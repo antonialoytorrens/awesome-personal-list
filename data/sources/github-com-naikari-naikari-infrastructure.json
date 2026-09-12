@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-naikari-naikari-infrastructure",
-  "original_url": "https://github.com/naikari/naikari-infrastructure",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052499,
-  "updated_at": 1787052499
+	"slug": "github-com-naikari-naikari-infrastructure",
+	"original_url": "https://github.com/naikari/naikari-infrastructure",
+	"description": "",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052499,
+	"updated_at": 1787052499
 }

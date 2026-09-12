@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-makedeb-prebuilt-mpr-old-git",
-  "original_url": "https://github.com/makedeb/prebuilt-mpr-old.git",
-  "description": "The builder for PrebuiltMPR",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052419,
-  "updated_at": 1787052419
+	"slug": "github-com-makedeb-prebuilt-mpr-old-git",
+	"original_url": "https://github.com/makedeb/prebuilt-mpr-old.git",
+	"description": "The builder for PrebuiltMPR",
+	"language": "Shell",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052419,
+	"updated_at": 1787052419
 }

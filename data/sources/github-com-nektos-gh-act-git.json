@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nektos-gh-act-git",
-  "original_url": "https://github.com/nektos/gh-act.git",
-  "description": "GitHub CLI Extension to run GitHub actions locally",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052528,
-  "updated_at": 1787052528
+	"slug": "github-com-nektos-gh-act-git",
+	"original_url": "https://github.com/nektos/gh-act.git",
+	"description": "GitHub CLI Extension to run GitHub actions locally",
+	"language": "",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052528,
+	"updated_at": 1787052528
 }

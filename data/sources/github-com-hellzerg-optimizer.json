@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-hellzerg-optimizer",
-  "original_url": "https://github.com/hellzerg/optimizer",
-  "description": "The finest Windows Optimizer",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055022,
-  "updated_at": 1787055022
+	"slug": "github-com-hellzerg-optimizer",
+	"original_url": "https://github.com/hellzerg/optimizer",
+	"description": "The finest Windows Optimizer",
+	"language": "C#",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055022,
+	"updated_at": 1787055022
 }

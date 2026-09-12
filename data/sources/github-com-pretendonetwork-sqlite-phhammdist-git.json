@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pretendonetwork-sqlite-phhammdist-git",
-	"original_url":	"https://github.com/PretendoNetwork/sqlite-phhammdist.git",
-	"description":	"PHash Hamming distance calcuation in SQLite",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054056,
-	"updated_at":	1787063962
+	"slug": "github-com-pretendonetwork-sqlite-phhammdist-git",
+	"original_url": "https://github.com/PretendoNetwork/sqlite-phhammdist.git",
+	"description": "PHash Hamming distance calcuation in SQLite",
+	"language": "C",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054056,
+	"updated_at": 1787063962
 }

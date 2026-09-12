@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-team-discord-webhooks-git",
-  "original_url": "https://github.com/Universal-Team/discord-webhooks.git",
-  "description": "â Here's your serverless solution for sending build status from Travis CI, Azure Pipelines, and Github actions to Discord as webhooks.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054931,
-  "updated_at": 1787054931
+	"slug": "github-com-universal-team-discord-webhooks-git",
+	"original_url": "https://github.com/Universal-Team/discord-webhooks.git",
+	"description": "â Here's your serverless solution for sending build status from Travis CI, Azure Pipelines, and Github actions to Discord as webhooks.",
+	"language": "Shell",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054931,
+	"updated_at": 1787054931
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pd-rs-crankstart-git",
-  "original_url": "https://github.com/pd-rs/crankstart.git",
-  "description": "A barely functional, wildly incomplete and basically undocumented Rust crate whose aim is to let you write Games for the Playdate handheld gaming system in Rust.",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053939,
-  "updated_at": 1787053939
+	"slug": "github-com-pd-rs-crankstart-git",
+	"original_url": "https://github.com/pd-rs/crankstart.git",
+	"description": "A barely functional, wildly incomplete and basically undocumented Rust crate whose aim is to let you write Games for the Playdate handheld gaming system in Rust.",
+	"language": "Rust",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053939,
+	"updated_at": 1787053939
 }

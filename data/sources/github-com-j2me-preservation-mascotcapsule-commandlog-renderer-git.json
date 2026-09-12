@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-j2me-preservation-mascotcapsule-commandlog-renderer-git",
-  "original_url": "https://github.com/j2me-preservation/MascotCapsule-CommandLog-Renderer.git",
-  "description": "Offline renderer for MascotCapsule Micro3D command captures",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052330,
-  "updated_at": 1787052330
+	"slug": "github-com-j2me-preservation-mascotcapsule-commandlog-renderer-git",
+	"original_url": "https://github.com/j2me-preservation/MascotCapsule-CommandLog-Renderer.git",
+	"description": "Offline renderer for MascotCapsule Micro3D command captures",
+	"language": "Python",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052330,
+	"updated_at": 1787052330
 }

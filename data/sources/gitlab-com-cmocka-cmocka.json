@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-cmocka-cmocka",
-	"original_url":	"https://gitlab.com/cmocka/cmocka",
-	"description":	"This is a mirror of the cmocka unit testing framework https://cmocka.org/",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051849,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-cmocka-cmocka",
+	"original_url": "https://gitlab.com/cmocka/cmocka",
+	"description": "This is a mirror of the cmocka unit testing framework https://cmocka.org/",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051849,
+	"updated_at": 1787063964
 }

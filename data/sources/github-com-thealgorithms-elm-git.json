@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-elm-git",
-  "original_url": "https://github.com/TheAlgorithms/Elm.git",
-  "description": "All Algorithms implemented in Elm ",
-  "language": "Elm",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054878,
-  "updated_at": 1787054878
+	"slug": "github-com-thealgorithms-elm-git",
+	"original_url": "https://github.com/TheAlgorithms/Elm.git",
+	"description": "All Algorithms implemented in Elm ",
+	"language": "Elm",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054878,
+	"updated_at": 1787054878
 }

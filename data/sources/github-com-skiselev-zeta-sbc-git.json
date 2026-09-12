@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-zeta-sbc-git",
-  "original_url": "https://github.com/skiselev/zeta_sbc.git",
-  "description": "",
-  "language": "OpenSCAD",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051740,
-  "updated_at": 1787051740
+	"slug": "github-com-skiselev-zeta-sbc-git",
+	"original_url": "https://github.com/skiselev/zeta_sbc.git",
+	"description": "",
+	"language": "OpenSCAD",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051740,
+	"updated_at": 1787051740
 }

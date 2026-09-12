@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-antoni-aloytorrens-pixil",
-  "original_url": "https://gitlab.com/antoni.aloytorrens/pixil",
-  "description": "PIXIL Desktop Environment source code\r\n\r\n(Used in LinuxDS, for example)",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043207,
-  "created_at": 1787051684,
-  "updated_at": 1787051684
+	"slug": "gitlab-com-antoni-aloytorrens-pixil",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/pixil",
+	"description": "PIXIL Desktop Environment source code\r\n\r\n(Used in LinuxDS, for example)",
+	"language": "C++",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043207,
+	"created_at": 1787051684,
+	"updated_at": 1787051684
 }

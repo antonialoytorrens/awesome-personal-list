@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-sql-manager-git",
-  "original_url": "https://github.com/PretendoNetwork/sql-manager.git",
-  "description": "Simple SQL database resource manager",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054052,
-  "updated_at": 1787054052
+	"slug": "github-com-pretendonetwork-sql-manager-git",
+	"original_url": "https://github.com/PretendoNetwork/sql-manager.git",
+	"description": "Simple SQL database resource manager",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054052,
+	"updated_at": 1787054052
 }

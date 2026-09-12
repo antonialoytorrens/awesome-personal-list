@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-pango-windows-binaries-git",
-  "original_url": "https://github.com/ManimCommunity/pango-windows-binaries.git",
-  "description": "Prebuilt Pango binaries for Windows ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052427,
-  "updated_at": 1787052427
+	"slug": "github-com-manimcommunity-pango-windows-binaries-git",
+	"original_url": "https://github.com/ManimCommunity/pango-windows-binaries.git",
+	"description": "Prebuilt Pango binaries for Windows ",
+	"language": "",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052427,
+	"updated_at": 1787052427
 }

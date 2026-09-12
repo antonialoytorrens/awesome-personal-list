@@ -1,12 +1,14 @@
 {
-  "slug": "gitflic-ru-project-magnolia1234-bpc-updates-git",
-  "original_url": "https://gitflic.ru/project/magnolia1234/bpc_updates.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051847,
-  "updated_at": 1787051847
+	"slug": "gitflic-ru-project-magnolia1234-bpc-updates-git",
+	"original_url": "https://gitflic.ru/project/magnolia1234/bpc_updates.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051847,
+	"updated_at": 1787051847
 }

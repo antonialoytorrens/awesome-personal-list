@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rangi42-tilemap-studio",
-  "original_url": "https://github.com/Rangi42/tilemap-studio",
-  "description": "A tilemap editor for Game Boy, Color, Advance, DS, and SNES projects. Written in C++ with FLTK.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043213,
-  "created_at": 1787052207,
-  "updated_at": 1787052207
+	"slug": "github-com-rangi42-tilemap-studio",
+	"original_url": "https://github.com/Rangi42/tilemap-studio",
+	"description": "A tilemap editor for Game Boy, Color, Advance, DS, and SNES projects. Written in C++ with FLTK.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043213,
+	"created_at": 1787052207,
+	"updated_at": 1787052207
 }

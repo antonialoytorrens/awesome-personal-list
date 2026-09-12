@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-meowcat-studio-angrybirdsleveleditor-git",
-  "original_url": "https://github.com/MeowCat-Studio/AngryBirdsLevelEditor.git",
-  "description": "æ¤æçå°é¸å³å¡ç¼è¾å¨ï¼å¯ç¨äºèªå¶å³å¡",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043227,
-  "created_at": 1787051701,
-  "updated_at": 1787051701
+	"slug": "github-com-meowcat-studio-angrybirdsleveleditor-git",
+	"original_url": "https://github.com/MeowCat-Studio/AngryBirdsLevelEditor.git",
+	"description": "æ¤æçå°é¸å³å¡ç¼è¾å¨ï¼å¯ç¨äºèªå¶å³å¡",
+	"language": "JavaScript",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043227,
+	"created_at": 1787051701,
+	"updated_at": 1787051701
 }

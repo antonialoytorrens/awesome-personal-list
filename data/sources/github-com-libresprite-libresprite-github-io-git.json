@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-libresprite-libresprite-github-io-git",
-  "original_url": "https://github.com/LibreSprite/libresprite.github.io.git",
-  "description": "Website for the LibreSprite project.",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052392,
-  "updated_at": 1787052392
+	"slug": "github-com-libresprite-libresprite-github-io-git",
+	"original_url": "https://github.com/LibreSprite/libresprite.github.io.git",
+	"description": "Website for the LibreSprite project.",
+	"language": "HTML",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052392,
+	"updated_at": 1787052392
 }

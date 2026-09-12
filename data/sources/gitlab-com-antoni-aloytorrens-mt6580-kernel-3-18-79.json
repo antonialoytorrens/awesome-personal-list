@@ -1,12 +1,14 @@
 {
-	"slug":	"gitlab-com-antoni-aloytorrens-mt6580-kernel-3-18-79",
-	"original_url":	"https://gitlab.com/antoni.aloytorrens/mt6580_kernel_3.18.79",
-	"description":	"mt6580 3.18.79 kernel for Android 8.1 Oreo / Clone Phones Source\r\n\r\nForked from https://github.com/obraxys/kernel_3.18.79",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052354,
-	"updated_at":	1787063964
+	"slug": "gitlab-com-antoni-aloytorrens-mt6580-kernel-3-18-79",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/mt6580_kernel_3.18.79",
+	"description": "mt6580 3.18.79 kernel for Android 8.1 Oreo / Clone Phones Source\r\n\r\nForked from https://github.com/obraxys/kernel_3.18.79",
+	"language": "C",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052354,
+	"updated_at": 1787063964
 }

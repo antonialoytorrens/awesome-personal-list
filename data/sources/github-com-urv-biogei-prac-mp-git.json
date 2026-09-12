@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-urv-biogei-prac-mp-git",
-	"original_url":	"https://github.com/URV-BioGEI/Prac_MP.git",
-	"description":	"Programming labs of the Programming Methodologies subject of the Computer Science Degree, URV. ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054954,
-	"updated_at":	1787063964
+	"slug": "github-com-urv-biogei-prac-mp-git",
+	"original_url": "https://github.com/URV-BioGEI/Prac_MP.git",
+	"description": "Programming labs of the Programming Methodologies subject of the Computer Science Degree, URV. ",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054954,
+	"updated_at": 1787063964
 }

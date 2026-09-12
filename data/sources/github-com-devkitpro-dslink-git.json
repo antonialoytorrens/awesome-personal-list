@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-devkitpro-dslink-git",
-	"original_url":	"https://github.com/devkitPro/dslink.git",
-	"description":	"Wifi code loader for Nintendo DS",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052024,
-	"updated_at":	1787063960
+	"slug": "github-com-devkitpro-dslink-git",
+	"original_url": "https://github.com/devkitPro/dslink.git",
+	"description": "Wifi code loader for Nintendo DS",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052024,
+	"updated_at": 1787063960
 }

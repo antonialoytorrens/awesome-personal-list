@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-dldi-git",
-	"original_url":	"https://github.com/DS-Homebrew/DLDI.git",
-	"description":	"An archive of flashcard DLDI drivers and source codes",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052106,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-dldi-git",
+	"original_url": "https://github.com/DS-Homebrew/DLDI.git",
+	"description": "An archive of flashcard DLDI drivers and source codes",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052106,
+	"updated_at": 1787063960
 }

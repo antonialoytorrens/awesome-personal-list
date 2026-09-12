@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-templeprogramming-holymath",
-  "original_url": "https://github.com/TempleProgramming/HolyMath",
-  "description": "A divinely inspired vector math library for ZealOS.",
-  "language": "HolyC",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052273,
-  "updated_at": 1787052273
+	"slug": "github-com-templeprogramming-holymath",
+	"original_url": "https://github.com/TempleProgramming/HolyMath",
+	"description": "A divinely inspired vector math library for ZealOS.",
+	"language": "HolyC",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052273,
+	"updated_at": 1787052273
 }

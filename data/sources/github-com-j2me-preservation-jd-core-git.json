@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-j2me-preservation-jd-core-git",
-  "original_url": "https://github.com/j2me-preservation/jd-core.git",
-  "description": "JD-Core is a JAVA decompiler written in JAVA.",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052329,
-  "updated_at": 1787052329
+	"slug": "github-com-j2me-preservation-jd-core-git",
+	"original_url": "https://github.com/j2me-preservation/jd-core.git",
+	"description": "JD-Core is a JAVA decompiler written in JAVA.",
+	"language": "Java",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052329,
+	"updated_at": 1787052329
 }

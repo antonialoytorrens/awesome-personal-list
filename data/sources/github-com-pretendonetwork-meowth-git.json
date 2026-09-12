@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-meowth-git",
-  "original_url": "https://github.com/PretendoNetwork/Meowth.git",
-  "description": "Slash through SSL verification checks in Wii U games",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054031,
-  "updated_at": 1787054031
+	"slug": "github-com-pretendonetwork-meowth-git",
+	"original_url": "https://github.com/PretendoNetwork/Meowth.git",
+	"description": "Slash through SSL verification checks in Wii U games",
+	"language": "C++",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054031,
+	"updated_at": 1787054031
 }

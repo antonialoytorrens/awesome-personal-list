@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-massgravel-massgrave-dev-git",
-  "original_url": "https://github.com/massgravel/massgrave.dev.git",
-  "description": "Documentation For Microsoft Activation Scripts (MAS)",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052454,
-  "updated_at": 1787052454
+	"slug": "github-com-massgravel-massgrave-dev-git",
+	"original_url": "https://github.com/massgravel/massgrave.dev.git",
+	"description": "Documentation For Microsoft Activation Scripts (MAS)",
+	"language": "CSS",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052454,
+	"updated_at": 1787052454
 }

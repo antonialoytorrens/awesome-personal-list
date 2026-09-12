@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-artemsen-pipewalker",
-  "original_url": "https://github.com/artemsen/pipewalker",
-  "description": "Puzzle game",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053284,
-  "updated_at": 1787053284
+	"slug": "github-com-artemsen-pipewalker",
+	"original_url": "https://github.com/artemsen/pipewalker",
+	"description": "Puzzle game",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053284,
+	"updated_at": 1787053284
 }

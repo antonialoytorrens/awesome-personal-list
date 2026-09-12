@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-opentoonz-dwango-opentoonz-plugins-git",
-  "original_url": "https://github.com/opentoonz/dwango_opentoonz_plugins.git",
-  "description": "OpenToonz plug-in developed by DWANGO",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052604,
-  "updated_at": 1787052604
+	"slug": "github-com-opentoonz-dwango-opentoonz-plugins-git",
+	"original_url": "https://github.com/opentoonz/dwango_opentoonz_plugins.git",
+	"description": "OpenToonz plug-in developed by DWANGO",
+	"language": "C++",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052604,
+	"updated_at": 1787052604
 }

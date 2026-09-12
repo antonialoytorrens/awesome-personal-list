@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tsukihimates-tsukihime-translation",
-  "original_url": "https://github.com/Tsukihimates/Tsukihime-Translation",
-  "description": "Open source translation of Tsukihime -A Piece of Blue Glass Moon- prepared by Tsukihimates",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054983,
-  "updated_at": 1787054983
+	"slug": "github-com-tsukihimates-tsukihime-translation",
+	"original_url": "https://github.com/Tsukihimates/Tsukihime-Translation",
+	"description": "Open source translation of Tsukihime -A Piece of Blue Glass Moon- prepared by Tsukihimates",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054983,
+	"updated_at": 1787054983
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blogc-blogc-overlay-git",
-  "original_url": "https://github.com/blogc/blogc-overlay.git",
-  "description": "Gentoo overlay for blogc snapshots. Releases are available in main Gentoo tree.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051835,
-  "updated_at": 1787051835
+	"slug": "github-com-blogc-blogc-overlay-git",
+	"original_url": "https://github.com/blogc/blogc-overlay.git",
+	"description": "Gentoo overlay for blogc snapshots. Releases are available in main Gentoo tree.",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051835,
+	"updated_at": 1787051835
 }

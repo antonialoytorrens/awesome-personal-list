@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ar-zz-duboy-arduboy",
-  "original_url": "https://github.com/Ar-zz-duboy/Arduboy",
-  "description": "Core library for the Arduboy.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051793,
-  "updated_at": 1787051793
+	"slug": "github-com-ar-zz-duboy-arduboy",
+	"original_url": "https://github.com/Ar-zz-duboy/Arduboy",
+	"description": "Core library for the Arduboy.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051793,
+	"updated_at": 1787051793
 }

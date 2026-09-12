@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-pgegamesave-git",
-  "original_url": "https://github.com/WohlSoft/PgeGameSave.git",
-  "description": "A database-based save game format designed to store a large amount of data. Unfinished. Archives as very outdated and not actual.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055033,
-  "updated_at": 1787055033
+	"slug": "github-com-wohlsoft-pgegamesave-git",
+	"original_url": "https://github.com/WohlSoft/PgeGameSave.git",
+	"description": "A database-based save game format designed to store a large amount of data. Unfinished. Archives as very outdated and not actual.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055033,
+	"updated_at": 1787055033
 }

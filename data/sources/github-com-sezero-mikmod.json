@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sezero-mikmod",
-	"original_url":	"https://github.com/sezero/mikmod",
-	"description":	"Mikmod Sound System (mirror of git repo at https://sf.net/projects/mikmod/)",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051862,
-	"updated_at":	1787063963
+	"slug": "github-com-sezero-mikmod",
+	"original_url": "https://github.com/sezero/mikmod",
+	"description": "Mikmod Sound System (mirror of git repo at https://sf.net/projects/mikmod/)",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051862,
+	"updated_at": 1787063963
 }

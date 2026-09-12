@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-decidim-docker-git",
-  "original_url": "https://github.com/decidim/docker.git",
-  "description": "Docker images for decidim",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051998,
-  "updated_at": 1787051998
+	"slug": "github-com-decidim-docker-git",
+	"original_url": "https://github.com/decidim/docker.git",
+	"description": "Docker images for decidim",
+	"language": "Shell",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051998,
+	"updated_at": 1787051998
 }

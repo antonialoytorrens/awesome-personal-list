@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cxong-cdogs-sdl",
-	"original_url":	"https://github.com/cxong/cdogs-sdl",
-	"description":	"Classic overhead run-and-gun game",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053277,
-	"updated_at":	1787063960
+	"slug": "github-com-cxong-cdogs-sdl",
+	"original_url": "https://github.com/cxong/cdogs-sdl",
+	"description": "Classic overhead run-and-gun game",
+	"language": "C",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053277,
+	"updated_at": 1787063960
 }

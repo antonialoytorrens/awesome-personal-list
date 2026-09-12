@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-floooh-cimgui-sokol-starterkit",
-  "original_url": "https://github.com/floooh/cimgui-sokol-starterkit",
-  "description": "A minimal self-contained Dear ImGui starter project for Windows, Linux and macOS.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054286,
-  "updated_at": 1787054286
+	"slug": "github-com-floooh-cimgui-sokol-starterkit",
+	"original_url": "https://github.com/floooh/cimgui-sokol-starterkit",
+	"description": "A minimal self-contained Dear ImGui starter project for Windows, Linux and macOS.",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054286,
+	"updated_at": 1787054286
 }

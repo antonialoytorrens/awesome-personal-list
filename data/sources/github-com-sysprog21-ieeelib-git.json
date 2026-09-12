@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-ieeelib-git",
-	"original_url":	"https://github.com/sysprog21/ieeelib.git",
-	"description":	"Torbjorn Granlund's soft floating-point emulation library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054846,
-	"updated_at":	1787063963
+	"slug": "github-com-sysprog21-ieeelib-git",
+	"original_url": "https://github.com/sysprog21/ieeelib.git",
+	"description": "Torbjorn Granlund's soft floating-point emulation library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054846,
+	"updated_at": 1787063963
 }

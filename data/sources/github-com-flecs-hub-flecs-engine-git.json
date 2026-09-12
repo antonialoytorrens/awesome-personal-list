@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flecs-hub-flecs-engine-git",
-  "original_url": "https://github.com/flecs-hub/flecs-engine.git",
-  "description": "A game engine based on the Flecs Entity Component System.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052206,
-  "updated_at": 1787052206
+	"slug": "github-com-flecs-hub-flecs-engine-git",
+	"original_url": "https://github.com/flecs-hub/flecs-engine.git",
+	"description": "A game engine based on the Flecs Entity Component System.",
+	"language": "",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052206,
+	"updated_at": 1787052206
 }

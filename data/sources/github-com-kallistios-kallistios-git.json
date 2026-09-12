@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-kallistios-kallistios-git",
-	"original_url":	"https://github.com/KallistiOS/KallistiOS.git",
-	"description":	"A homebrew SDK/pseudo-operating system for the Sega Dreamcast. This repository is a mirror of the official SourceForge repository for KOS.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052346,
-	"updated_at":	1787063961
+	"slug": "github-com-kallistios-kallistios-git",
+	"original_url": "https://github.com/KallistiOS/KallistiOS.git",
+	"description": "A homebrew SDK/pseudo-operating system for the Sega Dreamcast. This repository is a mirror of the official SourceForge repository for KOS.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052346,
+	"updated_at": 1787063961
 }

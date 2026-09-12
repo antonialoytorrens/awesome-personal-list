@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-davidar-jasmin",
-  "original_url": "https://github.com/davidar/jasmin",
-  "description": "Jasmin is an assembler for the Java Virtual Machine âº",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052336,
-  "updated_at": 1787052336
+	"slug": "github-com-davidar-jasmin",
+	"original_url": "https://github.com/davidar/jasmin",
+	"description": "Jasmin is an assembler for the Java Virtual Machine âº",
+	"language": "Java",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052336,
+	"updated_at": 1787052336
 }

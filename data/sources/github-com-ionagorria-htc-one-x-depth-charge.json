@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ionagorria-htc-one-x-depth-charge",
-  "original_url": "https://github.com/IonAgorria/HTC-One-X-Depth-Charge",
-  "description": "HTC One X Tegra 3 variant HBoot exploit",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053995,
-  "updated_at": 1787053995
+	"slug": "github-com-ionagorria-htc-one-x-depth-charge",
+	"original_url": "https://github.com/IonAgorria/HTC-One-X-Depth-Charge",
+	"description": "HTC One X Tegra 3 variant HBoot exploit",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053995,
+	"updated_at": 1787053995
 }

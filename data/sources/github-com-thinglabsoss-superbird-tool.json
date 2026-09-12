@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thinglabsoss-superbird-tool",
-  "original_url": "https://github.com/thinglabsoss/superbird-tool",
-  "description": "Cross-Platform Spotify Car Thing (superbird) hacking toolkit",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054307,
-  "updated_at": 1787054307
+	"slug": "github-com-thinglabsoss-superbird-tool",
+	"original_url": "https://github.com/thinglabsoss/superbird-tool",
+	"description": "Cross-Platform Spotify Car Thing (superbird) hacking toolkit",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054307,
+	"updated_at": 1787054307
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flecs-hub-flecs-hub-git",
-  "original_url": "https://github.com/flecs-hub/flecs-hub.git",
-  "description": "Bundle with Flecs library and modules ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052197,
-  "updated_at": 1787052197
+	"slug": "github-com-flecs-hub-flecs-hub-git",
+	"original_url": "https://github.com/flecs-hub/flecs-hub.git",
+	"description": "Bundle with Flecs library and modules ",
+	"language": "",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052197,
+	"updated_at": 1787052197
 }

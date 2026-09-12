@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-urv-biogei-urv-biogei-git",
-  "original_url": "https://github.com/URV-BioGEI/URV-BioGEI.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054959,
-  "updated_at": 1787054959
+	"slug": "github-com-urv-biogei-urv-biogei-git",
+	"original_url": "https://github.com/URV-BioGEI/URV-BioGEI.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054959,
+	"updated_at": 1787054959
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-simple2d-simple2d-js-git",
-  "original_url": "https://github.com/simple2d/simple2d.js.git",
-  "description": ":cloud: Simple 2D for the web",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054170,
-  "updated_at": 1787054170
+	"slug": "github-com-simple2d-simple2d-js-git",
+	"original_url": "https://github.com/simple2d/simple2d.js.git",
+	"description": ":cloud: Simple 2D for the web",
+	"language": "JavaScript",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054170,
+	"updated_at": 1787054170
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sysprog21-doom-riscv-git",
-	"original_url":	"https://github.com/sysprog21/doom_riscv.git",
-	"description":	"Doom classic port to lightweight RISCâV",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054840,
-	"updated_at":	1787063963
+	"slug": "github-com-sysprog21-doom-riscv-git",
+	"original_url": "https://github.com/sysprog21/doom_riscv.git",
+	"description": "Doom classic port to lightweight RISCâV",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054840,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-coelckers-prboom-plus",
-	"original_url":	"https://github.com/coelckers/prboom-plus",
-	"description":	"This is a cleaned up copy of the PrBoom+ SVN repository as a courtesy for those interested in forking that port",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052075,
-	"updated_at":	1787063960
+	"slug": "github-com-coelckers-prboom-plus",
+	"original_url": "https://github.com/coelckers/prboom-plus",
+	"description": "This is a cleaned up copy of the PrBoom+ SVN repository as a courtesy for those interested in forking that port",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052075,
+	"updated_at": 1787063960
 }

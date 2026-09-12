@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-subscriber-only-jekyll-subscriber-only-git",
-  "original_url": "https://github.com/subscriber-only/jekyll-subscriber_only.git",
-  "description": "Subscriber Only's Jekyll Plugin",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054319,
-  "updated_at": 1787054319
+	"slug": "github-com-subscriber-only-jekyll-subscriber-only-git",
+	"original_url": "https://github.com/subscriber-only/jekyll-subscriber_only.git",
+	"description": "Subscriber Only's Jekyll Plugin",
+	"language": "Ruby",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054319,
+	"updated_at": 1787054319
 }

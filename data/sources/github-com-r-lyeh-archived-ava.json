@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-r-lyeh-archived-ava",
-	"original_url":	"https://github.com/r-lyeh-archived/AVA",
-	"description":	"A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  Ì·dÌ·aÌ·yÌ·sÌ·  mÌ·oÌ·nÌ·tÌ·hÌ·sÌ·  years.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051871,
-	"updated_at":	1787063963
+	"slug": "github-com-r-lyeh-archived-ava",
+	"original_url": "https://github.com/r-lyeh-archived/AVA",
+	"description": "A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  Ì·dÌ·aÌ·yÌ·sÌ·  mÌ·oÌ·nÌ·tÌ·hÌ·sÌ·  years.",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051871,
+	"updated_at": 1787063963
 }

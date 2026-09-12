@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-akkera102-10-tiny-invader",
-  "original_url": "https://github.com/akkera102/10_tiny_invader",
-  "description": "Tiny Digital Invader - arduboy",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051798,
-  "updated_at": 1787051798
+	"slug": "github-com-akkera102-10-tiny-invader",
+	"original_url": "https://github.com/akkera102/10_tiny_invader",
+	"description": "Tiny Digital Invader - arduboy",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051798,
+	"updated_at": 1787051798
 }

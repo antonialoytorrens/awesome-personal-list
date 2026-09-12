@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mendhak-conscrypt-provider",
-  "original_url": "https://github.com/mendhak/Conscrypt-Provider",
-  "description": "See: https://github.com/AntennaPod/AntennaPod/pull/4077#issuecomment-626993735\r\n\r\nThere is a CVE in Android < 4.4 that can fake apk signatures: https://blackhat.com/docs/us-14/materials/us-14-Forristal-Android-FakeID-Vulnerability-Walkthrough.pdf",
-  "language": "Kotlin",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051780,
-  "updated_at": 1787051780
+	"slug": "github-com-mendhak-conscrypt-provider",
+	"original_url": "https://github.com/mendhak/Conscrypt-Provider",
+	"description": "See: https://github.com/AntennaPod/AntennaPod/pull/4077#issuecomment-626993735\r\n\r\nThere is a CVE in Android < 4.4 that can fake apk signatures: https://blackhat.com/docs/us-14/materials/us-14-Forristal-Android-FakeID-Vulnerability-Walkthrough.pdf",
+	"language": "Kotlin",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051780,
+	"updated_at": 1787051780
 }

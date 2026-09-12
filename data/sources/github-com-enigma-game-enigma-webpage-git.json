@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-enigma-game-enigma-webpage-git",
-  "original_url": "https://github.com/Enigma-Game/Enigma-Webpage.git",
-  "description": "Enigma Game Webpage",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052170,
-  "updated_at": 1787052170
+	"slug": "github-com-enigma-game-enigma-webpage-git",
+	"original_url": "https://github.com/Enigma-Game/Enigma-Webpage.git",
+	"description": "Enigma Game Webpage",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052170,
+	"updated_at": 1787052170
 }

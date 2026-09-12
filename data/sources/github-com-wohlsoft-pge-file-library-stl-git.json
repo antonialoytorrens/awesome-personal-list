@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-pge-file-library-stl-git",
-  "original_url": "https://github.com/WohlSoft/PGE-File-Library-STL.git",
-  "description": "Moondust File Library (PGE-FL) is a library for reading and writing Moondust and SMBX Files.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055029,
-  "updated_at": 1787055029
+	"slug": "github-com-wohlsoft-pge-file-library-stl-git",
+	"original_url": "https://github.com/WohlSoft/PGE-File-Library-STL.git",
+	"description": "Moondust File Library (PGE-FL) is a library for reading and writing Moondust and SMBX Files.",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055029,
+	"updated_at": 1787055029
 }

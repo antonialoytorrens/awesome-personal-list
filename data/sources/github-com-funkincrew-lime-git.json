@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-lime-git",
-  "original_url": "https://github.com/FunkinCrew/lime.git",
-  "description": "A foundational Haxe framework for cross-platform development",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052224,
-  "updated_at": 1787052224
+	"slug": "github-com-funkincrew-lime-git",
+	"original_url": "https://github.com/FunkinCrew/lime.git",
+	"description": "A foundational Haxe framework for cross-platform development",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052224,
+	"updated_at": 1787052224
 }

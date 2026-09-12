@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-imbev-matrix-rss-bridge",
-  "original_url": "https://gitlab.com/imbev/matrix-rss-bridge",
-  "description": "A bridge for reading RSS feeds in Matrix rooms.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051844,
-  "updated_at": 1787051844
+	"slug": "gitlab-com-imbev-matrix-rss-bridge",
+	"original_url": "https://gitlab.com/imbev/matrix-rss-bridge",
+	"description": "A bridge for reading RSS feeds in Matrix rooms.",
+	"language": "Python",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051844,
+	"updated_at": 1787051844
 }

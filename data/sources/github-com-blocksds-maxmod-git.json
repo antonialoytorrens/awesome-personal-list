@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-blocksds-maxmod-git",
-	"original_url":	"https://github.com/blocksds/maxmod.git",
-	"description":	"Audio library for NDS. Fork of https://github.com/devkitPro/maxmod",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051819,
-	"updated_at":	1787063960
+	"slug": "github-com-blocksds-maxmod-git",
+	"original_url": "https://github.com/blocksds/maxmod.git",
+	"description": "Audio library for NDS. Fork of https://github.com/devkitPro/maxmod",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051819,
+	"updated_at": 1787063960
 }

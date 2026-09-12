@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-throwtheswitch-ceedlingexample-microchip-git",
-	"original_url":	"https://github.com/ThrowTheSwitch/CeedlingExample_Microchip.git",
-	"description":	"An example project demonstrating how to configure Ceedling for use with Microchip's compiler and simulator",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054909,
-	"updated_at":	1787063964
+	"slug": "github-com-throwtheswitch-ceedlingexample-microchip-git",
+	"original_url": "https://github.com/ThrowTheSwitch/CeedlingExample_Microchip.git",
+	"description": "An example project demonstrating how to configure Ceedling for use with Microchip's compiler and simulator",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054909,
+	"updated_at": 1787063964
 }

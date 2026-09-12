@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-team-blockescape3ds-git",
-  "original_url": "https://github.com/Universal-Team/BlockEscape3DS.git",
-  "description": "A Block Escape Game for Nintendo 3DS.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054941,
-  "updated_at": 1787054941
+	"slug": "github-com-universal-team-blockescape3ds-git",
+	"original_url": "https://github.com/Universal-Team/BlockEscape3DS.git",
+	"description": "A Block Escape Game for Nintendo 3DS.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054941,
+	"updated_at": 1787054941
 }

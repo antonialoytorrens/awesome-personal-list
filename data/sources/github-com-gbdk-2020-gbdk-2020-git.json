@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-gbdk-2020-gbdk-2020-git",
-	"original_url":	"https://github.com/gbdk-2020/gbdk-2020.git",
-	"description":	"An updated version of GBDK, C compiler, assembler, linker and set of libraries for the Nintendo Gameboy, Nintendo Entertainment System, Sega Master System, Sega Game Gear.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052250,
-	"updated_at":	1787063961
+	"slug": "github-com-gbdk-2020-gbdk-2020-git",
+	"original_url": "https://github.com/gbdk-2020/gbdk-2020.git",
+	"description": "An updated version of GBDK, C compiler, assembler, linker and set of libraries for the Nintendo Gameboy, Nintendo Entertainment System, Sega Master System, Sega Game Gear.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052250,
+	"updated_at": 1787063961
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-simple2d-homebrew-tap-git",
-  "original_url": "https://github.com/simple2d/homebrew-tap.git",
-  "description": ":beer: Simple 2D Homebrew taps",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054169,
-  "updated_at": 1787054169
+	"slug": "github-com-simple2d-homebrew-tap-git",
+	"original_url": "https://github.com/simple2d/homebrew-tap.git",
+	"description": ":beer: Simple 2D Homebrew taps",
+	"language": "Ruby",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054169,
+	"updated_at": 1787054169
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-k4zmu2a-spacecadetpinball",
-  "original_url": "https://github.com/k4zmu2a/SpaceCadetPinball",
-  "description": "Decompilation of 3D Pinball for Windows â Space Cadet",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043244,
-  "created_at": 1787051716,
-  "updated_at": 1787051716
+	"slug": "github-com-k4zmu2a-spacecadetpinball",
+	"original_url": "https://github.com/k4zmu2a/SpaceCadetPinball",
+	"description": "Decompilation of 3D Pinball for Windows â Space Cadet",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043244,
+	"created_at": 1787051716,
+	"updated_at": 1787051716
 }

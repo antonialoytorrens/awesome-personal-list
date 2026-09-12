@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-libsm64-libsm64-blender-git",
-  "original_url": "https://github.com/libsm64/libsm64-blender.git",
-  "description": "Blender client for libsm64",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052398,
-  "updated_at": 1787052398
+	"slug": "github-com-libsm64-libsm64-blender-git",
+	"original_url": "https://github.com/libsm64/libsm64-blender.git",
+	"description": "Blender client for libsm64",
+	"language": "Python",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052398,
+	"updated_at": 1787052398
 }

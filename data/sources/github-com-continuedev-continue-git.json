@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-continuedev-continue-git",
-  "original_url": "https://github.com/continuedev/continue.git",
-  "description": "â© Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051952,
-  "updated_at": 1787051952
+	"slug": "github-com-continuedev-continue-git",
+	"original_url": "https://github.com/continuedev/continue.git",
+	"description": "â© Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+	"language": "TypeScript",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051952,
+	"updated_at": 1787051952
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-massgravel-microsoft-activation-scripts",
-  "original_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-  "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
-  "language": "Batchfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055014,
-  "updated_at": 1787055014
+	"slug": "github-com-massgravel-microsoft-activation-scripts",
+	"original_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+	"description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+	"language": "Batchfile",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055014,
+	"updated_at": 1787055014
 }

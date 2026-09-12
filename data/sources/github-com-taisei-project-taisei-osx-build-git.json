@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-taisei-project-taisei-osx-build-git",
-  "original_url": "https://github.com/taisei-project/taisei-osx-build.git",
-  "description": "Tools for cross-compiling the macOS version of Taisei from GNU/Linux",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054848,
-  "updated_at": 1787054848
+	"slug": "github-com-taisei-project-taisei-osx-build-git",
+	"original_url": "https://github.com/taisei-project/taisei-osx-build.git",
+	"description": "Tools for cross-compiling the macOS version of Taisei from GNU/Linux",
+	"language": "Shell",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054848,
+	"updated_at": 1787054848
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pret-pokecrystal-git",
-  "original_url": "https://github.com/pret/pokecrystal.git",
-  "description": "Disassembly of PokÃ©mon Crystal",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053996,
-  "updated_at": 1787053996
+	"slug": "github-com-pret-pokecrystal-git",
+	"original_url": "https://github.com/pret/pokecrystal.git",
+	"description": "Disassembly of PokÃ©mon Crystal",
+	"language": "Assembly",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053996,
+	"updated_at": 1787053996
 }

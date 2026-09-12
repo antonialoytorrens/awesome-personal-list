@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-hails-wsl9x",
-  "original_url": "https://codeberg.org/hails/wsl9x",
-  "description": "",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052098,
-  "updated_at": 1787052098
+	"slug": "codeberg-org-hails-wsl9x",
+	"original_url": "https://codeberg.org/hails/wsl9x",
+	"description": "",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052098,
+	"updated_at": 1787052098
 }

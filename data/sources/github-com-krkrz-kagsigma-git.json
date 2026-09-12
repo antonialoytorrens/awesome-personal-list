@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-kagsigma-git",
-  "original_url": "https://github.com/krkrz/KAGSigma.git",
-  "description": "ãã¼ãã¦ã§ã¢ãç¨ããæç»ãä½¿ãããå®éçãªãµã³ãã«",
-  "language": "GLSL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052384,
-  "updated_at": 1787052384
+	"slug": "github-com-krkrz-kagsigma-git",
+	"original_url": "https://github.com/krkrz/KAGSigma.git",
+	"description": "ãã¼ãã¦ã§ã¢ãç¨ããæç»ãä½¿ãããå®éçãªãµã³ãã«",
+	"language": "GLSL",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052384,
+	"updated_at": 1787052384
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-antoniond-ucity-advance",
-	"original_url":	"https://github.com/AntonioND/ucity-advance",
-	"description":	" The open-source city-building game for Game Boy Advance.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052246,
-	"updated_at":	1787063960
+	"slug": "github-com-antoniond-ucity-advance",
+	"original_url": "https://github.com/AntonioND/ucity-advance",
+	"description": " The open-source city-building game for Game Boy Advance.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052246,
+	"updated_at": 1787063960
 }

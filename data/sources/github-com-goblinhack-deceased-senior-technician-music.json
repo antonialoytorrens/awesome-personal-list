@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-goblinhack-deceased-senior-technician-music",
-  "original_url": "https://github.com/goblinhack/deceased-senior-technician-music",
-  "description": "Deceased Senior Technician archive of music",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051724,
-  "updated_at": 1787051724
+	"slug": "github-com-goblinhack-deceased-senior-technician-music",
+	"original_url": "https://github.com/goblinhack/deceased-senior-technician-music",
+	"description": "Deceased Senior Technician archive of music",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051724,
+	"updated_at": 1787051724
 }

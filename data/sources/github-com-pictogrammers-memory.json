@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pictogrammers-memory",
-  "original_url": "https://github.com/Pictogrammers/Memory",
-  "description": "Memory Icon Set; ideal for use with Sharp Memory Display 2.7\"",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053987,
-  "updated_at": 1787053987
+	"slug": "github-com-pictogrammers-memory",
+	"original_url": "https://github.com/Pictogrammers/Memory",
+	"description": "Memory Icon Set; ideal for use with Sharp Memory Display 2.7\"",
+	"language": "TypeScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053987,
+	"updated_at": 1787053987
 }

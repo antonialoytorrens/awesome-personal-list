@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wohlsoft-mixerx-ffmpeg-git",
-	"original_url":	"https://github.com/WohlSoft/MixerX-FFmpeg.git",
-	"description":	"The preserved state of the FFMPEG official repository",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055038,
-	"updated_at":	1787063964
+	"slug": "github-com-wohlsoft-mixerx-ffmpeg-git",
+	"original_url": "https://github.com/WohlSoft/MixerX-FFmpeg.git",
+	"description": "The preserved state of the FFMPEG official repository",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055038,
+	"updated_at": 1787063964
 }

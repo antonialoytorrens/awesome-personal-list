@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-freetube-vue-git",
-  "original_url": "https://github.com/FreeTubeApp/FreeTube-Vue.git",
-  "description": "The repository for the upcoming FreeTube rewrite",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052214,
-  "updated_at": 1787052214
+	"slug": "github-com-freetubeapp-freetube-vue-git",
+	"original_url": "https://github.com/FreeTubeApp/FreeTube-Vue.git",
+	"description": "The repository for the upcoming FreeTube rewrite",
+	"language": "JavaScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052214,
+	"updated_at": 1787052214
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-bochs-emu-bochs",
-  "original_url": "https://github.com/bochs-emu/Bochs",
-  "description": "Bochs - Cross Platform x86 Emulator Project",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043220,
-  "created_at": 1787051696,
-  "updated_at": 1787051696
+	"slug": "github-com-bochs-emu-bochs",
+	"original_url": "https://github.com/bochs-emu/Bochs",
+	"description": "Bochs - Cross Platform x86 Emulator Project",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043220,
+	"created_at": 1787051696,
+	"updated_at": 1787051696
 }

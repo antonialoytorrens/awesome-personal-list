@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sdlpal-mingw-std-threads-git",
-  "original_url": "https://github.com/sdlpal/mingw-std-threads.git",
-  "description": "Standard threads implementation currently still missing on MinGW GCC on Windows",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053293,
-  "updated_at": 1787053293
+	"slug": "github-com-sdlpal-mingw-std-threads-git",
+	"original_url": "https://github.com/sdlpal/mingw-std-threads.git",
+	"description": "Standard threads implementation currently still missing on MinGW GCC on Windows",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053293,
+	"updated_at": 1787053293
 }

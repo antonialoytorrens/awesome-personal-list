@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flecs-hub-flecs-systems-admin-git",
-  "original_url": "https://github.com/flecs-hub/flecs-systems-admin.git",
-  "description": "A web dashboard for Flecs",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052190,
-  "updated_at": 1787052190
+	"slug": "github-com-flecs-hub-flecs-systems-admin-git",
+	"original_url": "https://github.com/flecs-hub/flecs-systems-admin.git",
+	"description": "A web dashboard for Flecs",
+	"language": "JavaScript",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052190,
+	"updated_at": 1787052190
 }

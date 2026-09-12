@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cs50-libcs50",
-	"original_url":	"https://github.com/cs50/libcs50",
-	"description":	"This is CS50's Library for C.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051883,
-	"updated_at":	1787063960
+	"slug": "github-com-cs50-libcs50",
+	"original_url": "https://github.com/cs50/libcs50",
+	"description": "This is CS50's Library for C.",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051883,
+	"updated_at": 1787063960
 }

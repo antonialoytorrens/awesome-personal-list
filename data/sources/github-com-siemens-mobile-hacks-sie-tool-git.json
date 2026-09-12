@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-sie-tool-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/sie-tool.git",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054163,
-  "updated_at": 1787054163
+	"slug": "github-com-siemens-mobile-hacks-sie-tool-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/sie-tool.git",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054163,
+	"updated_at": 1787054163
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-minimax8085-apu-ext-git",
-  "original_url": "https://github.com/skiselev/minimax8085-apu-ext.git",
-  "description": "",
-  "language": "KiCad Layout",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051740,
-  "updated_at": 1787051740
+	"slug": "github-com-skiselev-minimax8085-apu-ext-git",
+	"original_url": "https://github.com/skiselev/minimax8085-apu-ext.git",
+	"description": "",
+	"language": "KiCad Layout",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051740,
+	"updated_at": 1787051740
 }

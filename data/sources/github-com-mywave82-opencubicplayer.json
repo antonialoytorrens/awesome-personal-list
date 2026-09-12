@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-mywave82-opencubicplayer",
-	"original_url":	"https://github.com/mywave82/opencubicplayer",
-	"description":	"Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	1,
-	"swh_checked_at":	1787043243,
-	"created_at":	1787051715,
-	"updated_at":	1787063962
+	"slug": "github-com-mywave82-opencubicplayer",
+	"original_url": "https://github.com/mywave82/opencubicplayer",
+	"description": "Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043243,
+	"created_at": 1787051715,
+	"updated_at": 1787063962
 }

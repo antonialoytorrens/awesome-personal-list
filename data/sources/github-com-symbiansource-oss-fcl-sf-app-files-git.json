@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sf-app-files-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.files.git",
-  "description": "Symbian OS File Browser App",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054343,
-  "updated_at": 1787054343
+	"slug": "github-com-symbiansource-oss-fcl-sf-app-files-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.files.git",
+	"description": "Symbian OS File Browser App",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054343,
+	"updated_at": 1787054343
 }

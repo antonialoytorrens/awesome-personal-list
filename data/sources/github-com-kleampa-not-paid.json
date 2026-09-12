@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kleampa-not-paid",
-  "original_url": "https://github.com/kleampa/not-paid",
-  "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052338,
-  "updated_at": 1787052338
+	"slug": "github-com-kleampa-not-paid",
+	"original_url": "https://github.com/kleampa/not-paid",
+	"description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052338,
+	"updated_at": 1787052338
 }

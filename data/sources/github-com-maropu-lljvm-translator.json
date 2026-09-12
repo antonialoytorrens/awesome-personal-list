@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-maropu-lljvm-translator",
-  "original_url": "https://github.com/maropu/lljvm-translator",
-  "description": "A lightweight library to inject LLVM bitcode into JVMs",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052336,
-  "updated_at": 1787052336
+	"slug": "github-com-maropu-lljvm-translator",
+	"original_url": "https://github.com/maropu/lljvm-translator",
+	"description": "A lightweight library to inject LLVM bitcode into JVMs",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052336,
+	"updated_at": 1787052336
 }

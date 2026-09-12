@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-j2me-preservation-bittboy-j2me-git",
-  "original_url": "https://github.com/j2me-preservation/bittboy-j2me.git",
-  "description": "",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052331,
-  "updated_at": 1787052331
+	"slug": "github-com-j2me-preservation-bittboy-j2me-git",
+	"original_url": "https://github.com/j2me-preservation/bittboy-j2me.git",
+	"description": "",
+	"language": "Java",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052331,
+	"updated_at": 1787052331
 }

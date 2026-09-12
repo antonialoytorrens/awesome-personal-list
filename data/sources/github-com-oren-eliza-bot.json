@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-oren-eliza-bot",
-  "original_url": "https://github.com/oren/eliza-bot",
-  "description": "JavasScript bot based on Eliza",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052339,
-  "updated_at": 1787052339
+	"slug": "github-com-oren-eliza-bot",
+	"original_url": "https://github.com/oren/eliza-bot",
+	"description": "JavasScript bot based on Eliza",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052339,
+	"updated_at": 1787052339
 }

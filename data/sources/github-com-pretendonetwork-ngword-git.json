@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-ngword-git",
-  "original_url": "https://github.com/PretendoNetwork/ngword.git",
-  "description": "Libraries for checking user input against Nintendo's word filter patterns (\"NgWord\")",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054070,
-  "updated_at": 1787054070
+	"slug": "github-com-pretendonetwork-ngword-git",
+	"original_url": "https://github.com/PretendoNetwork/ngword.git",
+	"description": "Libraries for checking user input against Nintendo's word filter patterns (\"NgWord\")",
+	"language": "",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054070,
+	"updated_at": 1787054070
 }

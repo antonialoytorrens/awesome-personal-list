@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ublockorigin-uassets-git",
-  "original_url": "https://github.com/uBlockOrigin/uAssets.git",
-  "description": "Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.",
-  "language": "AdBlock",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054925,
-  "updated_at": 1787054925
+	"slug": "github-com-ublockorigin-uassets-git",
+	"original_url": "https://github.com/uBlockOrigin/uAssets.git",
+	"description": "Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.",
+	"language": "AdBlock",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054925,
+	"updated_at": 1787054925
 }

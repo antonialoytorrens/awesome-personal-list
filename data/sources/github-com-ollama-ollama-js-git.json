@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ollama-ollama-js-git",
-  "original_url": "https://github.com/ollama/ollama-js.git",
-  "description": "Ollama JavaScript library",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052578,
-  "updated_at": 1787052578
+	"slug": "github-com-ollama-ollama-js-git",
+	"original_url": "https://github.com/ollama/ollama-js.git",
+	"description": "Ollama JavaScript library",
+	"language": "TypeScript",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052578,
+	"updated_at": 1787052578
 }

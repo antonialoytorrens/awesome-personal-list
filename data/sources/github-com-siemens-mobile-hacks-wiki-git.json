@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-wiki-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/wiki.git",
-  "description": "ÐÐ°Ð·Ð° ÐÐ½Ð°Ð½Ð¸Ð¹ :-D",
-  "language": "STL",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054136,
-  "updated_at": 1787054136
+	"slug": "github-com-siemens-mobile-hacks-wiki-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/wiki.git",
+	"description": "ÐÐ°Ð·Ð° ÐÐ½Ð°Ð½Ð¸Ð¹ :-D",
+	"language": "STL",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054136,
+	"updated_at": 1787054136
 }

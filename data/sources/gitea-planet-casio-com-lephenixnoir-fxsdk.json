@@ -1,12 +1,14 @@
 {
-	"slug":	"gitea-planet-casio-com-lephenixnoir-fxsdk",
-	"original_url":	"https://gitea.planet-casio.com/Lephenixnoir/fxsdk",
-	"description":	"Add-in development tools for fx-9860G and fx-CG 50, to use with GCC and gint.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051930,
-	"updated_at":	1787063960
+	"slug": "gitea-planet-casio-com-lephenixnoir-fxsdk",
+	"original_url": "https://gitea.planet-casio.com/Lephenixnoir/fxsdk",
+	"description": "Add-in development tools for fx-9860G and fx-CG 50, to use with GCC and gint.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051930,
+	"updated_at": 1787063960
 }

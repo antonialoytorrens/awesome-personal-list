@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-branch-name-git",
-  "original_url": "https://github.com/WohlSoft/branch-name.git",
-  "description": "A bash-only implementation of branch-name",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055042,
-  "updated_at": 1787055042
+	"slug": "github-com-wohlsoft-branch-name-git",
+	"original_url": "https://github.com/WohlSoft/branch-name.git",
+	"description": "A bash-only implementation of branch-name",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055042,
+	"updated_at": 1787055042
 }

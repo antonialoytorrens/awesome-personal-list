@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-website-git",
-  "original_url": "https://github.com/PretendoNetwork/website.git",
-  "description": "Website for Pretendo Network",
-  "language": "Handlebars",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054007,
-  "updated_at": 1787054007
+	"slug": "github-com-pretendonetwork-website-git",
+	"original_url": "https://github.com/PretendoNetwork/website.git",
+	"description": "Website for Pretendo Network",
+	"language": "Handlebars",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054007,
+	"updated_at": 1787054007
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-p-stream-backend-git",
-  "original_url": "https://github.com/p-stream/backend.git",
-  "description": "(Backend v2) OpenBackend, based on movie-web's backend, but with some secret sauce for recommendations, and more features to come",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052622,
-  "updated_at": 1787052622
+	"slug": "github-com-p-stream-backend-git",
+	"original_url": "https://github.com/p-stream/backend.git",
+	"description": "(Backend v2) OpenBackend, based on movie-web's backend, but with some secret sauce for recommendations, and more features to come",
+	"language": "TypeScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052622,
+	"updated_at": 1787052622
 }

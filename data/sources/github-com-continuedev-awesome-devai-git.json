@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-continuedev-awesome-devai-git",
-  "original_url": "https://github.com/continuedev/Awesome-DevAI.git",
-  "description": "ð Awesome list of resources about using and building AI software development systems",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051955,
-  "updated_at": 1787051955
+	"slug": "github-com-continuedev-awesome-devai-git",
+	"original_url": "https://github.com/continuedev/Awesome-DevAI.git",
+	"description": "ð Awesome list of resources about using and building AI software development systems",
+	"language": "",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051955,
+	"updated_at": 1787051955
 }

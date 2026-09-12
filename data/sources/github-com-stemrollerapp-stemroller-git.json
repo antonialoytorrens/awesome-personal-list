@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-stemrollerapp-stemroller-git",
-  "original_url": "https://github.com/stemrollerapp/stemroller.git",
-  "description": "Isolate vocals, drums, bass, and other instrumental stems from any song",
-  "language": "Svelte",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054308,
-  "updated_at": 1787054308
+	"slug": "github-com-stemrollerapp-stemroller-git",
+	"original_url": "https://github.com/stemrollerapp/stemroller.git",
+	"description": "Isolate vocals, drums, bass, and other instrumental stems from any song",
+	"language": "Svelte",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054308,
+	"updated_at": 1787054308
 }

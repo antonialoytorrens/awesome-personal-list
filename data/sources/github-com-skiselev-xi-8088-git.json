@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-xi-8088-git",
-  "original_url": "https://github.com/skiselev/xi_8088.git",
-  "description": "",
-  "language": "Gerber Image",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051731,
-  "updated_at": 1787051731
+	"slug": "github-com-skiselev-xi-8088-git",
+	"original_url": "https://github.com/skiselev/xi_8088.git",
+	"description": "",
+	"language": "Gerber Image",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051731,
+	"updated_at": 1787051731
 }

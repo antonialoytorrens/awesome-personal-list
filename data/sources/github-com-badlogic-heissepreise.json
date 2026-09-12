@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-badlogic-heissepreise",
-  "original_url": "https://github.com/badlogic/heissepreise",
-  "description": "Jo eh.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043222,
-  "created_at": 1787051697,
-  "updated_at": 1787051697
+	"slug": "github-com-badlogic-heissepreise",
+	"original_url": "https://github.com/badlogic/heissepreise",
+	"description": "Jo eh.",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043222,
+	"created_at": 1787051697,
+	"updated_at": 1787051697
 }

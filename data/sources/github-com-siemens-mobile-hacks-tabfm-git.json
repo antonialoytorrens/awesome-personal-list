@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-siemens-mobile-hacks-tabfm-git",
-	"original_url":	"https://github.com/siemens-mobile-hacks/tabfm.git",
-	"description":	"Ð¤Ð°Ð¹Ð»Ð¾Ð²ÑÐ¹ Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ Ð´Ð»Ñ ÑÐµÐ»ÐµÑÐ¾Ð½Ð¾Ð² Siemens.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054146,
-	"updated_at":	1787063963
+	"slug": "github-com-siemens-mobile-hacks-tabfm-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/tabfm.git",
+	"description": "Ð¤Ð°Ð¹Ð»Ð¾Ð²ÑÐ¹ Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ Ð´Ð»Ñ ÑÐµÐ»ÐµÑÐ¾Ð½Ð¾Ð² Siemens.",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054146,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-danielweidman-pixmob-ir-reverse-engineering",
-  "original_url": "https://github.com/danielweidman/pixmob-ir-reverse-engineering",
-  "description": "Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053952,
-  "updated_at": 1787053952
+	"slug": "github-com-danielweidman-pixmob-ir-reverse-engineering",
+	"original_url": "https://github.com/danielweidman/pixmob-ir-reverse-engineering",
+	"description": "Hacking the PixMob infrared (and now also RF!) protocol to enable control of PixMob wristbands at home.",
+	"language": "Python",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053952,
+	"updated_at": 1787053952
 }

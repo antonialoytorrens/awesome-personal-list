@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-setup-webos-ndk-action-git",
-  "original_url": "https://github.com/webosbrew/setup-webos-ndk-action.git",
-  "description": "Action for Setting Up webOS NDK",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054998,
-  "updated_at": 1787054998
+	"slug": "github-com-webosbrew-setup-webos-ndk-action-git",
+	"original_url": "https://github.com/webosbrew/setup-webos-ndk-action.git",
+	"description": "Action for Setting Up webOS NDK",
+	"language": "",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054998,
+	"updated_at": 1787054998
 }

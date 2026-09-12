@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mbledkowski-antipixel-archive",
-  "original_url": "https://github.com/mbledkowski/antipixel-archive",
-  "description": "See also:\r\nhttps://anybrowser.org/\r\nhttps://anybrowser.org/campaign",
-  "language": "Hack",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043243,
-  "created_at": 1787051714,
-  "updated_at": 1787051714
+	"slug": "github-com-mbledkowski-antipixel-archive",
+	"original_url": "https://github.com/mbledkowski/antipixel-archive",
+	"description": "See also:\r\nhttps://anybrowser.org/\r\nhttps://anybrowser.org/campaign",
+	"language": "Hack",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043243,
+	"created_at": 1787051714,
+	"updated_at": 1787051714
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ar-zz-duboy-arduboyclassic",
-  "original_url": "https://github.com/Ar-zz-duboy/ArduboyClassic",
-  "description": "The official library for the Arduboy and Arduino 1.0.x IDE",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051794,
-  "updated_at": 1787051794
+	"slug": "github-com-ar-zz-duboy-arduboyclassic",
+	"original_url": "https://github.com/Ar-zz-duboy/ArduboyClassic",
+	"description": "The official library for the Arduboy and Arduino 1.0.x IDE",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051794,
+	"updated_at": 1787051794
 }

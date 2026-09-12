@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-gp2x-core-git",
-  "original_url": "https://github.com/devkitPro/gp2x-core.git",
-  "description": "devkitarm core components for GP2X support",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052042,
-  "updated_at": 1787052042
+	"slug": "github-com-devkitpro-gp2x-core-git",
+	"original_url": "https://github.com/devkitPro/gp2x-core.git",
+	"description": "devkitarm core components for GP2X support",
+	"language": "Assembly",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052042,
+	"updated_at": 1787052042
 }

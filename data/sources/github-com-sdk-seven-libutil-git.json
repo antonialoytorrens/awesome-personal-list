@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sdk-seven-libutil-git",
-	"original_url":	"https://github.com/sdk-seven/libutil.git",
-	"description":	"C Library for non-hardware auxilary functions like logging.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053261,
-	"updated_at":	1787063963
+	"slug": "github-com-sdk-seven-libutil-git",
+	"original_url": "https://github.com/sdk-seven/libutil.git",
+	"description": "C Library for non-hardware auxilary functions like logging.",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053261,
+	"updated_at": 1787063963
 }

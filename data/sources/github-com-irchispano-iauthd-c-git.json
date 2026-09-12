@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-irchispano-iauthd-c-git",
-	"original_url":	"https://github.com/IRCHispano/iauthd-c.git",
-	"description":	"Fork del demonio de AutorizaciÃ³n de IRC",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052323,
-	"updated_at":	1787063961
+	"slug": "github-com-irchispano-iauthd-c-git",
+	"original_url": "https://github.com/IRCHispano/iauthd-c.git",
+	"description": "Fork del demonio de AutorizaciÃ³n de IRC",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052323,
+	"updated_at": 1787063961
 }

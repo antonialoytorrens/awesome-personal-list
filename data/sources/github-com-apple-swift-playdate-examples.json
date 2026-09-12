@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-apple-swift-playdate-examples",
-  "original_url": "https://github.com/apple/swift-playdate-examples",
-  "description": "An Embedded Swift game running on Playdate by Panic",
-  "language": "Swift",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053983,
-  "updated_at": 1787053983
+	"slug": "github-com-apple-swift-playdate-examples",
+	"original_url": "https://github.com/apple/swift-playdate-examples",
+	"description": "An Embedded Swift game running on Playdate by Panic",
+	"language": "Swift",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053983,
+	"updated_at": 1787053983
 }

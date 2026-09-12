@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-json5pp-git",
-  "original_url": "https://github.com/thpatch/json5pp.git",
-  "description": "JSON (ECMA-404 and JSON5) parser & stringifier for C++11",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054902,
-  "updated_at": 1787054902
+	"slug": "github-com-thpatch-json5pp-git",
+	"original_url": "https://github.com/thpatch/json5pp.git",
+	"description": "JSON (ECMA-404 and JSON5) parser & stringifier for C++11",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054902,
+	"updated_at": 1787054902
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-aburguera-sfighter",
-  "original_url": "https://github.com/aburguera/SFIGHTER",
-  "description": "A very basic shooter videogame coded in MC68000 assembly language using the EASy68K environment. It is aimed at providing students an example of low complexity code.",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051759,
-  "updated_at": 1787051759
+	"slug": "github-com-aburguera-sfighter",
+	"original_url": "https://github.com/aburguera/SFIGHTER",
+	"description": "A very basic shooter videogame coded in MC68000 assembly language using the EASy68K environment. It is aimed at providing students an example of low complexity code.",
+	"language": "Assembly",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051759,
+	"updated_at": 1787051759
 }

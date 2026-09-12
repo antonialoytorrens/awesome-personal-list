@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-deepseek-ai-esft-git",
-  "original_url": "https://github.com/deepseek-ai/ESFT.git",
-  "description": "Expert Specialized Fine-Tuning",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052005,
-  "updated_at": 1787052005
+	"slug": "github-com-deepseek-ai-esft-git",
+	"original_url": "https://github.com/deepseek-ai/ESFT.git",
+	"description": "Expert Specialized Fine-Tuning",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052005,
+	"updated_at": 1787052005
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-apress-ray-tracing-gems",
-	"original_url":	"https://github.com/Apress/ray-tracing-gems",
-	"description":	"Source Code for \"Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs\" by Eric Haines and Tomas Akenine-MÃ¶ller ",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051838,
-	"updated_at":	1787063960
+	"slug": "github-com-apress-ray-tracing-gems",
+	"original_url": "https://github.com/Apress/ray-tracing-gems",
+	"description": "Source Code for \"Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs\" by Eric Haines and Tomas Akenine-MÃ¶ller ",
+	"language": "C",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051838,
+	"updated_at": 1787063960
 }

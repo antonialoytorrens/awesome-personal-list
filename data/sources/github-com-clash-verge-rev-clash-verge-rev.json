@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-clash-verge-rev-clash-verge-rev",
-  "original_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-  "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051726,
-  "updated_at": 1787051726
+	"slug": "github-com-clash-verge-rev-clash-verge-rev",
+	"original_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+	"description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+	"language": "TypeScript",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051726,
+	"updated_at": 1787051726
 }

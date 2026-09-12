@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-onlinetex-git",
-  "original_url": "https://github.com/ManimCommunity/manim-onlinetex.git",
-  "description": "A Manim Plugin that renders LaTeX for Mobjects like Tex and MathTex via online services.",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052430,
-  "updated_at": 1787052430
+	"slug": "github-com-manimcommunity-manim-onlinetex-git",
+	"original_url": "https://github.com/ManimCommunity/manim-onlinetex.git",
+	"description": "A Manim Plugin that renders LaTeX for Mobjects like Tex and MathTex via online services.",
+	"language": "Python",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052430,
+	"updated_at": 1787052430
 }

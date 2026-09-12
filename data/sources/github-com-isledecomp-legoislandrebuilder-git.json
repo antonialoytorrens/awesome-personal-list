@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-isledecomp-legoislandrebuilder-git",
-  "original_url": "https://github.com/isledecomp/LEGOIslandRebuilder.git",
-  "description": "A launcher and mod/patch tool for the 1997 video game LEGO Island.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052325,
-  "updated_at": 1787052325
+	"slug": "github-com-isledecomp-legoislandrebuilder-git",
+	"original_url": "https://github.com/isledecomp/LEGOIslandRebuilder.git",
+	"description": "A launcher and mod/patch tool for the 1997 video game LEGO Island.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052325,
+	"updated_at": 1787052325
 }

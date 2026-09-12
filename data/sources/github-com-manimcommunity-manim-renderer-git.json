@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-renderer-git",
-  "original_url": "https://github.com/ManimCommunity/manim-renderer.git",
-  "description": "An electron-based renderer for manim",
-  "language": "Vue",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052426,
-  "updated_at": 1787052426
+	"slug": "github-com-manimcommunity-manim-renderer-git",
+	"original_url": "https://github.com/ManimCommunity/manim-renderer.git",
+	"description": "An electron-based renderer for manim",
+	"language": "Vue",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052426,
+	"updated_at": 1787052426
 }

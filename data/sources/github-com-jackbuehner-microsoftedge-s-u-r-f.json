@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-jackbuehner-microsoftedge-s-u-r-f",
-  "original_url": "https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.",
-  "description": "The S.U.R.F. game from edge://surf",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043221,
-  "created_at": 1787051696,
-  "updated_at": 1787051696
+	"slug": "github-com-jackbuehner-microsoftedge-s-u-r-f",
+	"original_url": "https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.",
+	"description": "The S.U.R.F. game from edge://surf",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043221,
+	"created_at": 1787051696,
+	"updated_at": 1787051696
 }

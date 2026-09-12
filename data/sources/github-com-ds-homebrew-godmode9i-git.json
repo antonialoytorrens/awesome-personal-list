@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-godmode9i-git",
-	"original_url":	"https://github.com/DS-Homebrew/GodMode9i.git",
-	"description":	"GodMode9i Explorer - A full access file browser for the Nintendo DS and DSi consoles :godmode:",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052102,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-godmode9i-git",
+	"original_url": "https://github.com/DS-Homebrew/GodMode9i.git",
+	"description": "GodMode9i Explorer - A full access file browser for the Nintendo DS and DSi consoles :godmode:",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052102,
+	"updated_at": 1787063960
 }

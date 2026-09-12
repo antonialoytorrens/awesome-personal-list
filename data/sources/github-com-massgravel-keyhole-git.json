@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-massgravel-keyhole-git",
-  "original_url": "https://github.com/massgravel/keyhole.git",
-  "description": "R.I.P. ð",
-  "language": "Batchfile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052456,
-  "updated_at": 1787052456
+	"slug": "github-com-massgravel-keyhole-git",
+	"original_url": "https://github.com/massgravel/keyhole.git",
+	"description": "R.I.P. ð",
+	"language": "Batchfile",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052456,
+	"updated_at": 1787052456
 }

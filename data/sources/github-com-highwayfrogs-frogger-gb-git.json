@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-highwayfrogs-frogger-gb-git",
-  "original_url": "https://github.com/HighwayFrogs/frogger-gb.git",
-  "description": "The source code to Frogger for Game Boy / Game Boy Color",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052268,
-  "updated_at": 1787052268
+	"slug": "github-com-highwayfrogs-frogger-gb-git",
+	"original_url": "https://github.com/HighwayFrogs/frogger-gb.git",
+	"description": "The source code to Frogger for Game Boy / Game Boy Color",
+	"language": "Assembly",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052268,
+	"updated_at": 1787052268
 }

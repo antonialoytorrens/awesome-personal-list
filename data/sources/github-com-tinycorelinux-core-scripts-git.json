@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tinycorelinux-core-scripts-git",
-  "original_url": "https://github.com/tinycorelinux/Core-scripts.git",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054916,
-  "updated_at": 1787054916
+	"slug": "github-com-tinycorelinux-core-scripts-git",
+	"original_url": "https://github.com/tinycorelinux/Core-scripts.git",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054916,
+	"updated_at": 1787054916
 }

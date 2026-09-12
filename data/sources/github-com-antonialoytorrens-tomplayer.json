@@ -1,12 +1,15 @@
 {
-	"slug":	"github-com-antonialoytorrens-tomplayer",
-	"original_url":	"https://github.com/antonialoytorrens/TomPlayer",
-	"description":	"From https://sourceforge.net/projects/tomplayer/ . Migrated to Git. Project by srafin (Stephan Rafin). Wiki: https://web.archive.org/web/20180122212356/http://tomplayer.net/joomla/",
-	"language":	"C",
-	"categories":	["homebrew-console"],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054920,
-	"updated_at":	1787063960
+	"slug": "github-com-antonialoytorrens-tomplayer",
+	"original_url": "https://github.com/antonialoytorrens/TomPlayer",
+	"description": "From https://sourceforge.net/projects/tomplayer/ . Migrated to Git. Project by srafin (Stephan Rafin). Wiki: https://web.archive.org/web/20180122212356/http://tomplayer.net/joomla/",
+	"language": "C",
+	"categories": [
+		"homebrew-console",
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054920,
+	"updated_at": 1787063960
 }

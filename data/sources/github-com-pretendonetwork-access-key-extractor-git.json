@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-access-key-extractor-git",
-  "original_url": "https://github.com/PretendoNetwork/access-key-extractor.git",
-  "description": "Extracts server access keys from 3DS and WiiU dumps",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054012,
-  "updated_at": 1787054012
+	"slug": "github-com-pretendonetwork-access-key-extractor-git",
+	"original_url": "https://github.com/PretendoNetwork/access-key-extractor.git",
+	"description": "Extracts server access keys from 3DS and WiiU dumps",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054012,
+	"updated_at": 1787054012
 }

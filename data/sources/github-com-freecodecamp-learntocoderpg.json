@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freecodecamp-learntocoderpg",
-  "original_url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
-  "description": "A visual novel video game where you learn to code and get a dev job ð¯",
-  "language": "Ren'Py",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054112,
-  "updated_at": 1787054112
+	"slug": "github-com-freecodecamp-learntocoderpg",
+	"original_url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
+	"description": "A visual novel video game where you learn to code and get a dev job ð¯",
+	"language": "Ren'Py",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054112,
+	"updated_at": 1787054112
 }

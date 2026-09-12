@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonoko-playdate-puppy-llm",
-  "original_url": "https://github.com/Antonoko/playdate-puppy-llm",
-  "description": "A LLM interface that pays homage to rabbit r1 on Playdate.",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053981,
-  "updated_at": 1787053981
+	"slug": "github-com-antonoko-playdate-puppy-llm",
+	"original_url": "https://github.com/Antonoko/playdate-puppy-llm",
+	"description": "A LLM interface that pays homage to rabbit r1 on Playdate.",
+	"language": "Lua",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053981,
+	"updated_at": 1787053981
 }

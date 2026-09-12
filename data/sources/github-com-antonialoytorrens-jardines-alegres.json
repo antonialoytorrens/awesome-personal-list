@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-jardines-alegres",
-  "original_url": "https://github.com/antonialoytorrens/jardines-alegres",
-  "description": "Jardines Alegres",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052181,
-  "updated_at": 1787052181
+	"slug": "github-com-antonialoytorrens-jardines-alegres",
+	"original_url": "https://github.com/antonialoytorrens/jardines-alegres",
+	"description": "Jardines Alegres",
+	"language": "CSS",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052181,
+	"updated_at": 1787052181
 }

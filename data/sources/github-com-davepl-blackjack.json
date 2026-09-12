@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-davepl-blackjack",
-  "original_url": "https://github.com/davepl/blackjack",
-  "description": "Examples of using unique_ptr and vector",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051989,
-  "updated_at": 1787051989
+	"slug": "github-com-davepl-blackjack",
+	"original_url": "https://github.com/davepl/blackjack",
+	"description": "Examples of using unique_ptr and vector",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051989,
+	"updated_at": 1787051989
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blogc-go-blogc-git",
-  "original_url": "https://github.com/blogc/go-blogc.git",
-  "description": "Write your own blogc build tool in Go!",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051835,
-  "updated_at": 1787051835
+	"slug": "github-com-blogc-go-blogc-git",
+	"original_url": "https://github.com/blogc/go-blogc.git",
+	"description": "Write your own blogc build tool in Go!",
+	"language": "Go",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051835,
+	"updated_at": 1787051835
 }

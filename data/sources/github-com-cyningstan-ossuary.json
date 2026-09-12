@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-cyningstan-ossuary",
-	"original_url":	"https://github.com/cyningstan/ossuary",
-	"description":	"A simplistic roguelike game for MS-DOS",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052097,
-	"updated_at":	1787063960
+	"slug": "github-com-cyningstan-ossuary",
+	"original_url": "https://github.com/cyningstan/ossuary",
+	"description": "A simplistic roguelike game for MS-DOS",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052097,
+	"updated_at": 1787063960
 }

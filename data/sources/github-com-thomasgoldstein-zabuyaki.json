@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thomasgoldstein-zabuyaki",
-  "original_url": "https://github.com/thomasgoldstein/zabuyaki",
-  "description": "Zabuyaki, old-school side-scrolling beat 'em up",
-  "language": "Logos",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053285,
-  "updated_at": 1787053285
+	"slug": "github-com-thomasgoldstein-zabuyaki",
+	"original_url": "https://github.com/thomasgoldstein/zabuyaki",
+	"description": "Zabuyaki, old-school side-scrolling beat 'em up",
+	"language": "Logos",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053285,
+	"updated_at": 1787053285
 }

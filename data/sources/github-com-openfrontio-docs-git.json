@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-openfrontio-docs-git",
-  "original_url": "https://github.com/openfrontio/docs.git",
-  "description": "Documentation for the OpenFront game",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052601,
-  "updated_at": 1787052601
+	"slug": "github-com-openfrontio-docs-git",
+	"original_url": "https://github.com/openfrontio/docs.git",
+	"description": "Documentation for the OpenFront game",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052601,
+	"updated_at": 1787052601
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ds-homebrew-stellads-git",
-  "original_url": "https://github.com/DS-Homebrew/StellaDS.git",
-  "description": "Atari 2600 emulator for DS (original code by AlekMaul)",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052108,
-  "updated_at": 1787052108
+	"slug": "github-com-ds-homebrew-stellads-git",
+	"original_url": "https://github.com/DS-Homebrew/StellaDS.git",
+	"description": "Atari 2600 emulator for DS (original code by AlekMaul)",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052108,
+	"updated_at": 1787052108
 }

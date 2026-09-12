@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-floooh-sokol-zig-imgui-sample",
-  "original_url": "https://github.com/floooh/sokol-zig-imgui-sample",
-  "description": "Sample to use sokol-zig bindings with Dear ImGui",
-  "language": "Zig",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054286,
-  "updated_at": 1787054286
+	"slug": "github-com-floooh-sokol-zig-imgui-sample",
+	"original_url": "https://github.com/floooh/sokol-zig-imgui-sample",
+	"description": "Sample to use sokol-zig bindings with Dear ImGui",
+	"language": "Zig",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054286,
+	"updated_at": 1787054286
 }

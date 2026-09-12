@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rabbitholeescaper1-scatter-gen-git",
-  "original_url": "https://github.com/RabbitHoleEscapeR1/scatter_gen.git",
-  "description": "A very janky and rough scatter generator that accepts mtkclient printgpt's output",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054108,
-  "updated_at": 1787054108
+	"slug": "github-com-rabbitholeescaper1-scatter-gen-git",
+	"original_url": "https://github.com/RabbitHoleEscapeR1/scatter_gen.git",
+	"description": "A very janky and rough scatter generator that accepts mtkclient printgpt's output",
+	"language": "Python",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054108,
+	"updated_at": 1787054108
 }

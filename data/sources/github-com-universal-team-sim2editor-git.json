@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-universal-team-sim2editor-git",
-  "original_url": "https://github.com/Universal-Team/Sim2Editor.git",
-  "description": "A Sims 2 GBA and NDS SAVEditor for Nintendo DS(i), Nintendo 3DS and for your web browser written in C++, HTML, JavaScript and CSS.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054939,
-  "updated_at": 1787054939
+	"slug": "github-com-universal-team-sim2editor-git",
+	"original_url": "https://github.com/Universal-Team/Sim2Editor.git",
+	"description": "A Sims 2 GBA and NDS SAVEditor for Nintendo DS(i), Nintendo 3DS and for your web browser written in C++, HTML, JavaScript and CSS.",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054939,
+	"updated_at": 1787054939
 }

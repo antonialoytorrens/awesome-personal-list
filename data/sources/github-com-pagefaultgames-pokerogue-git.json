@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pagefaultgames-pokerogue-git",
-  "original_url": "https://github.com/pagefaultgames/pokerogue.git",
-  "description": "A browser based PokÃ©mon fangame heavily inspired by the roguelite genre.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053926,
-  "updated_at": 1787053926
+	"slug": "github-com-pagefaultgames-pokerogue-git",
+	"original_url": "https://github.com/pagefaultgames/pokerogue.git",
+	"description": "A browser based PokÃ©mon fangame heavily inspired by the roguelite genre.",
+	"language": "",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053926,
+	"updated_at": 1787053926
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-full-key-dumper-git",
-  "original_url": "https://github.com/PretendoNetwork/Full_Key_Dumper.git",
-  "description": "WiiU dumper for the OTP, BOSS keys and IDBE keys",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054015,
-  "updated_at": 1787054015
+	"slug": "github-com-pretendonetwork-full-key-dumper-git",
+	"original_url": "https://github.com/PretendoNetwork/Full_Key_Dumper.git",
+	"description": "WiiU dumper for the OTP, BOSS keys and IDBE keys",
+	"language": "C++",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054015,
+	"updated_at": 1787054015
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-uriparser-uriparser",
-	"original_url":	"https://github.com/uriparser/uriparser",
-	"description":	" :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051853,
-	"updated_at":	1787063964
+	"slug": "github-com-uriparser-uriparser",
+	"original_url": "https://github.com/uriparser/uriparser",
+	"description": " :hocho: Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051853,
+	"updated_at": 1787063964
 }

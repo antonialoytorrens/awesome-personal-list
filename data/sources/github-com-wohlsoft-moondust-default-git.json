@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-moondust-default-git",
-  "original_url": "https://github.com/WohlSoft/Moondust-Default.git",
-  "description": "\"Moondust Default\" - is a default game configuration package for Moondust Project",
-  "language": "Logos",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055027,
-  "updated_at": 1787055027
+	"slug": "github-com-wohlsoft-moondust-default-git",
+	"original_url": "https://github.com/WohlSoft/Moondust-Default.git",
+	"description": "\"Moondust Default\" - is a default game configuration package for Moondust Project",
+	"language": "Logos",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055027,
+	"updated_at": 1787055027
 }

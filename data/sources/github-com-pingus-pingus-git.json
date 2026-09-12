@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pingus-pingus-git",
-  "original_url": "https://github.com/Pingus/pingus.git",
-  "description": "",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053946,
-  "updated_at": 1787053946
+	"slug": "github-com-pingus-pingus-git",
+	"original_url": "https://github.com/Pingus/pingus.git",
+	"description": "",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053946,
+	"updated_at": 1787053946
 }

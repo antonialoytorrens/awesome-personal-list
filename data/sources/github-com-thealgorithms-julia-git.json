@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-julia-git",
-  "original_url": "https://github.com/TheAlgorithms/Julia.git",
-  "description": "Algorithms implemented in the Julia programming language. We're collaborating with the Humans of Julia community!",
-  "language": "Julia",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054884,
-  "updated_at": 1787054884
+	"slug": "github-com-thealgorithms-julia-git",
+	"original_url": "https://github.com/TheAlgorithms/Julia.git",
+	"description": "Algorithms implemented in the Julia programming language. We're collaborating with the Humans of Julia community!",
+	"language": "Julia",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054884,
+	"updated_at": 1787054884
 }

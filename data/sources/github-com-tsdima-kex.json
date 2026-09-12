@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-tsdima-kex",
-	"original_url":	"https://github.com/tsdima/kex",
-	"description":	"Running Kolibri OS executables on Linux",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052359,
-	"updated_at":	1787063964
+	"slug": "github-com-tsdima-kex",
+	"original_url": "https://github.com/tsdima/kex",
+	"description": "Running Kolibri OS executables on Linux",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052359,
+	"updated_at": 1787063964
 }

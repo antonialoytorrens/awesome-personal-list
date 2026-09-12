@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-manimcommunity-manim-website-api-git",
-  "original_url": "https://github.com/ManimCommunity/manim-website-api.git",
-  "description": "Backend for manim-website",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052432,
-  "updated_at": 1787052432
+	"slug": "github-com-manimcommunity-manim-website-api-git",
+	"original_url": "https://github.com/ManimCommunity/manim-website-api.git",
+	"description": "Backend for manim-website",
+	"language": "Python",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052432,
+	"updated_at": 1787052432
 }

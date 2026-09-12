@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-skiselev-monster-fdc-git",
-  "original_url": "https://github.com/skiselev/monster-fdc.git",
-  "description": "",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051734,
-  "updated_at": 1787051734
+	"slug": "github-com-skiselev-monster-fdc-git",
+	"original_url": "https://github.com/skiselev/monster-fdc.git",
+	"description": "",
+	"language": "Markdown",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051734,
+	"updated_at": 1787051734
 }

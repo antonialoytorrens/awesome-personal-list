@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-wohlsoft-audiocodecs-git",
-	"original_url":	"https://github.com/WohlSoft/AudioCodecs.git",
-	"description":	"A portable collection of audio codecs as set of dependencies for SDL Mixer X audio library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055035,
-	"updated_at":	1787063964
+	"slug": "github-com-wohlsoft-audiocodecs-git",
+	"original_url": "https://github.com/WohlSoft/AudioCodecs.git",
+	"description": "A portable collection of audio codecs as set of dependencies for SDL Mixer X audio library",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055035,
+	"updated_at": 1787063964
 }

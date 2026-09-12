@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-xibanya-shadertutorials",
-  "original_url": "https://github.com/Xibanya/ShaderTutorials",
-  "description": "Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!",
-  "language": "ShaderLab",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051839,
-  "updated_at": 1787051839
+	"slug": "github-com-xibanya-shadertutorials",
+	"original_url": "https://github.com/Xibanya/ShaderTutorials",
+	"description": "Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!",
+	"language": "ShaderLab",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051839,
+	"updated_at": 1787051839
 }

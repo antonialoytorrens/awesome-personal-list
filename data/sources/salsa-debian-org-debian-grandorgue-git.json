@@ -1,12 +1,14 @@
 {
-  "slug": "salsa-debian-org-debian-grandorgue-git",
-  "original_url": "https://salsa.debian.org/debian/grandorgue.git",
-  "description": "GrandOrgue packaging",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052261,
-  "updated_at": 1787052261
+	"slug": "salsa-debian-org-debian-grandorgue-git",
+	"original_url": "https://salsa.debian.org/debian/grandorgue.git",
+	"description": "GrandOrgue packaging",
+	"language": "C++",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052261,
+	"updated_at": 1787052261
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-freetubeapp-videojs-vtt-thumbnails-git",
-  "original_url": "https://github.com/FreeTubeApp/videojs-vtt-thumbnails.git",
-  "description": "Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052217,
-  "updated_at": 1787052217
+	"slug": "github-com-freetubeapp-videojs-vtt-thumbnails-git",
+	"original_url": "https://github.com/FreeTubeApp/videojs-vtt-thumbnails.git",
+	"description": "Video.js plugin that displays thumbnails on progress bar hover, driven by external VTT files.",
+	"language": "JavaScript",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052217,
+	"updated_at": 1787052217
 }

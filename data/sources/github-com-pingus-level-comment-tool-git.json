@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-pingus-level-comment-tool-git",
-	"original_url":	"https://github.com/Pingus/level-comment-tool.git",
-	"description":	"Level comment webinterface, outdated and no longer in use",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053947,
-	"updated_at":	1787063969
+	"slug": "github-com-pingus-level-comment-tool-git",
+	"original_url": "https://github.com/Pingus/level-comment-tool.git",
+	"description": "Level comment webinterface, outdated and no longer in use",
+	"language": "PHP",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053947,
+	"updated_at": 1787063969
 }

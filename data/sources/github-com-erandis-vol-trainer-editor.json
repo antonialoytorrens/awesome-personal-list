@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-erandis-vol-trainer-editor",
-  "original_url": "https://github.com/erandis-vol/Trainer-Editor",
-  "description": "A trainer editor for the 3rd generation PokÃ©mon games.",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053958,
-  "updated_at": 1787053958
+	"slug": "github-com-erandis-vol-trainer-editor",
+	"original_url": "https://github.com/erandis-vol/Trainer-Editor",
+	"description": "A trainer editor for the 3rd generation PokÃ©mon games.",
+	"language": "C#",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053958,
+	"updated_at": 1787053958
 }

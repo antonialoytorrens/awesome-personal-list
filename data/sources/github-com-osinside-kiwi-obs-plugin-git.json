@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-osinside-kiwi-obs-plugin-git",
-  "original_url": "https://github.com/OSInside/kiwi-obs-plugin.git",
-  "description": "KIWI - OBS Plugin",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052614,
-  "updated_at": 1787052614
+	"slug": "github-com-osinside-kiwi-obs-plugin-git",
+	"original_url": "https://github.com/OSInside/kiwi-obs-plugin.git",
+	"description": "KIWI - OBS Plugin",
+	"language": "Python",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052614,
+	"updated_at": 1787052614
 }

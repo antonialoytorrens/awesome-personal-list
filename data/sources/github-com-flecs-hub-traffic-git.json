@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-flecs-hub-traffic-git",
-  "original_url": "https://github.com/flecs-hub/traffic.git",
-  "description": "Flecs traffic demo",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052206,
-  "updated_at": 1787052206
+	"slug": "github-com-flecs-hub-traffic-git",
+	"original_url": "https://github.com/flecs-hub/traffic.git",
+	"description": "Flecs traffic demo",
+	"language": "C++",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052206,
+	"updated_at": 1787052206
 }

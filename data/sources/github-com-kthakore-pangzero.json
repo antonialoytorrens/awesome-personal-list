@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kthakore-pangzero",
-  "original_url": "https://github.com/kthakore/pangzero",
-  "description": "Porting Pang Zero to new SDL API for Debian Release",
-  "language": "Perl",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053290,
-  "updated_at": 1787053290
+	"slug": "github-com-kthakore-pangzero",
+	"original_url": "https://github.com/kthakore/pangzero",
+	"description": "Porting Pang Zero to new SDL API for Debian Release",
+	"language": "Perl",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053290,
+	"updated_at": 1787053290
 }

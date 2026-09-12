@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-bmchtech-dusk",
-	"original_url":	"https://github.com/bmchtech/dusk",
-	"description":	"DUsK, a library for gameboy advance development",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052244,
-	"updated_at":	1787063960
+	"slug": "github-com-bmchtech-dusk",
+	"original_url": "https://github.com/bmchtech/dusk",
+	"description": "DUsK, a library for gameboy advance development",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052244,
+	"updated_at": 1787063960
 }

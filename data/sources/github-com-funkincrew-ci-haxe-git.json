@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-ci-haxe-git",
-  "original_url": "https://github.com/FunkinCrew/ci-haxe.git",
-  "description": "Set up a specific version of Haxe environment for your workflow.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052227,
-  "updated_at": 1787052227
+	"slug": "github-com-funkincrew-ci-haxe-git",
+	"original_url": "https://github.com/FunkinCrew/ci-haxe.git",
+	"description": "Set up a specific version of Haxe environment for your workflow.",
+	"language": "TypeScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052227,
+	"updated_at": 1787052227
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-mlabonne-llm-course",
-  "original_url": "https://github.com/mlabonne/llm-course",
-  "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-  "language": "SVG",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043239,
-  "created_at": 1787051711,
-  "updated_at": 1787051711
+	"slug": "github-com-mlabonne-llm-course",
+	"original_url": "https://github.com/mlabonne/llm-course",
+	"description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+	"language": "SVG",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043239,
+	"created_at": 1787051711,
+	"updated_at": 1787051711
 }

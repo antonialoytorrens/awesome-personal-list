@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-haxelib-git",
-  "original_url": "https://github.com/FunkinCrew/haxelib.git",
-  "description": "The Haxe library manager",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052230,
-  "updated_at": 1787052230
+	"slug": "github-com-funkincrew-haxelib-git",
+	"original_url": "https://github.com/FunkinCrew/haxelib.git",
+	"description": "The Haxe library manager",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052230,
+	"updated_at": 1787052230
 }

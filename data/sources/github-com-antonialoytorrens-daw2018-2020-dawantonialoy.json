@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-daw2018-2020-dawantonialoy",
-  "original_url": "https://github.com/antonialoytorrens-DAW2018-2020/DAWAntoniAloy",
-  "description": "Prova",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051991,
-  "updated_at": 1787051991
+	"slug": "github-com-antonialoytorrens-daw2018-2020-dawantonialoy",
+	"original_url": "https://github.com/antonialoytorrens-DAW2018-2020/DAWAntoniAloy",
+	"description": "Prova",
+	"language": "",
+	"categories": [
+		"education"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051991,
+	"updated_at": 1787051991
 }

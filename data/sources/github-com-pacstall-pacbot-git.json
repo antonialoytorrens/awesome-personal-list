@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pacstall-pacbot-git",
-  "original_url": "https://github.com/pacstall/pacbot.git",
-  "description": "Pacstall's Discord server and GitHub bot",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052628,
-  "updated_at": 1787052628
+	"slug": "github-com-pacstall-pacbot-git",
+	"original_url": "https://github.com/pacstall/pacbot.git",
+	"description": "Pacstall's Discord server and GitHub bot",
+	"language": "Rust",
+	"categories": [
+		"packaging"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052628,
+	"updated_at": 1787052628
 }

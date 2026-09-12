@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-c-sharp-git",
-  "original_url": "https://github.com/TheAlgorithms/C-Sharp.git",
-  "description": "All algorithms implemented in C#.",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054874,
-  "updated_at": 1787054874
+	"slug": "github-com-thealgorithms-c-sharp-git",
+	"original_url": "https://github.com/TheAlgorithms/C-Sharp.git",
+	"description": "All algorithms implemented in C#.",
+	"language": "C#",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054874,
+	"updated_at": 1787054874
 }

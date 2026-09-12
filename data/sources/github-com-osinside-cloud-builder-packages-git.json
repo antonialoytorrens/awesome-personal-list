@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-osinside-cloud-builder-packages-git",
-	"original_url":	"https://github.com/OSInside/cloud-builder-packages.git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052616,
-	"updated_at":	1787063962
+	"slug": "github-com-osinside-cloud-builder-packages-git",
+	"original_url": "https://github.com/OSInside/cloud-builder-packages.git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052616,
+	"updated_at": 1787063962
 }

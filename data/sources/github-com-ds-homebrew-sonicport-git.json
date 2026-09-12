@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ds-homebrew-sonicport-git",
-	"original_url":	"https://github.com/DS-Homebrew/SoniCPort.git",
-	"description":	"Sonic the Hedgehog (1991, Sega Genesis / MegaDrive) C Port",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052112,
-	"updated_at":	1787063960
+	"slug": "github-com-ds-homebrew-sonicport-git",
+	"original_url": "https://github.com/DS-Homebrew/SoniCPort.git",
+	"description": "Sonic the Hedgehog (1991, Sega Genesis / MegaDrive) C Port",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052112,
+	"updated_at": 1787063960
 }

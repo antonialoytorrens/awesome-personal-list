@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-raspiduino-linuxcard",
-	"original_url":	"https://github.com/raspiduino/LinuxCard",
-	"description":	"Copy of original source code of DECstation emulator running on ATSAMD21 by Dmitry Grinberg",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051879,
-	"updated_at":	1787063963
+	"slug": "github-com-raspiduino-linuxcard",
+	"original_url": "https://github.com/raspiduino/LinuxCard",
+	"description": "Copy of original source code of DECstation emulator running on ATSAMD21 by Dmitry Grinberg",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051879,
+	"updated_at": 1787063963
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-coskundeniz-ad-clicker",
-  "original_url": "https://github.com/coskundeniz/ad_clicker",
-  "description": "Google Ads clicker",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043232,
-  "created_at": 1787051706,
-  "updated_at": 1787051706
+	"slug": "github-com-coskundeniz-ad-clicker",
+	"original_url": "https://github.com/coskundeniz/ad_clicker",
+	"description": "Google Ads clicker",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043232,
+	"created_at": 1787051706,
+	"updated_at": 1787051706
 }

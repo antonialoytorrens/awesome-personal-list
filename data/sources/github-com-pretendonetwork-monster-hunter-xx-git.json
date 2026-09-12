@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-monster-hunter-xx-git",
-  "original_url": "https://github.com/PretendoNetwork/monster-hunter-xx.git",
-  "description": "Replacement server for Monster Hunter XX (3DS)",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054067,
-  "updated_at": 1787054067
+	"slug": "github-com-pretendonetwork-monster-hunter-xx-git",
+	"original_url": "https://github.com/PretendoNetwork/monster-hunter-xx.git",
+	"description": "Replacement server for Monster Hunter XX (3DS)",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054067,
+	"updated_at": 1787054067
 }

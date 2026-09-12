@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-discordmessenger-kernel32shim-git",
-	"original_url":	"https://github.com/DiscordMessenger/kernel32shim.git",
-	"description":	"Shim that implements Kernel32.dll functions that are missing in Windows NT 3.1.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052060,
-	"updated_at":	1787063960
+	"slug": "github-com-discordmessenger-kernel32shim-git",
+	"original_url": "https://github.com/DiscordMessenger/kernel32shim.git",
+	"description": "Shim that implements Kernel32.dll functions that are missing in Windows NT 3.1.",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052060,
+	"updated_at": 1787063960
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-blogc-blogc-runserver-git",
-	"original_url":	"https://github.com/blogc/blogc-runserver.git",
-	"description":	"[DEPRECATED, see blogc] A simple HTTP server to test blogc websites.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051832,
-	"updated_at":	1787063960
+	"slug": "github-com-blogc-blogc-runserver-git",
+	"original_url": "https://github.com/blogc/blogc-runserver.git",
+	"description": "[DEPRECATED, see blogc] A simple HTTP server to test blogc websites.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051832,
+	"updated_at": 1787063960
 }

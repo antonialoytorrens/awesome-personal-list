@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-clamor-s-re-crypt",
-  "original_url": "https://github.com/clamor-s/re-crypt",
-  "description": "A tool for re-partitioning Tegra 2 and Tegra 3 based product devices.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053993,
-  "updated_at": 1787053993
+	"slug": "github-com-clamor-s-re-crypt",
+	"original_url": "https://github.com/clamor-s/re-crypt",
+	"description": "A tool for re-partitioning Tegra 2 and Tegra 3 based product devices.",
+	"language": "Shell",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053993,
+	"updated_at": 1787053993
 }

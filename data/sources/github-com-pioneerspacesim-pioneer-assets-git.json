@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pioneerspacesim-pioneer-assets-git",
-  "original_url": "https://github.com/pioneerspacesim/pioneer-assets.git",
-  "description": "Asset sources for Pioneer",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053950,
-  "updated_at": 1787053950
+	"slug": "github-com-pioneerspacesim-pioneer-assets-git",
+	"original_url": "https://github.com/pioneerspacesim/pioneer-assets.git",
+	"description": "Asset sources for Pioneer",
+	"language": "Lua",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053950,
+	"updated_at": 1787053950
 }

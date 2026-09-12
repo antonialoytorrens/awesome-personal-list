@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-baylej-tmx-git",
-	"original_url":	"https://github.com/baylej/tmx.git",
-	"description":	"C tmx map loader",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051857,
-	"updated_at":	1787063960
+	"slug": "github-com-baylej-tmx-git",
+	"original_url": "https://github.com/baylej/tmx.git",
+	"description": "C tmx map loader",
+	"language": "C",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051857,
+	"updated_at": 1787063960
 }

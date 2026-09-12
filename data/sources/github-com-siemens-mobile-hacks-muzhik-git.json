@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-muzhik-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/muzhik.git",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054155,
-  "updated_at": 1787054155
+	"slug": "github-com-siemens-mobile-hacks-muzhik-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/muzhik.git",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054155,
+	"updated_at": 1787054155
 }

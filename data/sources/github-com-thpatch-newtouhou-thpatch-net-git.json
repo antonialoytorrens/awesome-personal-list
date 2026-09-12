@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thpatch-newtouhou-thpatch-net-git",
-  "original_url": "https://github.com/thpatch/newtouhou.thpatch.net.git",
-  "description": "newtouhou.thpatch.net (ex whereismynewtouhou.info)",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054896,
-  "updated_at": 1787054896
+	"slug": "github-com-thpatch-newtouhou-thpatch-net-git",
+	"original_url": "https://github.com/thpatch/newtouhou.thpatch.net.git",
+	"description": "newtouhou.thpatch.net (ex whereismynewtouhou.info)",
+	"language": "HTML",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054896,
+	"updated_at": 1787054896
 }

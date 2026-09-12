@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-afska-gba-link-connection",
-  "original_url": "https://github.com/afska/gba-link-connection",
-  "description": "ð A set of Game Boy Advance (GBA) C++ libraries to interact with the Serial Port. Its main purpose is providing multiplayer support to homebrew games.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052240,
-  "updated_at": 1787052240
+	"slug": "github-com-afska-gba-link-connection",
+	"original_url": "https://github.com/afska/gba-link-connection",
+	"description": "ð A set of Game Boy Advance (GBA) C++ libraries to interact with the Serial Port. Its main purpose is providing multiplayer support to homebrew games.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052240,
+	"updated_at": 1787052240
 }

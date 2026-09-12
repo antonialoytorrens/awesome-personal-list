@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-babelouest-orcania",
-	"original_url":	"https://github.com/babelouest/orcania",
-	"description":	"Potluck with different functions for different purposes that can be shared among C programs",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051919,
-	"updated_at":	1787063960
+	"slug": "github-com-babelouest-orcania",
+	"original_url": "https://github.com/babelouest/orcania",
+	"description": "Potluck with different functions for different purposes that can be shared among C programs",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051919,
+	"updated_at": 1787063960
 }

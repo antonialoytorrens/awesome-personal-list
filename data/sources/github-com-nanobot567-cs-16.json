@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-nanobot567-cs-16",
-  "original_url": "https://github.com/Nanobot567/CS-16",
-  "description": "a 16 track synthesizer/sampler for the playdate console",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053983,
-  "updated_at": 1787053983
+	"slug": "github-com-nanobot567-cs-16",
+	"original_url": "https://github.com/Nanobot567/CS-16",
+	"description": "a 16 track synthesizer/sampler for the playdate console",
+	"language": "Lua",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053983,
+	"updated_at": 1787053983
 }

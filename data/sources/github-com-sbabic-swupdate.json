@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sbabic-swupdate",
-	"original_url":	"https://github.com/sbabic/swupdate",
-	"description":	"Software Update for Embedded Systems",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	1,
-	"swh_checked_at":	1787043235,
-	"created_at":	1787051708,
-	"updated_at":	1787063963
+	"slug": "github-com-sbabic-swupdate",
+	"original_url": "https://github.com/sbabic/swupdate",
+	"description": "Software Update for Embedded Systems",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043235,
+	"created_at": 1787051708,
+	"updated_at": 1787063963
 }

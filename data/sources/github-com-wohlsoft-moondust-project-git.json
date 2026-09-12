@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wohlsoft-moondust-project-git",
-  "original_url": "https://github.com/WohlSoft/Moondust-Project.git",
-  "description": "Moondust Project by Wohlstand",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055026,
-  "updated_at": 1787055026
+	"slug": "github-com-wohlsoft-moondust-project-git",
+	"original_url": "https://github.com/WohlSoft/Moondust-Project.git",
+	"description": "Moondust Project by Wohlstand",
+	"language": "C++",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055026,
+	"updated_at": 1787055026
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-squidowl-halloy",
-  "original_url": "https://github.com/squidowl/halloy",
-  "description": "IRC application written in Rust",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053240,
-  "updated_at": 1787053240
+	"slug": "github-com-squidowl-halloy",
+	"original_url": "https://github.com/squidowl/halloy",
+	"description": "IRC application written in Rust",
+	"language": "Rust",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053240,
+	"updated_at": 1787053240
 }

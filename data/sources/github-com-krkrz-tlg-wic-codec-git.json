@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-tlg-wic-codec-git",
-  "original_url": "https://github.com/krkrz/tlg-wic-codec.git",
-  "description": "KIRIKIRI TLG codecs for Windows Imaging Component",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052379,
-  "updated_at": 1787052379
+	"slug": "github-com-krkrz-tlg-wic-codec-git",
+	"original_url": "https://github.com/krkrz/tlg-wic-codec.git",
+	"description": "KIRIKIRI TLG codecs for Windows Imaging Component",
+	"language": "C++",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052379,
+	"updated_at": 1787052379
 }

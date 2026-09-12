@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blocksds-hugo-geekdoc-git",
-  "original_url": "https://github.com/blocksds/hugo-geekdoc.git",
-  "description": "Hugo theme made for documentation",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051826,
-  "updated_at": 1787051826
+	"slug": "github-com-blocksds-hugo-geekdoc-git",
+	"original_url": "https://github.com/blocksds/hugo-geekdoc.git",
+	"description": "Hugo theme made for documentation",
+	"language": "HTML",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051826,
+	"updated_at": 1787051826
 }

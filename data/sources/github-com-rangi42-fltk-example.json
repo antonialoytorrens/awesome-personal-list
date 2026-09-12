@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rangi42-fltk-example",
-  "original_url": "https://github.com/Rangi42/fltk-example",
-  "description": "A minimal example repository for FLTK.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052211,
-  "updated_at": 1787052211
+	"slug": "github-com-rangi42-fltk-example",
+	"original_url": "https://github.com/Rangi42/fltk-example",
+	"description": "A minimal example repository for FLTK.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052211,
+	"updated_at": 1787052211
 }

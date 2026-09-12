@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wonderfultoolchain-superfamiconv-git",
-  "original_url": "https://github.com/WonderfulToolchain/SuperFamiconv.git",
-  "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive, PC Engine and WonderSwan formats.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055045,
-  "updated_at": 1787055045
+	"slug": "github-com-wonderfultoolchain-superfamiconv-git",
+	"original_url": "https://github.com/WonderfulToolchain/SuperFamiconv.git",
+	"description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive, PC Engine and WonderSwan formats.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055045,
+	"updated_at": 1787055045
 }

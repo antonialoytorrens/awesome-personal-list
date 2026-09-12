@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-animeawards-2017-git",
-  "original_url": "https://github.com/r-anime/animeawards-2017.git",
-  "description": "[outdated] Source for the /r/anime awards results pages.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054097,
-  "updated_at": 1787054097
+	"slug": "github-com-r-anime-animeawards-2017-git",
+	"original_url": "https://github.com/r-anime/animeawards-2017.git",
+	"description": "[outdated] Source for the /r/anime awards results pages.",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054097,
+	"updated_at": 1787054097
 }

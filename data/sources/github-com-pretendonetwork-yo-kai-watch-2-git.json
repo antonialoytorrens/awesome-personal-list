@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-yo-kai-watch-2-git",
-  "original_url": "https://github.com/PretendoNetwork/yo-kai-watch-2.git",
-  "description": "",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054061,
-  "updated_at": 1787054061
+	"slug": "github-com-pretendonetwork-yo-kai-watch-2-git",
+	"original_url": "https://github.com/PretendoNetwork/yo-kai-watch-2.git",
+	"description": "",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054061,
+	"updated_at": 1787054061
 }

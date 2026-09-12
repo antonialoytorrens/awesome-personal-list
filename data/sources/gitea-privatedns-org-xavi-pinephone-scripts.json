@@ -1,12 +1,14 @@
 {
-  "slug": "gitea-privatedns-org-xavi-pinephone-scripts",
-  "original_url": "https://gitea.privatedns.org/xavi/pinephone-scripts",
-  "description": "Helper scripts for PinePhone and PinePhone Pro users",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053945,
-  "updated_at": 1787053945
+	"slug": "gitea-privatedns-org-xavi-pinephone-scripts",
+	"original_url": "https://gitea.privatedns.org/xavi/pinephone-scripts",
+	"description": "Helper scripts for PinePhone and PinePhone Pro users",
+	"language": "Shell",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053945,
+	"updated_at": 1787053945
 }

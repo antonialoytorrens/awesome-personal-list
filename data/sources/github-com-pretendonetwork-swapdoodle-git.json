@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-swapdoodle-git",
-  "original_url": "https://github.com/PretendoNetwork/swapdoodle.git",
-  "description": "Swapdoodle HPP server",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054040,
-  "updated_at": 1787054040
+	"slug": "github-com-pretendonetwork-swapdoodle-git",
+	"original_url": "https://github.com/PretendoNetwork/swapdoodle.git",
+	"description": "Swapdoodle HPP server",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054040,
+	"updated_at": 1787054040
 }

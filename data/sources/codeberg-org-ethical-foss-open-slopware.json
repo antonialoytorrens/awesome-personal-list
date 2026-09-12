@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-ethical-foss-open-slopware",
-  "original_url": "https://codeberg.org/ethical-foss/open-slopware",
-  "description": "",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051729,
-  "updated_at": 1787051729
+	"slug": "codeberg-org-ethical-foss-open-slopware",
+	"original_url": "https://codeberg.org/ethical-foss/open-slopware",
+	"description": "",
+	"language": "Markdown",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051729,
+	"updated_at": 1787051729
 }

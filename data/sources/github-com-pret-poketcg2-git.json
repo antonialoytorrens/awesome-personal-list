@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pret-poketcg2-git",
-  "original_url": "https://github.com/pret/poketcg2.git",
-  "description": "Disassembly of PokÃ©mon TCG 2",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054003,
-  "updated_at": 1787054003
+	"slug": "github-com-pret-poketcg2-git",
+	"original_url": "https://github.com/pret/poketcg2.git",
+	"description": "Disassembly of PokÃ©mon TCG 2",
+	"language": "Assembly",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054003,
+	"updated_at": 1787054003
 }

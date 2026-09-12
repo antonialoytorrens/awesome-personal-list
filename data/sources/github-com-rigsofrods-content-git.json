@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-rigsofrods-content-git",
-  "original_url": "https://github.com/RigsOfRods/content.git",
-  "description": "Base content for Rigs of Rods",
-  "language": "1C Enterprise",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054122,
-  "updated_at": 1787054122
+	"slug": "github-com-rigsofrods-content-git",
+	"original_url": "https://github.com/RigsOfRods/content.git",
+	"description": "Base content for Rigs of Rods",
+	"language": "1C Enterprise",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054122,
+	"updated_at": 1787054122
 }

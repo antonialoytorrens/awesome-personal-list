@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-workflow-tests-git",
-  "original_url": "https://github.com/devkitPro/workflow_tests.git",
-  "description": "testing github actions",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052045,
-  "updated_at": 1787052045
+	"slug": "github-com-devkitpro-workflow-tests-git",
+	"original_url": "https://github.com/devkitPro/workflow_tests.git",
+	"description": "testing github actions",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052045,
+	"updated_at": 1787052045
 }

@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ghaerr-blink16",
-	"original_url":	"https://github.com/ghaerr/blink16",
-	"description":	"Tiny visual 8086 emulator based on Blink",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052255,
-	"updated_at":	1787063961
+	"slug": "github-com-ghaerr-blink16",
+	"original_url": "https://github.com/ghaerr/blink16",
+	"description": "Tiny visual 8086 emulator based on Blink",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052255,
+	"updated_at": 1787063961
 }

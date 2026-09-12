@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-webosbrew-wayland-protocols-git",
-	"original_url":	"https://github.com/webosbrew/wayland-protocols.git",
-	"description":	"",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787055003,
-	"updated_at":	1787063964
+	"slug": "github-com-webosbrew-wayland-protocols-git",
+	"original_url": "https://github.com/webosbrew/wayland-protocols.git",
+	"description": "",
+	"language": "C",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055003,
+	"updated_at": 1787063964
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-pikmin-3-git",
-  "original_url": "https://github.com/PretendoNetwork/pikmin-3.git",
-  "description": "PIKMIN 3 WiiU Server",
-  "language": "Go",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054043,
-  "updated_at": 1787054043
+	"slug": "github-com-pretendonetwork-pikmin-3-git",
+	"original_url": "https://github.com/PretendoNetwork/pikmin-3.git",
+	"description": "PIKMIN 3 WiiU Server",
+	"language": "Go",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054043,
+	"updated_at": 1787054043
 }

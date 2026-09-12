@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-osinside-dice-git",
-  "original_url": "https://github.com/OSInside/dice.git",
-  "description": "A builder for kiwi images using vagrant",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052611,
-  "updated_at": 1787052611
+	"slug": "github-com-osinside-dice-git",
+	"original_url": "https://github.com/OSInside/dice.git",
+	"description": "A builder for kiwi images using vagrant",
+	"language": "Ruby",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052611,
+	"updated_at": 1787052611
 }

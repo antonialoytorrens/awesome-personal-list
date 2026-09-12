@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-divinumofficium-divinum-officium-git",
-  "original_url": "https://github.com/DivinumOfficium/divinum-officium.git",
-  "description": "The Divinum Officium Project: Traditional Roman Missal and Breviary Texts",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052061,
-  "updated_at": 1787052061
+	"slug": "github-com-divinumofficium-divinum-officium-git",
+	"original_url": "https://github.com/DivinumOfficium/divinum-officium.git",
+	"description": "The Divinum Officium Project: Traditional Roman Missal and Breviary Texts",
+	"language": "HTML",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052061,
+	"updated_at": 1787052061
 }

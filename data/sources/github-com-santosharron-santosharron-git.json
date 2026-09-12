@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-santosharron-santosharron-git",
-  "original_url": "https://github.com/santosharron/santosharron.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043211,
-  "created_at": 1787051688,
-  "updated_at": 1787051688
+	"slug": "github-com-santosharron-santosharron-git",
+	"original_url": "https://github.com/santosharron/santosharron.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043211,
+	"created_at": 1787051688,
+	"updated_at": 1787051688
 }

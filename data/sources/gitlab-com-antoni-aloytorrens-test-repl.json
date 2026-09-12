@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-antoni-aloytorrens-test-repl",
-  "original_url": "https://gitlab.com/antoni.aloytorrens/test-repl",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043204,
-  "created_at": 1787051647,
-  "updated_at": 1787051647
+	"slug": "gitlab-com-antoni-aloytorrens-test-repl",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/test-repl",
+	"description": "",
+	"language": "",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043204,
+	"created_at": 1787051647,
+	"updated_at": 1787051647
 }

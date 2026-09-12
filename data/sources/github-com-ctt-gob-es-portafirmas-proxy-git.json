@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-portafirmas-proxy-git",
-  "original_url": "https://github.com/ctt-gob-es/portafirmas-proxy.git",
-  "description": "Servidor intermedio entre las aplicaciones mÃ³viles y el portafirmas de la SEAP",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051972,
-  "updated_at": 1787051972
+	"slug": "github-com-ctt-gob-es-portafirmas-proxy-git",
+	"original_url": "https://github.com/ctt-gob-es/portafirmas-proxy.git",
+	"description": "Servidor intermedio entre las aplicaciones mÃ³viles y el portafirmas de la SEAP",
+	"language": "Java",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051972,
+	"updated_at": 1787051972
 }

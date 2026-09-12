@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-adoptware-pinball-git",
-  "original_url": "https://github.com/adoptware/pinball.git",
-  "description": "Emilia Pinball : A Libre pinball simulator for GNU Linux",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051760,
-  "updated_at": 1787051760
+	"slug": "github-com-adoptware-pinball-git",
+	"original_url": "https://github.com/adoptware/pinball.git",
+	"description": "Emilia Pinball : A Libre pinball simulator for GNU Linux",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051760,
+	"updated_at": 1787051760
 }

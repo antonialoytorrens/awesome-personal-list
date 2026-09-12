@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-syntelos-xbm",
-	"original_url":	"https://github.com/syntelos/xbm",
-	"description":	"Development of Tom de Grunt's XBM (https://github.com/tdegrunt/barcode) in C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051877,
-	"updated_at":	1787063963
+	"slug": "github-com-syntelos-xbm",
+	"original_url": "https://github.com/syntelos/xbm",
+	"description": "Development of Tom de Grunt's XBM (https://github.com/tdegrunt/barcode) in C",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051877,
+	"updated_at": 1787063963
 }

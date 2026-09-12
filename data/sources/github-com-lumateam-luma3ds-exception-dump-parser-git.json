@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-lumateam-luma3ds-exception-dump-parser-git",
-  "original_url": "https://github.com/LumaTeam/luma3ds_exception_dump_parser.git",
-  "description": "Luma3DS exception dump parser",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052416,
-  "updated_at": 1787052416
+	"slug": "github-com-lumateam-luma3ds-exception-dump-parser-git",
+	"original_url": "https://github.com/LumaTeam/luma3ds_exception_dump_parser.git",
+	"description": "Luma3DS exception dump parser",
+	"language": "Python",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052416,
+	"updated_at": 1787052416
 }

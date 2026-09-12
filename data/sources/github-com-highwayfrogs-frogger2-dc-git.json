@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-highwayfrogs-frogger2-dc-git",
-	"original_url":	"https://github.com/HighwayFrogs/frogger2-dc.git",
-	"description":	"Official source code for Frogger 2: Swampy's Revenge (Dreamcast Version, Backup: 2000-10-10)",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052269,
-	"updated_at":	1787063961
+	"slug": "github-com-highwayfrogs-frogger2-dc-git",
+	"original_url": "https://github.com/HighwayFrogs/frogger2-dc.git",
+	"description": "Official source code for Frogger 2: Swampy's Revenge (Dreamcast Version, Backup: 2000-10-10)",
+	"language": "C",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052269,
+	"updated_at": 1787063961
 }

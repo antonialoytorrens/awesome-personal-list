@@ -1,12 +1,14 @@
 {
-  "slug": "git-sr-ht-martijnbraam-bodge-ports",
-  "original_url": "https://git.sr.ht/~martijnbraam/bodge-ports",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052451,
-  "updated_at": 1787052451
+	"slug": "git-sr-ht-martijnbraam-bodge-ports",
+	"original_url": "https://git.sr.ht/~martijnbraam/bodge-ports",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052451,
+	"updated_at": 1787052451
 }

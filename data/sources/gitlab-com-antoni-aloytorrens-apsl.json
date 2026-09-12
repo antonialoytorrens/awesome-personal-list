@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-antoni-aloytorrens-apsl",
-  "original_url": "https://gitlab.com/antoni.aloytorrens/apsl",
-  "description": "APSL Dev Archive 2017",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043206,
-  "created_at": 1787051649,
-  "updated_at": 1787051649
+	"slug": "gitlab-com-antoni-aloytorrens-apsl",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/apsl",
+	"description": "APSL Dev Archive 2017",
+	"language": "HTML",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043206,
+	"created_at": 1787051649,
+	"updated_at": 1787051649
 }

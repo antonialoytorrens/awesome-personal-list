@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-sdk-seven-libseven-git",
-	"original_url":	"https://github.com/sdk-seven/libseven.git",
-	"description":	"Optimized GBA Hardware Access Library for C",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053261,
-	"updated_at":	1787063963
+	"slug": "github-com-sdk-seven-libseven-git",
+	"original_url": "https://github.com/sdk-seven/libseven.git",
+	"description": "Optimized GBA Hardware Access Library for C",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053261,
+	"updated_at": 1787063963
 }

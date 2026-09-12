@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thatrex-disphone-com",
-  "original_url": "https://github.com/ThatRex/DisPhone.com",
-  "description": "A fun feature full phone right in your browser. Dial on desktop, mobile and in Discord voice chat.",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051719,
-  "updated_at": 1787051719
+	"slug": "github-com-thatrex-disphone-com",
+	"original_url": "https://github.com/ThatRex/DisPhone.com",
+	"description": "A fun feature full phone right in your browser. Dial on desktop, mobile and in Discord voice chat.",
+	"language": "TypeScript",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051719,
+	"updated_at": 1787051719
 }

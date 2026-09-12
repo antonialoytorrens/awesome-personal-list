@@ -1,12 +1,14 @@
 {
-  "slug": "salsa-debian-org-sdl-team-libsdl2-net",
-  "original_url": "https://salsa.debian.org/sdl-team/libsdl2-net",
-  "description": "Debian packaging of libsdl2-net",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053920,
-  "updated_at": 1787053920
+	"slug": "salsa-debian-org-sdl-team-libsdl2-net",
+	"original_url": "https://salsa.debian.org/sdl-team/libsdl2-net",
+	"description": "Debian packaging of libsdl2-net",
+	"language": "Shell",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053920,
+	"updated_at": 1787053920
 }

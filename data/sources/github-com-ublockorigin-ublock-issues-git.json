@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ublockorigin-ublock-issues-git",
-  "original_url": "https://github.com/uBlockOrigin/uBlock-issues.git",
-  "description": "This is the community-maintained issue tracker for uBlock Origin",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054925,
-  "updated_at": 1787054925
+	"slug": "github-com-ublockorigin-ublock-issues-git",
+	"original_url": "https://github.com/uBlockOrigin/uBlock-issues.git",
+	"description": "This is the community-maintained issue tracker for uBlock Origin",
+	"language": "",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054925,
+	"updated_at": 1787054925
 }

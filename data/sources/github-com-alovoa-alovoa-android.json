@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-alovoa-alovoa-android",
-  "original_url": "https://github.com/Alovoa/alovoa-android",
-  "description": "Alovoa Lite for Android - TWA for Alovoa, the open-source online dating platform",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051772,
-  "updated_at": 1787051772
+	"slug": "github-com-alovoa-alovoa-android",
+	"original_url": "https://github.com/Alovoa/alovoa-android",
+	"description": "Alovoa Lite for Android - TWA for Alovoa, the open-source online dating platform",
+	"language": "",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051772,
+	"updated_at": 1787051772
 }

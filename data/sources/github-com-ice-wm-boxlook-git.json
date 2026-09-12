@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ice-wm-boxlook-git",
-  "original_url": "https://github.com/ice-wm/boxlook.git",
-  "description": "IceWM themes",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052281,
-  "updated_at": 1787052281
+	"slug": "github-com-ice-wm-boxlook-git",
+	"original_url": "https://github.com/ice-wm/boxlook.git",
+	"description": "IceWM themes",
+	"language": "HTML",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052281,
+	"updated_at": 1787052281
 }

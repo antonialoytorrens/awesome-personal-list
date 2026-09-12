@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blocksds-blocksds-github-io-git",
-  "original_url": "https://github.com/blocksds/blocksds.github.io.git",
-  "description": "",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051828,
-  "updated_at": 1787051828
+	"slug": "github-com-blocksds-blocksds-github-io-git",
+	"original_url": "https://github.com/blocksds/blocksds.github.io.git",
+	"description": "",
+	"language": "Text",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051828,
+	"updated_at": 1787051828
 }

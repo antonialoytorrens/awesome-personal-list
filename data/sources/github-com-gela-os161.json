@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-gela-os161",
-	"original_url":	"https://github.com/Gela/OS161",
-	"description":	"OS/161 is a simplified operating system which includes a standalone kernel and a simple userland, all written in C. It runs on a machine simulator, System/161.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051901,
-	"updated_at":	1787063961
+	"slug": "github-com-gela-os161",
+	"original_url": "https://github.com/Gela/OS161",
+	"description": "OS/161 is a simplified operating system which includes a standalone kernel and a simple userland, all written in C. It runs on a machine simulator, System/161.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051901,
+	"updated_at": 1787063961
 }

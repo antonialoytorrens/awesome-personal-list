@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-funkincrew-massiveunit-git",
-  "original_url": "https://github.com/FunkinCrew/MassiveUnit.git",
-  "description": "munit is a cross-platform unit testing framework for Haxe. Utilises metadata markup for test cases and includes tools for generating, compiling and running test cases from the command line.",
-  "language": "Haxe",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052225,
-  "updated_at": 1787052225
+	"slug": "github-com-funkincrew-massiveunit-git",
+	"original_url": "https://github.com/FunkinCrew/MassiveUnit.git",
+	"description": "munit is a cross-platform unit testing framework for Haxe. Utilises metadata markup for test cases and includes tools for generating, compiling and running test cases from the command line.",
+	"language": "Haxe",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052225,
+	"updated_at": 1787052225
 }

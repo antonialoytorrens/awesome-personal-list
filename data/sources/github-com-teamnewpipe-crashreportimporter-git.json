@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-teamnewpipe-crashreportimporter-git",
-  "original_url": "https://github.com/TeamNewPipe/CrashReportImporter.git",
-  "description": "NewPipe Crash Report Importer for Sentry",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054864,
-  "updated_at": 1787054864
+	"slug": "github-com-teamnewpipe-crashreportimporter-git",
+	"original_url": "https://github.com/TeamNewPipe/CrashReportImporter.git",
+	"description": "NewPipe Crash Report Importer for Sentry",
+	"language": "Python",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054864,
+	"updated_at": 1787054864
 }

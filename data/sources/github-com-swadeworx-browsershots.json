@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-swadeworx-browsershots",
-  "original_url": "https://github.com/swadeworx/browsershots",
-  "description": "Automatically exported from code.google.com/p/browsershots",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043216,
-  "created_at": 1787051692,
-  "updated_at": 1787051692
+	"slug": "github-com-swadeworx-browsershots",
+	"original_url": "https://github.com/swadeworx/browsershots",
+	"description": "Automatically exported from code.google.com/p/browsershots",
+	"language": "Python",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043216,
+	"created_at": 1787051692,
+	"updated_at": 1787051692
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-playdatesquad-pddialogue",
-  "original_url": "https://github.com/PlaydateSquad/pdDialogue",
-  "description": "a Playdate dialogue system",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053982,
-  "updated_at": 1787053982
+	"slug": "github-com-playdatesquad-pddialogue",
+	"original_url": "https://github.com/PlaydateSquad/pdDialogue",
+	"description": "a Playdate dialogue system",
+	"language": "Lua",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053982,
+	"updated_at": 1787053982
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-stefankrupop-xyloshield",
-  "original_url": "https://github.com/StefanKrupop/XyloShield",
-  "description": "Shield for Arduino that hosts a RFM26W radio module and allows DMX-512 connectivity",
-  "language": "KiCad Layout",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053953,
-  "updated_at": 1787053953
+	"slug": "github-com-stefankrupop-xyloshield",
+	"original_url": "https://github.com/StefanKrupop/XyloShield",
+	"description": "Shield for Arduino that hosts a RFM26W radio module and allows DMX-512 connectivity",
+	"language": "KiCad Layout",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053953,
+	"updated_at": 1787053953
 }

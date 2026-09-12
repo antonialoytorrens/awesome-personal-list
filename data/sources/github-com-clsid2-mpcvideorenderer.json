@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-clsid2-mpcvideorenderer",
-  "original_url": "https://github.com/clsid2/MPCVideoRenderer",
-  "description": "MPC Video Renderer",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055016,
-  "updated_at": 1787055016
+	"slug": "github-com-clsid2-mpcvideorenderer",
+	"original_url": "https://github.com/clsid2/MPCVideoRenderer",
+	"description": "MPC Video Renderer",
+	"language": "C++",
+	"categories": [
+		"media-player"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055016,
+	"updated_at": 1787055016
 }

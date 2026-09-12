@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-revk-axl",
-	"original_url":	"https://github.com/revk/AXL",
-	"description":	"Adrian's XML library - simple XML object manipulation library, includes loading/saving JSON versions.",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787054115,
-	"updated_at":	1787063963
+	"slug": "github-com-revk-axl",
+	"original_url": "https://github.com/revk/AXL",
+	"description": "Adrian's XML library - simple XML object manipulation library, includes loading/saving JSON versions.",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054115,
+	"updated_at": 1787063963
 }

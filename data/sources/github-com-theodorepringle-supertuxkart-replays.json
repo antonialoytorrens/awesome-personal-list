@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-theodorepringle-supertuxkart-replays",
-  "original_url": "https://github.com/theodorepringle/SuperTuxKart-replays",
-  "description": "High-skilled and optimized replays from Theodore Pringle ",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054320,
-  "updated_at": 1787054320
+	"slug": "github-com-theodorepringle-supertuxkart-replays",
+	"original_url": "https://github.com/theodorepringle/SuperTuxKart-replays",
+	"description": "High-skilled and optimized replays from Theodore Pringle ",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054320,
+	"updated_at": 1787054320
 }

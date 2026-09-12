@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-mojo-git",
-  "original_url": "https://github.com/TheAlgorithms/Mojo.git",
-  "description": "All algorithms implemented in Mojo. (The first open-sourced Mojo repository on GitHub)",
-  "language": "Mojo",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054888,
-  "updated_at": 1787054888
+	"slug": "github-com-thealgorithms-mojo-git",
+	"original_url": "https://github.com/TheAlgorithms/Mojo.git",
+	"description": "All algorithms implemented in Mojo. (The first open-sourced Mojo repository on GitHub)",
+	"language": "Mojo",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054888,
+	"updated_at": 1787054888
 }

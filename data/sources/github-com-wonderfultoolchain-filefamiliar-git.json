@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-wonderfultoolchain-filefamiliar-git",
-  "original_url": "https://github.com/WonderfulToolchain/FileFamiliar.git",
-  "description": "Modern PC transfer client for WonderWitch",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055046,
-  "updated_at": 1787055046
+	"slug": "github-com-wonderfultoolchain-filefamiliar-git",
+	"original_url": "https://github.com/WonderfulToolchain/FileFamiliar.git",
+	"description": "Modern PC transfer client for WonderWitch",
+	"language": "",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055046,
+	"updated_at": 1787055046
 }

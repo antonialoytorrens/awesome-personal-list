@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-luckykeeper-love69-renpy-remaster",
-  "original_url": "https://github.com/luckykeeper/LOVE69_renpy_remaster",
-  "description": "ãLOVEPOTION SIXTYNINEããLOVE69ãããã¶69ãä½¿ç¨Ren'Pyéå¶LOVEPOTION SIXTYNINEï¼å¹¶å ä»¥æ±ååå¨å¹³å°ç§»æ¤ | Use Ren'Py To Remaster LOVEPOTION SIXTYNINE , and Chinese-localization with all platform adapted",
-  "language": "Ren'Py",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054114,
-  "updated_at": 1787054114
+	"slug": "github-com-luckykeeper-love69-renpy-remaster",
+	"original_url": "https://github.com/luckykeeper/LOVE69_renpy_remaster",
+	"description": "ãLOVEPOTION SIXTYNINEããLOVE69ãããã¶69ãä½¿ç¨Ren'Pyéå¶LOVEPOTION SIXTYNINEï¼å¹¶å ä»¥æ±ååå¨å¹³å°ç§»æ¤ | Use Ren'Py To Remaster LOVEPOTION SIXTYNINE , and Chinese-localization with all platform adapted",
+	"language": "Ren'Py",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054114,
+	"updated_at": 1787054114
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-continuedev-package-manager-template-git",
-  "original_url": "https://github.com/continuedev/package-manager-template.git",
-  "description": "Package Manager Template",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051958,
-  "updated_at": 1787051958
+	"slug": "github-com-continuedev-package-manager-template-git",
+	"original_url": "https://github.com/continuedev/package-manager-template.git",
+	"description": "Package Manager Template",
+	"language": "TypeScript",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051958,
+	"updated_at": 1787051958
 }

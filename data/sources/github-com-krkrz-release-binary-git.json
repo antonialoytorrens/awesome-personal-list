@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-release-binary-git",
-  "original_url": "https://github.com/krkrz/release_binary.git",
-  "description": "åéåéZ å®è¡ãã¡ã¤ã«ç­",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052366,
-  "updated_at": 1787052366
+	"slug": "github-com-krkrz-release-binary-git",
+	"original_url": "https://github.com/krkrz/release_binary.git",
+	"description": "åéåéZ å®è¡ãã¡ã¤ã«ç­",
+	"language": "",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052366,
+	"updated_at": 1787052366
 }

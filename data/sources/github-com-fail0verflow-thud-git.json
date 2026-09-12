@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fail0verflow-thud-git",
-  "original_url": "https://github.com/fail0verflow/thud.git",
-  "description": "thud - the bouncer that doesn't",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052172,
-  "updated_at": 1787052172
+	"slug": "github-com-fail0verflow-thud-git",
+	"original_url": "https://github.com/fail0verflow/thud.git",
+	"description": "thud - the bouncer that doesn't",
+	"language": "Python",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052172,
+	"updated_at": 1787052172
 }

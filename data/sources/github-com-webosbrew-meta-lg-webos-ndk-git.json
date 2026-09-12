@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-webosbrew-meta-lg-webos-ndk-git",
-  "original_url": "https://github.com/webosbrew/meta-lg-webos-ndk.git",
-  "description": "Most important tool to brew some native app for webOS TV",
-  "language": "BitBake",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054984,
-  "updated_at": 1787054984
+	"slug": "github-com-webosbrew-meta-lg-webos-ndk-git",
+	"original_url": "https://github.com/webosbrew/meta-lg-webos-ndk.git",
+	"description": "Most important tool to brew some native app for webOS TV",
+	"language": "BitBake",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054984,
+	"updated_at": 1787054984
 }

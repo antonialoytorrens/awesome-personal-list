@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-itsmattkc-opencore-sl3-bigsur",
-  "original_url": "https://github.com/itsmattkc/OpenCore-SL3-BigSur",
-  "description": "OpenCore EFI folder for Microsoft Surface Laptop 3",
-  "language": "OpenStep Property List",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052460,
-  "updated_at": 1787052460
+	"slug": "github-com-itsmattkc-opencore-sl3-bigsur",
+	"original_url": "https://github.com/itsmattkc/OpenCore-SL3-BigSur",
+	"description": "OpenCore EFI folder for Microsoft Surface Laptop 3",
+	"language": "OpenStep Property List",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052460,
+	"updated_at": 1787052460
 }

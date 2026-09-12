@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-laqieer-gbalvns",
-	"original_url":	"https://github.com/laqieer/gbalvns",
-	"description":	"Leaf Visual Novel System for GBA",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052241,
-	"updated_at":	1787063962
+	"slug": "github-com-laqieer-gbalvns",
+	"original_url": "https://github.com/laqieer/gbalvns",
+	"description": "Leaf Visual Novel System for GBA",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052241,
+	"updated_at": 1787063962
 }

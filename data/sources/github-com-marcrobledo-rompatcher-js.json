@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-marcrobledo-rompatcher-js",
-  "original_url": "https://github.com/marcrobledo/RomPatcher.js",
-  "description": "An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053960,
-  "updated_at": 1787053960
+	"slug": "github-com-marcrobledo-rompatcher-js",
+	"original_url": "https://github.com/marcrobledo/RomPatcher.js",
+	"description": "An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.",
+	"language": "JavaScript",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053960,
+	"updated_at": 1787053960
 }

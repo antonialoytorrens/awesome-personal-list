@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-siemens-mobile-hacks-siemens-sms-parser-git",
-  "original_url": "https://github.com/siemens-mobile-hacks/siemens-sms-parser.git",
-  "description": "Parse SMS messages from \"SMS archive\" and SMS.dat",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054141,
-  "updated_at": 1787054141
+	"slug": "github-com-siemens-mobile-hacks-siemens-sms-parser-git",
+	"original_url": "https://github.com/siemens-mobile-hacks/siemens-sms-parser.git",
+	"description": "Parse SMS messages from \"SMS archive\" and SMS.dat",
+	"language": "JavaScript",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054141,
+	"updated_at": 1787054141
 }

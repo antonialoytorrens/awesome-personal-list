@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-michaelcchu-music",
-  "original_url": "https://github.com/michaelcchu/music",
-  "description": "music scores",
-  "language": "LilyPond",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053929,
-  "updated_at": 1787053929
+	"slug": "github-com-michaelcchu-music",
+	"original_url": "https://github.com/michaelcchu/music",
+	"description": "music scores",
+	"language": "LilyPond",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053929,
+	"updated_at": 1787053929
 }

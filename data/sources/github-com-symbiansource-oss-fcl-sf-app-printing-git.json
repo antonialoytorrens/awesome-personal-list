@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-symbiansource-oss-fcl-sf-app-printing-git",
-  "original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.printing.git",
-  "description": "Symbian Printing App",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054351,
-  "updated_at": 1787054351
+	"slug": "github-com-symbiansource-oss-fcl-sf-app-printing-git",
+	"original_url": "https://github.com/SymbianSource/oss.FCL.sf.app.printing.git",
+	"description": "Symbian Printing App",
+	"language": "C++",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054351,
+	"updated_at": 1787054351
 }

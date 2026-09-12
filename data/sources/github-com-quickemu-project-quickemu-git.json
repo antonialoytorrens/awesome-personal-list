@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-quickemu-project-quickemu-git",
-  "original_url": "https://github.com/quickemu-project/quickemu.git",
-  "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054094,
-  "updated_at": 1787054094
+	"slug": "github-com-quickemu-project-quickemu-git",
+	"original_url": "https://github.com/quickemu-project/quickemu.git",
+	"description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
+	"language": "Shell",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054094,
+	"updated_at": 1787054094
 }

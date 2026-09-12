@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-milkytracker-milkytracker-github-io-git",
-  "original_url": "https://github.com/milkytracker/milkytracker.github.io.git",
-  "description": "The MilkyTracker website",
-  "language": "Logos",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052464,
-  "updated_at": 1787052464
+	"slug": "github-com-milkytracker-milkytracker-github-io-git",
+	"original_url": "https://github.com/milkytracker/milkytracker.github.io.git",
+	"description": "The MilkyTracker website",
+	"language": "Logos",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052464,
+	"updated_at": 1787052464
 }

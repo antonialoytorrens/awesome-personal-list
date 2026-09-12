@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-openezx-openezx-git",
-  "original_url": "https://github.com/OpenEZX/openezx.git",
-  "description": "Ancient archive of OpenEZX openezx",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052598,
-  "updated_at": 1787052598
+	"slug": "github-com-openezx-openezx-git",
+	"original_url": "https://github.com/OpenEZX/openezx.git",
+	"description": "Ancient archive of OpenEZX openezx",
+	"language": "",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052598,
+	"updated_at": 1787052598
 }

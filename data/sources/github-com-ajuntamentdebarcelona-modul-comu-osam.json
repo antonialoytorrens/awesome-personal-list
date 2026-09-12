@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ajuntamentdebarcelona-modul-comu-osam",
-  "original_url": "https://github.com/AjuntamentdeBarcelona/modul_comu_osam",
-  "description": "",
-  "language": "Objective-C",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051768,
-  "updated_at": 1787051768
+	"slug": "github-com-ajuntamentdebarcelona-modul-comu-osam",
+	"original_url": "https://github.com/AjuntamentdeBarcelona/modul_comu_osam",
+	"description": "",
+	"language": "Objective-C",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051768,
+	"updated_at": 1787051768
 }

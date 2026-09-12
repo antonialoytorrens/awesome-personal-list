@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-intel-tcf",
-  "original_url": "https://github.com/intel/tcf",
-  "description": "Documentation",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043225,
-  "created_at": 1787051699,
-  "updated_at": 1787051699
+	"slug": "github-com-intel-tcf",
+	"original_url": "https://github.com/intel/tcf",
+	"description": "Documentation",
+	"language": "Python",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043225,
+	"created_at": 1787051699,
+	"updated_at": 1787051699
 }

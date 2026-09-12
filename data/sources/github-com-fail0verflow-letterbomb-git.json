@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fail0verflow-letterbomb-git",
-  "original_url": "https://github.com/fail0verflow/letterbomb.git",
-  "description": "LetterBomb web service implementation",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052179,
-  "updated_at": 1787052179
+	"slug": "github-com-fail0verflow-letterbomb-git",
+	"original_url": "https://github.com/fail0verflow/letterbomb.git",
+	"description": "LetterBomb web service implementation",
+	"language": "Python",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052179,
+	"updated_at": 1787052179
 }

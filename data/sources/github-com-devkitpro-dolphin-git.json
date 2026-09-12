@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-devkitpro-dolphin-git",
-  "original_url": "https://github.com/devkitPro/dolphin.git",
-  "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052046,
-  "updated_at": 1787052046
+	"slug": "github-com-devkitpro-dolphin-git",
+	"original_url": "https://github.com/devkitPro/dolphin.git",
+	"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+	"language": "C++",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052046,
+	"updated_at": 1787052046
 }

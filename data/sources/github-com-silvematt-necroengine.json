@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-silvematt-necroengine",
-  "original_url": "https://github.com/silvematt/NECROEngine",
-  "description": "A 2D Isometric Game Engine written in C++ and SDL2",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054165,
-  "updated_at": 1787054165
+	"slug": "github-com-silvematt-necroengine",
+	"original_url": "https://github.com/silvematt/NECROEngine",
+	"description": "A 2D Isometric Game Engine written in C++ and SDL2",
+	"language": "C++",
+	"categories": [
+		"windows-modding"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054165,
+	"updated_at": 1787054165
 }

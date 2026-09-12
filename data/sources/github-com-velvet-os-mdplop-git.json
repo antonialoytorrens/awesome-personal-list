@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-velvet-os-mdplop-git",
-  "original_url": "https://github.com/velvet-os/mdplop.git",
-  "description": "small markdown -> html transpiler for velve os docs",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054963,
-  "updated_at": 1787054963
+	"slug": "github-com-velvet-os-mdplop-git",
+	"original_url": "https://github.com/velvet-os/mdplop.git",
+	"description": "small markdown -> html transpiler for velve os docs",
+	"language": "C++",
+	"categories": [
+		"desktop-env"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054963,
+	"updated_at": 1787054963
 }

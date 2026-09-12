@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-flecs-hub-city-git",
-	"original_url":	"https://github.com/flecs-hub/city.git",
-	"description":	"Flecs city example",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052203,
-	"updated_at":	1787063961
+	"slug": "github-com-flecs-hub-city-git",
+	"original_url": "https://github.com/flecs-hub/city.git",
+	"description": "Flecs city example",
+	"language": "C",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052203,
+	"updated_at": 1787063961
 }

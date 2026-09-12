@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-attractivechaos-klib",
-	"original_url":	"https://github.com/attractivechaos/klib",
-	"description":	"A standalone and lightweight C library",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051897,
-	"updated_at":	1787063960
+	"slug": "github-com-attractivechaos-klib",
+	"original_url": "https://github.com/attractivechaos/klib",
+	"description": "A standalone and lightweight C library",
+	"language": "C",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051897,
+	"updated_at": 1787063960
 }

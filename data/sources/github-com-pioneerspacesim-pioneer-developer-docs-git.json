@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pioneerspacesim-pioneer-developer-docs-git",
-  "original_url": "https://github.com/pioneerspacesim/pioneer-developer-docs.git",
-  "description": "Pioneer developer resources and documentation",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053952,
-  "updated_at": 1787053952
+	"slug": "github-com-pioneerspacesim-pioneer-developer-docs-git",
+	"original_url": "https://github.com/pioneerspacesim/pioneer-developer-docs.git",
+	"description": "Pioneer developer resources and documentation",
+	"language": "JavaScript",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053952,
+	"updated_at": 1787053952
 }

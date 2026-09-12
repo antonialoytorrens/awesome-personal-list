@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zylon-ai-private-gpt",
-  "original_url": "https://github.com/zylon-ai/private-gpt",
-  "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051764,
-  "updated_at": 1787051764
+	"slug": "github-com-zylon-ai-private-gpt",
+	"original_url": "https://github.com/zylon-ai/private-gpt",
+	"description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051764,
+	"updated_at": 1787051764
 }

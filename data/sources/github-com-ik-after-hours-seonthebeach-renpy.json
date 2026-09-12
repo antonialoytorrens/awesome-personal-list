@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ik-after-hours-seonthebeach-renpy",
-  "original_url": "https://github.com/ik-after-hours/SEOnTheBeach_renpy",
-  "description": "CÃ³digo fuente del juego SOBStory para el SEonTheBeach 2024 ediciÃ³n calamar",
-  "language": "Ren'Py",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052286,
-  "updated_at": 1787052286
+	"slug": "github-com-ik-after-hours-seonthebeach-renpy",
+	"original_url": "https://github.com/ik-after-hours/SEOnTheBeach_renpy",
+	"description": "CÃ³digo fuente del juego SOBStory para el SEonTheBeach 2024 ediciÃ³n calamar",
+	"language": "Ren'Py",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052286,
+	"updated_at": 1787052286
 }

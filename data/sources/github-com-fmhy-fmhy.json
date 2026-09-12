@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-fmhy-fmhy",
-  "original_url": "https://github.com/fmhy/FMHY",
-  "description": "/r/FREEMEDIAHECKYEAH",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043222,
-  "created_at": 1787051697,
-  "updated_at": 1787051697
+	"slug": "github-com-fmhy-fmhy",
+	"original_url": "https://github.com/fmhy/FMHY",
+	"description": "/r/FREEMEDIAHECKYEAH",
+	"language": "Markdown",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043222,
+	"created_at": 1787051697,
+	"updated_at": 1787051697
 }

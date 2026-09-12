@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-spacevim-neo-tree-nvim-git",
-  "original_url": "https://github.com/SpaceVim/neo-tree.nvim.git",
-  "description": "Neovim plugin to manage the file system and other tree like structures.",
-  "language": "Lua",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054305,
-  "updated_at": 1787054305
+	"slug": "github-com-spacevim-neo-tree-nvim-git",
+	"original_url": "https://github.com/SpaceVim/neo-tree.nvim.git",
+	"description": "Neovim plugin to manage the file system and other tree like structures.",
+	"language": "Lua",
+	"categories": [
+		"editor"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054305,
+	"updated_at": 1787054305
 }

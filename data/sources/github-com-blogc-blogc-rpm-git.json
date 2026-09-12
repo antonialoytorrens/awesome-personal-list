@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-blogc-blogc-rpm-git",
-  "original_url": "https://github.com/blogc/blogc-rpm.git",
-  "description": "[DEPRECATED, see blogc] RPM package specs for blogc project",
-  "language": "RPM Spec",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051831,
-  "updated_at": 1787051831
+	"slug": "github-com-blogc-blogc-rpm-git",
+	"original_url": "https://github.com/blogc/blogc-rpm.git",
+	"description": "[DEPRECATED, see blogc] RPM package specs for blogc project",
+	"language": "RPM Spec",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051831,
+	"updated_at": 1787051831
 }

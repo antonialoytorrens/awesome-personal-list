@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-public-wiki-git",
-  "original_url": "https://github.com/r-anime/public-wiki.git",
-  "description": "A copy of the /r/anime wiki.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054103,
-  "updated_at": 1787054103
+	"slug": "github-com-r-anime-public-wiki-git",
+	"original_url": "https://github.com/r-anime/public-wiki.git",
+	"description": "A copy of the /r/anime wiki.",
+	"language": "Markdown",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054103,
+	"updated_at": 1787054103
 }

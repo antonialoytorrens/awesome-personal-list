@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-open-webui-pipelines-git",
-  "original_url": "https://github.com/open-webui/pipelines.git",
-  "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052593,
-  "updated_at": 1787052593
+	"slug": "github-com-open-webui-pipelines-git",
+	"original_url": "https://github.com/open-webui/pipelines.git",
+	"description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+	"language": "Python",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052593,
+	"updated_at": 1787052593
 }

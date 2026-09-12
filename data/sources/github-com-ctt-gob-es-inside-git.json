@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-ctt-gob-es-inside-git",
-  "original_url": "https://github.com/ctt-gob-es/Inside.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051978,
-  "updated_at": 1787051978
+	"slug": "github-com-ctt-gob-es-inside-git",
+	"original_url": "https://github.com/ctt-gob-es/Inside.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051978,
+	"updated_at": 1787051978
 }

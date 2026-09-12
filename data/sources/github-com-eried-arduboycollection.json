@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-eried-arduboycollection",
-  "original_url": "https://github.com/eried/ArduboyCollection",
-  "description": "Collection of Arduboy compiled games, demos and applications. Fork the repo and add your own games via Pull requests.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051792,
-  "updated_at": 1787051792
+	"slug": "github-com-eried-arduboycollection",
+	"original_url": "https://github.com/eried/ArduboyCollection",
+	"description": "Collection of Arduboy compiled games, demos and applications. Fork the repo and add your own games via Pull requests.",
+	"language": "",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051792,
+	"updated_at": 1787051792
 }

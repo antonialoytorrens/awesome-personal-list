@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-werwolv-imhex",
-  "original_url": "https://github.com/WerWolv/ImHex",
-  "description": "ð A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043239,
-  "created_at": 1787051712,
-  "updated_at": 1787051712
+	"slug": "github-com-werwolv-imhex",
+	"original_url": "https://github.com/WerWolv/ImHex",
+	"description": "ð A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043239,
+	"created_at": 1787051712,
+	"updated_at": 1787051712
 }

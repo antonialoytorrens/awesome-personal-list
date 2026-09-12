@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-irchispano-pluginwordpress-git",
-	"original_url":	"https://github.com/IRCHispano/PluginWordPress.git",
-	"description":	"Plugin WordPress para ChatHispano",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	2,
-	"swh_checked_at":	1787044782,
-	"created_at":	1787052323,
-	"updated_at":	1787063969
+	"slug": "github-com-irchispano-pluginwordpress-git",
+	"original_url": "https://github.com/IRCHispano/PluginWordPress.git",
+	"description": "Plugin WordPress para ChatHispano",
+	"language": "PHP",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787044782,
+	"created_at": 1787052323,
+	"updated_at": 1787063969
 }

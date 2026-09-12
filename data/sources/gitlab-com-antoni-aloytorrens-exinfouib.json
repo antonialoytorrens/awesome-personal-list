@@ -1,12 +1,14 @@
 {
-  "slug": "gitlab-com-antoni-aloytorrens-exinfouib",
-  "original_url": "https://gitlab.com/antoni.aloytorrens/exinfouib",
-  "description": "",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043205,
-  "created_at": 1787051648,
-  "updated_at": 1787051648
+	"slug": "gitlab-com-antoni-aloytorrens-exinfouib",
+	"original_url": "https://gitlab.com/antoni.aloytorrens/exinfouib",
+	"description": "",
+	"language": "Java",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043205,
+	"created_at": 1787051648,
+	"updated_at": 1787051648
 }

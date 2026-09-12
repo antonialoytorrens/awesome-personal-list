@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-wiiu-chat-git",
-  "original_url": "https://github.com/PretendoNetwork/wiiu-chat.git",
-  "description": "Pretendo Wii U Chat server implementation",
-  "language": "Makefile",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054028,
-  "updated_at": 1787054028
+	"slug": "github-com-pretendonetwork-wiiu-chat-git",
+	"original_url": "https://github.com/PretendoNetwork/wiiu-chat.git",
+	"description": "Pretendo Wii U Chat server implementation",
+	"language": "Makefile",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054028,
+	"updated_at": 1787054028
 }

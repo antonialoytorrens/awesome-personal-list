@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-continuedev-deploy-os-code-llm-git",
-  "original_url": "https://github.com/continuedev/deploy-os-code-llm.git",
-  "description": "ð How to deploy an open-source code LLM for your dev team",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051955,
-  "updated_at": 1787051955
+	"slug": "github-com-continuedev-deploy-os-code-llm-git",
+	"original_url": "https://github.com/continuedev/deploy-os-code-llm.git",
+	"description": "ð How to deploy an open-source code LLM for your dev team",
+	"language": "",
+	"categories": [
+		"ai-ml"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051955,
+	"updated_at": 1787051955
 }

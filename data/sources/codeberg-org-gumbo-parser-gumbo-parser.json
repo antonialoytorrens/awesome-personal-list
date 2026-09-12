@@ -1,12 +1,14 @@
 {
-  "slug": "codeberg-org-gumbo-parser-gumbo-parser",
-  "original_url": "https://codeberg.org/gumbo-parser/gumbo-parser",
-  "description": "",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051922,
-  "updated_at": 1787051922
+	"slug": "codeberg-org-gumbo-parser-gumbo-parser",
+	"original_url": "https://codeberg.org/gumbo-parser/gumbo-parser",
+	"description": "",
+	"language": "HTML",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051922,
+	"updated_at": 1787051922
 }

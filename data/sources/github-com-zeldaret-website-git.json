@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-zeldaret-website-git",
-  "original_url": "https://github.com/zeldaret/website.git",
-  "description": "",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787055090,
-  "updated_at": 1787055090
+	"slug": "github-com-zeldaret-website-git",
+	"original_url": "https://github.com/zeldaret/website.git",
+	"description": "",
+	"language": "TypeScript",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787055090,
+	"updated_at": 1787055090
 }

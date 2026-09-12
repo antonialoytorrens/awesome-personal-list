@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-fail0verflow-shofel2",
-	"original_url":	"https://github.com/fail0verflow/shofel2",
-	"description":	"Tegra X1 bootrom exploit",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052176,
-	"updated_at":	1787063961
+	"slug": "github-com-fail0verflow-shofel2",
+	"original_url": "https://github.com/fail0verflow/shofel2",
+	"description": "Tegra X1 bootrom exploit",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052176,
+	"updated_at": 1787063961
 }

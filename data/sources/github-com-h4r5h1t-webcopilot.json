@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-h4r5h1t-webcopilot",
-  "original_url": "https://github.com/h4r5h1t/webcopilot",
-  "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043230,
-  "created_at": 1787051704,
-  "updated_at": 1787051704
+	"slug": "github-com-h4r5h1t-webcopilot",
+	"original_url": "https://github.com/h4r5h1t/webcopilot",
+	"description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
+	"language": "Shell",
+	"categories": [
+		"automation-ci"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043230,
+	"created_at": 1787051704,
+	"updated_at": 1787051704
 }

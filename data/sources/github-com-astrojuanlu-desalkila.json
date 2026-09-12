@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-astrojuanlu-desalkila",
-  "original_url": "https://github.com/astrojuanlu/desalkila",
-  "description": "",
-  "language": "Jupyter Notebook",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054092,
-  "updated_at": 1787054092
+	"slug": "github-com-astrojuanlu-desalkila",
+	"original_url": "https://github.com/astrojuanlu/desalkila",
+	"description": "",
+	"language": "Jupyter Notebook",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054092,
+	"updated_at": 1787054092
 }

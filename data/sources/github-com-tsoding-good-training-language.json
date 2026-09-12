@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tsoding-good-training-language",
-  "original_url": "https://github.com/tsoding/good_training_language",
-  "description": "Ð¥Ð¾ÑÐ¾ÑÐ¸Ð¹ Ð£ÑÐµÐ±Ð½ÑÐ¹ Ð¯Ð·ÑÐº",
-  "language": "Rust",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054923,
-  "updated_at": 1787054923
+	"slug": "github-com-tsoding-good-training-language",
+	"original_url": "https://github.com/tsoding/good_training_language",
+	"description": "Ð¥Ð¾ÑÐ¾ÑÐ¸Ð¹ Ð£ÑÐµÐ±Ð½ÑÐ¹ Ð¯Ð·ÑÐº",
+	"language": "Rust",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054923,
+	"updated_at": 1787054923
 }

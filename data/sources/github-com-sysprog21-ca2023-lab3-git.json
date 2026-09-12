@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-sysprog21-ca2023-lab3-git",
-  "original_url": "https://github.com/sysprog21/ca2023-lab3.git",
-  "description": "Lab3: Construct a single-cycle CPU with Chisel",
-  "language": "Scala",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054841,
-  "updated_at": 1787054841
+	"slug": "github-com-sysprog21-ca2023-lab3-git",
+	"original_url": "https://github.com/sysprog21/ca2023-lab3.git",
+	"description": "Lab3: Construct a single-cycle CPU with Chisel",
+	"language": "Scala",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054841,
+	"updated_at": 1787054841
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-decidim-metadecidim-git",
-  "original_url": "https://github.com/decidim/metadecidim.git",
-  "description": "This is the repository for the code of Metadecidim community, we experiment with the new features, we are an experimental community",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051998,
-  "updated_at": 1787051998
+	"slug": "github-com-decidim-metadecidim-git",
+	"original_url": "https://github.com/decidim/metadecidim.git",
+	"description": "This is the repository for the code of Metadecidim community, we experiment with the new features, we are an experimental community",
+	"language": "HTML",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051998,
+	"updated_at": 1787051998
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-kavishdevar-librepods",
-  "original_url": "https://github.com/kavishdevar/librepods",
-  "description": "AirPods liberated from Apple's ecosystem.",
-  "language": "Kotlin",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052322,
-  "updated_at": 1787052322
+	"slug": "github-com-kavishdevar-librepods",
+	"original_url": "https://github.com/kavishdevar/librepods",
+	"description": "AirPods liberated from Apple's ecosystem.",
+	"language": "Kotlin",
+	"categories": [
+		"misc"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052322,
+	"updated_at": 1787052322
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-antonialoytorrens-vimrc",
-  "original_url": "https://github.com/antonialoytorrens/vimrc",
-  "description": "The ultimate Vim configuration (vimrc). Forked from https://github.com/amix/vimrc.",
-  "language": "Vim Script",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053923,
-  "updated_at": 1787053923
+	"slug": "github-com-antonialoytorrens-vimrc",
+	"original_url": "https://github.com/antonialoytorrens/vimrc",
+	"description": "The ultimate Vim configuration (vimrc). Forked from https://github.com/amix/vimrc.",
+	"language": "Vim Script",
+	"categories": [
+		"personal"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053923,
+	"updated_at": 1787053923
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-inochi2d-i2d-opengl-git",
-  "original_url": "https://github.com/Inochi2D/i2d-opengl.git",
-  "description": "Forked drop-in replacement for bindbc-opengl",
-  "language": "D",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052304,
-  "updated_at": 1787052304
+	"slug": "github-com-inochi2d-i2d-opengl-git",
+	"original_url": "https://github.com/Inochi2D/i2d-opengl.git",
+	"description": "Forked drop-in replacement for bindbc-opengl",
+	"language": "D",
+	"categories": [
+		"vtuber-avatar"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052304,
+	"updated_at": 1787052304
 }

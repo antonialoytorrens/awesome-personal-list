@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-naikari-naikari-artwork-production",
-  "original_url": "https://github.com/naikari/naikari-artwork-production",
-  "description": "",
-  "language": "Shell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052500,
-  "updated_at": 1787052500
+	"slug": "github-com-naikari-naikari-artwork-production",
+	"original_url": "https://github.com/naikari/naikari-artwork-production",
+	"description": "",
+	"language": "Shell",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052500,
+	"updated_at": 1787052500
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-itsmattkc-winshifts",
-  "original_url": "https://github.com/itsmattkc/WinShiftS",
-  "description": "Win+Shift+S for Windows versions earlier than Windows 10 1703.",
-  "language": "C#",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052459,
-  "updated_at": 1787052459
+	"slug": "github-com-itsmattkc-winshifts",
+	"original_url": "https://github.com/itsmattkc/WinShiftS",
+	"description": "Win+Shift+S for Windows versions earlier than Windows 10 1703.",
+	"language": "C#",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052459,
+	"updated_at": 1787052459
 }

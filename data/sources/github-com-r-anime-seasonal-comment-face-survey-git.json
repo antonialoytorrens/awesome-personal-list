@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-r-anime-seasonal-comment-face-survey-git",
-  "original_url": "https://github.com/r-anime/seasonal_comment_face_survey.git",
-  "description": "",
-  "language": "Ruby",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054104,
-  "updated_at": 1787054104
+	"slug": "github-com-r-anime-seasonal-comment-face-survey-git",
+	"original_url": "https://github.com/r-anime/seasonal_comment_face_survey.git",
+	"description": "",
+	"language": "Ruby",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054104,
+	"updated_at": 1787054104
 }

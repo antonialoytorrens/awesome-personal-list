@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ooxi-baller",
-	"original_url":	"https://github.com/ooxi/baller",
-	"description":	"ballerburg SDL mirror",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787053282,
-	"updated_at":	1787063962
+	"slug": "github-com-ooxi-baller",
+	"original_url": "https://github.com/ooxi/baller",
+	"description": "ballerburg SDL mirror",
+	"language": "C",
+	"categories": [
+		"sdl"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053282,
+	"updated_at": 1787063962
 }

@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-j2me-preservation-mascotcapsule-fuzzer-git",
-  "original_url": "https://github.com/j2me-preservation/MascotCapsule-Fuzzer.git",
-  "description": "A fuzzer to understand details in behavior of MascotCapsule Micro3D API (BBID = Black-Box Identification)",
-  "language": "Java",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052330,
-  "updated_at": 1787052330
+	"slug": "github-com-j2me-preservation-mascotcapsule-fuzzer-git",
+	"original_url": "https://github.com/j2me-preservation/MascotCapsule-Fuzzer.git",
+	"description": "A fuzzer to understand details in behavior of MascotCapsule Micro3D API (BBID = Black-Box Identification)",
+	"language": "Java",
+	"categories": [
+		"legacy-mobile"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052330,
+	"updated_at": 1787052330
 }

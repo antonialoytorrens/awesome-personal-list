@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-ctt-gob-es-minervachatbot-git",
-	"original_url":	"https://github.com/ctt-gob-es/MinervaChatBot.git",
-	"description":	"Minerva. ChatBot Municipal de CÃ³digo Abierto",
-	"language":	"PHP",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787051987,
-	"updated_at":	1787063968
+	"slug": "github-com-ctt-gob-es-minervachatbot-git",
+	"original_url": "https://github.com/ctt-gob-es/MinervaChatBot.git",
+	"description": "Minerva. ChatBot Municipal de CÃ³digo Abierto",
+	"language": "PHP",
+	"categories": [
+		"public-sector"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051987,
+	"updated_at": 1787063968
 }

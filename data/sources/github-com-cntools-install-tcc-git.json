@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-cntools-install-tcc-git",
-  "original_url": "https://github.com/cntools/Install-TCC.git",
-  "description": "A PowerShell script to install TCC on Windows.",
-  "language": "PowerShell",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051950,
-  "updated_at": 1787051950
+	"slug": "github-com-cntools-install-tcc-git",
+	"original_url": "https://github.com/cntools/Install-TCC.git",
+	"description": "A PowerShell script to install TCC on Windows.",
+	"language": "PowerShell",
+	"categories": [
+		"game-engine"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051950,
+	"updated_at": 1787051950
 }

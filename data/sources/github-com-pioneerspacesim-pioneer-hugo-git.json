@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pioneerspacesim-pioneer-hugo-git",
-  "original_url": "https://github.com/pioneerspacesim/pioneer-hugo.git",
-  "description": "pioneer's webpage, as of 2024",
-  "language": "HTML",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053951,
-  "updated_at": 1787053951
+	"slug": "github-com-pioneerspacesim-pioneer-hugo-git",
+	"original_url": "https://github.com/pioneerspacesim/pioneer-hugo.git",
+	"description": "pioneer's webpage, as of 2024",
+	"language": "HTML",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053951,
+	"updated_at": 1787053951
 }

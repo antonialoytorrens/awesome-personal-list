@@ -1,12 +1,14 @@
 {
-	"slug":	"github-com-onionui-ports-collection-git",
-	"original_url":	"https://github.com/OnionUI/Ports-Collection.git",
-	"description":	"Ports Collection for Onion",
-	"language":	"C",
-	"categories":	[],
-	"notes":	"",
-	"swh_status":	0,
-	"swh_checked_at":	0,
-	"created_at":	1787052583,
-	"updated_at":	1787063962
+	"slug": "github-com-onionui-ports-collection-git",
+	"original_url": "https://github.com/OnionUI/Ports-Collection.git",
+	"description": "Ports Collection for Onion",
+	"language": "C",
+	"categories": [
+		"homebrew-console"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052583,
+	"updated_at": 1787063962
 }

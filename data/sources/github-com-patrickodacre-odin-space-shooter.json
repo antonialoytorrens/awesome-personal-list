@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-patrickodacre-odin-space-shooter",
-  "original_url": "https://github.com/patrickodacre/odin-space-shooter",
-  "description": "A space shooter game made with the Odin programming language. Visit YouTube for tutorials https://www.youtube.com/@handmadegamesdev",
-  "language": "Odin",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053287,
-  "updated_at": 1787053287
+	"slug": "github-com-patrickodacre-odin-space-shooter",
+	"original_url": "https://github.com/patrickodacre/odin-space-shooter",
+	"description": "A space shooter game made with the Odin programming language. Visit YouTube for tutorials https://www.youtube.com/@handmadegamesdev",
+	"language": "Odin",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053287,
+	"updated_at": 1787053287
 }

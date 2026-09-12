@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-bratpeki-modern-milkytracker-guide",
-  "original_url": "https://github.com/bratpeki/modern-milkytracker-guide",
-  "description": "A modern guide to MilkyTracker",
-  "language": "Logos",
-  "categories": [],
-  "notes": "",
-  "swh_status": 2,
-  "swh_checked_at": 1787043231,
-  "created_at": 1787051704,
-  "updated_at": 1787051704
+	"slug": "github-com-bratpeki-modern-milkytracker-guide",
+	"original_url": "https://github.com/bratpeki/modern-milkytracker-guide",
+	"description": "A modern guide to MilkyTracker",
+	"language": "Logos",
+	"categories": [
+		"game"
+	],
+	"notes": "",
+	"swh_status": 2,
+	"swh_checked_at": 1787043231,
+	"created_at": 1787051704,
+	"updated_at": 1787051704
 }

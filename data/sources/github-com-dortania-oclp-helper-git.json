@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-oclp-helper-git",
-  "original_url": "https://github.com/dortania/OCLP-Helper.git",
-  "description": "Helper tool to run processes via AuthorizationExecuteWithPrivileges",
-  "language": "Objective-C",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052088,
-  "updated_at": 1787052088
+	"slug": "github-com-dortania-oclp-helper-git",
+	"original_url": "https://github.com/dortania/OCLP-Helper.git",
+	"description": "Helper tool to run processes via AuthorizationExecuteWithPrivileges",
+	"language": "Objective-C",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052088,
+	"updated_at": 1787052088
 }

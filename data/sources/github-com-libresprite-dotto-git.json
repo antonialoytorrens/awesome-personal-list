@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-libresprite-dotto-git",
-  "original_url": "https://github.com/LibreSprite/Dotto.git",
-  "description": "A portable and modern pixelart editor, written from scratch.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052394,
-  "updated_at": 1787052394
+	"slug": "github-com-libresprite-dotto-git",
+	"original_url": "https://github.com/LibreSprite/Dotto.git",
+	"description": "A portable and modern pixelart editor, written from scratch.",
+	"language": "C++",
+	"categories": [
+		"animation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052394,
+	"updated_at": 1787052394
 }

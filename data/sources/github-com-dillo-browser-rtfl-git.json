@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dillo-browser-rtfl-git",
-  "original_url": "https://github.com/dillo-browser/rtfl.git",
-  "description": "Read The Figurative Logfile",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052056,
-  "updated_at": 1787052056
+	"slug": "github-com-dillo-browser-rtfl-git",
+	"original_url": "https://github.com/dillo-browser/rtfl.git",
+	"description": "Read The Figurative Logfile",
+	"language": "C++",
+	"categories": [
+		"browser"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052056,
+	"updated_at": 1787052056
 }

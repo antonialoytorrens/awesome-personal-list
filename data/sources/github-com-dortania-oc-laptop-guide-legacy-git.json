@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-oc-laptop-guide-legacy-git",
-  "original_url": "https://github.com/dortania/oc-laptop-guide-legacy.git",
-  "description": "https://dortania.github.io/oc-laptop-guide/",
-  "language": "CSS",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052081,
-  "updated_at": 1787052081
+	"slug": "github-com-dortania-oc-laptop-guide-legacy-git",
+	"original_url": "https://github.com/dortania/oc-laptop-guide-legacy.git",
+	"description": "https://dortania.github.io/oc-laptop-guide/",
+	"language": "CSS",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052081,
+	"updated_at": 1787052081
 }

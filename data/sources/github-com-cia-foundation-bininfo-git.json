@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-cia-foundation-bininfo-git",
-  "original_url": "https://github.com/cia-foundation/bininfo.git",
-  "description": "objdump for TempleOS BINaries",
-  "language": "Python",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787051941,
-  "updated_at": 1787051941
+	"slug": "github-com-cia-foundation-bininfo-git",
+	"original_url": "https://github.com/cia-foundation/bininfo.git",
+	"description": "objdump for TempleOS BINaries",
+	"language": "Python",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787051941,
+	"updated_at": 1787051941
 }

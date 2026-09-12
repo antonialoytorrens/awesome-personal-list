@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-dortania-wireless-buyers-guide-git",
-  "original_url": "https://github.com/dortania/Wireless-Buyers-Guide.git",
-  "description": "Repo for Wireless Buyers Guide",
-  "language": "JavaScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052081,
-  "updated_at": 1787052081
+	"slug": "github-com-dortania-wireless-buyers-guide-git",
+	"original_url": "https://github.com/dortania/Wireless-Buyers-Guide.git",
+	"description": "Repo for Wireless Buyers Guide",
+	"language": "JavaScript",
+	"categories": [
+		"hackintosh"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052081,
+	"updated_at": 1787052081
 }

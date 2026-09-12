@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-thealgorithms-jule-git",
-  "original_url": "https://github.com/TheAlgorithms/Jule.git",
-  "description": "Algorithms and data structures implemented in the Jule programming language.",
-  "language": "Markdown",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054888,
-  "updated_at": 1787054888
+	"slug": "github-com-thealgorithms-jule-git",
+	"original_url": "https://github.com/TheAlgorithms/Jule.git",
+	"description": "Algorithms and data structures implemented in the Jule programming language.",
+	"language": "Markdown",
+	"categories": [
+		"algorithms"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054888,
+	"updated_at": 1787054888
 }

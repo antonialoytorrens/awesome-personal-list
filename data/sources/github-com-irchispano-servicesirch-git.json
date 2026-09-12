@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-irchispano-servicesirch-git",
-  "original_url": "https://github.com/IRCHispano/ServicesIRCh.git",
-  "description": "Services libres y bÃ¡sicos para usar con el IRCh. No son los services propietarios de IRC-Hispano.",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052325,
-  "updated_at": 1787052325
+	"slug": "github-com-irchispano-servicesirch-git",
+	"original_url": "https://github.com/IRCHispano/ServicesIRCh.git",
+	"description": "Services libres y bÃ¡sicos para usar con el IRCh. No son los services propietarios de IRC-Hispano.",
+	"language": "",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052325,
+	"updated_at": 1787052325
 }

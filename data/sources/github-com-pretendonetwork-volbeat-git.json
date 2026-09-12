@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-volbeat-git",
-  "original_url": "https://github.com/PretendoNetwork/Volbeat.git",
-  "description": "",
-  "language": "Text",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054046,
-  "updated_at": 1787054046
+	"slug": "github-com-pretendonetwork-volbeat-git",
+	"original_url": "https://github.com/PretendoNetwork/Volbeat.git",
+	"description": "",
+	"language": "Text",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054046,
+	"updated_at": 1787054046
 }

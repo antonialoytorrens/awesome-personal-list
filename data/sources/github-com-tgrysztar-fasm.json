@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-tgrysztar-fasm",
-  "original_url": "https://github.com/tgrysztar/fasm",
-  "description": "flat assembler 1 - reconstructed source history",
-  "language": "Assembly",
-  "categories": [],
-  "notes": "",
-  "swh_status": 1,
-  "swh_checked_at": 1787043235,
-  "created_at": 1787051708,
-  "updated_at": 1787051708
+	"slug": "github-com-tgrysztar-fasm",
+	"original_url": "https://github.com/tgrysztar/fasm",
+	"description": "flat assembler 1 - reconstructed source history",
+	"language": "Assembly",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 1,
+	"swh_checked_at": 1787043235,
+	"created_at": 1787051708,
+	"updated_at": 1787051708
 }

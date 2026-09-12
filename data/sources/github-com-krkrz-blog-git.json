@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-krkrz-blog-git",
-  "original_url": "https://github.com/krkrz/blog.git",
-  "description": "",
-  "language": "",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052378,
-  "updated_at": 1787052378
+	"slug": "github-com-krkrz-blog-git",
+	"original_url": "https://github.com/krkrz/blog.git",
+	"description": "",
+	"language": "",
+	"categories": [
+		"visual-novel"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052378,
+	"updated_at": 1787052378
 }

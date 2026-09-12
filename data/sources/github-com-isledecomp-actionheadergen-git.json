@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-isledecomp-actionheadergen-git",
-  "original_url": "https://github.com/isledecomp/actionheadergen.git",
-  "description": "Generates C++ headers comprised of enums representing LEGO Island Interleaf actions.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787052326,
-  "updated_at": 1787052326
+	"slug": "github-com-isledecomp-actionheadergen-git",
+	"original_url": "https://github.com/isledecomp/actionheadergen.git",
+	"description": "Generates C++ headers comprised of enums representing LEGO Island Interleaf actions.",
+	"language": "C++",
+	"categories": [
+		"decompilation"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787052326,
+	"updated_at": 1787052326
 }

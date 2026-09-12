@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-albin-johansson-wanderer",
-  "original_url": "https://github.com/albin-johansson/wanderer",
-  "description": "A 2D indie game, with farming and survival aspects.",
-  "language": "C++",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787053272,
-  "updated_at": 1787053272
+	"slug": "github-com-albin-johansson-wanderer",
+	"original_url": "https://github.com/albin-johansson/wanderer",
+	"description": "A 2D indie game, with farming and survival aspects.",
+	"language": "C++",
+	"categories": [
+		"systems-programming"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787053272,
+	"updated_at": 1787053272
 }

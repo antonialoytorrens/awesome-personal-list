@@ -1,12 +1,14 @@
 {
-  "slug": "github-com-pretendonetwork-webhook-listeners-git",
-  "original_url": "https://github.com/PretendoNetwork/webhook-listeners.git",
-  "description": "Micro service for consuming webhook events from various services",
-  "language": "TypeScript",
-  "categories": [],
-  "notes": "",
-  "swh_status": 0,
-  "swh_checked_at": 0,
-  "created_at": 1787054056,
-  "updated_at": 1787054056
+	"slug": "github-com-pretendonetwork-webhook-listeners-git",
+	"original_url": "https://github.com/PretendoNetwork/webhook-listeners.git",
+	"description": "Micro service for consuming webhook events from various services",
+	"language": "TypeScript",
+	"categories": [
+		"networking-game"
+	],
+	"notes": "",
+	"swh_status": 0,
+	"swh_checked_at": 0,
+	"created_at": 1787054056,
+	"updated_at": 1787054056
 }
