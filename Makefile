@@ -215,3 +215,14 @@ test: $(TEST_BINS)
 	done; \
 	echo ""; echo "Results: $$passed passed, $$failed failed."; \
 	[ "$$failed" = "0" ]
+
+# --- SonarQube ---
+SCAN_STD ?= c99
+SCAN_INCLUDES ?= -Isrc/includes
+
+ifneq (,$(wildcard ./.env))
+include .env
+export
+endif
+
+include scan.mk
